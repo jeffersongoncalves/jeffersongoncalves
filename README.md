@@ -22,5 +22,4 @@ Here are a few things I've picked up along my learning journey.
 ## Github states:
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersongoncalves&show_icons=true&locale=en&theme=radical" alt="jeffersongoncalves" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersongoncalves&theme=radical" alt="jeffersongoncalves" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersongoncalves&show_icons=true&locale=en&layout=compact&theme=radical" alt="jeffersongoncalves" /></p>
