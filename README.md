@@ -20,6 +20,9 @@ Here are a few things I've picked up along my learning journey.
 [![Mail](https://img.shields.io/badge/gerson.simao.92@gmail.com-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gerson.simao.92@gmail.com)
 
 ## Github states:
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersongoncalves&show_icons=true&locale=en&theme=radical" alt="jeffersongoncalves" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersongoncalves&show_icons=true&locale=en&layout=compact&theme=radical" alt="jeffersongoncalves" /></p>
+
+<a href="http://www.github.com/jeffersongoncalves"><img src="https://github-readme-stats.vercel.app/api?username=jeffersongoncalves&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jeffersongoncalves's GitHub stats" /></a>
+
+<a href="http://www.github.com/jeffersongoncalves"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersongoncalves&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/jeffersongoncalves" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersongoncalves&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
