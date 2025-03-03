@@ -19,6 +19,56 @@ Here are a few things I've picked up along my learning journey.
 
 [![Mail](https://img.shields.io/badge/gerson.simao.92@gmail.com-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gerson.simao.92@gmail.com)
 
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/jeffersongoncalves/laravel-whatsapp-widget"><b>Laravel Whatsapp Widget</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/laravel-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/laravel-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/laravel-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/laravel-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/jeffersongoncalves/filament-whatsapp-widget"><b>Filament Whatsapp Widget</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/filament-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/filament-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/filament-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/filament-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jeffersongoncalves/laravel-cookie-consent"><b>Laravel Cookie Consent</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/laravel-cookie-consent?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/laravel-cookie-consent?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/laravel-cookie-consent?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/laravel-cookie-consent?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jeffersongoncalves/filament-cookie-consent"><b>Filament Cookie Consent</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/filament-cookie-consent?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/filament-cookie-consent?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/filament-cookie-consent?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/filament-cookie-consent?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jeffersongoncalves/laravel-created-by"><b>Laravel Created By</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/laravel-created-by?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/laravel-created-by?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/laravel-created-by?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/laravel-created-by?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Github states:
 
 <a href="http://www.github.com/jeffersongoncalves"><img src="https://github-readme-stats.jeffersongoncalves.dev.br/api?username=jeffersongoncalves&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jeffersongoncalves's GitHub stats" /></a>
