@@ -88,7 +88,7 @@ Here are a few things I've picked up along my learning journey.
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/filament-umami?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jeffersongoncalves/laravel-umami"><b>Laravel Plausible</b></a></td>
+      <td><a href="https://github.com/jeffersongoncalves/laravel-plausible"><b>Laravel Plausible</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/laravel-plausible?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/laravel-plausible?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/laravel-plausible?style=flat-square&labelColor=343b41"/></td>
