@@ -24,6 +24,7 @@ Here are a few things I've picked up along my learning journey.
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Downloads</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
@@ -33,6 +34,7 @@ Here are a few things I've picked up along my learning journey.
   <tbody>
     <tr>
       <td><a href="https://github.com/jeffersongoncalves/laravel-whatsapp-widget"><b>Laravel Whatsapp Widget</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-whatsapp-widget.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/laravel-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/laravel-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/laravel-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
@@ -40,6 +42,7 @@ Here are a few things I've picked up along my learning journey.
     </tr>
 	  <tr>
       <td><a href="https://github.com/jeffersongoncalves/filament-whatsapp-widget"><b>Filament Whatsapp Widget</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/filament-whatsapp-widget.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/filament-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/filament-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/filament-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
@@ -47,6 +50,7 @@ Here are a few things I've picked up along my learning journey.
     </tr>
     <tr>
       <td><a href="https://github.com/jeffersongoncalves/laravel-cookie-consent"><b>Laravel Cookie Consent</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-cookie-consent.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/laravel-cookie-consent?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/laravel-cookie-consent?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/laravel-cookie-consent?style=flat-square&labelColor=343b41"/></td>
@@ -54,6 +58,7 @@ Here are a few things I've picked up along my learning journey.
     </tr>
     <tr>
       <td><a href="https://github.com/jeffersongoncalves/filament-cookie-consent"><b>Filament Cookie Consent</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/filament-cookie-consent.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/filament-cookie-consent?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/filament-cookie-consent?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/filament-cookie-consent?style=flat-square&labelColor=343b41"/></td>
@@ -61,6 +66,7 @@ Here are a few things I've picked up along my learning journey.
     </tr>
     <tr>
       <td><a href="https://github.com/jeffersongoncalves/laravel-created-by"><b>Laravel Created By</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-created-by.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/laravel-created-by?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/laravel-created-by?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/laravel-created-by?style=flat-square&labelColor=343b41"/></td>
@@ -68,6 +74,7 @@ Here are a few things I've picked up along my learning journey.
     </tr>
     <tr>
       <td><a href="https://github.com/jeffersongoncalves/filament-check-whois-widget"><b>Filament Check Whois Widget</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/filament-check-whois-widget.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/filament-check-whois-widget?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/filament-check-whois-widget?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/filament-check-whois-widget?style=flat-square&labelColor=343b41"/></td>
@@ -75,6 +82,7 @@ Here are a few things I've picked up along my learning journey.
     </tr>
     <tr>
       <td><a href="https://github.com/jeffersongoncalves/laravel-umami"><b>Laravel Umami</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-umami.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/laravel-umami?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/laravel-umami?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/laravel-umami?style=flat-square&labelColor=343b41"/></td>
@@ -82,6 +90,7 @@ Here are a few things I've picked up along my learning journey.
     </tr>
     <tr>
       <td><a href="https://github.com/jeffersongoncalves/filament-umami"><b>Filament Umami</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/filament-umami.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/filament-umami?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/filament-umami?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/filament-umami?style=flat-square&labelColor=343b41"/></td>
@@ -89,6 +98,7 @@ Here are a few things I've picked up along my learning journey.
     </tr>
     <tr>
       <td><a href="https://github.com/jeffersongoncalves/laravel-plausible"><b>Laravel Plausible</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-plausible.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/laravel-plausible?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/laravel-plausible?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/laravel-plausible?style=flat-square&labelColor=343b41"/></td>
@@ -96,6 +106,7 @@ Here are a few things I've picked up along my learning journey.
     </tr>
     <tr>
       <td><a href="https://github.com/jeffersongoncalves/filament-plausible"><b>Filament Plausible</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/filament-plausible.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/filament-plausible?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/filament-plausible?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/filament-plausible?style=flat-square&labelColor=343b41"/></td>
