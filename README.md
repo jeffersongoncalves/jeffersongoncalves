@@ -24,7 +24,7 @@ Here are a few things I've picked up along my learning journey.
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Downloads</b></td>
+      <td><b>📥 Downloads</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
