@@ -40,7 +40,7 @@ Here are a few things I've picked up along my learning journey.
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/laravel-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/laravel-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/jeffersongoncalves/filament-whatsapp-widget"><b>Filament Whatsapp Widget</b></a></td>
       <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/filament-whatsapp-widget.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/filament-whatsapp-widget?style=flat-square&labelColor=343b41"/></td>
