@@ -424,6 +424,14 @@ Here are a few things I've picked up along my learning journey.
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/nova-advanced-number-field?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/nova-advanced-number-field?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/jeffersongoncalves/nova-card-html"><b>Nova Card HTML</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/nova-card-html.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/nova-card-html?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/nova-card-html?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/nova-card-html?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/nova-card-html?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
