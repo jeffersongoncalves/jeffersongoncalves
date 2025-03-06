@@ -472,6 +472,14 @@ Here are a few things I've picked up along my learning journey.
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/php-tools?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/php-tools?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/jeffersongoncalves/property-enum"><b>Property Enum</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/property-enum.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/property-enum?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/property-enum?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/property-enum?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/property-enum?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
