@@ -161,6 +161,22 @@ Here are a few things I've picked up along my learning journey.
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/filament-bot-conversa?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/jeffersongoncalves/laravel-socialhub"><b>Laravel SocialHub</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-socialhub.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/laravel-socialhub?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/laravel-socialhub?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/laravel-socialhub?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/laravel-socialhub?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jeffersongoncalves/filament-socialhub"><b>Filament SocialHub</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/filament-socialhub.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/filament-socialhub?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/filament-socialhub?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/filament-socialhub?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/filament-socialhub?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/jeffersongoncalves/laravel-iugu"><b>Laravel IUGU</b></a></td>
       <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-iugu.svg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/laravel-iugu?style=flat-square&labelColor=343b41"/></td>
