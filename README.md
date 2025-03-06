@@ -128,6 +128,22 @@ Here are a few things I've picked up along my learning journey.
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/filament-matomo?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/filament-matomo?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/jeffersongoncalves/laravel-cep"><b>Laravel CEP</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-cep.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/laravel-cep?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/laravel-cep?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/laravel-cep?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/laravel-cep?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jeffersongoncalves/filament-cep"><b>Filament CEP</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersongoncalves/filament-cep.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/filament-cep?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/filament-cep?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/filament-cep?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/filament-cep?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
