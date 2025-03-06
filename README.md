@@ -320,6 +320,14 @@ Here are a few things I've picked up along my learning journey.
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/cakephp-settings?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/cakephp-settings?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/jeffersongoncalves/cakephp-slack-log-engine"><b>CakePHP Slack Log Engine</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/cakephp-slack-log-engine.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/cakephp-slack-log-engine?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/cakephp-slack-log-engine?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/cakephp-slack-log-engine?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/cakephp-slack-log-engine?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
