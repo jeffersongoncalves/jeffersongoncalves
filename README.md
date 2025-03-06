@@ -304,6 +304,14 @@ Here are a few things I've picked up along my learning journey.
       <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/cakephp-rest-api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/cakephp-rest-api?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/jeffersongoncalves/cakephp-server-monitor"><b>CakePHP Server Monitor</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/cakephp-server-monitor.svg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jeffersongoncalves/cakephp-server-monitor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jeffersongoncalves/cakephp-server-monitor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jeffersongoncalves/cakephp-server-monitor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jeffersongoncalves/cakephp-server-monitor?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
