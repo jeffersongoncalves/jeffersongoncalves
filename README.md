@@ -12,15 +12,6 @@ Throughout my journey, I have gained experience with the following technologies:
 - **Styling**: Tailwind CSS  
 - **Tools**: Filament  
 
-## 🌟 Featured Projects  
-
-Here are some of my notable open-source projects:  
-
-- **Laravel WhatsApp Widget**: [Repository](https://github.com/jeffersongoncalves/laravel-whatsapp-widget)  
-- **Filament WhatsApp Widget**: [Repository](https://github.com/jeffersongoncalves/filament-whatsapp-widget)  
-- **Laravel Cookie Consent**: [Repository](https://github.com/jeffersongoncalves/laravel-cookie-consent)  
-- **Filament Cookie Consent**: [Repository](https://github.com/jeffersongoncalves/filament-cookie-consent)  
-
 ## 📊 GitHub Stats  
 
 [![jeffersongoncalves's GitHub stats](https://github-readme-stats.jeffersongoncalves.dev.br/api?username=jeffersongoncalves&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/jeffersongoncalves)
