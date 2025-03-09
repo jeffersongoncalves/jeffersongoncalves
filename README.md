@@ -18,7 +18,7 @@ Throughout my journey, I have gained experience with the following technologies:
 
 ## 📊 GitHub Repository Contribution Streak Stats 
 
-![Jefferson Gonçalves GitHub Repository Contribution streak stats](https://github-readme-streak-stats.jeffersongoncalves.dev.br/api?user=jeffersongoncalves&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+![Jefferson Gonçalves GitHub Repository Contribution streak stats](https://github-readme-streak-stats.jeffersongoncalves.dev.br/api?user=jeffersongoncalves&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&count_private=true)
 
 ## 📊 Github Top Languages:
 
