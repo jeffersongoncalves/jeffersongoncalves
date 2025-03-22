@@ -16,14 +16,6 @@ Throughout my journey, I have gained experience with the following technologies:
 
 [![jeffersongoncalves's GitHub stats](https://github-readme-stats.jeffersongoncalves.dev.br/api?username=jeffersongoncalves&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/jeffersongoncalves)
 
-## 📊 GitHub Repository Contribution Streak Stats 
-
-![Jefferson Gonçalves GitHub Repository Contribution streak stats](https://github-readme-streak-stats.jeffersongoncalves.dev.br/api?user=jeffersongoncalves&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&count_private=true)
-
-## 📊 Github Top Languages:
-
-[![Top Languages](https://github-readme-stats.jeffersongoncalves.dev.br/api/top-langs/?username=jeffersongoncalves&langs_count=4&hide=html,shell,python,c,c++,java,ruby,typescript,go,rust,swift,kotlin,sass,less,scss,coffeescript,hack,dockerfile,batchfile&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/jeffersongoncalves)
-
 ## 📬 Contact  
 
 - **Website**: [jeffersongoncalves.dev.br](https://jeffersongoncalves.dev.br)  
