@@ -10,7 +10,7 @@ Throughout my journey, I have gained experience with the following technologies:
 - **Languages**: PHP, JavaScript  
 - **Frameworks**: Laravel, Livewire, Alpine.js  
 - **Styling**: Tailwind CSS  
-- **Tools**: Filament  
+- **Tools**: Filament, Laravel Nova  
 
 ## 📊 GitHub Stats  
 
