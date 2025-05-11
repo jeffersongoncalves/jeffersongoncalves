@@ -106,5 +106,5 @@ Throughout my journey, I have gained experience with the following technologies:
 📌 *This list has been updated with more projects.*
 
 ---
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 ---
