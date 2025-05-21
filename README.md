@@ -103,7 +103,3 @@ Throughout my journey, I have gained experience with the following technologies:
 | [**Property Enum**](https://github.com/jeffersongoncalves/property-enum)                                       | ![Latest Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/property-enum.svg?style=flat-square)                    | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/property-enum.svg?style=flat-square)                    | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/property-enum?style=flat-square)                    |
 
 📌 *This list has been updated with more projects.*
-
----
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
----
