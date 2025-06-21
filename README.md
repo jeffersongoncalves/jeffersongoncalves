@@ -1,6 +1,7 @@
 # Hello, I'm Jefferson Gonçalves! ✌️
 
 PHP/Laravel developer from Brazil, currently living in Assis/SP.
+
 I'm passionate about web development and always looking for new challenges and opportunities to improve my skills. 
 
 ## 🚀 Technologies & Tools 
