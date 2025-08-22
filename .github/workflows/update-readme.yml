@@ -3,8 +3,7 @@ name: Update README with Starter Kits
 on:
   push:
     branches:
-      - main
-      - restructure
+      - master
 
 permissions:
   contents: write
