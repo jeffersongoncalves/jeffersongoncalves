@@ -2,215 +2,215 @@
   "cakephp": [
     {
       "title": "CakePHP Analyzer",
-      "package": "jeffersonsimaogoncalves/cakephp-analyzer)"
+      "package": "jeffersonsimaogoncalves/cakephp-analyzer"
     },
     {
       "title": "CakePHP API Pagination",
-      "package": "jeffersonsimaogoncalves/cakephp-api-pagination)"
+      "package": "jeffersonsimaogoncalves/cakephp-api-pagination"
     },
     {
       "title": "CakePHP Assets",
-      "package": "jeffersonsimaogoncalves/cakephp-assets)"
+      "package": "jeffersonsimaogoncalves/cakephp-assets"
     },
     {
       "title": "CakePHP Auditing",
-      "package": "jeffersonsimaogoncalves/cakephp-auditing)"
+      "package": "jeffersonsimaogoncalves/cakephp-auditing"
     },
     {
       "title": "CakePHP Bugsnag",
-      "package": "jeffersonsimaogoncalves/cakephp-bugsnag)"
+      "package": "jeffersonsimaogoncalves/cakephp-bugsnag"
     },
     {
       "title": "CakePHP Datatables",
-      "package": "jeffersonsimaogoncalves/cakephp-datatables)"
+      "package": "jeffersonsimaogoncalves/cakephp-datatables"
     },
     {
       "title": "CakePHP Fieldtypes",
-      "package": "jeffersonsimaogoncalves/cakephp-fieldtypes)"
+      "package": "jeffersonsimaogoncalves/cakephp-fieldtypes"
     },
     {
       "title": "CakePHP Fractal Transformer View",
-      "package": "jeffersonsimaogoncalves/cakephp-fractal-transformer-view)"
+      "package": "jeffersonsimaogoncalves/cakephp-fractal-transformer-view"
     },
     {
       "title": "CakePHP Ldap",
-      "package": "jeffersonsimaogoncalves/cakephp-ldap)"
+      "package": "jeffersonsimaogoncalves/cakephp-ldap"
     },
     {
       "title": "CakePHP Notifier",
-      "package": "jeffersonsimaogoncalves/cakephp-notifier)"
+      "package": "jeffersonsimaogoncalves/cakephp-notifier"
     },
     {
       "title": "CakePHP Permission",
-      "package": "jeffersonsimaogoncalves/cakephp-permission)"
+      "package": "jeffersonsimaogoncalves/cakephp-permission"
     },
     {
       "title": "CakePHP Rest API",
-      "package": "jeffersonsimaogoncalves/cakephp-rest-api)"
+      "package": "jeffersonsimaogoncalves/cakephp-rest-api"
     },
     {
       "title": "CakePHP Server Monitor",
-      "package": "jeffersonsimaogoncalves/cakephp-server-monitor)"
+      "package": "jeffersonsimaogoncalves/cakephp-server-monitor"
     },
     {
       "title": "CakePHP Settings",
-      "package": "jeffersonsimaogoncalves/cakephp-settings)"
+      "package": "jeffersonsimaogoncalves/cakephp-settings"
     },
     {
       "title": "CakePHP Slack Log Engine",
-      "package": "jeffersonsimaogoncalves/cakephp-slack-log-engine)"
+      "package": "jeffersonsimaogoncalves/cakephp-slack-log-engine"
     },
     {
       "title": "CakePHP User Activity",
-      "package": "jeffersonsimaogoncalves/cakephp-user-activity)"
+      "package": "jeffersonsimaogoncalves/cakephp-user-activity"
     },
     {
       "title": "CakePHP Utility",
-      "package": "jeffersonsimaogoncalves/cakephp-utility)"
+      "package": "jeffersonsimaogoncalves/cakephp-utility"
     },
     {
       "title": "CakePHP Utils",
-      "package": "jeffersonsimaogoncalves/cakephp-utils)"
+      "package": "jeffersonsimaogoncalves/cakephp-utils"
     },
     {
       "title": "Correios PHP",
-      "package": "jeffersonsimaogoncalves/correios-php)"
+      "package": "jeffersonsimaogoncalves/correios-php"
     },
     {
       "title": "Glide Cake",
-      "package": "jeffersonsimaogoncalves/glide-cake)"
+      "package": "jeffersonsimaogoncalves/glide-cake"
     },
     {
       "title": "Gravatar Helper",
-      "package": "jeffersonsimaogoncalves/gravatar-helper)"
+      "package": "jeffersonsimaogoncalves/gravatar-helper"
     },
     {
       "title": "PHP Tools",
-      "package": "jeffersonsimaogoncalves/php-tools)"
+      "package": "jeffersonsimaogoncalves/php-tools"
     },
     {
       "title": "Property Enum",
-      "package": "jeffersonsimaogoncalves/property-enum)"
+      "package": "jeffersonsimaogoncalves/property-enum"
     }
   ],
   "filament": [
     {
       "title": "Filament Ace Editor Field",
-      "package": "jeffersongoncalvesfilament-ace-editor-field"
+      "package": "jeffersongoncalves/filament-ace-editor-field"
     },
     {
       "title": "Filament Topbar",
-      "package": "jeffersongoncalvesfilament-topbar"
+      "package": "jeffersongoncalves/filament-topbar"
     },
     {
       "title": "Filament Keyable",
-      "package": "jeffersongoncalvesfilament-keyable"
+      "package": "jeffersongoncalves/filament-keyable"
     },
     {
       "title": "Filament Logo",
-      "package": "jeffersongoncalvesfilament-logo"
+      "package": "jeffersongoncalves/filament-logo"
     },
     {
       "title": "Filament CEP Field",
-      "package": "jeffersongoncalvesfilament-cep-field"
+      "package": "jeffersongoncalves/filament-cep-field"
     },
     {
       "title": "Filament QrCode Field",
-      "package": "jeffersongoncalvesfilament-qrcode-field"
+      "package": "jeffersongoncalves/filament-qrcode-field"
     },
     {
       "title": "Filament One Time Operations",
-      "package": "jeffersongoncalvesfilament-one-time-operations"
+      "package": "jeffersongoncalves/filament-one-time-operations"
     },
     {
       "title": "Filament Whatsapp Widget",
-      "package": "jeffersongoncalvesfilament-whatsapp-widget"
+      "package": "jeffersongoncalves/filament-whatsapp-widget"
     },
     {
       "title": "Filament Cookie Consent",
-      "package": "jeffersongoncalvesfilament-cookie-consent"
+      "package": "jeffersongoncalves/filament-cookie-consent"
     },
     {
       "title": "Filament Check Whois Widget",
-      "package": "jeffersongoncalvesfilament-check-whois-widget"
+      "package": "jeffersongoncalves/filament-check-whois-widget"
     },
     {
       "title": "Filament Umami",
-      "package": "jeffersongoncalvesfilament-umami"
+      "package": "jeffersongoncalves/filament-umami"
     },
     {
       "title": "Filament Plausible",
-      "package": "jeffersongoncalvesfilament-plausible"
+      "package": "jeffersongoncalves/filament-plausible"
     },
     {
       "title": "Filament Matomo",
-      "package": "jeffersongoncalvesfilament-matomo"
+      "package": "jeffersongoncalves/filament-matomo"
     },
     {
       "title": "Filament Pixel",
-      "package": "jeffersongoncalvesfilament-pixel"
+      "package": "jeffersongoncalves/filament-pixel"
     },
     {
       "title": "Filament Gtag",
-      "package": "jeffersongoncalvesfilament-gtag"
+      "package": "jeffersongoncalves/filament-gtag"
     },
     {
       "title": "Filament Gtm",
-      "package": "jeffersongoncalvesfilament-gtm"
+      "package": "jeffersongoncalves/filament-gtm"
     },
     {
       "title": "Filament Fathom",
-      "package": "jeffersongoncalvesfilament-fathom"
+      "package": "jeffersongoncalves/filament-fathom"
     }
   ],
   "laravel": [
     {
       "title": "Laravel Whatsapp Widget",
-      "package": "jeffersongoncalveslaravel-whatsapp-widget"
+      "package": "jeffersongoncalves/laravel-whatsapp-widget"
     },
     {
       "title": "Laravel Cookie Consent",
-      "package": "jeffersongoncalveslaravel-cookie-consent"
+      "package": "jeffersongoncalves/laravel-cookie-consent"
     },
     {
       "title": "Laravel Created By",
-      "package": "jeffersongoncalveslaravel-created-by"
+      "package": "jeffersongoncalves/laravel-created-by"
     },
     {
       "title": "Laravel Umami",
-      "package": "jeffersongoncalveslaravel-umami"
+      "package": "jeffersongoncalves/laravel-umami"
     },
     {
       "title": "Laravel Plausible",
-      "package": "jeffersongoncalveslaravel-plausible"
+      "package": "jeffersongoncalves/laravel-plausible"
     },
     {
       "title": "Laravel Matomo",
-      "package": "jeffersongoncalveslaravel-matomo"
+      "package": "jeffersongoncalves/laravel-matomo"
     },
     {
       "title": "Laravel Pixel",
-      "package": "jeffersongoncalveslaravel-pixel"
+      "package": "jeffersongoncalves/laravel-pixel"
     },
     {
       "title": "Laravel Gtag",
-      "package": "jeffersongoncalveslaravel-gtag"
+      "package": "jeffersongoncalves/laravel-gtag"
     },
     {
       "title": "Laravel Gtm",
-      "package": "jeffersongoncalveslaravel-gtm"
+      "package": "jeffersongoncalves/laravel-gtm"
     },
     {
       "title": "Laravel Fathom",
-      "package": "jeffersongoncalveslaravel-fathom"
+      "package": "jeffersongoncalves/laravel-fathom"
     },
     {
       "title": "Laravel CEP",
-      "package": "jeffersongoncalveslaravel-cep"
+      "package": "jeffersongoncalves/laravel-cep"
     },
     {
       "title": "Laravel Created By",
-      "package": "jeffersongoncalveslaravel-created-by"
+      "package": "jeffersongoncalves/laravel-created-by"
     },
     {
       "title": "Laravel Device Tracking",
