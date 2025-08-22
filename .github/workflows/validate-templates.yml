@@ -1,0 +1,42 @@
+name: Validate plugins JSON
+
+on:
+  pull_request:
+    paths:
+      - 'plugins.json'
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Validate plugins.json
+        run: |
+          echo "Validating plugins.json..."
+          # Check if file exists
+          if [ ! -f "plugins.json" ]; then
+            echo "Error: plugins.json file not found"
+            exit 1
+          fi
+          
+          # Validate JSON syntax
+          if ! jq empty plugins.json 2>/dev/null; then
+            echo "Error: plugins.json contains invalid JSON"
+            exit 1
+          fi
+          
+          # Validate structure (must have startkit, filament, laravel, nova and cakephp sections)
+          if ! jq -e '.startkit and .filament and .laravel and .nova and .cakephp' plugins.json >/dev/null; then
+            echo "Error: plugins.json must contain both 'startkit', 'filament', 'laravel', 'nova' and 'cakephp' sections"
+            exit 1
+          fi
+          
+          # Validate that all values are strings (repository paths)
+          if ! jq -e 'all(.. | objects | all(values | type == "string"))' plugins.json >/dev/null; then
+            echo "Error: All repository values in plugins.json must be strings"
+            exit 1
+          fi
+          
+          echo "✅ plugins.json is valid"
