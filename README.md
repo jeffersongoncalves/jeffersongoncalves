@@ -17,7 +17,6 @@ Throughout my journey, I have gained experience with the following technologies:
 
 ## 📬 Contact
 
-- **Website**: [jeffersongoncalves.dev.br](https://jeffersongoncalves.dev.br)
 - **Pinkary**: [@jeffersongoncalves](https://pinkary.com/@jeffersongoncalves)
 - **Gravatar**: [Profile](https://gravatar.com/jeffersonsimaogoncalves)
 
