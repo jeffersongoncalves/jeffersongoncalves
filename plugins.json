@@ -319,6 +319,10 @@
     {
       "title": "Core Tenant",
       "package": "wallacemartinss/core_tenant"
+    },
+    {
+      "title": "Website Template",
+      "package": "wallacemartinss/website_template"
     }
   ],
   "others": [
