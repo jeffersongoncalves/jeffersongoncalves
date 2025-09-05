@@ -95,34 +95,6 @@
   ],
   "filament": [
     {
-      "title": "Filament PHP",
-      "package": "filament/filament"
-    },
-    {
-      "title": "Filament Edit Profile",
-      "package": "joaopaulolndev/filament-edit-profile"
-    },
-    {
-      "title": "Filament Check SSL Widget",
-      "package": "joaopaulolndev/filament-check-ssl-widget"
-    },
-    {
-      "title": "Filament World Clock",
-      "package": "joaopaulolndev/filament-world-clock"
-    },
-    {
-      "title": "Filament General Settings",
-      "package": "joaopaulolndev/filament-general-settings"
-    },
-    {
-      "title": "Filament Edit Env",
-      "package": "joaopaulolndev/filament-edit-env"
-    },
-    {
-      "title": "Filament PDF Viewer",
-      "package": "joaopaulolndev/filament-pdf-viewer"
-    },
-    {
       "title": "Filament Ace Editor Field",
       "package": "jeffersongoncalves/filament-ace-editor-field"
     },
@@ -189,6 +161,34 @@
     {
       "title": "Filament Fathom",
       "package": "jeffersongoncalves/filament-fathom"
+    },
+    {
+      "title": "Filament PHP",
+      "package": "filament/filament"
+    },
+    {
+      "title": "Filament Edit Profile",
+      "package": "joaopaulolndev/filament-edit-profile"
+    },
+    {
+      "title": "Filament Check SSL Widget",
+      "package": "joaopaulolndev/filament-check-ssl-widget"
+    },
+    {
+      "title": "Filament World Clock",
+      "package": "joaopaulolndev/filament-world-clock"
+    },
+    {
+      "title": "Filament General Settings",
+      "package": "joaopaulolndev/filament-general-settings"
+    },
+    {
+      "title": "Filament Edit Env",
+      "package": "joaopaulolndev/filament-edit-env"
+    },
+    {
+      "title": "Filament PDF Viewer",
+      "package": "joaopaulolndev/filament-pdf-viewer"
     },
     {
       "title": "Filament Icon Picker",
@@ -327,12 +327,12 @@
   ],
   "others": [
     {
-      "title": "Infra com Traefik",
-      "package": "wallacemartinss/Infra-com-Traefik"
-    },
-    {
       "title": "Filament PHP",
       "package": "filamentphp/filamentphp.com"
+    },
+    {
+      "title": "Infra com Traefik",
+      "package": "wallacemartinss/Infra-com-Traefik"
     }
   ]
 }
