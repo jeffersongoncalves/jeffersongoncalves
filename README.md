@@ -39,6 +39,7 @@ Throughout my journey, I have gained experience with the following technologies:
 
 | 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars |
 |-------------|-------------|--------------|---------|
+| [**Filament PHP**](https://github.com/filamentphp/filamentphp) Contribution | ![Latest Version](https://img.shields.io/packagist/v/filamentphp/filamentphp.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/filamentphp/filamentphp.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/filamentphp/filamentphp?style=flat-square) |
 | [**Filament Edit Profile**](https://github.com/joaopaulolndev/filament-edit-profile) Contribution | ![Latest Version](https://img.shields.io/packagist/v/joaopaulolndev/filament-edit-profile.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/joaopaulolndev/filament-edit-profile.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/joaopaulolndev/filament-edit-profile?style=flat-square) |
 | [**Filament Check SSL Widget**](https://github.com/joaopaulolndev/filament-check-ssl-widget) Contribution | ![Latest Version](https://img.shields.io/packagist/v/joaopaulolndev/filament-check-ssl-widget.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/joaopaulolndev/filament-check-ssl-widget.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/joaopaulolndev/filament-check-ssl-widget?style=flat-square) |
 | [**Filament World Clock**](https://github.com/joaopaulolndev/filament-world-clock) Contribution | ![Latest Version](https://img.shields.io/packagist/v/joaopaulolndev/filament-world-clock.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/joaopaulolndev/filament-world-clock.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/joaopaulolndev/filament-world-clock?style=flat-square) |
@@ -129,5 +130,6 @@ Throughout my journey, I have gained experience with the following technologies:
 | 🎁 Projects | ⭐ Stars |
 |-------------|---------|
 | [**Infra com Traefik**](https://github.com/wallacemartinss/Infra-com-Traefik) Contribution | ![Stars](https://img.shields.io/github/stars/wallacemartinss/Infra-com-Traefik?style=flat-square) |
+| [**Filament PHP**](https://github.com/filamentphp/filamentphp.com) Contribution | ![Stars](https://img.shields.io/github/stars/filamentphp/filamentphp.com?style=flat-square) |
 
 📌 *This list has been updated with more projects.*
