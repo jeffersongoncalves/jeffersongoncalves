@@ -46,18 +46,21 @@ jobs:
               const firstLine = readme.split('\n')[0];
               console.log('First line of README_plugin.md:', firstLine);
           
+              let repo = '';
+              let owner = '';
+          
               // Generate the formatted list
               let startkitList = '';
               for (const kit of plugins.startkit) {
-                  const owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
+                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
                   startkitList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) |\n`;
               }
           
               // Generate the formatted list
               let filamentList = '';
               for (const kit of plugins.filament) {
-                  const owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
-                  const repo = kit.package.startsWith('filament/filament') ? 'filamentphp/filament' : kit.package;
+                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
+                  repo = kit.package.startsWith('filament/filament') ? 'filamentphp/filament' : kit.package;
                   repo = repo.startsWith('guava/filament-icon-picker') ? 'lukas-frey/filament-icon-picker' : repo;
                   filamentList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) |\n`;
               }
@@ -65,28 +68,28 @@ jobs:
               // Generate the formatted list
               let laravelList = '';
               for (const kit of plugins.laravel) {
-                  const owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
+                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
                   laravelList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) |\n`;
               }
           
               // Generate the formatted list
               let novaList = '';
               for (const kit of plugins.nova) {
-                  const owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
+                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
                   novaList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) |\n`;
               }
           
               // Generate the formatted list
               let cakephpList = '';
               for (const kit of plugins.cakephp) {
-                  const owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
+                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
                   cakephpList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) |\n`;
               }
           
               // Generate the formatted list
               let othersList = '';
               for (const kit of plugins.others) {
-                  const owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
+                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
                   othersList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) |\n`;
               }
           
