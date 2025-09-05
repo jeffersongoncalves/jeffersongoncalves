@@ -308,5 +308,11 @@
       "title": "Mobilekit v3",
       "package": "jeffersongoncalves/mobilekit"
     }
+  ],
+  "others": [
+    {
+      "title": "",
+      "package": "wallacemartinss/Infra-com-Traefik"
+    }
   ]
 }

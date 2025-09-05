@@ -27,9 +27,9 @@ jobs:
             exit 1
           fi
           
-          # Validate structure (must have startkit, filament, laravel, nova and cakephp sections)
-          if ! jq -e '.startkit and .filament and .laravel and .nova and .cakephp' plugins.json >/dev/null; then
-            echo "Error: plugins.json must contain both 'startkit', 'filament', 'laravel', 'nova' and 'cakephp' sections"
+          # Validate structure (must have startkit, filament, laravel, nova, cakephp and others sections)
+          if ! jq -e '.startkit and .filament and .laravel and .nova and .cakephp and .others' plugins.json >/dev/null; then
+            echo "Error: plugins.json must contain both 'startkit', 'filament', 'laravel', 'nova', 'cakephp' and 'others' sections"
             exit 1
           fi
           

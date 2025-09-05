@@ -54,4 +54,10 @@ Throughout my journey, I have gained experience with the following technologies:
 |-------------|-------------|--------------|---------|
 [CAKEPHP]
 
+## 🚀 Open Source Projects
+
+| 🎁 Projects | ⭐ Stars |
+|-------------|---------|
+[OTHERS]
+
 📌 *This list has been updated with more projects.*
