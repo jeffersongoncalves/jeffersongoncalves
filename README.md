@@ -128,6 +128,6 @@ Throughout my journey, I have gained experience with the following technologies:
 
 | 🎁 Projects | ⭐ Stars |
 |-------------|---------|
-| [****](https://github.com/wallacemartinss/Infra-com-Traefik) Contribution | ![Stars](https://img.shields.io/github/stars/wallacemartinss/Infra-com-Traefik?style=flat-square) |
+| [**Infra com Traefik**](https://github.com/wallacemartinss/Infra-com-Traefik) Contribution | ![Stars](https://img.shields.io/github/stars/wallacemartinss/Infra-com-Traefik?style=flat-square) |
 
 📌 *This list has been updated with more projects.*
