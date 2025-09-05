@@ -96,7 +96,7 @@
   "filament": [
     {
       "title": "Filament PHP",
-      "package": "filamentphp/filamentphp"
+      "package": "filamentphp/filament"
     },
     {
       "title": "Filament Edit Profile",
