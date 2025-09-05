@@ -189,6 +189,10 @@
     {
       "title": "Filament Fathom",
       "package": "jeffersongoncalves/filament-fathom"
+    },
+    {
+      "title": "Filament Icon Picker",
+      "package": "lukas-frey/filament-icon-picker"
     }
   ],
   "laravel": [
