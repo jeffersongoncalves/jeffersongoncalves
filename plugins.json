@@ -311,6 +311,10 @@
     {
       "title": "Mobilekit v3",
       "package": "jeffersongoncalves/mobilekit"
+    },
+    {
+      "title": "Core Tenant",
+      "package": "wallacemartinss/core_tenant"
     }
   ],
   "others": [
