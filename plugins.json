@@ -311,7 +311,7 @@
   ],
   "others": [
     {
-      "title": "",
+      "title": "Infra com Traefik",
       "package": "wallacemartinss/Infra-com-Traefik"
     }
   ]
