@@ -58,6 +58,7 @@ jobs:
               for (const kit of plugins.filament) {
                   const owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
                   const repo = kit.package.startsWith('filament/filament') ? 'filamentphp/filament' : kit.package;
+                  repo = repo.startsWith('lukas-frey/filament-icon-picker') ? 'guava/filament-icon-picker' : repo;
                   filamentList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) |\n`;
               }
           
