@@ -124,4 +124,10 @@ Throughout my journey, I have gained experience with the following technologies:
 | [**PHP Tools**](https://github.com/jeffersonsimaogoncalves/php-tools) | ![Latest Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/php-tools.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/php-tools.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersonsimaogoncalves/php-tools?style=flat-square) |
 | [**Property Enum**](https://github.com/jeffersonsimaogoncalves/property-enum) | ![Latest Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/property-enum.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/property-enum.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersonsimaogoncalves/property-enum?style=flat-square) |
 
+## 🚀 Open Source Projects
+
+| 🎁 Projects | ⭐ Stars |
+|-------------|---------|
+| [****](https://github.com/wallacemartinss/Infra-com-Traefik) Contribution | ![Stars](https://img.shields.io/github/stars/wallacemartinss/Infra-com-Traefik?style=flat-square) |
+
 📌 *This list has been updated with more projects.*
