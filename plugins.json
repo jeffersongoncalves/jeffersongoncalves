@@ -2,386 +2,311 @@
   "cakephp": [
     {
       "title": "CakePHP Analyzer",
-      "package": "jeffersonsimaogoncalves/cakephp-analyzer",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-analyzer"
     },
     {
       "title": "CakePHP API Pagination",
-      "package": "jeffersonsimaogoncalves/cakephp-api-pagination",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-api-pagination"
     },
     {
       "title": "CakePHP Assets",
-      "package": "jeffersonsimaogoncalves/cakephp-assets",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-assets"
     },
     {
       "title": "CakePHP Auditing",
-      "package": "jeffersonsimaogoncalves/cakephp-auditing",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-auditing"
     },
     {
       "title": "CakePHP Bugsnag",
-      "package": "jeffersonsimaogoncalves/cakephp-bugsnag",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-bugsnag"
     },
     {
       "title": "CakePHP Datatables",
-      "package": "jeffersonsimaogoncalves/cakephp-datatables",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-datatables"
     },
     {
       "title": "CakePHP Fieldtypes",
-      "package": "jeffersonsimaogoncalves/cakephp-fieldtypes",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-fieldtypes"
     },
     {
       "title": "CakePHP Fractal Transformer View",
-      "package": "jeffersonsimaogoncalves/cakephp-fractal-transformer-view",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-fractal-transformer-view"
     },
     {
       "title": "CakePHP Ldap",
-      "package": "jeffersonsimaogoncalves/cakephp-ldap",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-ldap"
     },
     {
       "title": "CakePHP Notifier",
-      "package": "jeffersonsimaogoncalves/cakephp-notifier",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-notifier"
     },
     {
       "title": "CakePHP Permission",
-      "package": "jeffersonsimaogoncalves/cakephp-permission",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-permission"
     },
     {
       "title": "CakePHP Rest API",
-      "package": "jeffersonsimaogoncalves/cakephp-rest-api",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-rest-api"
     },
     {
       "title": "CakePHP Server Monitor",
-      "package": "jeffersonsimaogoncalves/cakephp-server-monitor",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-server-monitor"
     },
     {
       "title": "CakePHP Settings",
-      "package": "jeffersonsimaogoncalves/cakephp-settings",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-settings"
     },
     {
       "title": "CakePHP Slack Log Engine",
-      "package": "jeffersonsimaogoncalves/cakephp-slack-log-engine",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-slack-log-engine"
     },
     {
       "title": "CakePHP User Activity",
-      "package": "jeffersonsimaogoncalves/cakephp-user-activity",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-user-activity"
     },
     {
       "title": "CakePHP Utility",
-      "package": "jeffersonsimaogoncalves/cakephp-utility",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-utility"
     },
     {
       "title": "CakePHP Utils",
-      "package": "jeffersonsimaogoncalves/cakephp-utils",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/cakephp-utils"
     },
     {
       "title": "Correios PHP",
-      "package": "jeffersonsimaogoncalves/correios-php",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/correios-php"
     },
     {
       "title": "Glide Cake",
-      "package": "jeffersonsimaogoncalves/glide-cake",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/glide-cake"
     },
     {
       "title": "Gravatar Helper",
-      "package": "jeffersonsimaogoncalves/gravatar-helper",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/gravatar-helper"
     },
     {
       "title": "PHP Tools",
-      "package": "jeffersonsimaogoncalves/php-tools",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/php-tools"
     },
     {
       "title": "Property Enum",
-      "package": "jeffersonsimaogoncalves/property-enum",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/property-enum"
     }
   ],
   "filament": [
     {
       "title": "Filament Edit Profile",
-      "package": "joaopaulolndev/filament-edit-profile",
-      "owner": false
+      "package": "joaopaulolndev/filament-edit-profile"
     },
     {
       "title": "Filament Check SSL Widget",
-      "package": "joaopaulolndev/filament-check-ssl-widget",
-      "owner": false
+      "package": "joaopaulolndev/filament-check-ssl-widget"
     },
     {
       "title": "Filament World Clock",
-      "package": "joaopaulolndev/filament-world-clock",
-      "owner": false
+      "package": "joaopaulolndev/filament-world-clock"
     },
     {
       "title": "Filament General Settings",
-      "package": "joaopaulolndev/filament-general-settings",
-      "owner": false
+      "package": "joaopaulolndev/filament-general-settings"
     },
     {
       "title": "Filament Edit Env",
-      "package": "joaopaulolndev/filament-edit-env",
-      "owner": false
+      "package": "joaopaulolndev/filament-edit-env"
     },
     {
       "title": "Filament PDF Viewer",
-      "package": "joaopaulolndev/filament-pdf-viewer",
-      "owner": false
+      "package": "joaopaulolndev/filament-pdf-viewer"
     },
     {
       "title": "Filament Ace Editor Field",
-      "package": "jeffersongoncalves/filament-ace-editor-field",
-      "owner": true
+      "package": "jeffersongoncalves/filament-ace-editor-field"
     },
     {
       "title": "Filament Topbar",
-      "package": "jeffersongoncalves/filament-topbar",
-      "owner": true
+      "package": "jeffersongoncalves/filament-topbar"
     },
     {
       "title": "Filament Keyable",
-      "package": "jeffersongoncalves/filament-keyable",
-      "owner": true
+      "package": "jeffersongoncalves/filament-keyable"
     },
     {
       "title": "Filament Logo",
-      "package": "jeffersongoncalves/filament-logo",
-      "owner": true
+      "package": "jeffersongoncalves/filament-logo"
     },
     {
       "title": "Filament CEP Field",
-      "package": "jeffersongoncalves/filament-cep-field",
-      "owner": true
+      "package": "jeffersongoncalves/filament-cep-field"
     },
     {
       "title": "Filament QrCode Field",
-      "package": "jeffersongoncalves/filament-qrcode-field",
-      "owner": true
+      "package": "jeffersongoncalves/filament-qrcode-field"
     },
     {
       "title": "Filament One Time Operations",
-      "package": "jeffersongoncalves/filament-one-time-operations",
-      "owner": true
+      "package": "jeffersongoncalves/filament-one-time-operations"
     },
     {
       "title": "Filament Whatsapp Widget",
-      "package": "jeffersongoncalves/filament-whatsapp-widget",
-      "owner": true
+      "package": "jeffersongoncalves/filament-whatsapp-widget"
     },
     {
       "title": "Filament Cookie Consent",
-      "package": "jeffersongoncalves/filament-cookie-consent",
-      "owner": true
+      "package": "jeffersongoncalves/filament-cookie-consent"
     },
     {
       "title": "Filament Check Whois Widget",
-      "package": "jeffersongoncalves/filament-check-whois-widget",
-      "owner": true
+      "package": "jeffersongoncalves/filament-check-whois-widget"
     },
     {
       "title": "Filament Umami",
-      "package": "jeffersongoncalves/filament-umami",
-      "owner": true
+      "package": "jeffersongoncalves/filament-umami"
     },
     {
       "title": "Filament Plausible",
-      "package": "jeffersongoncalves/filament-plausible",
-      "owner": true
+      "package": "jeffersongoncalves/filament-plausible"
     },
     {
       "title": "Filament Matomo",
-      "package": "jeffersongoncalves/filament-matomo",
-      "owner": true
+      "package": "jeffersongoncalves/filament-matomo"
     },
     {
       "title": "Filament Pixel",
-      "package": "jeffersongoncalves/filament-pixel",
-      "owner": true
+      "package": "jeffersongoncalves/filament-pixel"
     },
     {
       "title": "Filament Gtag",
-      "package": "jeffersongoncalves/filament-gtag",
-      "owner": true
+      "package": "jeffersongoncalves/filament-gtag"
     },
     {
       "title": "Filament Gtm",
-      "package": "jeffersongoncalves/filament-gtm",
-      "owner": true
+      "package": "jeffersongoncalves/filament-gtm"
     },
     {
       "title": "Filament Fathom",
-      "package": "jeffersongoncalves/filament-fathom",
-      "owner": true
+      "package": "jeffersongoncalves/filament-fathom"
     }
   ],
   "laravel": [
     {
       "title": "Laravel Whatsapp Widget",
-      "package": "jeffersongoncalves/laravel-whatsapp-widget",
-      "owner": true
+      "package": "jeffersongoncalves/laravel-whatsapp-widget"
     },
     {
       "title": "Laravel Cookie Consent",
-      "package": "jeffersongoncalves/laravel-cookie-consent",
-      "owner": true
+      "package": "jeffersongoncalves/laravel-cookie-consent"
     },
     {
       "title": "Laravel Created By",
-      "package": "jeffersongoncalves/laravel-created-by",
-      "owner": true
+      "package": "jeffersongoncalves/laravel-created-by"
     },
     {
       "title": "Laravel Umami",
-      "package": "jeffersongoncalves/laravel-umami",
-      "owner": true
+      "package": "jeffersongoncalves/laravel-umami"
     },
     {
       "title": "Laravel Plausible",
-      "package": "jeffersongoncalves/laravel-plausible",
-      "owner": true
+      "package": "jeffersongoncalves/laravel-plausible"
     },
     {
       "title": "Laravel Matomo",
-      "package": "jeffersongoncalves/laravel-matomo",
-      "owner": true
+      "package": "jeffersongoncalves/laravel-matomo"
     },
     {
       "title": "Laravel Pixel",
-      "package": "jeffersongoncalves/laravel-pixel",
-      "owner": true
+      "package": "jeffersongoncalves/laravel-pixel"
     },
     {
       "title": "Laravel Gtag",
-      "package": "jeffersongoncalves/laravel-gtag",
-      "owner": true
+      "package": "jeffersongoncalves/laravel-gtag"
     },
     {
       "title": "Laravel Gtm",
-      "package": "jeffersongoncalves/laravel-gtm",
-      "owner": true
+      "package": "jeffersongoncalves/laravel-gtm"
     },
     {
       "title": "Laravel Fathom",
-      "package": "jeffersongoncalves/laravel-fathom",
-      "owner": true
+      "package": "jeffersongoncalves/laravel-fathom"
     },
     {
       "title": "Laravel CEP",
-      "package": "jeffersongoncalves/laravel-cep",
-      "owner": true
+      "package": "jeffersongoncalves/laravel-cep"
     },
     {
       "title": "Laravel Created By",
-      "package": "jeffersongoncalves/laravel-created-by",
-      "owner": true
+      "package": "jeffersongoncalves/laravel-created-by"
     },
     {
       "title": "Laravel Device Tracking",
-      "package": "jeffersonsimaogoncalves/laravel-device-tracking",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/laravel-device-tracking"
     },
     {
       "title": "Laravel Email Database Log",
-      "package": "jeffersonsimaogoncalves/laravel-email-database-log",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/laravel-email-database-log"
     },
     {
       "title": "Laravel Package Marker",
-      "package": "jeffersonsimaogoncalves/laravel-package-maker",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/laravel-package-maker"
     },
     {
       "title": "Multitenancy",
-      "package": "jeffersonsimaogoncalves/multitenancy",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/multitenancy"
     }
   ],
   "nova": [
     {
       "title": "Nova Advanced Number Field",
-      "package": "jeffersonsimaogoncalves/nova-advanced-number-field",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/nova-advanced-number-field"
     },
     {
       "title": "Nova Card HTML",
-      "package": "jeffersonsimaogoncalves/nova-card-html",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/nova-card-html"
     },
     {
       "title": "Nova Enum Field",
-      "package": "jeffersonsimaogoncalves/nova-enum-field",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/nova-enum-field"
     },
     {
       "title": "Nova Order Field",
-      "package": "jeffersonsimaogoncalves/nova-order-field",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/nova-order-field"
     },
     {
       "title": "Nova Permission",
-      "package": "jeffersonsimaogoncalves/nova-permission",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/nova-permission"
     },
     {
       "title": "Nova Sluggable",
-      "package": "jeffersonsimaogoncalves/nova-sluggable",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/nova-sluggable"
     },
     {
       "title": "Input Mask",
-      "package": "jeffersonsimaogoncalves/input-mask",
-      "owner": true
+      "package": "jeffersonsimaogoncalves/input-mask"
     }
   ],
   "startkit": [
     {
       "title": "Filakit v4",
-      "package": "jeffersongoncalves/filakitv4",
-      "owner": true
+      "package": "jeffersongoncalves/filakitv4"
     },
     {
       "title": "Nativekit v4",
-      "package": "jeffersongoncalves/nativekitv4",
-      "owner": true
+      "package": "jeffersongoncalves/nativekitv4"
     },
     {
       "title": "Mobilekit v4",
-      "package": "jeffersongoncalves/mobilekitv4",
-      "owner": true
+      "package": "jeffersongoncalves/mobilekitv4"
     },
     {
       "title": "Filakit v3",
-      "package": "jeffersongoncalves/filakit",
-      "owner": true
+      "package": "jeffersongoncalves/filakit"
     },
     {
       "title": "Nativekit v3",
-      "package": "jeffersongoncalves/nativekit",
-      "owner": true
+      "package": "jeffersongoncalves/nativekit"
     },
     {
       "title": "Mobilekit v3",
-      "package": "jeffersongoncalves/mobilekit",
-      "owner": true
+      "package": "jeffersongoncalves/mobilekit"
     }
   ]
 }
