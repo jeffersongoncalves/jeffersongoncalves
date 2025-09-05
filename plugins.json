@@ -95,6 +95,10 @@
   ],
   "filament": [
     {
+      "title": "Filament PHP",
+      "package": "filamentphp/filamentphp"
+    },
+    {
       "title": "Filament Edit Profile",
       "package": "joaopaulolndev/filament-edit-profile"
     },
@@ -313,6 +317,10 @@
     {
       "title": "Infra com Traefik",
       "package": "wallacemartinss/Infra-com-Traefik"
+    },
+    {
+      "title": "Filament PHP",
+      "package": "filamentphp/filamentphp.com"
     }
   ]
 }
