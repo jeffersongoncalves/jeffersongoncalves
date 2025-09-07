@@ -137,5 +137,6 @@ Throughout my journey, I have gained experience with the following technologies:
 | [**Core Tenant**](https://github.com/wallacemartinss/core_tenant) Contribution | ![Stars](https://img.shields.io/github/stars/wallacemartinss/core_tenant?style=flat-square) |
 | [**Website Template**](https://github.com/wallacemartinss/website_template) Contribution | ![Stars](https://img.shields.io/github/stars/wallacemartinss/website_template?style=flat-square) |
 | [**Filament Multi-Tenancy Start Kit**](https://github.com/felipearnold/filament-multi-tenancy-start-kit) Contribution | ![Stars](https://img.shields.io/github/stars/felipearnold/filament-multi-tenancy-start-kit?style=flat-square) |
+| [**Lara Zeus**](https://github.com/lara-zeus/zeus) Contribution | ![Stars](https://img.shields.io/github/stars/lara-zeus/zeus?style=flat-square) |
 
 📌 *This list has been updated with more projects.*
