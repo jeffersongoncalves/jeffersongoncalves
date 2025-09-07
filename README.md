@@ -144,5 +144,6 @@ Throughout my journey, I have gained experience with the following technologies:
 | [**Filament Multi-Tenancy Start Kit**](https://github.com/felipearnold/filament-multi-tenancy-start-kit) Contribution | ![Stars](https://img.shields.io/github/stars/felipearnold/filament-multi-tenancy-start-kit?style=flat-square) |
 | [**Lara Zeus**](https://github.com/lara-zeus/zeus) Contribution | ![Stars](https://img.shields.io/github/stars/lara-zeus/zeus?style=flat-square) |
 | [**Ai Hub**](https://github.com/alessandronuunes/AiHub) Contribution | ![Stars](https://img.shields.io/github/stars/alessandronuunes/AiHub?style=flat-square) |
+| [**SatisUI Package Manager**](https://github.com/filamentphp-br/satis) Contribution | ![Stars](https://img.shields.io/github/stars/filamentphp-br/satis?style=flat-square) |
 
 📌 *This list has been updated with more projects.*
