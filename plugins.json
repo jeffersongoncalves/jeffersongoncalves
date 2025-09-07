@@ -201,6 +201,10 @@
     {
       "title": "Filament Simple Map",
       "package": "codewithdennis/filament-simple-map"
+    },
+    {
+      "title": "Filament Communicate",
+      "package": "alessandronuunes/filament-communicate"
     }
   ],
   "laravel": [
