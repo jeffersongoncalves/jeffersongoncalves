@@ -91,6 +91,7 @@ Throughout my journey, I have gained experience with the following technologies:
 | [**Peck**](https://github.com/peckphp/peck) Contribution | ![Latest Version](https://img.shields.io/packagist/v/peckphp/peck.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/peckphp/peck.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/peckphp/peck?style=flat-square) |
 | [**Blade Ionicons**](https://github.com/Foysal50x/blade-ionicons) Contribution | ![Latest Version](https://img.shields.io/packagist/v/faisal50x/blade-ionicons.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/faisal50x/blade-ionicons.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/Foysal50x/blade-ionicons?style=flat-square) |
 | [**Laravel Decomposer**](https://github.com/lubusIN/laravel-decomposer) Contribution | ![Latest Version](https://img.shields.io/packagist/v/lubusin/laravel-decomposer.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/lubusin/laravel-decomposer.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/lubusIN/laravel-decomposer?style=flat-square) |
+| [**Squeaky**](https://github.com/JonPurvis/squeaky) Contribution | ![Latest Version](https://img.shields.io/packagist/v/jonpurvis/squeaky.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jonpurvis/squeaky.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/JonPurvis/squeaky?style=flat-square) |
 
 ## 🚀 Open Source Projects Laravel Nova
 
