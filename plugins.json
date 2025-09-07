@@ -279,6 +279,10 @@
     {
       "title": "Blade Ionicons",
       "package": "faisal50x/blade-ionicons"
+    },
+    {
+      "title": "Laravel Decomposer",
+      "package": "lubusin/laravel-decomposer"
     }
   ],
   "nova": [
