@@ -341,6 +341,10 @@
     {
       "title": "Website Template",
       "package": "wallacemartinss/website_template"
+    },
+    {
+      "title": "Filament Multi-Tenancy Start Kit",
+      "package": "felipearnold/filament-multi-tenancy-start-kit"
     }
   ]
 }
