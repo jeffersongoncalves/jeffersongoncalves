@@ -193,6 +193,10 @@
     {
       "title": "Filament Icon Picker",
       "package": "guava/filament-icon-picker"
+    },
+    {
+      "title": "Filament Table Select",
+      "package": "dvarilek/filament-table-select"
     }
   ],
   "laravel": [
