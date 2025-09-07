@@ -333,6 +333,10 @@
       "package": "jeffersongoncalves/mobilekitv4"
     },
     {
+      "title": "Teamkit v4",
+      "package": "jeffersongoncalves/teamkitv4"
+    },
+    {
       "title": "Filakit v3",
       "package": "jeffersongoncalves/filakit"
     },
@@ -343,6 +347,10 @@
     {
       "title": "Mobilekit v3",
       "package": "jeffersongoncalves/mobilekit"
+    },
+    {
+      "title": "Teamkit v3",
+      "package": "jeffersongoncalves/teamkit"
     }
   ],
   "others": [
