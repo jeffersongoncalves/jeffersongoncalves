@@ -197,6 +197,10 @@
     {
       "title": "Filament Table Select",
       "package": "dvarilek/filament-table-select"
+    },
+    {
+      "title": "Filament Simple Map",
+      "package": "codewithdennis/filament-simple-map"
     }
   ],
   "laravel": [
