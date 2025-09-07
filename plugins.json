@@ -315,14 +315,6 @@
     {
       "title": "Mobilekit v3",
       "package": "jeffersongoncalves/mobilekit"
-    },
-    {
-      "title": "Core Tenant",
-      "package": "wallacemartinss/core_tenant"
-    },
-    {
-      "title": "Website Template",
-      "package": "wallacemartinss/website_template"
     }
   ],
   "others": [
@@ -333,6 +325,14 @@
     {
       "title": "Infra com Traefik",
       "package": "wallacemartinss/Infra-com-Traefik"
+    },
+    {
+      "title": "Core Tenant",
+      "package": "wallacemartinss/core_tenant"
+    },
+    {
+      "title": "Website Template",
+      "package": "wallacemartinss/website_template"
     }
   ]
 }
