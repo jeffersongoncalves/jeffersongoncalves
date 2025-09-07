@@ -283,6 +283,10 @@
     {
       "title": "Laravel Decomposer",
       "package": "lubusin/laravel-decomposer"
+    },
+    {
+      "title": "Squeaky",
+      "package": "jonpurvis/squeaky"
     }
   ],
   "nova": [

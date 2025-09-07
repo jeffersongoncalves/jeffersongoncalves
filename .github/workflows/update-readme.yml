@@ -73,6 +73,7 @@ jobs:
                   owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
                   repo = kit.package.startsWith('faisal50x/blade-ionicons') ? 'Foysal50x/blade-ionicons' : kit.package;
                   repo = kit.package.startsWith('lubusin/laravel-decomposer') ? 'lubusIN/laravel-decomposer' : repo;
+                  repo = kit.package.startsWith('jonpurvis/squeaky') ? 'JonPurvis/squeaky' : repo;
                   laravelList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) |\n`;
               }
           
