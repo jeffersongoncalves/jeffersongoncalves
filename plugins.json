@@ -263,6 +263,10 @@
     {
       "title": "Multitenancy",
       "package": "jeffersonsimaogoncalves/multitenancy"
+    },
+    {
+      "title": "Peck",
+      "package": "peckphp/peck"
     }
   ],
   "nova": [
