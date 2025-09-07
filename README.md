@@ -143,5 +143,6 @@ Throughout my journey, I have gained experience with the following technologies:
 | [**Website Template**](https://github.com/wallacemartinss/website_template) Contribution | ![Stars](https://img.shields.io/github/stars/wallacemartinss/website_template?style=flat-square) |
 | [**Filament Multi-Tenancy Start Kit**](https://github.com/felipearnold/filament-multi-tenancy-start-kit) Contribution | ![Stars](https://img.shields.io/github/stars/felipearnold/filament-multi-tenancy-start-kit?style=flat-square) |
 | [**Lara Zeus**](https://github.com/lara-zeus/zeus) Contribution | ![Stars](https://img.shields.io/github/stars/lara-zeus/zeus?style=flat-square) |
+| [**Ai Hub**](https://github.com/alessandronuunes/AiHub) Contribution | ![Stars](https://img.shields.io/github/stars/alessandronuunes/AiHub?style=flat-square) |
 
 📌 *This list has been updated with more projects.*
