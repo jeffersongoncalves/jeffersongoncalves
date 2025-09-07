@@ -369,6 +369,10 @@
     {
       "title": "Lara Zeus",
       "package": "lara-zeus/zeus"
+    },
+    {
+      "title": "Ai Hub",
+      "package": "alessandronuunes/AiHub"
     }
   ]
 }
