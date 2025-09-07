@@ -267,6 +267,10 @@
     {
       "title": "Peck",
       "package": "peckphp/peck"
+    },
+    {
+      "title": "Blade Ionicons",
+      "package": "faisal50x/blade-ionicons"
     }
   ],
   "nova": [
