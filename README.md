@@ -34,8 +34,6 @@ Throughout my journey, I have gained experience with the following technologies:
 | [**Filakit v3**](https://github.com/jeffersongoncalves/filakit) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/filakit.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filakit.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filakit?style=flat-square) |
 | [**Nativekit v3**](https://github.com/jeffersongoncalves/nativekit) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/nativekit.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/nativekit.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/nativekit?style=flat-square) |
 | [**Mobilekit v3**](https://github.com/jeffersongoncalves/mobilekit) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/mobilekit.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/mobilekit.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/mobilekit?style=flat-square) |
-| [**Core Tenant**](https://github.com/wallacemartinss/core_tenant) Contribution | ![Latest Version](https://img.shields.io/packagist/v/wallacemartinss/core_tenant.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/wallacemartinss/core_tenant.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/wallacemartinss/core_tenant?style=flat-square) |
-| [**Website Template**](https://github.com/wallacemartinss/website_template) Contribution | ![Latest Version](https://img.shields.io/packagist/v/wallacemartinss/website_template.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/wallacemartinss/website_template.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/wallacemartinss/website_template?style=flat-square) |
 
 ## 🚀 Open Source Projects Filament
 
@@ -134,5 +132,7 @@ Throughout my journey, I have gained experience with the following technologies:
 |-------------|---------|
 | [**Filament PHP**](https://github.com/filamentphp/filamentphp.com) Contribution | ![Stars](https://img.shields.io/github/stars/filamentphp/filamentphp.com?style=flat-square) |
 | [**Infra com Traefik**](https://github.com/wallacemartinss/Infra-com-Traefik) Contribution | ![Stars](https://img.shields.io/github/stars/wallacemartinss/Infra-com-Traefik?style=flat-square) |
+| [**Core Tenant**](https://github.com/wallacemartinss/core_tenant) Contribution | ![Stars](https://img.shields.io/github/stars/wallacemartinss/core_tenant?style=flat-square) |
+| [**Website Template**](https://github.com/wallacemartinss/website_template) Contribution | ![Stars](https://img.shields.io/github/stars/wallacemartinss/website_template?style=flat-square) |
 
 📌 *This list has been updated with more projects.*
