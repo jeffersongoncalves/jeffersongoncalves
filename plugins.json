@@ -373,6 +373,10 @@
     {
       "title": "Ai Hub",
       "package": "alessandronuunes/AiHub"
+    },
+    {
+      "title": "SatisUI Package Manager",
+      "package": "filamentphp-br/satis"
     }
   ]
 }
