@@ -161,50 +161,6 @@
     {
       "title": "Filament Fathom",
       "package": "jeffersongoncalves/filament-fathom"
-    },
-    {
-      "title": "Filament PHP",
-      "package": "filament/filament"
-    },
-    {
-      "title": "Filament Edit Profile",
-      "package": "joaopaulolndev/filament-edit-profile"
-    },
-    {
-      "title": "Filament Check SSL Widget",
-      "package": "joaopaulolndev/filament-check-ssl-widget"
-    },
-    {
-      "title": "Filament World Clock",
-      "package": "joaopaulolndev/filament-world-clock"
-    },
-    {
-      "title": "Filament General Settings",
-      "package": "joaopaulolndev/filament-general-settings"
-    },
-    {
-      "title": "Filament Edit Env",
-      "package": "joaopaulolndev/filament-edit-env"
-    },
-    {
-      "title": "Filament PDF Viewer",
-      "package": "joaopaulolndev/filament-pdf-viewer"
-    },
-    {
-      "title": "Filament Icon Picker",
-      "package": "guava/filament-icon-picker"
-    },
-    {
-      "title": "Filament Table Select",
-      "package": "dvarilek/filament-table-select"
-    },
-    {
-      "title": "Filament Simple Map",
-      "package": "codewithdennis/filament-simple-map"
-    },
-    {
-      "title": "Filament Communicate",
-      "package": "alessandronuunes/filament-communicate"
     }
   ],
   "laravel": [
@@ -271,22 +227,6 @@
     {
       "title": "Multitenancy",
       "package": "jeffersonsimaogoncalves/multitenancy"
-    },
-    {
-      "title": "Peck",
-      "package": "peckphp/peck"
-    },
-    {
-      "title": "Blade Ionicons",
-      "package": "faisal50x/blade-ionicons"
-    },
-    {
-      "title": "Laravel Decomposer",
-      "package": "lubusin/laravel-decomposer"
-    },
-    {
-      "title": "Squeaky",
-      "package": "jonpurvis/squeaky"
     }
   ],
   "nova": [
@@ -351,40 +291,6 @@
     {
       "title": "Teamkit v3",
       "package": "jeffersongoncalves/teamkit"
-    }
-  ],
-  "others": [
-    {
-      "title": "Filament PHP",
-      "package": "filamentphp/filamentphp.com"
-    },
-    {
-      "title": "Infra com Traefik",
-      "package": "wallacemartinss/Infra-com-Traefik"
-    },
-    {
-      "title": "Core Tenant",
-      "package": "wallacemartinss/core_tenant"
-    },
-    {
-      "title": "Website Template",
-      "package": "wallacemartinss/website_template"
-    },
-    {
-      "title": "Filament Multi-Tenancy Start Kit",
-      "package": "felipearnold/filament-multi-tenancy-start-kit"
-    },
-    {
-      "title": "Lara Zeus",
-      "package": "lara-zeus/zeus"
-    },
-    {
-      "title": "Ai Hub",
-      "package": "alessandronuunes/AiHub"
-    },
-    {
-      "title": "SatisUI Package Manager",
-      "package": "filamentphp-br/satis"
     }
   ]
 }

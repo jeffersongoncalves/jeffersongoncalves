@@ -91,13 +91,6 @@ jobs:
                   cakephpList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) |\n`;
               }
           
-              // Generate the formatted list
-              let othersList = '';
-              for (const kit of plugins.others) {
-                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
-                  othersList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) |\n`;
-              }
-          
               // Replace placeholders in README
               console.log('Looking for placeholders in README_plugin...');
               console.log('README_plugin before replacement:', readme);
@@ -108,7 +101,6 @@ jobs:
               readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
               readme = readme.replace(/\[NOVA\]/g, novaList.trim());
               readme = readme.replace(/\[CAKEPHP\]/g, cakephpList.trim());
-              readme = readme.replace(/\[OTHERS\]/g, othersList.trim());
           
               console.log('Generated README content (excerpt):', readme.substring(0, 500) + '...');
               console.log('Startkit list generated:', startkitList);
@@ -116,7 +108,6 @@ jobs:
               console.log('Laravel list generated:', laravelList);
               console.log('Nova list generated:', novaList);
               console.log('CakePHP list generated:', cakephpList);
-              console.log('Others list generated:', othersList);
           
               // Write updated README
               fs.writeFileSync('README.md', readme);
