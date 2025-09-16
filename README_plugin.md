@@ -24,12 +24,6 @@ Throughout my journey, I have gained experience with the following technologies:
 
 🎯 *If you like my work, consider supporting!*
 
-## 🚀 Open Source Start Kit Laravel
-
-| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars |
-|-------------|-------------|--------------|---------|
-[STARTKIT]
-
 ## 🚀 Open Source Projects Filament
 
 | 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars |

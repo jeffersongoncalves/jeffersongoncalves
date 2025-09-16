@@ -50,20 +50,10 @@ jobs:
               let owner = '';
           
               // Generate the formatted list
-              let startkitList = '';
-              for (const kit of plugins.startkit) {
-                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
-                  startkitList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) |\n`;
-              }
-          
-              // Generate the formatted list
               let filamentList = '';
               for (const kit of plugins.filament) {
                   owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
-                  repo = kit.package.startsWith('filament/filament') ? 'filamentphp/filament' : kit.package;
-                  repo = repo.startsWith('guava/filament-icon-picker') ? 'lukas-frey/filament-icon-picker' : repo;
-                  repo = repo.startsWith('codewithdennis/filament-simple-map') ? 'CodeWithDennis/filament-simple-map' : repo;
-                  repo = repo.startsWith('alessandronuunes/filament-communicate') ? '4nuunes/filament-communicate' : repo;
+                  repo = kit.package;
                   filamentList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) |\n`;
               }
           
@@ -71,9 +61,7 @@ jobs:
               let laravelList = '';
               for (const kit of plugins.laravel) {
                   owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
-                  repo = kit.package.startsWith('faisal50x/blade-ionicons') ? 'Foysal50x/blade-ionicons' : kit.package;
-                  repo = kit.package.startsWith('lubusin/laravel-decomposer') ? 'lubusIN/laravel-decomposer' : repo;
-                  repo = kit.package.startsWith('jonpurvis/squeaky') ? 'JonPurvis/squeaky' : repo;
+                  repo = kit.package;
                   laravelList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) |\n`;
               }
           
@@ -96,14 +84,12 @@ jobs:
               console.log('README_plugin before replacement:', readme);
           
               // Use regex with global flag to ensure all occurrences are replaced
-              readme = readme.replace(/\[STARTKIT\]/g, startkitList.trim());
               readme = readme.replace(/\[FILAMENT\]/g, filamentList.trim());
               readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
               readme = readme.replace(/\[NOVA\]/g, novaList.trim());
               readme = readme.replace(/\[CAKEPHP\]/g, cakephpList.trim());
           
               console.log('Generated README content (excerpt):', readme.substring(0, 500) + '...');
-              console.log('Startkit list generated:', startkitList);
               console.log('Filament list generated:', filamentList);
               console.log('Laravel list generated:', laravelList);
               console.log('Nova list generated:', novaList);
