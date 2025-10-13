@@ -118,5 +118,39 @@
       "title": "Laravel Created By",
       "package": "jeffersongoncalves/laravel-created-by"
     }
+  ],
+  "startkit": [
+    {
+      "title": "Filakit v4",
+      "package": "jeffersongoncalves/filakitv4"
+    },
+    {
+      "title": "Nativekit v4",
+      "package": "jeffersongoncalves/nativekitv4"
+    },
+    {
+      "title": "Mobilekit v4",
+      "package": "jeffersongoncalves/mobilekitv4"
+    },
+    {
+      "title": "Teamkit v4",
+      "package": "jeffersongoncalves/teamkitv4"
+    },
+    {
+      "title": "Filakit v3",
+      "package": "jeffersongoncalves/filakit"
+    },
+    {
+      "title": "Nativekit v3",
+      "package": "jeffersongoncalves/nativekit"
+    },
+    {
+      "title": "Mobilekit v3",
+      "package": "jeffersongoncalves/mobilekit"
+    },
+    {
+      "title": "Teamkit v3",
+      "package": "jeffersongoncalves/teamkit"
+    }
   ]
 }
