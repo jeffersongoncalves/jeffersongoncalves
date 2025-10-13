@@ -24,6 +24,19 @@ Throughout my journey, I have gained experience with the following technologies:
 
 🎯 *If you like my work, consider supporting!*
 
+## 🚀 Open Source Start Kit Laravel
+
+| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars |
+|-------------|-------------|--------------|---------|
+| [**Filakit v4**](https://github.com/jeffersongoncalves/filakitv4) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/filakitv4.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filakitv4.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filakitv4?style=flat-square) |
+| [**Nativekit v4**](https://github.com/jeffersongoncalves/nativekitv4) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/nativekitv4.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/nativekitv4.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/nativekitv4?style=flat-square) |
+| [**Mobilekit v4**](https://github.com/jeffersongoncalves/mobilekitv4) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/mobilekitv4.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/mobilekitv4.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/mobilekitv4?style=flat-square) |
+| [**Teamkit v4**](https://github.com/jeffersongoncalves/teamkitv4) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/teamkitv4.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/teamkitv4.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/teamkitv4?style=flat-square) |
+| [**Filakit v3**](https://github.com/jeffersongoncalves/filakit) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/filakit.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filakit.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filakit?style=flat-square) |
+| [**Nativekit v3**](https://github.com/jeffersongoncalves/nativekit) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/nativekit.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/nativekit.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/nativekit?style=flat-square) |
+| [**Mobilekit v3**](https://github.com/jeffersongoncalves/mobilekit) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/mobilekit.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/mobilekit.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/mobilekit?style=flat-square) |
+| [**Teamkit v3**](https://github.com/jeffersongoncalves/teamkit) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/teamkit.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/teamkit.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/teamkit?style=flat-square) |
+
 ## 🚀 Open Source Projects Filament
 
 | 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars |
