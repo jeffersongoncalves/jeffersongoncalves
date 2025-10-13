@@ -36,16 +36,4 @@ Throughout my journey, I have gained experience with the following technologies:
 |-------------|-------------|--------------|---------|
 [LARAVEL]
 
-## 🚀 Open Source Projects Laravel Nova
-
-| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars |
-|-------------|-------------|--------------|---------|
-[NOVA]
-
-## 🚀 Open Source Projects CakePHP
-
-| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars |
-|-------------|-------------|--------------|---------|
-[CAKEPHP]
-
 📌 *This list has been updated with more projects.*

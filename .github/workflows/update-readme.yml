@@ -65,20 +65,6 @@ jobs:
                   laravelList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) |\n`;
               }
           
-              // Generate the formatted list
-              let novaList = '';
-              for (const kit of plugins.nova) {
-                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
-                  novaList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) |\n`;
-              }
-          
-              // Generate the formatted list
-              let cakephpList = '';
-              for (const kit of plugins.cakephp) {
-                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
-                  cakephpList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) |\n`;
-              }
-          
               // Replace placeholders in README
               console.log('Looking for placeholders in README_plugin...');
               console.log('README_plugin before replacement:', readme);
@@ -86,14 +72,10 @@ jobs:
               // Use regex with global flag to ensure all occurrences are replaced
               readme = readme.replace(/\[FILAMENT\]/g, filamentList.trim());
               readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
-              readme = readme.replace(/\[NOVA\]/g, novaList.trim());
-              readme = readme.replace(/\[CAKEPHP\]/g, cakephpList.trim());
           
               console.log('Generated README content (excerpt):', readme.substring(0, 500) + '...');
               console.log('Filament list generated:', filamentList);
               console.log('Laravel list generated:', laravelList);
-              console.log('Nova list generated:', novaList);
-              console.log('CakePHP list generated:', cakephpList);
           
               // Write updated README
               fs.writeFileSync('README.md', readme);

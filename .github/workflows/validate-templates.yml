@@ -27,9 +27,9 @@ jobs:
             exit 1
           fi
           
-          # Validate structure (must have filament, laravel, nova and cakephp sections)
-          if ! jq -e '.filament and .laravel and .nova and .cakephp' plugins.json >/dev/null; then
-            echo "Error: plugins.json must contain both 'filament', 'laravel', 'nova' and 'cakephp' sections"
+          # Validate structure (must have filament and laravel sections)
+          if ! jq -e '.filament and .laravel' plugins.json >/dev/null; then
+            echo "Error: plugins.json must contain both 'filament' and 'laravel' sections"
             exit 1
           fi
           
