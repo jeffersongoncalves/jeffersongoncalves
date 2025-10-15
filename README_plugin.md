@@ -44,9 +44,9 @@ Throughout my journey, I have gained experience with the following technologies:
 
 ## My activity
 
-![Jefferson Gonçalves's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jeffersongoncalves&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![Jefferson Gonçalves's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeffersongoncalves&theme=github-compact&area_color=006AFF&area=true&hide_border=true)
-![Jefferson Gonçalves's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersongoncalves&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent)
-![Jefferson Gonçalves's GitHub Stats Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersongoncalves&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent)
+[![Jefferson Gonçalves's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jeffersongoncalves&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)](https://github.com/jeffersongoncalves)
+[![Jefferson Gonçalves's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeffersongoncalves&theme=github-compact&area_color=006AFF&area=true&hide_border=true)](https://github.com/jeffersongoncalves)
+[![Jefferson Gonçalves's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersongoncalves&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent)](https://github.com/jeffersongoncalves)
+[![Jefferson Gonçalves's GitHub Stats Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersongoncalves&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent)](https://github.com/jeffersongoncalves)
 
 📌 *This list has been updated with more projects.*
