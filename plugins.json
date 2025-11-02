@@ -121,6 +121,22 @@
   ],
   "startkit": [
     {
+      "title": "Filakit v5",
+      "package": "jeffersongoncalves/filakitv5"
+    },
+    {
+      "title": "Nativekit v5",
+      "package": "jeffersongoncalves/nativekitv5"
+    },
+    {
+      "title": "Mobilekit v5",
+      "package": "jeffersongoncalves/mobilekitv5"
+    },
+    {
+      "title": "Teamkit v5",
+      "package": "jeffersongoncalves/teamkitv5"
+    },
+    {
       "title": "Filakit v4",
       "package": "jeffersongoncalves/filakitv4"
     },
