@@ -71,6 +71,10 @@
   ],
   "laravel": [
     {
+      "title": "Laravel Fake Cartoons",
+      "package": "jeffersongoncalves/laravel-fake-cartoons"
+    },
+    {
       "title": "Laravel Whatsapp Widget",
       "package": "jeffersongoncalves/laravel-whatsapp-widget"
     },
