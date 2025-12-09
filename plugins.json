@@ -1,6 +1,10 @@
 {
   "filament": [
     {
+      "title": "Filament Multi-factor WhatsApp",
+      "package": "jeffersongoncalves/filament-multifactor-whatsapp"
+    },
+    {
       "title": "Filament Ace Editor Field",
       "package": "jeffersongoncalves/filament-ace-editor-field"
     },
