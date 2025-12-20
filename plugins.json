@@ -1,6 +1,10 @@
 {
   "filament": [
     {
+      "title": "Filament Refresh Sidebar",
+      "package": "jeffersongoncalves/filament-refresh-sidebar"
+    },
+    {
       "title": "Filament Hidden Action",
       "package": "jeffersongoncalves/filament-hidden-action"
     },
