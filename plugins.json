@@ -1,6 +1,10 @@
 {
   "filament": [
     {
+      "title": "Filament Hidden Action",
+      "package": "jeffersongoncalves/filament-hidden-action"
+    },
+    {
       "title": "Filament Multi-factor WhatsApp",
       "package": "jeffersongoncalves/filament-multifactor-whatsapp"
     },
