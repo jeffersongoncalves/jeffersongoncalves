@@ -129,10 +129,6 @@
     {
       "title": "Laravel CEP",
       "package": "jeffersongoncalves/laravel-cep"
-    },
-    {
-      "title": "Laravel Created By",
-      "package": "jeffersongoncalves/laravel-created-by"
     }
   ],
   "startkit": [
