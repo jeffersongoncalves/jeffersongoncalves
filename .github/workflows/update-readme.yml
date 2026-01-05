@@ -33,7 +33,7 @@ jobs:
               // Read plugins.json
               const plugins = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
               const year = new Date().getFullYear();
-              const yearExperience = year - 2012;
+              const yearExperience = year - 2008;
           
               // Read README_plugin.md as the plugin
               let readme = fs.readFileSync('README_plugin.md', 'utf8');
