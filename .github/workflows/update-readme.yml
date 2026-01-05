@@ -73,7 +73,7 @@ jobs:
               readme = readme.replace(/\[STARTKIT\]/g, startkitList.trim());
               readme = readme.replace(/\[FILAMENT\]/g, filamentList.trim());
               readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
-              readme = readme.replace(/\[YEAR\]/g, yearExperience);
+              readme = readme.replace(/\[YEARS\]/g, yearExperience);
           
               // Write updated README
               fs.writeFileSync('README.md', readme);
