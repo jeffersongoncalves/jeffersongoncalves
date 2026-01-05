@@ -1,6 +1,6 @@
 # Hello, I'm Jefferson Gonçalves! ✌️
 
-With over 15 years of experience, I've contributed to the development of robust platforms and the management of server infrastructures to meet the growing demands of businesses.
+With over [YEARS] years of experience, I've contributed to the development of robust platforms and the management of server infrastructures to meet the growing demands of businesses.
 
 My expertise includes Filament, Laravel, CakePHP, MariaDB, API integration, and Android application development to support business operations.
 
@@ -47,6 +47,7 @@ Throughout my journey, I have gained experience with the following technologies:
 
 | 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars |
 |-------------|-------------|--------------|---------|
+| [**Filament Dashboard**](https://github.com/jeffersongoncalves/filament-dashboard) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/filament-dashboard.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-dashboard.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-dashboard?style=flat-square) |
 | [**Filament Refresh Sidebar**](https://github.com/jeffersongoncalves/filament-refresh-sidebar) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/filament-refresh-sidebar.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-refresh-sidebar.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-refresh-sidebar?style=flat-square) |
 | [**Filament Hidden Action**](https://github.com/jeffersongoncalves/filament-hidden-action) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/filament-hidden-action.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-hidden-action.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-hidden-action?style=flat-square) |
 | [**Filament Multi-factor WhatsApp**](https://github.com/jeffersongoncalves/filament-multifactor-whatsapp) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/filament-multifactor-whatsapp.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-multifactor-whatsapp.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-multifactor-whatsapp?style=flat-square) |
