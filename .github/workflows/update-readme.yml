@@ -32,19 +32,16 @@ jobs:
           async function updateReadme() {
               // Read plugins.json
               const plugins = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
+              const year = new Date().getFullYear();
+              const yearExperience = year - 2012;
           
               // Read README_plugin.md as the plugin
               let readme = fs.readFileSync('README_plugin.md', 'utf8');
-              console.log('Original README_plugin.md content:', readme);
           
               // Verify the plugin has been read correctly
               if (!readme || readme.trim() === '') {
                   throw new Error('README_plugin.md is empty or could not be read');
               }
-          
-              // Log the first line to verify it contains "laravel new starter"
-              const firstLine = readme.split('\n')[0];
-              console.log('First line of README_plugin.md:', firstLine);
           
               let repo = '';
               let owner = '';
@@ -72,26 +69,17 @@ jobs:
                   laravelList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) |\n`;
               }
           
-              // Replace placeholders in README
-              console.log('Looking for placeholders in README_plugin...');
-              console.log('README_plugin before replacement:', readme);
-          
               // Use regex with global flag to ensure all occurrences are replaced
               readme = readme.replace(/\[STARTKIT\]/g, startkitList.trim());
               readme = readme.replace(/\[FILAMENT\]/g, filamentList.trim());
               readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
-          
-              console.log('Generated README content (excerpt):', readme.substring(0, 500) + '...');
-              console.log('Startkit list generated:', startkitList);
-              console.log('Filament list generated:', filamentList);
-              console.log('Laravel list generated:', laravelList);
+              readme = readme.replace(/\[YEAR\]/g, yearExperience);
           
               // Write updated README
               fs.writeFileSync('README.md', readme);
           
               // Verify the README.md was written correctly
               const writtenReadme = fs.readFileSync('README.md', 'utf8');
-              console.log('First line of written README.md:', writtenReadme.split('\n')[0]);
           
               if (writtenReadme !== readme) {
                   console.warn('WARNING: Written README.md does not match the generated content');
