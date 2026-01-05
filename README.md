@@ -1,6 +1,6 @@
 # Hello, I'm Jefferson Gonçalves! ✌️
 
-With over 14 years of experience, I've contributed to the development of robust platforms and the management of server infrastructures to meet the growing demands of businesses.
+With over 18 years of experience, I've contributed to the development of robust platforms and the management of server infrastructures to meet the growing demands of businesses.
 
 My expertise includes Filament, Laravel, CakePHP, MariaDB, API integration, and Android application development to support business operations.
 
