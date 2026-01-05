@@ -1,6 +1,10 @@
 {
   "filament": [
     {
+      "title": "Filament Dashboard",
+      "package": "jeffersongoncalves/filament-dashboard"
+    },
+    {
       "title": "Filament Refresh Sidebar",
       "package": "jeffersongoncalves/filament-refresh-sidebar"
     },
