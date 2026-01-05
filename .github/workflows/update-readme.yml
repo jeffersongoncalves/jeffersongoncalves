@@ -32,6 +32,8 @@ jobs:
           async function updateReadme() {
               // Read plugins.json
               const plugins = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
+              const year = new Date().getFullYear();
+              const yearExperience = year - 2012;
           
               // Read README_plugin.md as the plugin
               let readme = fs.readFileSync('README_plugin.md', 'utf8');
@@ -80,6 +82,7 @@ jobs:
               readme = readme.replace(/\[STARTKIT\]/g, startkitList.trim());
               readme = readme.replace(/\[FILAMENT\]/g, filamentList.trim());
               readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
+              readme = readme.replace(/\[YEAR\]/g, yearExperience);
           
               console.log('Generated README content (excerpt):', readme.substring(0, 500) + '...');
               console.log('Startkit list generated:', startkitList);
