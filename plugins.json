@@ -1,6 +1,14 @@
 {
   "filament": [
     {
+      "title": "Filament Help Desk",
+      "package": "jeffersongoncalves/filament-help-desk"
+    },
+    {
+      "title": "Filament Service Desk",
+      "package": "jeffersongoncalves/filament-service-desk"
+    },
+    {
       "title": "Filament Refresh Sidebar",
       "package": "jeffersongoncalves/filament-refresh-sidebar"
     },
@@ -82,6 +90,14 @@
     }
   ],
   "laravel": [
+    {
+      "title": "Laravel Help Desk",
+      "package": "jeffersongoncalves/laravel-help-desk"
+    },
+    {
+      "title": "Laravel Service Desk",
+      "package": "jeffersongoncalves/laravel-service-desk"
+    },
     {
       "title": "Laravel Fake Cartoons",
       "package": "jeffersongoncalves/laravel-fake-cartoons"
