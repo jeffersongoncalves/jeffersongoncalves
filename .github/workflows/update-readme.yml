@@ -58,10 +58,15 @@ jobs:
           
               // Generate the formatted list
               let filamentList = '';
+              const checkIcon = '✅';
+              const crossIcon = '❌';
               for (const kit of plugins.filament) {
                   owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
                   repo = kit.package;
-                  filamentList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) |\n`;
+                  const v3 = kit.v3 ? checkIcon : crossIcon;
+                  const v4 = kit.v4 ? checkIcon : crossIcon;
+                  const v5 = kit.v5 ? checkIcon : crossIcon;
+                  filamentList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) | ${v3} | ${v4} | ${v5} |\n`;
               }
           
               // Generate the formatted list

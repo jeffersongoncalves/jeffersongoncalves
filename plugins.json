@@ -2,75 +2,129 @@
   "filament": [
     {
       "title": "Filament Multi-factor WhatsApp",
-      "package": "jeffersongoncalves/filament-multifactor-whatsapp"
+      "package": "jeffersongoncalves/filament-multifactor-whatsapp",
+      "v3": false,
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament Ace Editor Field",
-      "package": "jeffersongoncalves/filament-ace-editor-field"
+      "package": "jeffersongoncalves/filament-ace-editor-field",
+      "v3": false,
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament Topbar",
-      "package": "jeffersongoncalves/filament-topbar"
+      "package": "jeffersongoncalves/filament-topbar",
+      "v3": true,
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament Keyable",
-      "package": "jeffersongoncalves/filament-keyable"
+      "package": "jeffersongoncalves/filament-keyable",
+      "v3": true,
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament Logo",
-      "package": "jeffersongoncalves/filament-logo"
+      "package": "jeffersongoncalves/filament-logo",
+      "v3": true,
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament CEP Field",
-      "package": "jeffersongoncalves/filament-cep-field"
+      "package": "jeffersongoncalves/filament-cep-field",
+      "v3": true,
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament QrCode Field",
-      "package": "jeffersongoncalves/filament-qrcode-field"
+      "package": "jeffersongoncalves/filament-qrcode-field",
+      "v3": true,
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament One Time Operations",
-      "package": "jeffersongoncalves/filament-one-time-operations"
+      "package": "jeffersongoncalves/filament-one-time-operations",
+      "v3": true,
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament Whatsapp Widget",
-      "package": "jeffersongoncalves/filament-whatsapp-widget"
+      "package": "jeffersongoncalves/filament-whatsapp-widget",
+      "v3": true,
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament Cookie Consent",
-      "package": "jeffersongoncalves/filament-cookie-consent"
+      "package": "jeffersongoncalves/filament-cookie-consent",
+      "v3": true,
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament Check Whois Widget",
-      "package": "jeffersongoncalves/filament-check-whois-widget"
+      "package": "jeffersongoncalves/filament-check-whois-widget",
+      "v3": true,
+      "v4": true,
+      "v5": false
     },
     {
       "title": "Filament Umami",
-      "package": "jeffersongoncalves/filament-umami"
+      "package": "jeffersongoncalves/filament-umami",
+      "v3": true,
+      "v4": true,
+      "v5": false
     },
     {
       "title": "Filament Plausible",
-      "package": "jeffersongoncalves/filament-plausible"
+      "package": "jeffersongoncalves/filament-plausible",
+      "v3": true,
+      "v4": true,
+      "v5": false
     },
     {
       "title": "Filament Matomo",
-      "package": "jeffersongoncalves/filament-matomo"
+      "package": "jeffersongoncalves/filament-matomo",
+      "v3": true,
+      "v4": true,
+      "v5": false
     },
     {
       "title": "Filament Pixel",
-      "package": "jeffersongoncalves/filament-pixel"
+      "package": "jeffersongoncalves/filament-pixel",
+      "v3": true,
+      "v4": true,
+      "v5": false
     },
     {
       "title": "Filament Gtag",
-      "package": "jeffersongoncalves/filament-gtag"
+      "package": "jeffersongoncalves/filament-gtag",
+      "v3": true,
+      "v4": true,
+      "v5": false
     },
     {
       "title": "Filament Gtm",
-      "package": "jeffersongoncalves/filament-gtm"
+      "package": "jeffersongoncalves/filament-gtm",
+      "v3": true,
+      "v4": true,
+      "v5": false
     },
     {
       "title": "Filament Fathom",
-      "package": "jeffersongoncalves/filament-fathom"
+      "package": "jeffersongoncalves/filament-fathom",
+      "v3": true,
+      "v4": true,
+      "v5": false
     }
   ],
   "laravel": [
