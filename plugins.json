@@ -2,19 +2,31 @@
   "filament": [
     {
       "title": "Filament Help Desk",
-      "package": "jeffersongoncalves/filament-help-desk"
+      "package": "jeffersongoncalves/filament-help-desk",
+      "v3": true,
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament Service Desk",
-      "package": "jeffersongoncalves/filament-service-desk"
+      "package": "jeffersongoncalves/filament-service-desk",
+      "v3": true,
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament Refresh Sidebar",
-      "package": "jeffersongoncalves/filament-refresh-sidebar"
+      "package": "jeffersongoncalves/filament-refresh-sidebar",
+      "v3": false,
+      "v4": true,
+      "v5": false
     },
     {
       "title": "Filament Hidden Action",
-      "package": "jeffersongoncalves/filament-hidden-action"
+      "package": "jeffersongoncalves/filament-hidden-action",
+      "v3": false,
+      "v4": false,
+      "v5": false
     },
     {
       "title": "Filament Multi-factor WhatsApp",
