@@ -19,7 +19,7 @@
       "package": "jeffersongoncalves/filament-refresh-sidebar",
       "v3": false,
       "v4": true,
-      "v5": false
+      "v5": true
     },
     {
       "title": "Filament Hidden Action",
