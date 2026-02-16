@@ -1,6 +1,13 @@
 {
   "filament": [
     {
+      "title": "Filament Satis",
+      "package": "jeffersongoncalves/filament-satis",
+      "v3": false,
+      "v4": false,
+      "v5": false
+    },
+    {
       "title": "Filament Help Desk",
       "package": "jeffersongoncalves/filament-help-desk",
       "v3": true,
@@ -103,49 +110,49 @@
       "package": "jeffersongoncalves/filament-check-whois-widget",
       "v3": true,
       "v4": true,
-      "v5": false
+      "v5": true
     },
     {
       "title": "Filament Umami",
       "package": "jeffersongoncalves/filament-umami",
       "v3": true,
       "v4": true,
-      "v5": false
+      "v5": true
     },
     {
       "title": "Filament Plausible",
       "package": "jeffersongoncalves/filament-plausible",
       "v3": true,
       "v4": true,
-      "v5": false
+      "v5": true
     },
     {
       "title": "Filament Matomo",
       "package": "jeffersongoncalves/filament-matomo",
       "v3": true,
       "v4": true,
-      "v5": false
+      "v5": true
     },
     {
       "title": "Filament Pixel",
       "package": "jeffersongoncalves/filament-pixel",
       "v3": true,
       "v4": true,
-      "v5": false
+      "v5": true
     },
     {
       "title": "Filament Gtag",
       "package": "jeffersongoncalves/filament-gtag",
       "v3": true,
       "v4": true,
-      "v5": false
+      "v5": true
     },
     {
       "title": "Filament Gtm",
       "package": "jeffersongoncalves/filament-gtm",
       "v3": true,
       "v4": true,
-      "v5": false
+      "v5": true
     },
     {
       "title": "Filament Fathom",
@@ -156,6 +163,10 @@
     }
   ],
   "laravel": [
+    {
+      "title": "Laravel Satis",
+      "package": "jeffersongoncalves/laravel-satis"
+    },
     {
       "title": "Laravel Help Desk",
       "package": "jeffersongoncalves/laravel-help-desk"
