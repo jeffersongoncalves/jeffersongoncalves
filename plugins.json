@@ -3,7 +3,7 @@
     {
       "title": "Filament Satis",
       "package": "jeffersongoncalves/filament-satis",
-      "v3": false,
+      "v3": true,
       "v4": false,
       "v5": false
     },
@@ -159,7 +159,7 @@
       "package": "jeffersongoncalves/filament-fathom",
       "v3": true,
       "v4": true,
-      "v5": false
+      "v5": true
     }
   ],
   "laravel": [
