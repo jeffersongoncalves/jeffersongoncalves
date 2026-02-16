@@ -34,15 +34,22 @@ function fetch(url) {
 function checkFilamentCompatibility(requireSection) {
     if (!requireSection) return { v3: false, v4: false, v5: false };
 
-    const filamentDep = requireSection['filament/filament']
-        || requireSection['filament/support']
-        || '';
+    // Buscar qualquer dependência filament/* (filament/filament, filament/support, filament/actions, filament/forms, etc.)
+    const filamentDeps = Object.entries(requireSection)
+        .filter(([key]) => key.startsWith('filament/'))
+        .map(([, value]) => value);
 
-    return {
-        v3: /\^3\.0|~3\.|>=3\./.test(filamentDep),
-        v4: /\^4\.0|~4\.|>=4\.|4\.0\.0/.test(filamentDep),
-        v5: /\^5\.0|~5\.|>=5\./.test(filamentDep),
-    };
+    if (filamentDeps.length === 0) return { v3: false, v4: false, v5: false };
+
+    const result = { v3: false, v4: false, v5: false };
+
+    for (const dep of filamentDeps) {
+        if (/\^3\.0|~3\.|>=3\./.test(dep)) result.v3 = true;
+        if (/\^4\.0|~4\.|>=4\.|4\.0\.0/.test(dep)) result.v4 = true;
+        if (/\^5\.0|~5\.|>=5\./.test(dep)) result.v5 = true;
+    }
+
+    return result;
 }
 
 async function getPackageCompatibility(packageName) {
