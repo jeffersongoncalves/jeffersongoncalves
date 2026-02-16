@@ -1,6 +1,22 @@
 {
   "filament": [
     {
+      "title": "Filament Help Desk",
+      "package": "jeffersongoncalves/filament-help-desk"
+    },
+    {
+      "title": "Filament Service Desk",
+      "package": "jeffersongoncalves/filament-service-desk"
+    },
+    {
+      "title": "Filament Refresh Sidebar",
+      "package": "jeffersongoncalves/filament-refresh-sidebar"
+    },
+    {
+      "title": "Filament Hidden Action",
+      "package": "jeffersongoncalves/filament-hidden-action"
+    },
+    {
       "title": "Filament Multi-factor WhatsApp",
       "package": "jeffersongoncalves/filament-multifactor-whatsapp",
       "v3": false,
@@ -129,6 +145,14 @@
   ],
   "laravel": [
     {
+      "title": "Laravel Help Desk",
+      "package": "jeffersongoncalves/laravel-help-desk"
+    },
+    {
+      "title": "Laravel Service Desk",
+      "package": "jeffersongoncalves/laravel-service-desk"
+    },
+    {
       "title": "Laravel Fake Cartoons",
       "package": "jeffersongoncalves/laravel-fake-cartoons"
     },
@@ -175,10 +199,6 @@
     {
       "title": "Laravel CEP",
       "package": "jeffersongoncalves/laravel-cep"
-    },
-    {
-      "title": "Laravel Created By",
-      "package": "jeffersongoncalves/laravel-created-by"
     }
   ],
   "startkit": [
@@ -197,6 +217,10 @@
     {
       "title": "Teamkit v5",
       "package": "jeffersongoncalves/teamkitv5"
+    },
+    {
+      "title": "Service Desk Kit v5",
+      "package": "jeffersongoncalves/servicedeskkitv5"
     },
     {
       "title": "Filakit v4",
