@@ -25,8 +25,8 @@
       "title": "Filament Hidden Action",
       "package": "jeffersongoncalves/filament-hidden-action",
       "v3": false,
-      "v4": false,
-      "v5": false
+      "v4": true,
+      "v5": true
     },
     {
       "title": "Filament Multi-factor WhatsApp",
