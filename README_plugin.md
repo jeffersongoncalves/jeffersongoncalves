@@ -26,19 +26,19 @@ Throughout my journey, I have gained experience with the following technologies:
 
 ## 🚀 Open Source Start Kit Laravel
 
-| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars | 🌟 Give a Star |
+| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars | 🌟 |
 |-------------|-------------|--------------|---------|:-----------:|
 [STARTKIT]
 
 ## 🚀 Open Source Projects Filament
 
-| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars | 🌟 Give a Star | V3 | V4 | V5 |
+| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars | 🌟 | V3 | V4 | V5 |
 |-------------|-------------|--------------|---------|:-----------:|:--:|:--:|:--:|
 [FILAMENT]
 
 ## 🚀 Open Source Projects Laravel
 
-| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars | 🌟 Give a Star |
+| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars | 🌟 |
 |-------------|-------------|--------------|---------|:-----------:|
 [LARAVEL]
 
