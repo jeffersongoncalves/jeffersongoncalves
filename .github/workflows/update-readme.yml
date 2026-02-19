@@ -50,7 +50,7 @@ jobs:
               let startkitList = '';
               for (const kit of plugins.startkit) {
                   owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
-                  startkitList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) | [![Star](https://img.shields.io/badge/Give%20a%20Star-⭐-yellow?style=flat-square)](https://github.com/${kit.package}/stargazers) |\n`;
+                  startkitList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) | [![Star](https://img.shields.io/badge/Give%20a%20Star-⭐-yellow?style=flat-square)](https://github.com/${kit.package}) |\n`;
               }
           
               // Generate the formatted list
@@ -63,7 +63,7 @@ jobs:
                   const v3 = kit.v3 ? checkIcon : crossIcon;
                   const v4 = kit.v4 ? checkIcon : crossIcon;
                   const v5 = kit.v5 ? checkIcon : crossIcon;
-                  filamentList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) | [![Star](https://img.shields.io/badge/Give%20a%20Star-⭐-yellow?style=flat-square)](https://github.com/${repo}/stargazers) | ${v3} | ${v4} | ${v5} |\n`;
+                  filamentList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) | [![Star](https://img.shields.io/badge/Give%20a%20Star-⭐-yellow?style=flat-square)](https://github.com/${repo}) | ${v3} | ${v4} | ${v5} |\n`;
               }
           
               // Generate the formatted list
@@ -71,7 +71,7 @@ jobs:
               for (const kit of plugins.laravel) {
                   owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
                   repo = kit.package;
-                  laravelList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) | [![Star](https://img.shields.io/badge/Give%20a%20Star-⭐-yellow?style=flat-square)](https://github.com/${repo}/stargazers) |\n`;
+                  laravelList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) | [![Star](https://img.shields.io/badge/Give%20a%20Star-⭐-yellow?style=flat-square)](https://github.com/${repo}) |\n`;
               }
           
               // Use regex with global flag to ensure all occurrences are replaced
