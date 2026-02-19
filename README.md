@@ -26,7 +26,7 @@ Throughout my journey, I have gained experience with the following technologies:
 
 ## 🚀 Open Source Start Kit Laravel
 
-| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars | 🌟 Give a Star |
+| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars | 🌟 |
 |-------------|-------------|--------------|---------|:-----------:|
 | [**Filakit v5**](https://github.com/jeffersongoncalves/filakitv5) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/filakitv5.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filakitv5.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filakitv5?style=flat-square) | [![Star](https://img.shields.io/badge/⭐-gray?style=flat-square)](https://github.com/jeffersongoncalves/filakitv5) |
 | [**Nativekit v5**](https://github.com/jeffersongoncalves/nativekitv5) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/nativekitv5.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/nativekitv5.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/nativekitv5?style=flat-square) | [![Star](https://img.shields.io/badge/⭐-gray?style=flat-square)](https://github.com/jeffersongoncalves/nativekitv5) |
@@ -46,7 +46,7 @@ Throughout my journey, I have gained experience with the following technologies:
 
 ## 🚀 Open Source Projects Filament
 
-| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars | 🌟 Give a Star | V3 | V4 | V5 |
+| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars | 🌟 | V3 | V4 | V5 |
 |-------------|-------------|--------------|---------|:-----------:|:--:|:--:|:--:|
 | [**Filament Knowledge Base**](https://github.com/jeffersongoncalves/filament-knowledge-base) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/filament-knowledge-base.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-knowledge-base.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-knowledge-base?style=flat-square) | [![Star](https://img.shields.io/badge/⭐-gray?style=flat-square)](https://github.com/jeffersongoncalves/filament-knowledge-base) | ✅ | ✅ | ✅ |
 | [**Filament Satis**](https://github.com/jeffersongoncalves/filament-satis) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/filament-satis.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-satis.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-satis?style=flat-square) | [![Star](https://img.shields.io/badge/⭐-gray?style=flat-square)](https://github.com/jeffersongoncalves/filament-satis) | ✅ | ✅ | ✅ |
@@ -75,7 +75,7 @@ Throughout my journey, I have gained experience with the following technologies:
 
 ## 🚀 Open Source Projects Laravel
 
-| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars | 🌟 Give a Star |
+| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars | 🌟 |
 |-------------|-------------|--------------|---------|:-----------:|
 | [**Laravel Knowledge Base**](https://github.com/jeffersongoncalves/laravel-knowledge-base) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-knowledge-base.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-knowledge-base.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-knowledge-base?style=flat-square) | [![Star](https://img.shields.io/badge/⭐-gray?style=flat-square)](https://github.com/jeffersongoncalves/laravel-knowledge-base) |
 | [**Laravel Satis**](https://github.com/jeffersongoncalves/laravel-satis) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-satis.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-satis.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-satis?style=flat-square) | [![Star](https://img.shields.io/badge/⭐-gray?style=flat-square)](https://github.com/jeffersongoncalves/laravel-satis) |
