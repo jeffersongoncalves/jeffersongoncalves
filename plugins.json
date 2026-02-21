@@ -1,6 +1,13 @@
 {
   "filament": [
     {
+      "title": "Filament Documentation",
+      "package": "jeffersongoncalves/filament-documentation",
+      "v3": true,
+      "v4": true,
+      "v5": true
+    },
+    {
       "title": "Filament Knowledge Base",
       "package": "jeffersongoncalves/filament-knowledge-base",
       "v3": true,
