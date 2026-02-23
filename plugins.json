@@ -1,6 +1,13 @@
 {
   "filament": [
     {
+      "title": "Filament Mixpanel",
+      "package": "jeffersongoncalves/filament-mixpanel",
+      "v3": true,
+      "v4": true,
+      "v5": true
+    },
+    {
       "title": "Filament Documentation",
       "package": "jeffersongoncalves/filament-documentation",
       "v3": true,
