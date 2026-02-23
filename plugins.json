@@ -178,6 +178,10 @@
   ],
   "laravel": [
     {
+      "title": "Laravel Mixpanel",
+      "package": "jeffersongoncalves/laravel-mixpanel"
+    },
+    {
       "title": "Laravel Knowledge Base",
       "package": "jeffersongoncalves/laravel-knowledge-base"
     },
