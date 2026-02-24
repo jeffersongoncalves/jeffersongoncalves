@@ -102,5 +102,6 @@ Throughout my journey, I have gained experience with the following technologies:
 | 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars |
 |-------------|-------------|--------------|---------|
 | [**BB CLI**](https://github.com/jeffersongoncalves/bb-cli) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/bb-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/bb-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/bb-cli?style=flat-square) |
+| [**Jira CLI**](https://github.com/jeffersongoncalves/jira-cli) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/jira-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/jira-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/jira-cli?style=flat-square) |
 
 📌 *This list has been updated with more projects.*
