@@ -339,6 +339,10 @@
     {
       "title": "Filakit CLI",
       "package": "jeffersongoncalves/filakit-cli"
+    },
+    {
+      "title": "Banners CLI",
+      "package": "jeffersongoncalves/banners-cli"
     }
   ]
 }
