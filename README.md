@@ -97,4 +97,10 @@ Throughout my journey, I have gained experience with the following technologies:
 | [**Laravel Fathom**](https://github.com/jeffersongoncalves/laravel-fathom) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-fathom.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-fathom.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-fathom?style=flat-square) |
 | [**Laravel CEP**](https://github.com/jeffersongoncalves/laravel-cep) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-cep.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-cep.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-cep?style=flat-square) |
 
+## 🚀 Open Source Projects CLI
+
+| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars |
+|-------------|-------------|--------------|---------|
+| [**BB CLI**](https://github.com/jeffersongoncalves/bb-cli) | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/bb-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/bb-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/bb-cli?style=flat-square) |
+
 📌 *This list has been updated with more projects.*
