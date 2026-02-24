@@ -323,6 +323,10 @@
     {
       "title": "Jira CLI",
       "package": "jeffersongoncalves/jira-cli"
+    },
+    {
+      "title": "Filakit CLI",
+      "package": "jeffersongoncalves/filakit-cli"
     }
   ]
 }
