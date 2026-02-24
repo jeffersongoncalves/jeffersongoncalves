@@ -74,10 +74,19 @@ jobs:
                   laravelList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) |\n`;
               }
           
+              // Generate the formatted list
+              let cliList = '';
+              for (const kit of plugins.cli) {
+                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
+                  repo = kit.package;
+                  cliList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) |\n`;
+              }
+
               // Use regex with global flag to ensure all occurrences are replaced
               readme = readme.replace(/\[STARTKIT\]/g, startkitList.trim());
               readme = readme.replace(/\[FILAMENT\]/g, filamentList.trim());
               readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
+              readme = readme.replace(/\[CLI\]/g, cliList.trim());
               readme = readme.replace(/\[YEARS\]/g, yearExperience);
           
               // Write updated README

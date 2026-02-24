@@ -42,4 +42,10 @@ Throughout my journey, I have gained experience with the following technologies:
 |-------------|-------------|--------------|---------|
 [LARAVEL]
 
+## 🚀 Open Source Projects CLI
+
+| 🎁 Projects | 🚀 Releases | 📥 Downloads | ⭐ Stars |
+|-------------|-------------|--------------|---------|
+[CLI]
+
 📌 *This list has been updated with more projects.*
