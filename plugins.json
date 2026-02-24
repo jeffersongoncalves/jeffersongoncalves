@@ -319,6 +319,10 @@
     {
       "title": "BB CLI",
       "package": "jeffersongoncalves/bb-cli"
+    },
+    {
+      "title": "Jira CLI",
+      "package": "jeffersongoncalves/jira-cli"
     }
   ]
 }
