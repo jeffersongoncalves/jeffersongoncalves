@@ -81,7 +81,9 @@ async function main() {
 
     console.log('Verificando compatibilidade dos plugins Filament no Packagist...\n');
 
-    for (const plugin of plugins.filament) {
+    const allFilament = [...plugins.filament.featured, ...plugins.filament.more];
+
+    for (const plugin of allFilament) {
         console.log(`Verificando: ${plugin.package}`);
         const compat = await getPackageCompatibility(plugin.package);
 

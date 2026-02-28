@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'plugins.json'
+      - 'README_plugin.md'
+      - '.github/workflows/update-readme.yml'
 
 permissions:
   contents: write
@@ -24,117 +28,92 @@ jobs:
 
       - name: Update README with Starter Kits
         run: |
-          # Create a script to update the README
-          cat > update-readme.js << 'EOF'
+          cat > update-readme.js << 'SCRIPT'
           const fs = require('fs');
-          
-          // Main function to update README
+
           async function updateReadme() {
-              // Read plugins.json
               const plugins = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
               const year = new Date().getFullYear();
               const yearExperience = year - 2008;
-          
-              // Read README_plugin.md as the plugin
+
               let readme = fs.readFileSync('README_plugin.md', 'utf8');
-          
-              // Verify the plugin has been read correctly
+
               if (!readme || readme.trim() === '') {
                   throw new Error('README_plugin.md is empty or could not be read');
               }
-          
-              let repo = '';
-              let owner = '';
-          
-              // Generate the formatted list
-              let startkitList = '';
-              for (const kit of plugins.startkit) {
-                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
-                  startkitList += `| [**${kit.title}**](https://github.com/${kit.package})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${kit.package}?style=flat-square) |\n`;
-              }
-          
-              // Generate the formatted list
-              let filamentList = '';
-              const checkIcon = '✅';
-              const crossIcon = '❌';
-              for (const kit of plugins.filament) {
-                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
-                  repo = kit.package;
-                  const v3 = kit.v3 ? checkIcon : crossIcon;
-                  const v4 = kit.v4 ? checkIcon : crossIcon;
-                  const v5 = kit.v5 ? checkIcon : crossIcon;
-                  filamentList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) | ${v3} | ${v4} | ${v5} |\n`;
-              }
-          
-              // Generate the formatted list
-              let laravelList = '';
-              for (const kit of plugins.laravel) {
-                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
-                  repo = kit.package;
-                  laravelList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) |\n`;
-              }
-          
-              // Generate the formatted list
-              let cliList = '';
-              for (const kit of plugins.cli) {
-                  owner = kit.package.startsWith('jeffersongoncalves') || kit.package.startsWith('jeffersonsimaogoncalves') ? '' : ' Contribution';
-                  repo = kit.package;
-                  cliList += `| [**${kit.title}**](https://github.com/${repo})${owner} | ![Latest Version](https://img.shields.io/packagist/v/${kit.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${kit.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${repo}?style=flat-square) |\n`;
+
+              // Helper: detect contribution badge
+              function isOwned(pkg) {
+                  return pkg.startsWith('jeffersongoncalves') || pkg.startsWith('jeffersonsimaogoncalves');
               }
 
-              // Use regex with global flag to ensure all occurrences are replaced
-              readme = readme.replace(/\[STARTKIT\]/g, startkitList.trim());
-              readme = readme.replace(/\[FILAMENT\]/g, filamentList.trim());
+              // Generate a starter kit / CLI row (with version badge)
+              function generateStartkitRow(item) {
+                  const owner = isOwned(item.package) ? '' : ' Contribution';
+                  return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Version](https://img.shields.io/packagist/v/${item.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+              }
+
+              // Generate a filament plugin row (with compatibility)
+              function generateFilamentRow(item) {
+                  const owner = isOwned(item.package) ? '' : ' Contribution';
+                  const versions = [];
+                  if (item.v3) versions.push('v3');
+                  if (item.v4) versions.push('v4');
+                  if (item.v5) versions.push('v5');
+                  const compatibility = versions.join(' \u00b7 ');
+                  return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) | ${compatibility} |\n`;
+              }
+
+              // Generate a laravel package row (no version badge)
+              function generateLaravelRow(item) {
+                  const owner = isOwned(item.package) ? '' : ' Contribution';
+                  return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+              }
+
+              // Build all lists
+              const startkitFeatured = plugins.startkit.featured.map(generateStartkitRow).join('');
+              const startkitLegacy = plugins.startkit.legacy.map(generateStartkitRow).join('');
+              const filamentFeatured = plugins.filament.featured.map(generateFilamentRow).join('');
+              const filamentMore = plugins.filament.more.map(generateFilamentRow).join('');
+              const laravelList = plugins.laravel.map(generateLaravelRow).join('');
+              const cliList = plugins.cli.map(generateStartkitRow).join('');
+
+              // Replace all placeholders
+              readme = readme.replace(/\[STARTKIT_FEATURED\]/g, startkitFeatured.trim());
+              readme = readme.replace(/\[STARTKIT_LEGACY\]/g, startkitLegacy.trim());
+              readme = readme.replace(/\[FILAMENT_FEATURED\]/g, filamentFeatured.trim());
+              readme = readme.replace(/\[FILAMENT_MORE\]/g, filamentMore.trim());
               readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
               readme = readme.replace(/\[CLI\]/g, cliList.trim());
               readme = readme.replace(/\[YEARS\]/g, yearExperience);
-          
-              // Write updated README
+
               fs.writeFileSync('README.md', readme);
-          
-              // Verify the README.md was written correctly
-              const writtenReadme = fs.readFileSync('README.md', 'utf8');
-          
-              if (writtenReadme !== readme) {
-                  console.warn('WARNING: Written README.md does not match the generated content');
-              }
-          
-              console.log('README.md has been updated with starter kits from plugins.json');
+              console.log('README.md has been updated successfully');
           }
-          
-          // Verify README_plugin.md exists before running
+
           if (!fs.existsSync('README_plugin.md')) {
               console.error('ERROR: README_plugin.md does not exist');
               process.exit(1);
           }
-          
-          // Run the update
+
           updateReadme().catch(err => {
               console.error('Error updating README:', err);
               process.exit(1);
           });
-          EOF
-          
-          # Run the script
+          SCRIPT
+
           node update-readme.js
 
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
-          # Check if README.md exists and show its content
-          echo "Current README.md content (first few lines):"
-          head README.md
-          
-          # Always add README.md since we're generating it from the template
+
           git add README.md
-          
-          # Check for changes in the staging area
-          git status
-          
-          # Force the commit even if git thinks there are no changes
-          git commit --allow-empty -m "Update README with latest starter kits from template"
-          
-          # Force push to ensure README.md is always updated
-          git push --force origin HEAD:${{ github.ref }}
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update README with latest starter kits from template"
+            git push origin HEAD:${{ github.ref }}
+          fi

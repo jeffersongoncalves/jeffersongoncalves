@@ -1,188 +1,270 @@
 {
-  "filament": [
-    {
-      "title": "Filament Mixpanel",
-      "package": "jeffersongoncalves/filament-mixpanel",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Documentation",
-      "package": "jeffersongoncalves/filament-documentation",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Knowledge Base",
-      "package": "jeffersongoncalves/filament-knowledge-base",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Satis",
-      "package": "jeffersongoncalves/filament-satis",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Help Desk",
-      "package": "jeffersongoncalves/filament-help-desk",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Service Desk",
-      "package": "jeffersongoncalves/filament-service-desk",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Refresh Sidebar",
-      "package": "jeffersongoncalves/filament-refresh-sidebar",
-      "v3": false,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Hidden Action",
-      "package": "jeffersongoncalves/filament-hidden-action",
-      "v3": false,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Multi-factor WhatsApp",
-      "package": "jeffersongoncalves/filament-multifactor-whatsapp",
-      "v3": false,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Ace Editor Field",
-      "package": "jeffersongoncalves/filament-ace-editor-field",
-      "v3": false,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Topbar",
-      "package": "jeffersongoncalves/filament-topbar",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Keyable",
-      "package": "jeffersongoncalves/filament-keyable",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Logo",
-      "package": "jeffersongoncalves/filament-logo",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament CEP Field",
-      "package": "jeffersongoncalves/filament-cep-field",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament QrCode Field",
-      "package": "jeffersongoncalves/filament-qrcode-field",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament One Time Operations",
-      "package": "jeffersongoncalves/filament-one-time-operations",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Whatsapp Widget",
-      "package": "jeffersongoncalves/filament-whatsapp-widget",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Cookie Consent",
-      "package": "jeffersongoncalves/filament-cookie-consent",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Check Whois Widget",
-      "package": "jeffersongoncalves/filament-check-whois-widget",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Umami",
-      "package": "jeffersongoncalves/filament-umami",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Plausible",
-      "package": "jeffersongoncalves/filament-plausible",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Matomo",
-      "package": "jeffersongoncalves/filament-matomo",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Pixel",
-      "package": "jeffersongoncalves/filament-pixel",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Gtag",
-      "package": "jeffersongoncalves/filament-gtag",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Gtm",
-      "package": "jeffersongoncalves/filament-gtm",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    },
-    {
-      "title": "Filament Fathom",
-      "package": "jeffersongoncalves/filament-fathom",
-      "v3": true,
-      "v4": true,
-      "v5": true
-    }
-  ],
+  "startkit": {
+    "featured": [
+      {
+        "title": "Base v5",
+        "package": "filakitphp/basev5"
+      },
+      {
+        "title": "Filakit v5",
+        "package": "jeffersongoncalves/filakitv5"
+      },
+      {
+        "title": "Nativekit v5",
+        "package": "jeffersongoncalves/nativekitv5"
+      },
+      {
+        "title": "Mobilekit v5",
+        "package": "jeffersongoncalves/mobilekitv5"
+      },
+      {
+        "title": "Teamkit v5",
+        "package": "jeffersongoncalves/teamkitv5"
+      },
+      {
+        "title": "Service Desk Kit v5",
+        "package": "jeffersongoncalves/servicedeskkitv5"
+      }
+    ],
+    "legacy": [
+      {
+        "title": "Base v4",
+        "package": "filakitphp/basev4"
+      },
+      {
+        "title": "Filakit v4",
+        "package": "jeffersongoncalves/filakitv4"
+      },
+      {
+        "title": "Nativekit v4",
+        "package": "jeffersongoncalves/nativekitv4"
+      },
+      {
+        "title": "Mobilekit v4",
+        "package": "jeffersongoncalves/mobilekitv4"
+      },
+      {
+        "title": "Teamkit v4",
+        "package": "jeffersongoncalves/teamkitv4"
+      },
+      {
+        "title": "Evolutionkit v4",
+        "package": "jeffersongoncalves/evolutionkitv4"
+      },
+      {
+        "title": "MFAkit v4",
+        "package": "jeffersongoncalves/mfakitv4"
+      },
+      {
+        "title": "Base v3",
+        "package": "filakitphp/basev3"
+      },
+      {
+        "title": "Filakit v3",
+        "package": "jeffersongoncalves/filakit"
+      },
+      {
+        "title": "Nativekit v3",
+        "package": "jeffersongoncalves/nativekit"
+      },
+      {
+        "title": "Mobilekit v3",
+        "package": "jeffersongoncalves/mobilekit"
+      },
+      {
+        "title": "Teamkit v3",
+        "package": "jeffersongoncalves/teamkit"
+      }
+    ]
+  },
+  "filament": {
+    "featured": [
+      {
+        "title": "Filament Mixpanel",
+        "package": "jeffersongoncalves/filament-mixpanel",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Documentation",
+        "package": "jeffersongoncalves/filament-documentation",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Knowledge Base",
+        "package": "jeffersongoncalves/filament-knowledge-base",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Help Desk",
+        "package": "jeffersongoncalves/filament-help-desk",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Service Desk",
+        "package": "jeffersongoncalves/filament-service-desk",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Satis",
+        "package": "jeffersongoncalves/filament-satis",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Topbar",
+        "package": "jeffersongoncalves/filament-topbar",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Keyable",
+        "package": "jeffersongoncalves/filament-keyable",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament CEP Field",
+        "package": "jeffersongoncalves/filament-cep-field",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament QrCode Field",
+        "package": "jeffersongoncalves/filament-qrcode-field",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Cookie Consent",
+        "package": "jeffersongoncalves/filament-cookie-consent",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Logo",
+        "package": "jeffersongoncalves/filament-logo",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      }
+    ],
+    "more": [
+      {
+        "title": "Filament Refresh Sidebar",
+        "package": "jeffersongoncalves/filament-refresh-sidebar",
+        "v3": false,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Hidden Action",
+        "package": "jeffersongoncalves/filament-hidden-action",
+        "v3": false,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Multi-factor WhatsApp",
+        "package": "jeffersongoncalves/filament-multifactor-whatsapp",
+        "v3": false,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Ace Editor Field",
+        "package": "jeffersongoncalves/filament-ace-editor-field",
+        "v3": false,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament One Time Operations",
+        "package": "jeffersongoncalves/filament-one-time-operations",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament WhatsApp Widget",
+        "package": "jeffersongoncalves/filament-whatsapp-widget",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Check Whois Widget",
+        "package": "jeffersongoncalves/filament-check-whois-widget",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Umami",
+        "package": "jeffersongoncalves/filament-umami",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Plausible",
+        "package": "jeffersongoncalves/filament-plausible",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Matomo",
+        "package": "jeffersongoncalves/filament-matomo",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Pixel",
+        "package": "jeffersongoncalves/filament-pixel",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Gtag",
+        "package": "jeffersongoncalves/filament-gtag",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament GTM",
+        "package": "jeffersongoncalves/filament-gtm",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Fathom",
+        "package": "jeffersongoncalves/filament-fathom",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      }
+    ]
+  },
   "laravel": [
     {
       "title": "Laravel Mixpanel",
@@ -205,20 +287,12 @@
       "package": "jeffersongoncalves/laravel-service-desk"
     },
     {
-      "title": "Laravel Fake Cartoons",
-      "package": "jeffersongoncalves/laravel-fake-cartoons"
-    },
-    {
-      "title": "Laravel Whatsapp Widget",
-      "package": "jeffersongoncalves/laravel-whatsapp-widget"
-    },
-    {
       "title": "Laravel Cookie Consent",
       "package": "jeffersongoncalves/laravel-cookie-consent"
     },
     {
-      "title": "Laravel Created By",
-      "package": "jeffersongoncalves/laravel-created-by"
+      "title": "Laravel WhatsApp Widget",
+      "package": "jeffersongoncalves/laravel-whatsapp-widget"
     },
     {
       "title": "Laravel Umami",
@@ -227,6 +301,14 @@
     {
       "title": "Laravel Plausible",
       "package": "jeffersongoncalves/laravel-plausible"
+    },
+    {
+      "title": "Laravel Created By",
+      "package": "jeffersongoncalves/laravel-created-by"
+    },
+    {
+      "title": "Laravel Fake Cartoons",
+      "package": "jeffersongoncalves/laravel-fake-cartoons"
     },
     {
       "title": "Laravel Matomo",
@@ -251,80 +333,6 @@
     {
       "title": "Laravel CEP",
       "package": "jeffersongoncalves/laravel-cep"
-    }
-  ],
-  "startkit": [
-    {
-      "title": "Base v5",
-      "package": "filakitphp/basev5"
-    },
-    {
-      "title": "Filakit v5",
-      "package": "jeffersongoncalves/filakitv5"
-    },
-    {
-      "title": "Nativekit v5",
-      "package": "jeffersongoncalves/nativekitv5"
-    },
-    {
-      "title": "Mobilekit v5",
-      "package": "jeffersongoncalves/mobilekitv5"
-    },
-    {
-      "title": "Teamkit v5",
-      "package": "jeffersongoncalves/teamkitv5"
-    },
-    {
-      "title": "Service Desk Kit v5",
-      "package": "jeffersongoncalves/servicedeskkitv5"
-    },
-    {
-      "title": "Base v4",
-      "package": "filakitphp/basev4"
-    },
-    {
-      "title": "Filakit v4",
-      "package": "jeffersongoncalves/filakitv4"
-    },
-    {
-      "title": "Nativekit v4",
-      "package": "jeffersongoncalves/nativekitv4"
-    },
-    {
-      "title": "Mobilekit v4",
-      "package": "jeffersongoncalves/mobilekitv4"
-    },
-    {
-      "title": "Teamkit v4",
-      "package": "jeffersongoncalves/teamkitv4"
-    },
-    {
-      "title": "Evolutionkit v4",
-      "package": "jeffersongoncalves/evolutionkitv4"
-    },
-    {
-      "title": "MFAkit v4",
-      "package": "jeffersongoncalves/mfakitv4"
-    },
-    {
-      "title": "Base v3",
-      "package": "filakitphp/basev3"
-    },
-    {
-      "title": "Filakit v3",
-      "package": "jeffersongoncalves/filakit"
-    },
-    {
-      "title": "Nativekit v3",
-      "package": "jeffersongoncalves/nativekit"
-    },
-    {
-      "title": "Mobilekit v3",
-      "package": "jeffersongoncalves/mobilekit"
-    },
-    {
-      "title": "Teamkit v3",
-      "package": "jeffersongoncalves/teamkit"
     }
   ],
   "cli": [
