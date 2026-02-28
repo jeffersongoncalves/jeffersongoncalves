@@ -55,16 +55,16 @@ My passion lives in the **open source** world — I actively maintain **20+ Fila
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersongoncalves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersongoncalves&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://stats.jeffersongoncalves.dev.br/api/stats?theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://stats.jeffersongoncalves.dev.br/api/top-langs?theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersongoncalves&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://stats.jeffersongoncalves.dev.br/api/streak?theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeffersongoncalves&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+  <img src="https://stats.jeffersongoncalves.dev.br/api/trophies?theme=tokyonight&no_frame=true&no_bg=true&column=7" />
 </div>
 
 ---
