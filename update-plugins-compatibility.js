@@ -2,7 +2,7 @@
  * Script para verificar compatibilidade dos plugins Filament no Packagist
  *
  * Consulta a API do Packagist para cada plugin e verifica se existe
- * alguma versão que depende de filament/filament ^3.0, ^4.0 ou ^5.0
+ * alguma versão que depende de filament/* ^3.x, ^4.x ou ^5.x
  *
  * Uso: node update-plugins-compatibility.js
  */
@@ -31,6 +31,10 @@ function fetch(url) {
     });
 }
 
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 function checkFilamentCompatibility(requireSection) {
     if (!requireSection) return { v3: false, v4: false, v5: false };
 
@@ -44,9 +48,11 @@ function checkFilamentCompatibility(requireSection) {
     const result = { v3: false, v4: false, v5: false };
 
     for (const dep of filamentDeps) {
-        if (/\^3\.0|~3\.|>=3\./.test(dep)) result.v3 = true;
-        if (/\^4\.0|~4\.|>=4\.|4\.0\.0/.test(dep)) result.v4 = true;
-        if (/\^5\.0|~5\.|>=5\./.test(dep)) result.v5 = true;
+        // Match any constraint referencing major version N of filament
+        // Handles: ^N.x, ~N.x, >=N.x, >N.x, N.*, and || OR constraints
+        if (/(?:\^|~|>=?)3\.\d|3\.\*/.test(dep)) result.v3 = true;
+        if (/(?:\^|~|>=?)4\.\d|4\.\*/.test(dep)) result.v4 = true;
+        if (/(?:\^|~|>=?)5\.\d|5\.\*/.test(dep)) result.v5 = true;
     }
 
     return result;
@@ -71,7 +77,7 @@ async function getPackageCompatibility(packageName) {
         return compat;
     } catch (error) {
         console.error(`  [ERRO] ${packageName}: ${error.message}`);
-        return { v3: false, v4: false, v5: false };
+        return null; // Signal error - preserve existing data
     }
 }
 
@@ -83,17 +89,64 @@ async function main() {
 
     const allFilament = [...plugins.filament.featured, ...plugins.filament.more];
 
-    for (const plugin of allFilament) {
+    let updated = 0;
+    let skipped = 0;
+    let errors = 0;
+    const changes = [];
+
+    for (let i = 0; i < allFilament.length; i++) {
+        const plugin = allFilament[i];
         console.log(`Verificando: ${plugin.package}`);
         const compat = await getPackageCompatibility(plugin.package);
 
-        plugin.v3 = compat.v3;
-        plugin.v4 = compat.v4;
-        plugin.v5 = compat.v5;
+        if (compat === null) {
+            errors++;
+            console.log(`  [SKIP] Mantendo dados existentes para ${plugin.package}\n`);
+        } else {
+            const changed = plugin.v3 !== compat.v3 || plugin.v4 !== compat.v4 || plugin.v5 !== compat.v5;
+            if (changed) {
+                changes.push({
+                    package: plugin.package,
+                    before: { v3: plugin.v3, v4: plugin.v4, v5: plugin.v5 },
+                    after: { v3: compat.v3, v4: compat.v4, v5: compat.v5 }
+                });
+                updated++;
+            } else {
+                skipped++;
+            }
 
-        const icon = (v) => v ? '✅' : '❌';
-        console.log(`  V3: ${icon(compat.v3)}  V4: ${icon(compat.v4)}  V5: ${icon(compat.v5)}\n`);
+            plugin.v3 = compat.v3;
+            plugin.v4 = compat.v4;
+            plugin.v5 = compat.v5;
+
+            const icon = (v) => v ? '✅' : '❌';
+            console.log(`  V3: ${icon(compat.v3)}  V4: ${icon(compat.v4)}  V5: ${icon(compat.v5)}\n`);
+        }
+
+        // Rate limiting: 200ms delay between requests
+        if (i < allFilament.length - 1) {
+            await sleep(200);
+        }
     }
+
+    // Summary
+    console.log('='.repeat(60));
+    console.log('RESUMO:');
+    console.log(`  Total: ${allFilament.length} plugins`);
+    console.log(`  Atualizados: ${updated}`);
+    console.log(`  Sem alteração: ${skipped}`);
+    console.log(`  Erros (dados preservados): ${errors}`);
+
+    if (changes.length > 0) {
+        console.log('\nAlterações:');
+        for (const c of changes) {
+            const fmt = (o) => `v3:${o.v3 ? '✅' : '❌'} v4:${o.v4 ? '✅' : '❌'} v5:${o.v5 ? '✅' : '❌'}`;
+            console.log(`  ${c.package}`);
+            console.log(`    Antes:  ${fmt(c.before)}`);
+            console.log(`    Depois: ${fmt(c.after)}`);
+        }
+    }
+    console.log('');
 
     fs.writeFileSync(pluginsPath, JSON.stringify(plugins, null, 2) + '\n');
     console.log('plugins.json atualizado com sucesso!');
