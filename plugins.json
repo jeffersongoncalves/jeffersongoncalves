@@ -267,6 +267,10 @@
   },
   "laravel": [
     {
+      "title": "Laravel Github Stats",
+      "package": "jeffersongoncalves/laravel-github-stats"
+    },
+    {
       "title": "Laravel Mixpanel",
       "package": "jeffersongoncalves/laravel-mixpanel"
     },
