@@ -56,7 +56,7 @@ My passion lives in the **open source** world — I actively maintain **20+ Fila
 
 <div align="center">
   <img height="180em" src="https://stats.jeffersongoncalves.dev.br/api/stats?theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://stats.jeffersongoncalves.dev.br/api/top-langs?theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://stats.jeffersongoncalves.dev.br/api/top-langs?theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&hide=html" />
 </div>
 
 <div align="center">
