@@ -24,6 +24,10 @@
       {
         "title": "Service Desk Kit v5",
         "package": "jeffersongoncalves/servicedeskkitv5"
+      },
+      {
+        "title": "Evolutionkit v5",
+        "package": "jeffersongoncalves/evolutionkitv5"
       }
     ],
     "legacy": [
