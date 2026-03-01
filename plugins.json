@@ -52,6 +52,10 @@
         "package": "jeffersongoncalves/teamkitv4"
       },
       {
+        "title": "Service Desk Kit v4",
+        "package": "jeffersongoncalves/servicedeskkitv4"
+      },
+      {
         "title": "Evolutionkit v4",
         "package": "jeffersongoncalves/evolutionkitv4"
       },
@@ -78,6 +82,10 @@
       {
         "title": "Teamkit v3",
         "package": "jeffersongoncalves/teamkit"
+      },
+      {
+        "title": "Service Desk Kit v3",
+        "package": "jeffersongoncalves/servicedeskkitv3"
       }
     ]
   },
