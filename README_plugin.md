@@ -105,14 +105,13 @@ Plugins I created and maintain for the **Filament** ecosystem. All supporting **
 
 </details>
 
-<details>
-<summary>🤝 Plugins I collaborate on</summary>
+### 🤝 Plugins Maintainer
+
+Filament plugins I actively maintain as a **collaborator**.
 
 | Plugin | Downloads | Stars | Compatibility |
 |:-------|:---------:|:-----:|:-------------:|
 [FILAMENT_COLLABORATOR]
-
-</details>
 
 ---
 
