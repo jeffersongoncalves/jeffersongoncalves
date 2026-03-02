@@ -75,6 +75,7 @@ jobs:
               const startkitLegacy = plugins.startkit.legacy.map(generateStartkitRow).join('');
               const filamentFeatured = plugins.filament.featured.map(generateFilamentRow).join('');
               const filamentMore = plugins.filament.more.map(generateFilamentRow).join('');
+              const filamentCollaborator = plugins.filament.collaborator.map(generateFilamentRow).join('');
               const laravelList = plugins.laravel.map(generateLaravelRow).join('');
               const cliList = plugins.cli.map(generateStartkitRow).join('');
 
@@ -83,6 +84,7 @@ jobs:
               readme = readme.replace(/\[STARTKIT_LEGACY\]/g, startkitLegacy.trim());
               readme = readme.replace(/\[FILAMENT_FEATURED\]/g, filamentFeatured.trim());
               readme = readme.replace(/\[FILAMENT_MORE\]/g, filamentMore.trim());
+              readme = readme.replace(/\[FILAMENT_COLLABORATOR\]/g, filamentCollaborator.trim());
               readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
               readme = readme.replace(/\[CLI\]/g, cliList.trim());
               readme = readme.replace(/\[YEARS\]/g, yearExperience);

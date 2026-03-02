@@ -291,6 +291,50 @@
         "v4": true,
         "v5": true
       }
+    ],
+    "collaborator": [
+      {
+        "title": "Filament Edit Profile",
+        "package": "joaopaulolndev/filament-edit-profile",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament General Settings",
+        "package": "joaopaulolndev/filament-general-settings",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament PDF Viewer",
+        "package": "joaopaulolndev/filament-pdf-viewer",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Edit Env",
+        "package": "joaopaulolndev/filament-edit-env",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament World Clock",
+        "package": "joaopaulolndev/filament-world-clock",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Check SSL Widget",
+        "package": "joaopaulolndev/filament-check-ssl-widget",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      }
     ]
   },
   "laravel": [

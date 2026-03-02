@@ -105,6 +105,15 @@ Plugins I created and maintain for the **Filament** ecosystem. All supporting **
 
 </details>
 
+<details>
+<summary>🤝 Plugins I collaborate on</summary>
+
+| Plugin | Downloads | Stars | Compatibility |
+|:-------|:---------:|:-----:|:-------------:|
+[FILAMENT_COLLABORATOR]
+
+</details>
+
 ---
 
 ## 📦 Laravel Packages
