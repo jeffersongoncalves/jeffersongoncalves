@@ -171,6 +171,7 @@ Filament plugins I actively maintain as a **collaborator**.
 
 | Package | Downloads | Stars |
 |:--------|:---------:|:-----:|
+| [**Laravel Metrics Fathom**](https://github.com/jeffersongoncalves/laravel-metrics-fathom) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-metrics-fathom.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-metrics-fathom?style=flat-square) |
 | [**Laravel Github Stats**](https://github.com/jeffersongoncalves/laravel-github-stats) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-github-stats.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-github-stats?style=flat-square) |
 | [**Laravel Mixpanel**](https://github.com/jeffersongoncalves/laravel-mixpanel) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-mixpanel.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-mixpanel?style=flat-square) |
 | [**Laravel Knowledge Base**](https://github.com/jeffersongoncalves/laravel-knowledge-base) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-knowledge-base.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-knowledge-base?style=flat-square) |
