@@ -339,6 +339,10 @@
   },
   "laravel": [
     {
+      "title": "Laravel Metrics Fathom",
+      "package": "jeffersongoncalves/laravel-metrics-fathom"
+    },
+    {
       "title": "Laravel Github Stats",
       "package": "jeffersongoncalves/laravel-github-stats"
     },
