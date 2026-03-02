@@ -152,8 +152,9 @@ Plugins I created and maintain for the **Filament** ecosystem. All supporting **
 
 </details>
 
-<details>
-<summary>🤝 Plugins I collaborate on</summary>
+### 🤝 Plugins Maintainer
+
+Filament plugins I actively maintain as a **collaborator**.
 
 | Plugin | Downloads | Stars | Compatibility |
 |:-------|:---------:|:-----:|:-------------:|
@@ -163,8 +164,6 @@ Plugins I created and maintain for the **Filament** ecosystem. All supporting **
 | [**Filament Edit Env**](https://github.com/joaopaulolndev/filament-edit-env) Contribution | ![Downloads](https://img.shields.io/packagist/dt/joaopaulolndev/filament-edit-env.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/joaopaulolndev/filament-edit-env?style=flat-square) | v3 · v4 · v5 |
 | [**Filament World Clock**](https://github.com/joaopaulolndev/filament-world-clock) Contribution | ![Downloads](https://img.shields.io/packagist/dt/joaopaulolndev/filament-world-clock.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/joaopaulolndev/filament-world-clock?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Check SSL Widget**](https://github.com/joaopaulolndev/filament-check-ssl-widget) Contribution | ![Downloads](https://img.shields.io/packagist/dt/joaopaulolndev/filament-check-ssl-widget.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/joaopaulolndev/filament-check-ssl-widget?style=flat-square) | v3 · v4 · v5 |
-
-</details>
 
 ---
 
