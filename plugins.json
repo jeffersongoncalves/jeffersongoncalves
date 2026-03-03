@@ -290,6 +290,13 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament Metrics Fathom",
+        "package": "jeffersongoncalves/filament-metrics-fathom",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
