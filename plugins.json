@@ -264,6 +264,13 @@
         "v5": true
       },
       {
+        "title": "Filament Metrics Matomo",
+        "package": "jeffersongoncalves/filament-metrics-matomo",
+        "v3": false,
+        "v4": false,
+        "v5": false
+      },
+      {
         "title": "Filament Pixel",
         "package": "jeffersongoncalves/filament-pixel",
         "v3": true,
