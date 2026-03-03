@@ -149,6 +149,7 @@ Plugins I created and maintain for the **Filament** ecosystem. All supporting **
 | [**Filament Gtag**](https://github.com/jeffersongoncalves/filament-gtag) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gtag.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gtag?style=flat-square) | v3 · v4 · v5 |
 | [**Filament GTM**](https://github.com/jeffersongoncalves/filament-gtm) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gtm.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gtm?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Fathom**](https://github.com/jeffersongoncalves/filament-fathom) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-fathom.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-fathom?style=flat-square) | v3 · v4 · v5 |
+| [**Filament Metrics Fathom**](https://github.com/jeffersongoncalves/filament-metrics-fathom) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-metrics-fathom.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-metrics-fathom?style=flat-square) | v3 · v4 · v5 |
 
 </details>
 
