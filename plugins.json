@@ -346,10 +346,6 @@
   },
   "laravel": [
     {
-      "title": "Laravel Metrics Fathom",
-      "package": "jeffersongoncalves/laravel-metrics-fathom"
-    },
-    {
       "title": "Laravel Github Stats",
       "package": "jeffersongoncalves/laravel-github-stats"
     },
@@ -402,6 +398,10 @@
       "package": "jeffersongoncalves/laravel-matomo"
     },
     {
+      "title": "Laravel Metrics Matomo",
+      "package": "jeffersongoncalves/laravel-metrics-matomo"
+    },
+    {
       "title": "Laravel Pixel",
       "package": "jeffersongoncalves/laravel-pixel"
     },
@@ -416,6 +416,10 @@
     {
       "title": "Laravel Fathom",
       "package": "jeffersongoncalves/laravel-fathom"
+    },
+    {
+      "title": "Laravel Metrics Fathom",
+      "package": "jeffersongoncalves/laravel-metrics-fathom"
     },
     {
       "title": "Laravel CEP",
