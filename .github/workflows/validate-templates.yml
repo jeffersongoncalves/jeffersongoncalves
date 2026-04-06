@@ -40,9 +40,9 @@ jobs:
             exit 1
           fi
 
-          # Validate filament has featured, more, and collaborator arrays
-          if ! jq -e '.filament.featured and .filament.more and .filament.collaborator' plugins.json >/dev/null; then
-            echo "Error: filament must have 'featured', 'more', and 'collaborator' arrays"
+          # Validate filament has plugins and collaborator arrays
+          if ! jq -e '.filament.plugins and .filament.collaborator' plugins.json >/dev/null; then
+            echo "Error: filament must have 'plugins' and 'collaborator' arrays"
             exit 1
           fi
 
@@ -51,8 +51,7 @@ jobs:
             [
               .startkit.featured[],
               .startkit.legacy[],
-              .filament.featured[],
-              .filament.more[],
+              .filament.plugins[],
               .filament.collaborator[],
               .laravel[],
               .cli[]

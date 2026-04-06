@@ -90,20 +90,11 @@ A complete ecosystem of ready-to-use starter kits built on **Filament + Laravel*
 
 ## 🔌 Filament Plugins
 
-Plugins I created and maintain for the **Filament** ecosystem. All supporting **v3, v4 & v5**.
+Plugins I created and maintain for the **Filament** ecosystem.
 
 | Plugin | Downloads | Stars | Compatibility |
 |:-------|:---------:|:-----:|:-------------:|
-[FILAMENT_FEATURED]
-
-<details>
-<summary>🔽 View more plugins (Analytics, WhatsApp, MFA...)</summary>
-
-| Plugin | Downloads | Stars | Compatibility |
-|:-------|:---------:|:-----:|:-------------:|
-[FILAMENT_MORE]
-
-</details>
+[FILAMENT_PLUGINS]
 
 ### 🤝 Plugins Maintainer
 

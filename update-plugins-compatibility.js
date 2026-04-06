@@ -87,7 +87,7 @@ async function main() {
 
     console.log('Verificando compatibilidade dos plugins Filament no Packagist...\n');
 
-    const allFilament = [...plugins.filament.featured, ...plugins.filament.more, ...plugins.filament.collaborator];
+    const allFilament = [...plugins.filament.plugins, ...plugins.filament.collaborator];
 
     let updated = 0;
     let skipped = 0;
