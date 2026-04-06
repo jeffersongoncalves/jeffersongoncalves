@@ -192,6 +192,13 @@
         "v5": true
       },
       {
+        "title": "Filament Mail",
+        "package": "jeffersongoncalves/filament-mail",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Logo",
         "package": "jeffersongoncalves/filament-logo",
         "v3": true,
