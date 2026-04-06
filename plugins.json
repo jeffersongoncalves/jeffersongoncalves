@@ -267,8 +267,8 @@
         "title": "Filament Metrics Matomo",
         "package": "jeffersongoncalves/filament-metrics-matomo",
         "v3": false,
-        "v4": false,
-        "v5": false
+        "v4": true,
+        "v5": true
       },
       {
         "title": "Filament Pixel",
@@ -301,6 +301,13 @@
       {
         "title": "Filament Metrics Fathom",
         "package": "jeffersongoncalves/filament-metrics-fathom",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament YAML Editor",
+        "package": "jeffersongoncalves/filament-yaml-editor",
         "v3": true,
         "v4": true,
         "v5": true
@@ -431,6 +438,10 @@
     {
       "title": "Laravel CEP",
       "package": "jeffersongoncalves/laravel-cep"
+    },
+    {
+      "title": "Laravel Mail",
+      "package": "jeffersongoncalves/laravel-mail"
     }
   ],
   "cli": [
