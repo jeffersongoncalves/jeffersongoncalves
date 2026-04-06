@@ -215,7 +215,7 @@
       {
         "title": "Filament Metrics Matomo",
         "package": "jeffersongoncalves/filament-metrics-matomo",
-        "v3": false,
+        "v3": true,
         "v4": true,
         "v5": true
       },
