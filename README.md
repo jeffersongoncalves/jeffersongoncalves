@@ -208,10 +208,10 @@ Filament plugins I actively maintain as a **collaborator**.
 
 PhpStorm / IntelliJ plugins I built in Kotlin to speed up my own workflow.
 
-| Plugin | Latest Release | Stars |
-|:-------|:-------------:|:-----:|
-| [**Worktree Env Plugin**](https://github.com/jeffersongoncalves/worktree-env-plugin) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/worktree-env-plugin?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/worktree-env-plugin?style=flat-square) |
-| [**Herd Manager Plugin**](https://github.com/jeffersongoncalves/herd-manager-plugin) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/herd-manager-plugin?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/herd-manager-plugin?style=flat-square) |
+| Plugin | Latest Release | Downloads | Stars |
+|:-------|:-------------:|:---------:|:-----:|
+| [**Worktree Env Plugin**](https://github.com/jeffersongoncalves/worktree-env-plugin) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/worktree-env-plugin?style=flat-square) | [![Downloads](https://img.shields.io/jetbrains/plugin/d/31190-worktree-env-configurator.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/31190-worktree-env-configurator) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/worktree-env-plugin?style=flat-square) |
+| [**Herd Manager Plugin**](https://github.com/jeffersongoncalves/herd-manager-plugin) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/herd-manager-plugin?style=flat-square) | [![Downloads](https://img.shields.io/jetbrains/plugin/d/31013-herd-manager.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/31013-herd-manager) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/herd-manager-plugin?style=flat-square) |
 
 ---
 
