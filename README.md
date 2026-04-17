@@ -199,6 +199,19 @@ Filament plugins I actively maintain as a **collaborator**.
 | [**Jira CLI**](https://github.com/jeffersongoncalves/jira-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/jira-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/jira-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/jira-cli?style=flat-square) |
 | [**Filakit CLI**](https://github.com/jeffersongoncalves/filakit-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/filakit-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filakit-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filakit-cli?style=flat-square) |
 | [**Banners CLI**](https://github.com/jeffersongoncalves/banners-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/banners-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/banners-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/banners-cli?style=flat-square) |
+| [**Git Worktree CLI**](https://github.com/jeffersongoncalves/git-worktree-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/git-worktree-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/git-worktree-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/git-worktree-cli?style=flat-square) |
+| [**Screentest CLI**](https://github.com/jeffersongoncalves/screentest-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/screentest-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/screentest-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/screentest-cli?style=flat-square) |
+
+---
+
+## 🧩 JetBrains Plugins
+
+PhpStorm / IntelliJ plugins I built in Kotlin to speed up my own workflow.
+
+| Plugin | Latest Release | Stars |
+|:-------|:-------------:|:-----:|
+| [**Worktree Env Plugin**](https://github.com/jeffersongoncalves/worktree-env-plugin) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/worktree-env-plugin?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/worktree-env-plugin?style=flat-square) |
+| [**Herd Manager Plugin**](https://github.com/jeffersongoncalves/herd-manager-plugin) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/herd-manager-plugin?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/herd-manager-plugin?style=flat-square) |
 
 ---
 
