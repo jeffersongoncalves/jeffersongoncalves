@@ -465,6 +465,24 @@
     {
       "title": "Banners CLI",
       "package": "jeffersongoncalves/banners-cli"
+    },
+    {
+      "title": "Git Worktree CLI",
+      "package": "jeffersongoncalves/git-worktree-cli"
+    },
+    {
+      "title": "Screentest CLI",
+      "package": "jeffersongoncalves/screentest-cli"
+    }
+  ],
+  "jetbrains": [
+    {
+      "title": "Worktree Env Plugin",
+      "package": "jeffersongoncalves/worktree-env-plugin"
+    },
+    {
+      "title": "Herd Manager Plugin",
+      "package": "jeffersongoncalves/herd-manager-plugin"
     }
   ]
 }

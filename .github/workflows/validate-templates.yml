@@ -29,8 +29,8 @@ jobs:
           fi
 
           # Validate top-level structure
-          if ! jq -e '.startkit and .filament and .laravel and .cli' plugins.json >/dev/null; then
-            echo "Error: plugins.json must contain 'startkit', 'filament', 'laravel', and 'cli' sections"
+          if ! jq -e '.startkit and .filament and .laravel and .cli and .jetbrains' plugins.json >/dev/null; then
+            echo "Error: plugins.json must contain 'startkit', 'filament', 'laravel', 'cli', and 'jetbrains' sections"
             exit 1
           fi
 
@@ -54,7 +54,8 @@ jobs:
               .filament.plugins[],
               .filament.collaborator[],
               .laravel[],
-              .cli[]
+              .cli[],
+              .jetbrains[]
             ] | map(select(has("title") and has("package") | not)) | length
           ' plugins.json)
 

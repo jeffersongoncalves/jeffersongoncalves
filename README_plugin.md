@@ -122,6 +122,16 @@ Filament plugins I actively maintain as a **collaborator**.
 
 ---
 
+## 🧩 JetBrains Plugins
+
+PhpStorm / IntelliJ plugins I built in Kotlin to speed up my own workflow.
+
+| Plugin | Latest Release | Stars |
+|:-------|:-------------:|:-----:|
+[JETBRAINS]
+
+---
+
 ## 🤝 Connect with me
 
 <div align="center">

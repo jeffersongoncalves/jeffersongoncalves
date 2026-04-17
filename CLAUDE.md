@@ -8,8 +8,8 @@ GitHub profile repository (`jeffersongoncalves/jeffersongoncalves`). It auto-gen
 
 ## Architecture
 
-- **`plugins.json`** — Single source of truth for all packages: starter kits, Filament plugins (with v3/v4/v5 compatibility flags), Laravel packages, and CLI tools. Organized into sections: `startkit` (featured/legacy), `filament` (featured/more/collaborator), `laravel`, `cli`.
-- **`README_plugin.md`** — Template with placeholders (`[STARTKIT_FEATURED]`, `[FILAMENT_FEATURED]`, `[LARAVEL]`, `[CLI]`, `[YEARS]`, etc.) that get replaced to produce `README.md`.
+- **`plugins.json`** — Single source of truth for all packages: starter kits, Filament plugins (with v3/v4/v5 compatibility flags), Laravel packages, CLI tools, and JetBrains plugins. Organized into sections: `startkit` (featured/legacy), `filament` (featured/more/collaborator), `laravel`, `cli`, `jetbrains`.
+- **`README_plugin.md`** — Template with placeholders (`[STARTKIT_FEATURED]`, `[FILAMENT_FEATURED]`, `[LARAVEL]`, `[CLI]`, `[JETBRAINS]`, `[YEARS]`, etc.) that get replaced to produce `README.md`.
 - **`update-plugins-compatibility.js`** — Queries Packagist API to auto-detect Filament version compatibility (v3/v4/v5) for each plugin by inspecting `require` constraints. Updates `plugins.json` in-place.
 - **`README.md`** — Generated output. Never edit directly; it gets overwritten by CI.
 
@@ -41,7 +41,7 @@ pnpm install
 
 - To add/remove a package: edit `plugins.json`. Filament plugins need `v3`/`v4`/`v5` boolean fields.
 - To change README layout/text: edit `README_plugin.md`, not `README.md`.
-- `plugins.json` must pass validation: top-level keys `startkit`, `filament`, `laravel`, `cli`; every entry needs `title` and `package`.
+- `plugins.json` must pass validation: top-level keys `startkit`, `filament`, `laravel`, `cli`, `jetbrains`; every entry needs `title` and `package`.
 
 ## Branch
 

@@ -70,6 +70,12 @@ jobs:
                   return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
               }
 
+              // Generate a JetBrains plugin row (GitHub release + stars, no Packagist)
+              function generateJetbrainsRow(item) {
+                  const owner = isOwned(item.package) ? '' : ' Contribution';
+                  return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+              }
+
               // Build all lists
               const startkitFeatured = plugins.startkit.featured.map(generateStartkitRow).join('');
               const startkitLegacy = plugins.startkit.legacy.map(generateStartkitRow).join('');
@@ -77,6 +83,7 @@ jobs:
               const filamentCollaborator = plugins.filament.collaborator.map(generateFilamentRow).join('');
               const laravelList = plugins.laravel.map(generateLaravelRow).join('');
               const cliList = plugins.cli.map(generateStartkitRow).join('');
+              const jetbrainsList = plugins.jetbrains.map(generateJetbrainsRow).join('');
 
               // Replace all placeholders
               readme = readme.replace(/\[STARTKIT_FEATURED\]/g, startkitFeatured.trim());
@@ -85,6 +92,7 @@ jobs:
               readme = readme.replace(/\[FILAMENT_COLLABORATOR\]/g, filamentCollaborator.trim());
               readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
               readme = readme.replace(/\[CLI\]/g, cliList.trim());
+              readme = readme.replace(/\[JETBRAINS\]/g, jetbrainsList.trim());
               readme = readme.replace(/\[YEARS\]/g, yearExperience);
 
               fs.writeFileSync('README.md', readme);
