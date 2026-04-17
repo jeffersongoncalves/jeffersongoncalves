@@ -70,10 +70,13 @@ jobs:
                   return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
               }
 
-              // Generate a JetBrains plugin row (GitHub release + stars, no Packagist)
+              // Generate a JetBrains plugin row (GitHub release + marketplace downloads + stars)
               function generateJetbrainsRow(item) {
                   const owner = isOwned(item.package) ? '' : ' Contribution';
-                  return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+                  const downloads = item.jetbrainsId
+                      ? `[![Downloads](https://img.shields.io/jetbrains/plugin/d/${item.jetbrainsId}.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/${item.jetbrainsId})`
+                      : '';
+                  return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ${downloads} | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
               }
 
               // Build all lists

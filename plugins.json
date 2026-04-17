@@ -478,11 +478,13 @@
   "jetbrains": [
     {
       "title": "Worktree Env Plugin",
-      "package": "jeffersongoncalves/worktree-env-plugin"
+      "package": "jeffersongoncalves/worktree-env-plugin",
+      "jetbrainsId": "31190-worktree-env-configurator"
     },
     {
       "title": "Herd Manager Plugin",
-      "package": "jeffersongoncalves/herd-manager-plugin"
+      "package": "jeffersongoncalves/herd-manager-plugin",
+      "jetbrainsId": "31013-herd-manager"
     }
   ]
 }
