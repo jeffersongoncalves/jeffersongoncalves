@@ -1,0 +1,24 @@
+# Auto-detect text files, normalize to LF in the repo, restore native on checkout.
+* text=auto eol=lf
+
+# Source / config — always LF
+*.md       text eol=lf
+*.json     text eol=lf
+*.js       text eol=lf
+*.yml      text eol=lf
+*.yaml     text eol=lf
+*.sh       text eol=lf
+
+# Husky hooks must be LF (Git runs them via sh)
+.husky/*   text eol=lf
+
+# Binary assets — never touch line endings or try to diff
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.gif      binary
+*.webp     binary
+*.svg      binary
+*.ico      binary
+*.pdf      binary
+*.zip      binary

@@ -8,10 +8,12 @@ GitHub profile repository (`jeffersongoncalves/jeffersongoncalves`). It auto-gen
 
 ## Architecture
 
-- **`plugins.json`** — Single source of truth for all packages: starter kits, Filament plugins (with v3/v4/v5 compatibility flags), Laravel packages, CLI tools, and JetBrains plugins. Organized into sections: `startkit` (featured/legacy), `filament` (featured/more/collaborator), `laravel`, `cli`, `jetbrains`.
-- **`README_plugin.md`** — Template with placeholders (`[STARTKIT_FEATURED]`, `[FILAMENT_FEATURED]`, `[LARAVEL]`, `[CLI]`, `[JETBRAINS]`, `[YEARS]`, etc.) that get replaced to produce `README.md`.
-- **`update-plugins-compatibility.js`** — Queries Packagist API to auto-detect Filament version compatibility (v3/v4/v5) for each plugin by inspecting `require` constraints. Updates `plugins.json` in-place.
+- **`plugins.json`** — Single source of truth for all packages. Top-level keys: `startkit` (`featured`, `legacy`), `filament` (`plugins`, `collaborator`), `laravel`, `cli`, `jetbrains`. Filament entries also carry `v3`/`v4`/`v5` boolean compatibility flags; `jetbrains` entries may carry `jetbrainsId` for the marketplace badge.
+- **`README_plugin.md`** — Template with placeholders replaced at build time: `[STARTKIT_FEATURED]`, `[STARTKIT_LEGACY]`, `[FILAMENT_PLUGINS]`, `[FILAMENT_COLLABORATOR]`, `[LARAVEL]`, `[CLI]`, `[JETBRAINS]`, `[YEARS]`. The `[YEARS]` placeholder resolves to `currentYear − 2008` (years of experience).
+- **`update-plugins-compatibility.js`** — Queries Packagist API to auto-detect Filament version compatibility (v3/v4/v5) for each plugin by inspecting any `filament/*` constraint in `require`. Updates `plugins.json` in-place.
+- **README generation script lives inside the workflow.** The Node script that consumes `plugins.json` + `README_plugin.md` is inlined in `.github/workflows/update-readme.yml` (heredoc), not a tracked file. To change generation logic, edit that workflow.
 - **`README.md`** — Generated output. Never edit directly; it gets overwritten by CI.
+- **Ownership badge convention.** The generator appends " Contribution" after the title link for any package whose name does *not* start with `jeffersongoncalves` or `jeffersonsimaogoncalves` — keep this in mind when adding entries.
 
 ## Key Workflows
 
@@ -39,9 +41,10 @@ pnpm install
 
 ## Editing Guide
 
-- To add/remove a package: edit `plugins.json`. Filament plugins need `v3`/`v4`/`v5` boolean fields.
+- To add/remove a package: edit `plugins.json`. Filament entries should include `v3`/`v4`/`v5` flags (the pre-commit hook will refresh them from Packagist; if you bypass hooks, run `pnpm run update:plugins` manually).
 - To change README layout/text: edit `README_plugin.md`, not `README.md`.
-- `plugins.json` must pass validation: top-level keys `startkit`, `filament`, `laravel`, `cli`, `jetbrains`; every entry needs `title` and `package`.
+- To change how rows are rendered (badges, columns, ownership marker): edit the inlined script in `.github/workflows/update-readme.yml`.
+- `plugins.json` must pass validation (`.github/workflows/validate-templates.yml`): top-level keys `startkit`, `filament`, `laravel`, `cli`, `jetbrains`; `startkit` must have `featured`+`legacy`; `filament` must have `plugins`+`collaborator`; every entry needs `title` and `package`.
 
 ## Branch
 

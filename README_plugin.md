@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- BANNER -->
+<img src="banners/github-og-en.png" alt="Jefferson Gonçalves — Full-Stack Developer · Laravel · Filament · TALL Stack" />
+
+<br/>
+
 <!-- HEADER -->
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+PHP+Developer;[YEARS]%2B+Years+of+Experience;Open+Source+Enthusiast;Filament+%7C+Laravel+%7C+Livewire&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=1000&size=22" />
 
