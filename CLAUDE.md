@@ -11,7 +11,7 @@ GitHub profile repository (`jeffersongoncalves/jeffersongoncalves`). It auto-gen
 - **`plugins.json`** — Single source of truth for all packages. Top-level keys: `startkit` (`featured`, `legacy`), `filament` (`plugins`, `collaborator`), `laravel`, `cli`, `jetbrains`, `organizations`. Filament entries also carry `v3`/`v4`/`v5` boolean compatibility flags; `jetbrains` entries may carry `jetbrainsId` for the marketplace badge; `organizations` entries may carry an optional `role` (rendered under the org name on the card).
 - **`README_plugin.md`** — Template with placeholders replaced at build time: `[STARTKIT_FEATURED]`, `[STARTKIT_LEGACY]`, `[FILAMENT_PLUGINS]`, `[FILAMENT_COLLABORATOR]`, `[LARAVEL]`, `[CLI]`, `[JETBRAINS]`, `[ORGANIZATIONS]`, `[YEARS]`. The `[YEARS]` placeholder resolves to `currentYear − 2008` (years of experience). For `[ORGANIZATIONS]`, the `package` field holds the GitHub org slug (e.g. `hubdev-io`) and the avatar is fetched from `https://github.com/{slug}.png`.
 - **`update-plugins-compatibility.js`** — Queries Packagist API to auto-detect Filament version compatibility (v3/v4/v5) for each plugin by inspecting any `filament/*` constraint in `require`. Updates `plugins.json` in-place.
-- **README generation script lives inside the workflow.** The Node script that consumes `plugins.json` + `README_plugin.md` is inlined in `.github/workflows/update-readme.yml` (heredoc), not a tracked file. To change generation logic, edit that workflow.
+- **`update-readme.js`** — Renders `README.md` from `README_plugin.md` + `plugins.json`. Runs in CI via `.github/workflows/update-readme.yml` and locally via `pnpm run build:readme`. To change row formatting, badges, or placeholders, edit this file.
 - **`README.md`** — Generated output. Never edit directly; it gets overwritten by CI.
 - **Ownership badge convention.** The generator appends " Contribution" after the title link for any package whose name does *not* start with `jeffersongoncalves` or `jeffersonsimaogoncalves` — keep this in mind when adding entries.
 
@@ -35,6 +35,9 @@ On push to `master` when `plugins.json` changes, dispatches a `repository_dispat
 # Update Filament plugin compatibility flags from Packagist
 pnpm run update:plugins
 
+# Render README.md locally from README_plugin.md + plugins.json
+pnpm run build:readme
+
 # Install dependencies
 pnpm install
 ```
@@ -43,7 +46,7 @@ pnpm install
 
 - To add/remove a package: edit `plugins.json`. Filament entries should include `v3`/`v4`/`v5` flags (the pre-commit hook will refresh them from Packagist; if you bypass hooks, run `pnpm run update:plugins` manually).
 - To change README layout/text: edit `README_plugin.md`, not `README.md`.
-- To change how rows are rendered (badges, columns, ownership marker): edit the inlined script in `.github/workflows/update-readme.yml`.
+- To change how rows are rendered (badges, columns, ownership marker): edit `update-readme.js`. Test locally with `pnpm run build:readme` — output goes to `README.md`.
 - `plugins.json` must pass validation (`.github/workflows/validate-templates.yml`): top-level keys `startkit`, `filament`, `laravel`, `cli`, `jetbrains`; `startkit` must have `featured`+`legacy`; `filament` must have `plugins`+`collaborator`; every entry needs `title` and `package`.
 
 ## Branch

@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "update:plugins": "node update-plugins-compatibility.js",
+    "build:readme": "node update-readme.js",
     "prepare": "husky"
   },
   "devDependencies": {

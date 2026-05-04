@@ -1,0 +1,88 @@
+/**
+ * Renders README.md from README_plugin.md + plugins.json.
+ *
+ * Used by .github/workflows/update-readme.yml on push to master, and
+ * available locally via `pnpm run build:readme`.
+ */
+
+const fs = require('fs');
+
+const plugins = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
+const year = new Date().getFullYear();
+const yearExperience = year - 2008;
+
+if (!fs.existsSync('README_plugin.md')) {
+    console.error('ERROR: README_plugin.md does not exist');
+    process.exit(1);
+}
+
+let readme = fs.readFileSync('README_plugin.md', 'utf8');
+
+if (!readme || readme.trim() === '') {
+    console.error('ERROR: README_plugin.md is empty or could not be read');
+    process.exit(1);
+}
+
+function isOwned(pkg) {
+    return pkg.startsWith('jeffersongoncalves') || pkg.startsWith('jeffersonsimaogoncalves');
+}
+
+function generateStartkitRow(item) {
+    const owner = isOwned(item.package) ? '' : ' Contribution';
+    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Version](https://img.shields.io/packagist/v/${item.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+}
+
+function generateFilamentRow(item) {
+    const owner = isOwned(item.package) ? '' : ' Contribution';
+    const versions = [];
+    if (item.v3) versions.push('v3');
+    if (item.v4) versions.push('v4');
+    if (item.v5) versions.push('v5');
+    const compatibility = versions.join(' · ');
+    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) | ${compatibility} |\n`;
+}
+
+function generateLaravelRow(item) {
+    const owner = isOwned(item.package) ? '' : ' Contribution';
+    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+}
+
+function generateOrgCard(item) {
+    const role = item.role ? `<br/>\n  <sub>${item.role}</sub>` : '';
+    return `<a href="https://github.com/${item.package}">
+  <img src="https://github.com/${item.package}.png" width="100" height="100" alt="${item.package}" /><br/>
+  <sub><b>${item.title}</b></sub>${role}
+</a>
+
+`;
+}
+
+function generateJetbrainsRow(item) {
+    const owner = isOwned(item.package) ? '' : ' Contribution';
+    const downloads = item.jetbrainsId
+        ? `[![Downloads](https://img.shields.io/jetbrains/plugin/d/${item.jetbrainsId}.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/${item.jetbrainsId})`
+        : '';
+    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ${downloads} | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+}
+
+const startkitFeatured = plugins.startkit.featured.map(generateStartkitRow).join('');
+const startkitLegacy = plugins.startkit.legacy.map(generateStartkitRow).join('');
+const filamentPlugins = plugins.filament.plugins.map(generateFilamentRow).join('');
+const filamentCollaborator = plugins.filament.collaborator.map(generateFilamentRow).join('');
+const laravelList = plugins.laravel.map(generateLaravelRow).join('');
+const cliList = plugins.cli.map(generateStartkitRow).join('');
+const jetbrainsList = plugins.jetbrains.map(generateJetbrainsRow).join('');
+const organizationsList = (plugins.organizations || []).map(generateOrgCard).join('');
+
+readme = readme.replace(/\[STARTKIT_FEATURED\]/g, startkitFeatured.trim());
+readme = readme.replace(/\[STARTKIT_LEGACY\]/g, startkitLegacy.trim());
+readme = readme.replace(/\[FILAMENT_PLUGINS\]/g, filamentPlugins.trim());
+readme = readme.replace(/\[FILAMENT_COLLABORATOR\]/g, filamentCollaborator.trim());
+readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
+readme = readme.replace(/\[CLI\]/g, cliList.trim());
+readme = readme.replace(/\[JETBRAINS\]/g, jetbrainsList.trim());
+readme = readme.replace(/\[ORGANIZATIONS\]/g, organizationsList.trim());
+readme = readme.replace(/\[YEARS\]/g, yearExperience);
+
+fs.writeFileSync('README.md', readme);
+console.log('README.md has been updated successfully');
