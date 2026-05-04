@@ -36,20 +36,6 @@ My passion lives in the **open source** world — I actively maintain **20+ Fila
 
 ---
 
-## 🤝 Organizations
-
-<div align="center">
-
-<a href="https://github.com/hubdev-io">
-  <img src="https://github.com/hubdev-io.png" width="100" height="100" alt="hubdev-io" /><br/>
-  <sub><b>HubDev</b></sub><br/>
-  <sub>Member</sub>
-</a>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
