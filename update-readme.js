@@ -47,16 +47,6 @@ function generateLaravelRow(item) {
     return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
 
-function generateOrgCard(item) {
-    const role = item.role ? `<br/>\n  <sub>${item.role}</sub>` : '';
-    return `<a href="https://github.com/${item.package}">
-  <img src="https://github.com/${item.package}.png" width="100" height="100" alt="${item.package}" /><br/>
-  <sub><b>${item.title}</b></sub>${role}
-</a>
-
-`;
-}
-
 function generateJetbrainsRow(item) {
     const owner = isOwned(item.package) ? '' : ' Contribution';
     const downloads = item.jetbrainsId
@@ -72,7 +62,6 @@ const filamentCollaborator = plugins.filament.collaborator.map(generateFilamentR
 const laravelList = plugins.laravel.map(generateLaravelRow).join('');
 const cliList = plugins.cli.map(generateStartkitRow).join('');
 const jetbrainsList = plugins.jetbrains.map(generateJetbrainsRow).join('');
-const organizationsList = (plugins.organizations || []).map(generateOrgCard).join('');
 
 readme = readme.replace(/\[STARTKIT_FEATURED\]/g, startkitFeatured.trim());
 readme = readme.replace(/\[STARTKIT_LEGACY\]/g, startkitLegacy.trim());
@@ -81,7 +70,6 @@ readme = readme.replace(/\[FILAMENT_COLLABORATOR\]/g, filamentCollaborator.trim(
 readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
 readme = readme.replace(/\[CLI\]/g, cliList.trim());
 readme = readme.replace(/\[JETBRAINS\]/g, jetbrainsList.trim());
-readme = readme.replace(/\[ORGANIZATIONS\]/g, organizationsList.trim());
 readme = readme.replace(/\[YEARS\]/g, yearExperience);
 
 fs.writeFileSync('README.md', readme);
