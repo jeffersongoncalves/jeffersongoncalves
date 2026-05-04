@@ -55,13 +55,16 @@ function generateJetbrainsRow(item) {
     return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ${downloads} | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
 
-const startkitFeatured = plugins.startkit.featured.map(generateStartkitRow).join('');
-const startkitLegacy = plugins.startkit.legacy.map(generateStartkitRow).join('');
-const filamentPlugins = plugins.filament.plugins.map(generateFilamentRow).join('');
-const filamentCollaborator = plugins.filament.collaborator.map(generateFilamentRow).join('');
-const laravelList = plugins.laravel.map(generateLaravelRow).join('');
-const cliList = plugins.cli.map(generateStartkitRow).join('');
-const jetbrainsList = plugins.jetbrains.map(generateJetbrainsRow).join('');
+const byPackage = (a, b) => a.package.localeCompare(b.package);
+const sorted = (arr) => arr.slice().sort(byPackage);
+
+const startkitFeatured = sorted(plugins.startkit.featured).map(generateStartkitRow).join('');
+const startkitLegacy = sorted(plugins.startkit.legacy).map(generateStartkitRow).join('');
+const filamentPlugins = sorted(plugins.filament.plugins).map(generateFilamentRow).join('');
+const filamentCollaborator = sorted(plugins.filament.collaborator).map(generateFilamentRow).join('');
+const laravelList = sorted(plugins.laravel).map(generateLaravelRow).join('');
+const cliList = sorted(plugins.cli).map(generateStartkitRow).join('');
+const jetbrainsList = sorted(plugins.jetbrains).map(generateJetbrainsRow).join('');
 
 readme = readme.replace(/\[STARTKIT_FEATURED\]/g, startkitFeatured.trim());
 readme = readme.replace(/\[STARTKIT_LEGACY\]/g, startkitLegacy.trim());

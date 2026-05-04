@@ -241,6 +241,13 @@
         "v5": true
       },
       {
+        "title": "Filament OIDC",
+        "package": "jeffersongoncalves/filament-oidc",
+        "v3": false,
+        "v4": false,
+        "v5": true
+      },
+      {
         "title": "Filament One Time Operations",
         "package": "jeffersongoncalves/filament-one-time-operations",
         "v3": true,
