@@ -234,6 +234,13 @@
         "v5": true
       },
       {
+        "title": "Filament Multi-factor Passkeys",
+        "package": "jeffersongoncalves/filament-multifactor-passkeys",
+        "v3": false,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Multi-factor WhatsApp",
         "package": "jeffersongoncalves/filament-multifactor-whatsapp",
         "v3": false,
