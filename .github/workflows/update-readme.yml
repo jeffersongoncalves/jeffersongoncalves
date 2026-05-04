@@ -73,12 +73,7 @@ jobs:
               // Generate an organization card (avatar + title + optional role)
               function generateOrgCard(item) {
                   const role = item.role ? `<br/>\n  <sub>${item.role}</sub>` : '';
-                  return `<a href="https://github.com/${item.package}">
-  <img src="https://github.com/${item.package}.png" width="100" height="100" alt="${item.package}" /><br/>
-  <sub><b>${item.title}</b></sub>${role}
-</a>
-
-`;
+                  return `<a href="https://github.com/${item.package}">\n  <img src="https://github.com/${item.package}.png" width="100" height="100" alt="${item.package}" /><br/>\n  <sub><b>${item.title}</b></sub>${role}\n</a>\n\n`;
               }
 
               // Generate a JetBrains plugin row (GitHub release + marketplace downloads + stars)
