@@ -486,5 +486,12 @@
       "package": "jeffersongoncalves/herd-manager-plugin",
       "jetbrainsId": "31013-herd-manager"
     }
+  ],
+  "organizations": [
+    {
+      "title": "HubDev",
+      "package": "hubdev-io",
+      "role": "Member"
+    }
   ]
 }

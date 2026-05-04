@@ -36,6 +36,16 @@ My passion lives in the **open source** world — I actively maintain **20+ Fila
 
 ---
 
+## 🤝 Organizations
+
+<div align="center">
+
+[ORGANIZATIONS]
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
