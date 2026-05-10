@@ -36,6 +36,10 @@
       {
         "title": "MFA Kit v5",
         "package": "jeffersongoncalves/mfakitv5"
+      },
+      {
+        "title": "FilaFlux Kit v5",
+        "package": "jeffersongoncalves/filafluxkitv5"
       }
     ],
     "legacy": [
@@ -147,6 +151,20 @@
         "package": "jeffersongoncalves/filament-fathom",
         "v3": true,
         "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Flux",
+        "package": "jeffersongoncalves/filament-flux",
+        "v3": false,
+        "v4": false,
+        "v5": true
+      },
+      {
+        "title": "Filament Flux Pro",
+        "package": "jeffersongoncalves/filament-flux-pro",
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
