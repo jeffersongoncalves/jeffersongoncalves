@@ -517,6 +517,11 @@
       "title": "Herd Manager Plugin",
       "package": "jeffersongoncalves/herd-manager-plugin",
       "jetbrainsId": "31013-herd-manager"
+    },
+    {
+      "title": "Hubdev Manager Plugin",
+      "package": "jeffersongoncalves/hubdev-manager-plugin",
+      "jetbrainsId": "32158-hubdev-manager"
     }
   ]
 }
