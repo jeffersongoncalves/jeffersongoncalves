@@ -57,23 +57,6 @@ My passion lives in the **open source** world — I actively maintain **20+ Fila
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://stats.jeffersongoncalves.dev.br/api/stats?theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://stats.jeffersongoncalves.dev.br/api/top-langs?theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&hide=html" />
-</div>
-
-<div align="center">
-  <img src="https://stats.jeffersongoncalves.dev.br/api/streak?theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://stats.jeffersongoncalves.dev.br/api/trophies?theme=tokyonight&no_frame=true&no_bg=true&column=7" />
-</div>
-
----
-
 ## 🚀 Filakit — Open Source Starter Kits for Laravel
 
 A complete ecosystem of ready-to-use starter kits built on **Filament + Laravel**, available for versions **v3, v4 & v5**.
