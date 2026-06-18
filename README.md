@@ -57,6 +57,23 @@ My passion lives in the **open source** world — I actively maintain **20+ Fila
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://stats.jeffersongoncalves.dev.br/api/stats?theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://stats.jeffersongoncalves.dev.br/api/top-langs?theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&hide=html" />
+</div>
+
+<div align="center">
+  <img src="https://stats.jeffersongoncalves.dev.br/api/streak?theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://stats.jeffersongoncalves.dev.br/api/trophies?theme=tokyonight&no_frame=true&no_bg=true&column=7" />
+</div>
+
+---
+
 ## 🚀 Filakit — Open Source Starter Kits for Laravel
 
 A complete ecosystem of ready-to-use starter kits built on **Filament + Laravel**, available for versions **v3, v4 & v5**.
@@ -203,6 +220,7 @@ PhpStorm / IntelliJ plugins I built in Kotlin to speed up my own workflow.
 
 | Plugin | Latest Release | Downloads | Stars |
 |:-------|:-------------:|:---------:|:-----:|
+| [**External Terminal Launcher**](https://github.com/jeffersongoncalves/external-terminal-plugin) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/external-terminal-plugin?style=flat-square) | [![Downloads](https://img.shields.io/jetbrains/plugin/d/32357-external-terminal-launcher.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/32357-external-terminal-launcher) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/external-terminal-plugin?style=flat-square) |
 | [**Herd Manager Plugin**](https://github.com/jeffersongoncalves/herd-manager-plugin) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/herd-manager-plugin?style=flat-square) | [![Downloads](https://img.shields.io/jetbrains/plugin/d/31013-herd-manager.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/31013-herd-manager) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/herd-manager-plugin?style=flat-square) |
 | [**Hubdev Manager Plugin**](https://github.com/jeffersongoncalves/hubdev-manager-plugin) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/hubdev-manager-plugin?style=flat-square) | [![Downloads](https://img.shields.io/jetbrains/plugin/d/32158-hubdev-manager.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/32158-hubdev-manager) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/hubdev-manager-plugin?style=flat-square) |
 | [**Worktree Env Plugin**](https://github.com/jeffersongoncalves/worktree-env-plugin) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/worktree-env-plugin?style=flat-square) | [![Downloads](https://img.shields.io/jetbrains/plugin/d/31190-worktree-env-configurator.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/31190-worktree-env-configurator) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/worktree-env-plugin?style=flat-square) |
