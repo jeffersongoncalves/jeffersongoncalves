@@ -522,6 +522,11 @@
       "title": "Hubdev Manager Plugin",
       "package": "jeffersongoncalves/hubdev-manager-plugin",
       "jetbrainsId": "32158-hubdev-manager"
+    },
+    {
+      "title": "External Terminal Launcher",
+      "package": "jeffersongoncalves/external-terminal-plugin",
+      "jetbrainsId": "32357-external-terminal-launcher"
     }
   ]
 }
