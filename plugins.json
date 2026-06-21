@@ -112,6 +112,20 @@
   "filament": {
     "plugins": [
       {
+        "title": "Filament Additional Information",
+        "package": "jeffersongoncalves/filament-additional-information",
+        "v3": false,
+        "v4": false,
+        "v5": true
+      },
+      {
+        "title": "Filament Sensible Defaults",
+        "package": "jeffersongoncalves/filament-sensible-defaults",
+        "v3": false,
+        "v4": false,
+        "v5": true
+      },
+      {
         "title": "Filament Ace Editor Field",
         "package": "jeffersongoncalves/filament-ace-editor-field",
         "v3": false,
@@ -396,6 +410,38 @@
     ]
   },
   "laravel": [
+    {
+      "title": "Laravel Github Client",
+      "package": "jeffersongoncalves/laravel-github-client"
+    },
+    {
+      "title": "Laravel Github Contributions",
+      "package": "jeffersongoncalves/laravel-github-contributions"
+    },
+    {
+      "title": "Laravel Html Sanitizer",
+      "package": "jeffersongoncalves/laravel-html-sanitizer"
+    },
+    {
+      "title": "Laravel Markdown",
+      "package": "jeffersongoncalves/laravel-markdown"
+    },
+    {
+      "title": "Laravel Page Cache",
+      "package": "jeffersongoncalves/laravel-page-cache"
+    },
+    {
+      "title": "Laravel Pwa Favicon",
+      "package": "jeffersongoncalves/laravel-pwa-favicon"
+    },
+    {
+      "title": "Laravel Security Headers",
+      "package": "jeffersongoncalves/laravel-security-headers"
+    },
+    {
+      "title": "Laravel Ssrf Guard",
+      "package": "jeffersongoncalves/laravel-ssrf-guard"
+    },
     {
       "title": "Laravel CEP",
       "package": "jeffersongoncalves/laravel-cep"
