@@ -112,6 +112,13 @@
   "filament": {
     "plugins": [
       {
+        "title": "Filament PWA",
+        "package": "jeffersongoncalves/filament-pwa",
+        "v3": false,
+        "v4": false,
+        "v5": true
+      },
+      {
         "title": "Filament Additional Information",
         "package": "jeffersongoncalves/filament-additional-information",
         "v3": false,
@@ -410,6 +417,14 @@
     ]
   },
   "laravel": [
+    {
+      "title": "Laravel Github Readme",
+      "package": "jeffersongoncalves/laravel-github-readme"
+    },
+    {
+      "title": "Laravel Locale Cookie",
+      "package": "jeffersongoncalves/laravel-locale-cookie"
+    },
     {
       "title": "Laravel Github Client",
       "package": "jeffersongoncalves/laravel-github-client"
