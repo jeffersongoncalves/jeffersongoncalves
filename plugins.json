@@ -422,6 +422,10 @@
       "package": "jeffersongoncalves/laravel-github-readme"
     },
     {
+      "title": "Laravel npm Readme",
+      "package": "jeffersongoncalves/laravel-npm-readme"
+    },
+    {
       "title": "Laravel Locale Cookie",
       "package": "jeffersongoncalves/laravel-locale-cookie"
     },
