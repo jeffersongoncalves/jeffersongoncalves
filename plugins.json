@@ -418,6 +418,10 @@
   },
   "laravel": [
     {
+      "title": "Laravel Discord Logger",
+      "package": "jeffersongoncalves/laravel-discord-logger"
+    },
+    {
       "title": "Laravel Github Readme",
       "package": "jeffersongoncalves/laravel-github-readme"
     },
