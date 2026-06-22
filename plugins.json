@@ -426,6 +426,14 @@
       "package": "jeffersongoncalves/laravel-npm-readme"
     },
     {
+      "title": "Laravel Topic Normalizer",
+      "package": "jeffersongoncalves/laravel-topic-normalizer"
+    },
+    {
+      "title": "Laravel Favicon Proxy",
+      "package": "jeffersongoncalves/laravel-favicon-proxy"
+    },
+    {
       "title": "Laravel Locale Cookie",
       "package": "jeffersongoncalves/laravel-locale-cookie"
     },
