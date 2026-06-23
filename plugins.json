@@ -556,6 +556,18 @@
     {
       "title": "Laravel WhatsApp Widget",
       "package": "jeffersongoncalves/laravel-whatsapp-widget"
+    },
+    {
+      "title": "Laravel Webhook Signatures",
+      "package": "jeffersongoncalves/laravel-webhook-signatures"
+    },
+    {
+      "title": "Laravel Pwa Service Worker",
+      "package": "jeffersongoncalves/laravel-pwa-service-worker"
+    },
+    {
+      "title": "Laravel OIDC",
+      "package": "jeffersongoncalves/laravel-oidc"
     }
   ],
   "laravelZero": [
@@ -616,6 +628,10 @@
     {
       "title": "Packagist CLI",
       "package": "jeffersongoncalves/packagist-cli"
+    },
+    {
+      "title": "Secure Lock CLI",
+      "package": "jeffersongoncalves/secure-lock-cli"
     }
   ],
   "jetbrains": [
