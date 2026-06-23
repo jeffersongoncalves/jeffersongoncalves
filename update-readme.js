@@ -55,6 +55,11 @@ function generateJetbrainsRow(item) {
     return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ${downloads} | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
 
+function generateBrowserExtensionRow(item) {
+    const owner = isOwned(item.package) ? '' : ' Contribution';
+    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+}
+
 const byPackage = (a, b) => a.package.localeCompare(b.package);
 const sorted = (arr) => arr.slice().sort(byPackage);
 
@@ -66,6 +71,7 @@ const laravelList = sorted(plugins.laravel).map(generateLaravelRow).join('');
 const laravelZeroList = sorted(plugins.laravelZero).map(generateStartkitRow).join('');
 const cliList = sorted(plugins.cli).map(generateStartkitRow).join('');
 const jetbrainsList = sorted(plugins.jetbrains).map(generateJetbrainsRow).join('');
+const browserExtensionsList = sorted(plugins.browserExtensions).map(generateBrowserExtensionRow).join('');
 
 readme = readme.replace(/\[STARTKIT_FEATURED\]/g, startkitFeatured.trim());
 readme = readme.replace(/\[STARTKIT_LEGACY\]/g, startkitLegacy.trim());
@@ -75,6 +81,7 @@ readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
 readme = readme.replace(/\[LARAVEL_ZERO\]/g, laravelZeroList.trim());
 readme = readme.replace(/\[CLI\]/g, cliList.trim());
 readme = readme.replace(/\[JETBRAINS\]/g, jetbrainsList.trim());
+readme = readme.replace(/\[BROWSER_EXTENSIONS\]/g, browserExtensionsList.trim());
 readme = readme.replace(/\[YEARS\]/g, yearExperience);
 
 fs.writeFileSync('README.md', readme);

@@ -659,5 +659,15 @@
       "package": "jeffersongoncalves/external-terminal-plugin",
       "jetbrainsId": "32357-external-terminal-launcher"
     }
+  ],
+  "browserExtensions": [
+    {
+      "title": "YouTube Hidden Shorts",
+      "package": "jeffersongoncalves/youtube-hidden-shorts"
+    },
+    {
+      "title": "YouTube Hidden Chats",
+      "package": "jeffersongoncalves/youtube-hidden-chats"
+    }
   ]
 }
