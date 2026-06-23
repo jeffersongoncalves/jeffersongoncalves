@@ -218,6 +218,22 @@ Filament plugins I actively maintain as a **collaborator**.
 
 ---
 
+## ⚡ Laravel Zero Packages
+
+Packages and components I built for the **Laravel Zero** micro-framework.
+
+| Package | Latest Version | Downloads | Stars |
+|:--------|:-------------:|:---------:|:-----:|
+| [**Laravel Zero Api Client**](https://github.com/jeffersongoncalves/laravel-zero-api-client) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-zero-api-client.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-zero-api-client.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-zero-api-client?style=flat-square) |
+| [**Laravel Zero Console**](https://github.com/jeffersongoncalves/laravel-zero-console) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-zero-console.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-zero-console.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-zero-console?style=flat-square) |
+| [**Laravel Zero Credentials**](https://github.com/jeffersongoncalves/laravel-zero-credentials) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-zero-credentials.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-zero-credentials.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-zero-credentials?style=flat-square) |
+| [**Laravel Zero Git**](https://github.com/jeffersongoncalves/laravel-zero-git) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-zero-git.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-zero-git.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-zero-git?style=flat-square) |
+| [**Laravel Zero Json Config**](https://github.com/jeffersongoncalves/laravel-zero-json-config) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-zero-json-config.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-zero-json-config.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-zero-json-config?style=flat-square) |
+| [**Laravel Zero Self Update**](https://github.com/jeffersongoncalves/laravel-zero-self-update) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-zero-self-update.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-zero-self-update.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-zero-self-update?style=flat-square) |
+| [**Laravel Zero Support**](https://github.com/jeffersongoncalves/laravel-zero-support) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-zero-support.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-zero-support.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-zero-support?style=flat-square) |
+
+---
+
 ## 🚀 CLI Projects
 
 | Project | Latest Version | Downloads | Stars |
@@ -227,6 +243,7 @@ Filament plugins I actively maintain as a **collaborator**.
 | [**Filakit CLI**](https://github.com/jeffersongoncalves/filakit-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/filakit-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filakit-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filakit-cli?style=flat-square) |
 | [**Git Worktree CLI**](https://github.com/jeffersongoncalves/git-worktree-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/git-worktree-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/git-worktree-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/git-worktree-cli?style=flat-square) |
 | [**Jira CLI**](https://github.com/jeffersongoncalves/jira-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/jira-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/jira-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/jira-cli?style=flat-square) |
+| [**Packagist CLI**](https://github.com/jeffersongoncalves/packagist-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/packagist-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/packagist-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/packagist-cli?style=flat-square) |
 | [**Screentest CLI**](https://github.com/jeffersongoncalves/screentest-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/screentest-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/screentest-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/screentest-cli?style=flat-square) |
 
 ---
