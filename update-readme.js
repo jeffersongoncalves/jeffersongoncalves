@@ -63,6 +63,7 @@ const startkitLegacy = sorted(plugins.startkit.legacy).map(generateStartkitRow).
 const filamentPlugins = sorted(plugins.filament.plugins).map(generateFilamentRow).join('');
 const filamentCollaborator = sorted(plugins.filament.collaborator).map(generateFilamentRow).join('');
 const laravelList = sorted(plugins.laravel).map(generateLaravelRow).join('');
+const laravelZeroList = sorted(plugins.laravelZero).map(generateStartkitRow).join('');
 const cliList = sorted(plugins.cli).map(generateStartkitRow).join('');
 const jetbrainsList = sorted(plugins.jetbrains).map(generateJetbrainsRow).join('');
 
@@ -71,6 +72,7 @@ readme = readme.replace(/\[STARTKIT_LEGACY\]/g, startkitLegacy.trim());
 readme = readme.replace(/\[FILAMENT_PLUGINS\]/g, filamentPlugins.trim());
 readme = readme.replace(/\[FILAMENT_COLLABORATOR\]/g, filamentCollaborator.trim());
 readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
+readme = readme.replace(/\[LARAVEL_ZERO\]/g, laravelZeroList.trim());
 readme = readme.replace(/\[CLI\]/g, cliList.trim());
 readme = readme.replace(/\[JETBRAINS\]/g, jetbrainsList.trim());
 readme = readme.replace(/\[YEARS\]/g, yearExperience);

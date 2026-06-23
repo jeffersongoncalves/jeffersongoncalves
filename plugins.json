@@ -558,6 +558,36 @@
       "package": "jeffersongoncalves/laravel-whatsapp-widget"
     }
   ],
+  "laravelZero": [
+    {
+      "title": "Laravel Zero Support",
+      "package": "jeffersongoncalves/laravel-zero-support"
+    },
+    {
+      "title": "Laravel Zero Self Update",
+      "package": "jeffersongoncalves/laravel-zero-self-update"
+    },
+    {
+      "title": "Laravel Zero Git",
+      "package": "jeffersongoncalves/laravel-zero-git"
+    },
+    {
+      "title": "Laravel Zero Console",
+      "package": "jeffersongoncalves/laravel-zero-console"
+    },
+    {
+      "title": "Laravel Zero Credentials",
+      "package": "jeffersongoncalves/laravel-zero-credentials"
+    },
+    {
+      "title": "Laravel Zero Api Client",
+      "package": "jeffersongoncalves/laravel-zero-api-client"
+    },
+    {
+      "title": "Laravel Zero Json Config",
+      "package": "jeffersongoncalves/laravel-zero-json-config"
+    }
+  ],
   "cli": [
     {
       "title": "BB CLI",
@@ -582,6 +612,10 @@
     {
       "title": "Screentest CLI",
       "package": "jeffersongoncalves/screentest-cli"
+    },
+    {
+      "title": "Packagist CLI",
+      "package": "jeffersongoncalves/packagist-cli"
     }
   ],
   "jetbrains": [

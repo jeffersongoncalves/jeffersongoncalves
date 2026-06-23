@@ -119,6 +119,16 @@ Filament plugins I actively maintain as a **collaborator**.
 
 ---
 
+## ⚡ Laravel Zero Packages
+
+Packages and components I built for the **Laravel Zero** micro-framework.
+
+| Package | Latest Version | Downloads | Stars |
+|:--------|:-------------:|:---------:|:-----:|
+[LARAVEL_ZERO]
+
+---
+
 ## 🚀 CLI Projects
 
 | Project | Latest Version | Downloads | Stars |
