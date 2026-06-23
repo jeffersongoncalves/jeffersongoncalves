@@ -44,7 +44,7 @@ function generateFilamentRow(item) {
 
 function generateLaravelRow(item) {
     const owner = isOwned(item.package) ? '' : ' Contribution';
-    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Version](https://img.shields.io/packagist/v/${item.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
 
 function generateJetbrainsRow(item) {

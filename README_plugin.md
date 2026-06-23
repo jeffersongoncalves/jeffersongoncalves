@@ -113,8 +113,8 @@ Filament plugins I actively maintain as a **collaborator**.
 
 ## 📦 Laravel Packages
 
-| Package | Downloads | Stars |
-|:--------|:---------:|:-----:|
+| Package | Latest Version | Downloads | Stars |
+|:--------|:-------------:|:---------:|:-----:|
 [LARAVEL]
 
 ---
