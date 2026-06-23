@@ -632,6 +632,10 @@
     {
       "title": "Secure Lock CLI",
       "package": "jeffersongoncalves/secure-lock-cli"
+    },
+    {
+      "title": "Jq CLI",
+      "package": "jeffersongoncalves/jq-cli"
     }
   ],
   "jetbrains": [
