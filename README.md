@@ -273,10 +273,10 @@ PhpStorm / IntelliJ plugins I built in Kotlin to speed up my own workflow.
 
 Chrome extensions (Manifest V3) I built to clean up my own browsing.
 
-| Extension | Latest Release | Stars |
-|:----------|:-------------:|:-----:|
-| [**YouTube Hidden Chats**](https://github.com/jeffersongoncalves/youtube-hidden-chats) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/youtube-hidden-chats?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/youtube-hidden-chats?style=flat-square) |
-| [**YouTube Hidden Shorts**](https://github.com/jeffersongoncalves/youtube-hidden-shorts) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/youtube-hidden-shorts?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/youtube-hidden-shorts?style=flat-square) |
+| Extension | Latest Release | Chrome Web Store | Stars |
+|:----------|:-------------:|:----------------:|:-----:|
+| [**YouTube Hidden Chats**](https://github.com/jeffersongoncalves/youtube-hidden-chats) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/youtube-hidden-chats?style=flat-square) | [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/kdibfhpniophaigjfoihaekajkefnbmg?style=flat-square&label=users)](https://chromewebstore.google.com/detail/kdibfhpniophaigjfoihaekajkefnbmg) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/youtube-hidden-chats?style=flat-square) |
+| [**YouTube Hidden Shorts**](https://github.com/jeffersongoncalves/youtube-hidden-shorts) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/youtube-hidden-shorts?style=flat-square) | [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/ncnpjoigombiifmlaacladhedjfmfjne?style=flat-square&label=users)](https://chromewebstore.google.com/detail/ncnpjoigombiifmlaacladhedjfmfjne) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/youtube-hidden-shorts?style=flat-square) |
 
 ---
 
