@@ -364,6 +364,13 @@
         "v5": true
       },
       {
+        "title": "Filament Webhooks",
+        "package": "jeffersongoncalves/filament-webhooks",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Topbar",
         "package": "jeffersongoncalves/filament-topbar",
         "v3": true,
@@ -589,6 +596,14 @@
     {
       "title": "Laravel OIDC",
       "package": "jeffersongoncalves/laravel-oidc"
+    },
+    {
+      "title": "Laravel Webhooks",
+      "package": "jeffersongoncalves/laravel-webhooks"
+    },
+    {
+      "title": "Laravel Teams",
+      "package": "jeffersongoncalves/laravel-teams"
     }
   ],
   "laravelZero": [
