@@ -49,10 +49,13 @@ function generateLaravelRow(item) {
 
 function generateJetbrainsRow(item) {
     const owner = isOwned(item.package) ? '' : ' Contribution';
+    const titleLink = item.jetbrainsId
+        ? `https://plugins.jetbrains.com/plugin/${item.jetbrainsId}`
+        : `https://github.com/${item.package}`;
     const downloads = item.jetbrainsId
         ? `[![Downloads](https://img.shields.io/jetbrains/plugin/d/${item.jetbrainsId}.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/${item.jetbrainsId})`
         : '';
-    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ${downloads} | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+    return `| [**${item.title}**](${titleLink})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ${downloads} | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
 
 function generateBrowserExtensionRow(item) {
