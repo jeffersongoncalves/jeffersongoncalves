@@ -57,7 +57,10 @@ function generateJetbrainsRow(item) {
 
 function generateBrowserExtensionRow(item) {
     const owner = isOwned(item.package) ? '' : ' Contribution';
-    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+    const chromeStore = item.chromeStoreId
+        ? `[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/${item.chromeStoreId}?style=flat-square&label=users)](https://chromewebstore.google.com/detail/${item.chromeStoreId})`
+        : '';
+    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ${chromeStore} | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
 
 const byPackage = (a, b) => a.package.localeCompare(b.package);

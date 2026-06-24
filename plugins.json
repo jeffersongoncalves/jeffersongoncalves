@@ -684,11 +684,13 @@
   "browserExtensions": [
     {
       "title": "YouTube Hidden Shorts",
-      "package": "jeffersongoncalves/youtube-hidden-shorts"
+      "package": "jeffersongoncalves/youtube-hidden-shorts",
+      "chromeStoreId": "ncnpjoigombiifmlaacladhedjfmfjne"
     },
     {
       "title": "YouTube Hidden Chats",
-      "package": "jeffersongoncalves/youtube-hidden-chats"
+      "package": "jeffersongoncalves/youtube-hidden-chats",
+      "chromeStoreId": "kdibfhpniophaigjfoihaekajkefnbmg"
     }
   ]
 }

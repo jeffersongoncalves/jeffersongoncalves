@@ -151,8 +151,8 @@ PhpStorm / IntelliJ plugins I built in Kotlin to speed up my own workflow.
 
 Chrome extensions (Manifest V3) I built to clean up my own browsing.
 
-| Extension | Latest Release | Stars |
-|:----------|:-------------:|:-----:|
+| Extension | Latest Release | Chrome Web Store | Stars |
+|:----------|:-------------:|:----------------:|:-----:|
 [BROWSER_EXTENSIONS]
 
 ---
