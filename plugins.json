@@ -112,24 +112,38 @@
   "filament": {
     "plugins": [
       {
+        "title": "Filament Analytics Core",
+        "package": "jeffersongoncalves/filament-analytics-core",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Plugin Core",
+        "package": "jeffersongoncalves/filament-plugin-core",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament PWA",
         "package": "jeffersongoncalves/filament-pwa",
-        "v3": false,
-        "v4": false,
+        "v3": true,
+        "v4": true,
         "v5": true
       },
       {
         "title": "Filament Additional Information",
         "package": "jeffersongoncalves/filament-additional-information",
-        "v3": false,
-        "v4": false,
+        "v3": true,
+        "v4": true,
         "v5": true
       },
       {
         "title": "Filament Sensible Defaults",
         "package": "jeffersongoncalves/filament-sensible-defaults",
-        "v3": false,
-        "v4": false,
+        "v3": true,
+        "v4": true,
         "v5": true
       },
       {
@@ -338,6 +352,13 @@
       {
         "title": "Filament Service Desk",
         "package": "jeffersongoncalves/filament-service-desk",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Teams",
+        "package": "jeffersongoncalves/filament-teams",
         "v3": true,
         "v4": true,
         "v5": true
