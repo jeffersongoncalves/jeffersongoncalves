@@ -141,8 +141,8 @@ Packages and components I built for the **Laravel Zero** micro-framework.
 
 PhpStorm / IntelliJ plugins I built in Kotlin to speed up my own workflow.
 
-| Plugin | Latest Release | Downloads | Stars |
-|:-------|:-------------:|:---------:|:-----:|
+| Plugin | Latest Release | Marketplace | Downloads | Stars |
+|:-------|:-------------:|:-----------:|:---------:|:-----:|
 [JETBRAINS]
 
 ---
