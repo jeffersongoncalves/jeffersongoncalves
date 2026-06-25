@@ -114,15 +114,15 @@
       {
         "title": "Filament Ban",
         "package": "jeffersongoncalves/filament-ban",
-        "v3": false,
-        "v4": false,
+        "v3": true,
+        "v4": true,
         "v5": true
       },
       {
         "title": "Filament Queue Management",
         "package": "jeffersongoncalves/filament-queue-management",
-        "v3": false,
-        "v4": false,
+        "v3": true,
+        "v4": true,
         "v5": true
       },
       {
