@@ -161,6 +161,27 @@
         "v5": true
       },
       {
+        "title": "Filament Action Export",
+        "package": "jeffersongoncalves/filament-action-export",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Panel Theme Isolation",
+        "package": "jeffersongoncalves/filament-panel-theme-isolation",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Translatable",
+        "package": "jeffersongoncalves/filament-translatable",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Ace Editor Field",
         "package": "jeffersongoncalves/filament-ace-editor-field",
         "v3": false,
