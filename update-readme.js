@@ -47,6 +47,12 @@ function generateLaravelRow(item) {
     return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Version](https://img.shields.io/packagist/v/${item.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
 
+function generateCakephpRow(item) {
+    const gh = item.repo || item.package;
+    const owner = isOwned(item.package) ? '' : ' Contribution';
+    return `| [**${item.title}**](https://github.com/${gh})${owner} | ![Version](https://img.shields.io/packagist/v/${item.package}.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/${item.package}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${gh}?style=flat-square) |\n`;
+}
+
 function generateJetbrainsRow(item) {
     const owner = isOwned(item.package) ? '' : ' Contribution';
     const marketplace = item.jetbrainsId
@@ -76,6 +82,7 @@ const filamentCollaborator = sorted(plugins.filament.collaborator).map(generateF
 const laravelList = sorted(plugins.laravel).map(generateLaravelRow).join('');
 const laravelZeroList = sorted(plugins.laravelZero).map(generateStartkitRow).join('');
 const cliList = sorted(plugins.cli).map(generateStartkitRow).join('');
+const cakephpList = sorted(plugins.cakephp).map(generateCakephpRow).join('');
 const jetbrainsList = sorted(plugins.jetbrains).map(generateJetbrainsRow).join('');
 const browserExtensionsList = sorted(plugins.browserExtensions).map(generateBrowserExtensionRow).join('');
 
@@ -86,6 +93,7 @@ readme = readme.replace(/\[FILAMENT_COLLABORATOR\]/g, filamentCollaborator.trim(
 readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
 readme = readme.replace(/\[LARAVEL_ZERO\]/g, laravelZeroList.trim());
 readme = readme.replace(/\[CLI\]/g, cliList.trim());
+readme = readme.replace(/\[CAKEPHP\]/g, cakephpList.trim());
 readme = readme.replace(/\[JETBRAINS\]/g, jetbrainsList.trim());
 readme = readme.replace(/\[BROWSER_EXTENSIONS\]/g, browserExtensionsList.trim());
 readme = readme.replace(/\[YEARS\]/g, yearExperience);

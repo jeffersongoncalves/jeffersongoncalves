@@ -746,5 +746,57 @@
       "package": "jeffersongoncalves/youtube-hidden-chats",
       "chromeStoreId": "kdibfhpniophaigjfoihaekajkefnbmg"
     }
+  ],
+  "cakephp": [
+    {
+      "title": "CakePHP Analyzer",
+      "package": "jeffersonsimaogoncalves/cakephp-analyzer",
+      "repo": "jeffersongoncalves/cakephp-analyzer"
+    },
+    {
+      "title": "CakePHP Datatables",
+      "package": "jeffersonsimaogoncalves/cakephp-datatables",
+      "repo": "jeffersongoncalves/cakephp-datatables"
+    },
+    {
+      "title": "CakePHP Fractal Transformer View",
+      "package": "jeffersonsimaogoncalves/cakephp-fractal-transformer-view",
+      "repo": "jeffersongoncalves/cakephp-fractal-transformer-view"
+    },
+    {
+      "title": "CakePHP LDAP",
+      "package": "jeffersonsimaogoncalves/cakephp-ldap",
+      "repo": "jeffersongoncalves/cakephp-ldap"
+    },
+    {
+      "title": "CakePHP Permission",
+      "package": "jeffersonsimaogoncalves/cakephp-permission",
+      "repo": "jeffersongoncalves/cakephp-permission"
+    },
+    {
+      "title": "CakePHP REST API",
+      "package": "jeffersonsimaogoncalves/cakephp-rest-api",
+      "repo": "jeffersongoncalves/cakephp-rest-api"
+    },
+    {
+      "title": "CakePHP Settings",
+      "package": "jeffersonsimaogoncalves/cakephp-settings",
+      "repo": "jeffersongoncalves/cakephp-settings"
+    },
+    {
+      "title": "CakePHP User Activity",
+      "package": "jeffersonsimaogoncalves/cakephp-user-activity",
+      "repo": "jeffersongoncalves/cakephp-user-activity"
+    },
+    {
+      "title": "CakePHP Utility",
+      "package": "jeffersonsimaogoncalves/cakephp-utility",
+      "repo": "jeffersongoncalves/cakephp-utility"
+    },
+    {
+      "title": "CakePHP Utils",
+      "package": "jeffersonsimaogoncalves/cakephp-utils",
+      "repo": "jeffersongoncalves/cakephp-utils"
+    }
   ]
 }

@@ -119,6 +119,16 @@ Filament plugins I actively maintain as a **collaborator**.
 
 ---
 
+## 🍰 CakePHP Packages
+
+Plugins and components I built for the **CakePHP** framework.
+
+| Package | Latest Version | Downloads | Stars |
+|:--------|:-------------:|:---------:|:-----:|
+[CAKEPHP]
+
+---
+
 ## ⚡ Laravel Zero Packages
 
 Packages and components I built for the **Laravel Zero** micro-framework.

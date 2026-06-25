@@ -8,8 +8,8 @@ GitHub profile repository (`jeffersongoncalves/jeffersongoncalves`). It auto-gen
 
 ## Architecture
 
-- **`plugins.json`** — Single source of truth for all packages. Top-level keys: `startkit` (`featured`, `legacy`), `filament` (`plugins`, `collaborator`), `laravel`, `laravelZero`, `cli`, `jetbrains`, `browserExtensions`. Filament entries also carry `v3`/`v4`/`v5` boolean compatibility flags; `jetbrains` entries may carry `jetbrainsId` for the marketplace badge. `browserExtensions` entries render GitHub release + stars badges (not on Packagist).
-- **`README_plugin.md`** — Template with placeholders replaced at build time: `[STARTKIT_FEATURED]`, `[STARTKIT_LEGACY]`, `[FILAMENT_PLUGINS]`, `[FILAMENT_COLLABORATOR]`, `[LARAVEL]`, `[LARAVEL_ZERO]`, `[CLI]`, `[JETBRAINS]`, `[BROWSER_EXTENSIONS]`, `[YEARS]`. The `[YEARS]` placeholder resolves to `currentYear − 2008` (years of experience).
+- **`plugins.json`** — Single source of truth for all packages. Top-level keys: `startkit` (`featured`, `legacy`), `filament` (`plugins`, `collaborator`), `laravel`, `laravelZero`, `cli`, `cakephp`, `jetbrains`, `browserExtensions`. Filament entries also carry `v3`/`v4`/`v5` boolean compatibility flags; `jetbrains` entries may carry `jetbrainsId` for the marketplace badge. `browserExtensions` entries render GitHub release + stars badges (not on Packagist). `cakephp` entries carry a `repo` field (GitHub path under `jeffersongoncalves`) distinct from `package` (Packagist vendor is `jeffersonsimaogoncalves`), since the two owners differ — GitHub links/stars use `repo`, Packagist badges use `package`.
+- **`README_plugin.md`** — Template with placeholders replaced at build time: `[STARTKIT_FEATURED]`, `[STARTKIT_LEGACY]`, `[FILAMENT_PLUGINS]`, `[FILAMENT_COLLABORATOR]`, `[LARAVEL]`, `[CAKEPHP]`, `[LARAVEL_ZERO]`, `[CLI]`, `[JETBRAINS]`, `[BROWSER_EXTENSIONS]`, `[YEARS]`. The `[YEARS]` placeholder resolves to `currentYear − 2008` (years of experience).
 - **`update-plugins-compatibility.js`** — Queries Packagist API to auto-detect Filament version compatibility (v3/v4/v5) for each plugin by inspecting any `filament/*` constraint in `require`. Updates `plugins.json` in-place.
 - **`update-readme.js`** — Renders `README.md` from `README_plugin.md` + `plugins.json`. Runs in CI via `.github/workflows/update-readme.yml` and locally via `pnpm run build:readme`. Each section is auto-sorted by `package` (`localeCompare`) before rendering, so the order of entries in `plugins.json` doesn't affect the output. To change row formatting, badges, or placeholders, edit this file.
 - **`README.md`** — Generated output. Never edit directly; it gets overwritten by CI.
@@ -47,7 +47,7 @@ pnpm install
 - To add/remove a package: edit `plugins.json`. Filament entries should include `v3`/`v4`/`v5` flags (the pre-commit hook will refresh them from Packagist; if you bypass hooks, run `pnpm run update:plugins` manually).
 - To change README layout/text: edit `README_plugin.md`, not `README.md`.
 - To change how rows are rendered (badges, columns, ownership marker): edit `update-readme.js`. Test locally with `pnpm run build:readme` — output goes to `README.md`.
-- `plugins.json` must pass validation (`.github/workflows/validate-templates.yml`): top-level keys `startkit`, `filament`, `laravel`, `laravelZero`, `cli`, `jetbrains`, `browserExtensions`; `startkit` must have `featured`+`legacy`; `filament` must have `plugins`+`collaborator`; every entry needs `title` and `package`.
+- `plugins.json` must pass validation (`.github/workflows/validate-templates.yml`): top-level keys `startkit`, `filament`, `laravel`, `laravelZero`, `cli`, `cakephp`, `jetbrains`, `browserExtensions`; `startkit` must have `featured`+`legacy`; `filament` must have `plugins`+`collaborator`; every entry needs `title` and `package`.
 
 ## Branch
 
