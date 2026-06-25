@@ -233,6 +233,25 @@ Filament plugins I actively maintain as a **collaborator**.
 
 ---
 
+## 🍰 CakePHP Packages
+
+Plugins and components I built for the **CakePHP** framework.
+
+| Package | Latest Version | Downloads | Stars |
+|:--------|:-------------:|:---------:|:-----:|
+| [**CakePHP Analyzer**](https://github.com/jeffersongoncalves/cakephp-analyzer) | ![Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/cakephp-analyzer.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/cakephp-analyzer.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/cakephp-analyzer?style=flat-square) |
+| [**CakePHP Datatables**](https://github.com/jeffersongoncalves/cakephp-datatables) | ![Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/cakephp-datatables.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/cakephp-datatables.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/cakephp-datatables?style=flat-square) |
+| [**CakePHP Fractal Transformer View**](https://github.com/jeffersongoncalves/cakephp-fractal-transformer-view) | ![Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/cakephp-fractal-transformer-view.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/cakephp-fractal-transformer-view.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/cakephp-fractal-transformer-view?style=flat-square) |
+| [**CakePHP LDAP**](https://github.com/jeffersongoncalves/cakephp-ldap) | ![Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/cakephp-ldap.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/cakephp-ldap.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/cakephp-ldap?style=flat-square) |
+| [**CakePHP Permission**](https://github.com/jeffersongoncalves/cakephp-permission) | ![Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/cakephp-permission.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/cakephp-permission.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/cakephp-permission?style=flat-square) |
+| [**CakePHP REST API**](https://github.com/jeffersongoncalves/cakephp-rest-api) | ![Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/cakephp-rest-api.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/cakephp-rest-api.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/cakephp-rest-api?style=flat-square) |
+| [**CakePHP Settings**](https://github.com/jeffersongoncalves/cakephp-settings) | ![Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/cakephp-settings.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/cakephp-settings.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/cakephp-settings?style=flat-square) |
+| [**CakePHP User Activity**](https://github.com/jeffersongoncalves/cakephp-user-activity) | ![Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/cakephp-user-activity.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/cakephp-user-activity.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/cakephp-user-activity?style=flat-square) |
+| [**CakePHP Utility**](https://github.com/jeffersongoncalves/cakephp-utility) | ![Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/cakephp-utility.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/cakephp-utility.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/cakephp-utility?style=flat-square) |
+| [**CakePHP Utils**](https://github.com/jeffersongoncalves/cakephp-utils) | ![Version](https://img.shields.io/packagist/v/jeffersonsimaogoncalves/cakephp-utils.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersonsimaogoncalves/cakephp-utils.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/cakephp-utils?style=flat-square) |
+
+---
+
 ## ⚡ Laravel Zero Packages
 
 Packages and components I built for the **Laravel Zero** micro-framework.
