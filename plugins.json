@@ -112,6 +112,20 @@
   "filament": {
     "plugins": [
       {
+        "title": "Filament Ban",
+        "package": "jeffersongoncalves/filament-ban",
+        "v3": false,
+        "v4": false,
+        "v5": true
+      },
+      {
+        "title": "Filament Queue Management",
+        "package": "jeffersongoncalves/filament-queue-management",
+        "v3": false,
+        "v4": false,
+        "v5": true
+      },
+      {
         "title": "Filament Analytics Core",
         "package": "jeffersongoncalves/filament-analytics-core",
         "v3": true,
@@ -604,6 +618,10 @@
     {
       "title": "Laravel Teams",
       "package": "jeffersongoncalves/laravel-teams"
+    },
+    {
+      "title": "Laravel Queue Management",
+      "package": "jeffersongoncalves/laravel-queue-management"
     }
   ],
   "laravelZero": [
