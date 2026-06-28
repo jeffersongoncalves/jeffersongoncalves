@@ -114,6 +114,10 @@
       {
         "title": "Help Desk Kit v3",
         "package": "jeffersongoncalves/helpdeskkitv3"
+      },
+      {
+        "title": "ERP Kit v3",
+        "package": "jeffersongoncalves/erpkitv3"
       }
     ]
   },
@@ -465,9 +469,9 @@
       {
         "title": "Filament ERP Assets",
         "package": "jeffersongoncalves/filament-erp-assets",
-        "v3": false,
-        "v4": false,
-        "v5": false
+        "v3": true,
+        "v4": true,
+        "v5": true
       },
       {
         "title": "Filament ERP Buying",
