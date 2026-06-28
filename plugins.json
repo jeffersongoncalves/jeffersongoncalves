@@ -40,6 +40,10 @@
       {
         "title": "FilaFlux Kit v5",
         "package": "jeffersongoncalves/filafluxkitv5"
+      },
+      {
+        "title": "ERP Kit v5",
+        "package": "jeffersongoncalves/erpkitv5"
       }
     ],
     "legacy": [
@@ -78,6 +82,10 @@
       {
         "title": "MFA Kit v4",
         "package": "jeffersongoncalves/mfakitv4"
+      },
+      {
+        "title": "ERP Kit v4",
+        "package": "jeffersongoncalves/erpkitv4"
       },
       {
         "title": "Base Kit v3",
@@ -432,6 +440,104 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament ERP",
+        "package": "jeffersongoncalves/filament-erp",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament ERP Core",
+        "package": "jeffersongoncalves/filament-erp-core",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament ERP Accounting",
+        "package": "jeffersongoncalves/filament-erp-accounting",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament ERP Assets",
+        "package": "jeffersongoncalves/filament-erp-assets",
+        "v3": false,
+        "v4": false,
+        "v5": false
+      },
+      {
+        "title": "Filament ERP Buying",
+        "package": "jeffersongoncalves/filament-erp-buying",
+        "v3": false,
+        "v4": false,
+        "v5": false
+      },
+      {
+        "title": "Filament ERP CRM",
+        "package": "jeffersongoncalves/filament-erp-crm",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament ERP Maintenance",
+        "package": "jeffersongoncalves/filament-erp-maintenance",
+        "v3": false,
+        "v4": false,
+        "v5": false
+      },
+      {
+        "title": "Filament ERP Manufacturing",
+        "package": "jeffersongoncalves/filament-erp-manufacturing",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament ERP Projects",
+        "package": "jeffersongoncalves/filament-erp-projects",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament ERP Quality",
+        "package": "jeffersongoncalves/filament-erp-quality",
+        "v3": false,
+        "v4": false,
+        "v5": false
+      },
+      {
+        "title": "Filament ERP Selling",
+        "package": "jeffersongoncalves/filament-erp-selling",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament ERP Stock",
+        "package": "jeffersongoncalves/filament-erp-stock",
+        "v3": false,
+        "v4": false,
+        "v5": false
+      },
+      {
+        "title": "Filament ERP Subcontracting",
+        "package": "jeffersongoncalves/filament-erp-subcontracting",
+        "v3": false,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament ERP Support",
+        "package": "jeffersongoncalves/filament-erp-support",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
@@ -643,6 +749,58 @@
     {
       "title": "Laravel Queue Management",
       "package": "jeffersongoncalves/laravel-queue-management"
+    },
+    {
+      "title": "Laravel ERP Core",
+      "package": "jeffersongoncalves/laravel-erp-core"
+    },
+    {
+      "title": "Laravel ERP Accounting",
+      "package": "jeffersongoncalves/laravel-erp-accounting"
+    },
+    {
+      "title": "Laravel ERP Assets",
+      "package": "jeffersongoncalves/laravel-erp-assets"
+    },
+    {
+      "title": "Laravel ERP Buying",
+      "package": "jeffersongoncalves/laravel-erp-buying"
+    },
+    {
+      "title": "Laravel ERP CRM",
+      "package": "jeffersongoncalves/laravel-erp-crm"
+    },
+    {
+      "title": "Laravel ERP Maintenance",
+      "package": "jeffersongoncalves/laravel-erp-maintenance"
+    },
+    {
+      "title": "Laravel ERP Manufacturing",
+      "package": "jeffersongoncalves/laravel-erp-manufacturing"
+    },
+    {
+      "title": "Laravel ERP Projects",
+      "package": "jeffersongoncalves/laravel-erp-projects"
+    },
+    {
+      "title": "Laravel ERP Quality",
+      "package": "jeffersongoncalves/laravel-erp-quality"
+    },
+    {
+      "title": "Laravel ERP Selling",
+      "package": "jeffersongoncalves/laravel-erp-selling"
+    },
+    {
+      "title": "Laravel ERP Stock",
+      "package": "jeffersongoncalves/laravel-erp-stock"
+    },
+    {
+      "title": "Laravel ERP Subcontracting",
+      "package": "jeffersongoncalves/laravel-erp-subcontracting"
+    },
+    {
+      "title": "Laravel ERP Support",
+      "package": "jeffersongoncalves/laravel-erp-support"
     }
   ],
   "laravelZero": [
