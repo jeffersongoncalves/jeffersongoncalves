@@ -476,9 +476,9 @@
       {
         "title": "Filament ERP Buying",
         "package": "jeffersongoncalves/filament-erp-buying",
-        "v3": false,
-        "v4": false,
-        "v5": false
+        "v3": true,
+        "v4": true,
+        "v5": true
       },
       {
         "title": "Filament ERP CRM",
@@ -490,9 +490,9 @@
       {
         "title": "Filament ERP Maintenance",
         "package": "jeffersongoncalves/filament-erp-maintenance",
-        "v3": false,
-        "v4": false,
-        "v5": false
+        "v3": true,
+        "v4": true,
+        "v5": true
       },
       {
         "title": "Filament ERP Manufacturing",
@@ -511,9 +511,9 @@
       {
         "title": "Filament ERP Quality",
         "package": "jeffersongoncalves/filament-erp-quality",
-        "v3": false,
-        "v4": false,
-        "v5": false
+        "v3": true,
+        "v4": true,
+        "v5": true
       },
       {
         "title": "Filament ERP Selling",
@@ -525,14 +525,14 @@
       {
         "title": "Filament ERP Stock",
         "package": "jeffersongoncalves/filament-erp-stock",
-        "v3": false,
-        "v4": false,
-        "v5": false
+        "v3": true,
+        "v4": true,
+        "v5": true
       },
       {
         "title": "Filament ERP Subcontracting",
         "package": "jeffersongoncalves/filament-erp-subcontracting",
-        "v3": false,
+        "v3": true,
         "v4": true,
         "v5": true
       },
