@@ -558,15 +558,15 @@
       {
         "title": "Filament ERP HR",
         "package": "jeffersongoncalves/filament-erp-hr",
-        "v3": true,
-        "v4": true,
-        "v5": true
+        "v3": false,
+        "v4": false,
+        "v5": false
       },
       {
         "title": "Filament Commerce",
         "package": "jeffersongoncalves/filament-commerce",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
@@ -579,148 +579,148 @@
       {
         "title": "Filament Commerce API Key",
         "package": "jeffersongoncalves/filament-commerce-api-key",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Auth",
         "package": "jeffersongoncalves/filament-commerce-auth",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Cart",
         "package": "jeffersongoncalves/filament-commerce-cart",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Currency",
         "package": "jeffersongoncalves/filament-commerce-currency",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Customer",
         "package": "jeffersongoncalves/filament-commerce-customer",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Fulfillment",
         "package": "jeffersongoncalves/filament-commerce-fulfillment",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Inventory",
         "package": "jeffersongoncalves/filament-commerce-inventory",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Loyalty",
         "package": "jeffersongoncalves/filament-commerce-loyalty",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Order",
         "package": "jeffersongoncalves/filament-commerce-order",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Payment",
         "package": "jeffersongoncalves/filament-commerce-payment",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Pricing",
         "package": "jeffersongoncalves/filament-commerce-pricing",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Product",
         "package": "jeffersongoncalves/filament-commerce-product",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Promotion",
         "package": "jeffersongoncalves/filament-commerce-promotion",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Region",
         "package": "jeffersongoncalves/filament-commerce-region",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Sales Channel",
         "package": "jeffersongoncalves/filament-commerce-sales-channel",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Stock Location",
         "package": "jeffersongoncalves/filament-commerce-stock-location",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Store",
         "package": "jeffersongoncalves/filament-commerce-store",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Store Credit",
         "package": "jeffersongoncalves/filament-commerce-store-credit",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Tax",
         "package": "jeffersongoncalves/filament-commerce-tax",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce Translation",
         "package": "jeffersongoncalves/filament-commerce-translation",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       },
       {
         "title": "Filament Commerce User",
         "package": "jeffersongoncalves/filament-commerce-user",
-        "v3": true,
-        "v4": true,
+        "v3": false,
+        "v4": false,
         "v5": true
       }
     ],
@@ -1175,6 +1175,13 @@
       "title": "External Terminal Launcher",
       "package": "jeffersongoncalves/external-terminal-plugin",
       "jetbrainsId": "32357-external-terminal-launcher"
+    }
+  ],
+  "vscode": [
+    {
+      "title": "JSG Git Worktree Manager",
+      "package": "jeffersongoncalves/git-worktree-manager",
+      "vscodeId": "JeffersonGoncalves.jsg-git-worktree-manager"
     }
   ],
   "browserExtensions": [

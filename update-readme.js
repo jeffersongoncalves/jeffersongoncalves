@@ -64,6 +64,17 @@ function generateJetbrainsRow(item) {
     return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ${marketplace} | ${downloads} | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
 
+function generateVscodeRow(item) {
+    const owner = isOwned(item.package) ? '' : ' Contribution';
+    const marketplace = item.vscodeId
+        ? `[![Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=${item.vscodeId})`
+        : '';
+    const installs = item.vscodeId
+        ? `![Installs](https://img.shields.io/visual-studio-marketplace/i/${item.vscodeId}.svg?style=flat-square)`
+        : '';
+    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ${marketplace} | ${installs} | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+}
+
 function generateBrowserExtensionRow(item) {
     const owner = isOwned(item.package) ? '' : ' Contribution';
     const chromeStore = item.chromeStoreId
@@ -84,6 +95,7 @@ const laravelZeroList = sorted(plugins.laravelZero).map(generateStartkitRow).joi
 const cliList = sorted(plugins.cli).map(generateStartkitRow).join('');
 const cakephpList = sorted(plugins.cakephp).map(generateCakephpRow).join('');
 const jetbrainsList = sorted(plugins.jetbrains).map(generateJetbrainsRow).join('');
+const vscodeList = sorted(plugins.vscode).map(generateVscodeRow).join('');
 const browserExtensionsList = sorted(plugins.browserExtensions).map(generateBrowserExtensionRow).join('');
 
 readme = readme.replace(/\[STARTKIT_FEATURED\]/g, startkitFeatured.trim());
@@ -95,6 +107,7 @@ readme = readme.replace(/\[LARAVEL_ZERO\]/g, laravelZeroList.trim());
 readme = readme.replace(/\[CLI\]/g, cliList.trim());
 readme = readme.replace(/\[CAKEPHP\]/g, cakephpList.trim());
 readme = readme.replace(/\[JETBRAINS\]/g, jetbrainsList.trim());
+readme = readme.replace(/\[VSCODE\]/g, vscodeList.trim());
 readme = readme.replace(/\[BROWSER_EXTENSIONS\]/g, browserExtensionsList.trim());
 readme = readme.replace(/\[YEARS\]/g, yearExperience);
 

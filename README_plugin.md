@@ -157,6 +157,16 @@ PhpStorm / IntelliJ plugins I built in Kotlin to speed up my own workflow.
 
 ---
 
+## 🧩 VS Code Extensions
+
+Extensions I built to speed up my own workflow.
+
+| Extension | Latest Release | Marketplace | Installs | Stars |
+|:----------|:-------------:|:-----------:|:--------:|:-----:|
+[VSCODE]
+
+---
+
 ## 🧭 Browser Extensions
 
 Chrome extensions (Manifest V3) I built to clean up my own browsing.
