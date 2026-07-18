@@ -385,6 +385,7 @@ Extensions I built to speed up my own workflow.
 
 | Extension | Latest Release | Marketplace | Installs | Stars |
 |:----------|:-------------:|:-----------:|:--------:|:-----:|
+| [**JSG External Terminal Launcher**](https://github.com/jeffersongoncalves/external-terminal-launcher) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/external-terminal-launcher?style=flat-square) | [![Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=JeffersonGoncalves.jsg-external-terminal-launcher) | ![Installs](https://img.shields.io/visual-studio-marketplace/i/JeffersonGoncalves.jsg-external-terminal-launcher.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/external-terminal-launcher?style=flat-square) |
 | [**JSG Git Worktree Manager**](https://github.com/jeffersongoncalves/git-worktree-manager) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/git-worktree-manager?style=flat-square) | [![Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=JeffersonGoncalves.jsg-git-worktree-manager) | ![Installs](https://img.shields.io/visual-studio-marketplace/i/JeffersonGoncalves.jsg-git-worktree-manager.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/git-worktree-manager?style=flat-square) |
 
 ---
