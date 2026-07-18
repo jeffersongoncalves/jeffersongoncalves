@@ -1182,6 +1182,11 @@
       "title": "JSG Git Worktree Manager",
       "package": "jeffersongoncalves/git-worktree-manager",
       "vscodeId": "JeffersonGoncalves.jsg-git-worktree-manager"
+    },
+    {
+      "title": "JSG External Terminal Launcher",
+      "package": "jeffersongoncalves/external-terminal-launcher",
+      "vscodeId": "JeffersonGoncalves.jsg-external-terminal-launcher"
     }
   ],
   "browserExtensions": [
