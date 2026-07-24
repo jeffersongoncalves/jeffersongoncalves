@@ -722,6 +722,20 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament Barcode Field",
+        "package": "jeffersongoncalves/filament-barcode-field",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Newsletter",
+        "package": "jeffersongoncalves/filament-newsletter",
+        "v3": false,
+        "v4": false,
+        "v5": false
       }
     ],
     "collaborator": [
@@ -1085,6 +1099,26 @@
     {
       "title": "Laravel Commerce User",
       "package": "jeffersongoncalves/laravel-commerce-user"
+    },
+    {
+      "title": "Laravel CMS",
+      "package": "jeffersongoncalves/laravel-cms"
+    },
+    {
+      "title": "Laravel CMS Core",
+      "package": "jeffersongoncalves/laravel-cms-core"
+    },
+    {
+      "title": "Laravel CMS Menu",
+      "package": "jeffersongoncalves/laravel-cms-menu"
+    },
+    {
+      "title": "Laravel CMS Media",
+      "package": "jeffersongoncalves/laravel-cms-media"
+    },
+    {
+      "title": "Laravel Newsletter",
+      "package": "jeffersongoncalves/laravel-newsletter"
     }
   ],
   "laravelZero": [
@@ -1153,6 +1187,14 @@
     {
       "title": "Jq CLI",
       "package": "jeffersongoncalves/jq-cli"
+    },
+    {
+      "title": "DB CLI",
+      "package": "jeffersongoncalves/db-cli"
+    },
+    {
+      "title": "Plump CLI",
+      "package": "jeffersongoncalves/plump-cli"
     }
   ],
   "jetbrains": [
@@ -1187,6 +1229,11 @@
       "title": "JSG External Terminal Launcher",
       "package": "jeffersongoncalves/external-terminal-launcher",
       "vscodeId": "JeffersonGoncalves.jsg-external-terminal-launcher"
+    },
+    {
+      "title": "JSG Worktree Env Configurator",
+      "package": "jeffersongoncalves/worktree-env-configurator",
+      "vscodeId": "JeffersonGoncalves.jsg-worktree-env-configurator"
     }
   ],
   "browserExtensions": [
