@@ -70,7 +70,7 @@ function generateVscodeRow(item) {
         ? `[![Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=${item.vscodeId})`
         : '';
     const installs = item.vscodeId
-        ? `![Installs](https://img.shields.io/visual-studio-marketplace/i/${item.vscodeId}.svg?style=flat-square)`
+        ? `![Installs](https://vsmarketplacebadges.dev/installs/${item.vscodeId}.svg)`
         : '';
     return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ${marketplace} | ${installs} | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
