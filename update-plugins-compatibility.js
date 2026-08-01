@@ -58,12 +58,6 @@ function checkFilamentCompatibility(requireSection) {
     return result;
 }
 
-// Pacotes split de um monorepo (filament-commerce, filament-erp, ...) não declaram
-// filament/* diretamente: dependem do seu "*-core" com "self.version", que carrega
-// a constraint real do Filament por branch/versão.
-const CORE_PACKAGE_RE = /^jeffersongoncalves\/filament-[a-z]+-core$/;
-const coreVersionMapPromises = new Map();
-
 // O endpoint p2 do Packagist comprime o payload: omite "require" quando é
 // idêntico ao da versão anterior (mais nova) na lista, e espera que o consumidor
 // herde esse valor. Sem isso, versões antigas parecem não ter nenhuma dependência.
@@ -76,26 +70,6 @@ function withInheritedRequire(versions) {
     });
 }
 
-function getCoreVersionMap(corePackage) {
-    if (!coreVersionMapPromises.has(corePackage)) {
-        coreVersionMapPromises.set(corePackage, (async () => {
-            const map = new Map();
-            try {
-                const url = `https://repo.packagist.org/p2/${corePackage}.json`;
-                const data = await fetch(url);
-                const versions = withInheritedRequire(data.packages?.[corePackage] || []);
-                for (const version of versions) {
-                    map.set(version.version, checkFilamentCompatibility(version.require));
-                }
-            } catch (error) {
-                console.error(`  [ERRO] ${corePackage}: ${error.message}`);
-            }
-            return map;
-        })());
-    }
-    return coreVersionMapPromises.get(corePackage);
-}
-
 async function getPackageCompatibility(packageName) {
     const url = `https://repo.packagist.org/p2/${packageName}.json`;
 
@@ -106,15 +80,7 @@ async function getPackageCompatibility(packageName) {
         const compat = { v3: false, v4: false, v5: false };
 
         for (const version of versions) {
-            let result = checkFilamentCompatibility(version.require);
-
-            const noDirectFilament = !result.v3 && !result.v4 && !result.v5;
-            const corePackage = version.require && Object.keys(version.require).find((dep) => CORE_PACKAGE_RE.test(dep));
-            if (noDirectFilament && corePackage && corePackage !== packageName) {
-                const coreMap = await getCoreVersionMap(corePackage);
-                const coreCompat = coreMap.get(version.version);
-                if (coreCompat) result = coreCompat;
-            }
+            const result = checkFilamentCompatibility(version.require);
 
             if (result.v3) compat.v3 = true;
             if (result.v4) compat.v4 = true;
