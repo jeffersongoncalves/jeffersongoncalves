@@ -470,6 +470,27 @@
         "v3": false,
         "v4": false,
         "v5": false
+      },
+      {
+        "title": "Filament ERP",
+        "package": "jeffersongoncalves/filament-erp",
+        "v3": false,
+        "v4": false,
+        "v5": false
+      },
+      {
+        "title": "Filament Commerce",
+        "package": "jeffersongoncalves/filament-commerce",
+        "v3": false,
+        "v4": false,
+        "v5": false
+      },
+      {
+        "title": "Filament CMS",
+        "package": "jeffersongoncalves/filament-cms",
+        "v3": false,
+        "v4": false,
+        "v5": false
       }
     ],
     "collaborator": [
@@ -692,6 +713,18 @@
     {
       "title": "Laravel Newsletter",
       "package": "jeffersongoncalves/laravel-newsletter"
+    },
+    {
+      "title": "Laravel ERP",
+      "package": "jeffersongoncalves/laravel-erp"
+    },
+    {
+      "title": "Laravel Commerce",
+      "package": "jeffersongoncalves/laravel-commerce"
+    },
+    {
+      "title": "Laravel CMS",
+      "package": "jeffersongoncalves/laravel-cms"
     }
   ],
   "laravelZero": [
