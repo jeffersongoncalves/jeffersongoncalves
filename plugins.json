@@ -740,6 +740,13 @@
     ],
     "collaborator": [
       {
+        "title": "Filament Activity Log",
+        "package": "rmsramos/activitylog",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Check SSL Widget",
         "package": "joaopaulolndev/filament-check-ssl-widget",
         "v3": true,
