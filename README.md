@@ -228,6 +228,7 @@ Filament plugins I actively maintain as a **collaborator**.
 | [**Filament General Settings**](https://github.com/joaopaulolndev/filament-general-settings) Contribution | ![Downloads](https://img.shields.io/packagist/dt/joaopaulolndev/filament-general-settings.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/joaopaulolndev/filament-general-settings?style=flat-square) | v3 · v4 · v5 |
 | [**Filament PDF Viewer**](https://github.com/joaopaulolndev/filament-pdf-viewer) Contribution | ![Downloads](https://img.shields.io/packagist/dt/joaopaulolndev/filament-pdf-viewer.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/joaopaulolndev/filament-pdf-viewer?style=flat-square) | v3 · v4 · v5 |
 | [**Filament World Clock**](https://github.com/joaopaulolndev/filament-world-clock) Contribution | ![Downloads](https://img.shields.io/packagist/dt/joaopaulolndev/filament-world-clock.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/joaopaulolndev/filament-world-clock?style=flat-square) | v3 · v4 · v5 |
+| [**Filament Activity Log**](https://github.com/rmsramos/activitylog) Contribution | ![Downloads](https://img.shields.io/packagist/dt/rmsramos/activitylog.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/rmsramos/activitylog?style=flat-square) | v3 · v4 · v5 |
 
 ---
 
