@@ -6,7 +6,7 @@
 <br/>
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+PHP+Developer;18%2B+Years+of+Experience;Open+Source+Enthusiast;Filament+%7C+Laravel+%7C+Livewire&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+PHP+Developer;19%2B+Years+of+Experience;Open+Source+Enthusiast;Filament+%7C+Laravel+%7C+Livewire&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=1000&size=22" />
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack PHP Developer** from **Assis, SP, Brazil** with over **18 years** of hands-on experience building robust platforms, managing server infrastructures, and crafting scalable solutions for businesses of all sizes.
+I'm a **Full Stack PHP Developer** from **Assis, SP, Brazil** with over **19 years** of hands-on experience building robust platforms, managing server infrastructures, and crafting scalable solutions for businesses of all sizes.
 
 My passion lives in the **open source** world — I actively maintain **20+ Filament plugins** and a growing collection of **Laravel packages** used by thousands of developers worldwide. I believe great software should be accessible to everyone.
 
