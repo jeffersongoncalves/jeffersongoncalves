@@ -9,7 +9,7 @@ const fs = require('fs');
 
 const plugins = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
 const year = new Date().getFullYear();
-const yearExperience = year - 2008;
+const yearExperience = year - 2007;
 
 if (!fs.existsSync('README_plugin.md')) {
     console.error('ERROR: README_plugin.md does not exist');
