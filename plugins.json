@@ -465,6 +465,13 @@
         "v5": true
       },
       {
+        "title": "Filament Short URL",
+        "package": "jeffersongoncalves/filament-short-url",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Newsletter",
         "package": "jeffersongoncalves/filament-newsletter",
         "v3": false,
@@ -488,9 +495,9 @@
       {
         "title": "Filament CMS",
         "package": "jeffersongoncalves/filament-cms",
-        "v3": false,
-        "v4": false,
-        "v5": false
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
@@ -725,6 +732,14 @@
     {
       "title": "Laravel CMS",
       "package": "jeffersongoncalves/laravel-cms"
+    },
+    {
+      "title": "Laravel Short URL",
+      "package": "jeffersongoncalves/laravel-short-url"
+    },
+    {
+      "title": "Laravel Livewire Wizard",
+      "package": "jeffersongoncalves/laravel-livewire-wizard"
     }
   ],
   "laravelZero": [
@@ -801,6 +816,10 @@
     {
       "title": "Plump CLI",
       "package": "jeffersongoncalves/plump-cli"
+    },
+    {
+      "title": "Deps CLI",
+      "package": "jeffersongoncalves/deps-cli"
     }
   ],
   "jetbrains": [
