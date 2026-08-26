@@ -774,6 +774,10 @@
     {
       "title": "Deps CLI",
       "package": "jeffersongoncalves/deps-cli"
+    },
+    {
+      "title": "Repos CLI",
+      "package": "jeffersongoncalves/repos-cli"
     }
   ],
   "jetbrains": [
