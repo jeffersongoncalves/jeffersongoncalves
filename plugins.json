@@ -450,9 +450,9 @@
       {
         "title": "Filament Newsletter",
         "package": "jeffersongoncalves/filament-newsletter",
-        "v3": false,
-        "v4": false,
-        "v5": false
+        "v3": true,
+        "v4": true,
+        "v5": true
       },
       {
         "title": "Filament CMS",
