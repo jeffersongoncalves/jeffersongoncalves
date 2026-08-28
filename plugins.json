@@ -842,7 +842,7 @@
     },
     {
       "title": "Livewire Snapshot Extractor",
-      "package": "jeffersongoncalves/lw-snapshot-extractor",
+      "package": "jeffersongoncalves/livewire-snapshot-extractor",
       "chromeStoreId": "dgfanibllgmfbncmpbccddoiaomkhaoo"
     }
   ],
