@@ -838,6 +838,11 @@
     {
       "title": "1Password Ignore",
       "package": "jeffersongoncalves/chrome-1password-ignore"
+    },
+    {
+      "title": "Livewire Snapshot Extractor",
+      "package": "jeffersongoncalves/lw-snapshot-extractor",
+      "chromeStoreId": "dgfanibllgmfbncmpbccddoiaomkhaoo"
     }
   ],
   "cakephp": [
