@@ -460,6 +460,20 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament Commerce",
+        "package": "jeffersongoncalves/filament-commerce",
+        "v3": false,
+        "v4": false,
+        "v5": true
+      },
+      {
+        "title": "Filament ERP",
+        "package": "jeffersongoncalves/filament-erp",
+        "v3": false,
+        "v4": false,
+        "v5": true
       }
     ],
     "collaborator": [
@@ -694,6 +708,14 @@
     {
       "title": "Laravel Livewire Wizard",
       "package": "jeffersongoncalves/laravel-livewire-wizard"
+    },
+    {
+      "title": "Laravel Commerce",
+      "package": "jeffersongoncalves/laravel-commerce"
+    },
+    {
+      "title": "Laravel ERP",
+      "package": "jeffersongoncalves/laravel-erp"
     }
   ],
   "laravelZero": [
@@ -778,6 +800,11 @@
     {
       "title": "Repos CLI",
       "package": "jeffersongoncalves/repos-cli"
+    },
+    {
+      "title": "Svg2Png CLI",
+      "package": "jeffersongoncalves/svg2png-cli",
+      "pypi": "svg2png-cli"
     }
   ],
   "jetbrains": [
@@ -829,6 +856,10 @@
       "title": "YouTube Hidden Chats",
       "package": "jeffersongoncalves/youtube-hidden-chats",
       "chromeStoreId": "kdibfhpniophaigjfoihaekajkefnbmg"
+    },
+    {
+      "title": "1Password Ignore",
+      "package": "jeffersongoncalves/chrome-1password-ignore"
     }
   ],
   "cakephp": [
