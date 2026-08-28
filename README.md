@@ -301,6 +301,7 @@ Packages and components I built for the **Laravel Zero** micro-framework.
 
 | Project | Latest Version | Downloads | Stars |
 |:--------|:-------------:|:---------:|:-----:|
+| [**Pypdf Merge CLI**](https://github.com/jeffersongoncalves/pypdf-merge-cli) | ![Version](https://img.shields.io/pypi/v/pypdf-merge-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/pypi/dm/pypdf-merge-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/pypdf-merge-cli?style=flat-square) |
 | [**Svg2Png CLI**](https://github.com/jeffersongoncalves/svg2png-cli) | ![Version](https://img.shields.io/pypi/v/svg2png-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/pypi/dm/svg2png-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/svg2png-cli?style=flat-square) |
 
 ---

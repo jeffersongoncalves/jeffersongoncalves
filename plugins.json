@@ -785,6 +785,11 @@
       "title": "Svg2Png CLI",
       "package": "jeffersongoncalves/svg2png-cli",
       "pypi": "svg2png-cli"
+    },
+    {
+      "title": "Pypdf Merge CLI",
+      "package": "jeffersongoncalves/pypdf-merge-cli",
+      "pypi": "pypdf-merge-cli"
     }
   ],
   "jetbrains": [
