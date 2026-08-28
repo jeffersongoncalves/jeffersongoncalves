@@ -147,6 +147,14 @@ Packages and components I built for the **Laravel Zero** micro-framework.
 
 ---
 
+## 🐍 Python CLI Projects
+
+| Project | Latest Version | Downloads | Stars |
+|:--------|:-------------:|:---------:|:-----:|
+[CLI_PYTHON]
+
+---
+
 ## 🧩 JetBrains Plugins
 
 PhpStorm / IntelliJ plugins I built in Kotlin to speed up my own workflow.

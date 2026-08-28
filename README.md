@@ -294,6 +294,13 @@ Packages and components I built for the **Laravel Zero** micro-framework.
 | [**Repos CLI**](https://github.com/jeffersongoncalves/repos-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/repos-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/repos-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/repos-cli?style=flat-square) |
 | [**Screentest CLI**](https://github.com/jeffersongoncalves/screentest-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/screentest-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/screentest-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/screentest-cli?style=flat-square) |
 | [**Secure Lock CLI**](https://github.com/jeffersongoncalves/secure-lock-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/secure-lock-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/secure-lock-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/secure-lock-cli?style=flat-square) |
+
+---
+
+## 🐍 Python CLI Projects
+
+| Project | Latest Version | Downloads | Stars |
+|:--------|:-------------:|:---------:|:-----:|
 | [**Svg2Png CLI**](https://github.com/jeffersongoncalves/svg2png-cli) | ![Version](https://img.shields.io/pypi/v/svg2png-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/pypi/dm/svg2png-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/svg2png-cli?style=flat-square) |
 
 ---

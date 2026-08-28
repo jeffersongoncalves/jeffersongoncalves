@@ -778,7 +778,9 @@
     {
       "title": "Repos CLI",
       "package": "jeffersongoncalves/repos-cli"
-    },
+    }
+  ],
+  "cliPython": [
     {
       "title": "Svg2Png CLI",
       "package": "jeffersongoncalves/svg2png-cli",

@@ -83,12 +83,9 @@ function generateBrowserExtensionRow(item) {
     return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ${chromeStore} | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
 
-function generateCliRow(item) {
-    if (item.pypi) {
-        const owner = isOwned(item.package) ? '' : ' Contribution';
-        return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Version](https://img.shields.io/pypi/v/${item.pypi}.svg?style=flat-square) | ![Downloads](https://img.shields.io/pypi/dm/${item.pypi}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
-    }
-    return generateStartkitRow(item);
+function generatePythonCliRow(item) {
+    const owner = isOwned(item.package) ? '' : ' Contribution';
+    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Version](https://img.shields.io/pypi/v/${item.pypi}.svg?style=flat-square) | ![Downloads](https://img.shields.io/pypi/dm/${item.pypi}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
 
 const byPackage = (a, b) => a.package.localeCompare(b.package);
@@ -100,7 +97,8 @@ const filamentPlugins = sorted(plugins.filament.plugins).map(generateFilamentRow
 const filamentCollaborator = sorted(plugins.filament.collaborator).map(generateFilamentRow).join('');
 const laravelList = sorted(plugins.laravel).map(generateLaravelRow).join('');
 const laravelZeroList = sorted(plugins.laravelZero).map(generateStartkitRow).join('');
-const cliList = sorted(plugins.cli).map(generateCliRow).join('');
+const cliList = sorted(plugins.cli).map(generateStartkitRow).join('');
+const cliPythonList = sorted(plugins.cliPython).map(generatePythonCliRow).join('');
 const cakephpList = sorted(plugins.cakephp).map(generateCakephpRow).join('');
 const jetbrainsList = sorted(plugins.jetbrains).map(generateJetbrainsRow).join('');
 const vscodeList = sorted(plugins.vscode).map(generateVscodeRow).join('');
@@ -113,6 +111,7 @@ readme = readme.replace(/\[FILAMENT_COLLABORATOR\]/g, filamentCollaborator.trim(
 readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
 readme = readme.replace(/\[LARAVEL_ZERO\]/g, laravelZeroList.trim());
 readme = readme.replace(/\[CLI\]/g, cliList.trim());
+readme = readme.replace(/\[CLI_PYTHON\]/g, cliPythonList.trim());
 readme = readme.replace(/\[CAKEPHP\]/g, cakephpList.trim());
 readme = readme.replace(/\[JETBRAINS\]/g, jetbrainsList.trim());
 readme = readme.replace(/\[VSCODE\]/g, vscodeList.trim());
