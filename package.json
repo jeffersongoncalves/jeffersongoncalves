@@ -15,10 +15,5 @@
       "node update-plugins-compatibility.js",
       "git add plugins.json"
     ]
-  },
-  "pnpm": {
-    "overrides": {
-      "picomatch": ">=4.0.4"
-    }
   }
 }

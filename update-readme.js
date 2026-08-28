@@ -120,3 +120,33 @@ readme = readme.replace(/\[YEARS\]/g, yearExperience);
 
 fs.writeFileSync('README.md', readme);
 console.log('README.md has been updated successfully');
+
+function agentsSection(heading, items, githubPathOf) {
+    if (!items.length) return '';
+    const lines = sorted(items).map((item) => `- [${item.title}](https://github.com/${githubPathOf(item)})`).join('\n');
+    return `## ${heading}\n\n${lines}\n\n`;
+}
+
+const byPackagePath = (item) => item.package;
+const byRepoPath = (item) => item.repo || item.package;
+
+let agents = `# AGENTS.md
+
+Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — generated from \`plugins.json\`, do not edit by hand (run \`pnpm run build:readme\` to regenerate).
+
+`;
+agents += agentsSection('Filakit Starter Kits (featured)', plugins.startkit.featured, byPackagePath);
+agents += agentsSection('Filakit Starter Kits (legacy)', plugins.startkit.legacy, byPackagePath);
+agents += agentsSection('Filament Plugins', plugins.filament.plugins, byPackagePath);
+agents += agentsSection('Filament Plugins (collaborator)', plugins.filament.collaborator, byPackagePath);
+agents += agentsSection('Laravel Packages', plugins.laravel, byPackagePath);
+agents += agentsSection('Laravel Zero Packages', plugins.laravelZero, byPackagePath);
+agents += agentsSection('CLI Projects', plugins.cli, byPackagePath);
+agents += agentsSection('Python CLI Projects', plugins.cliPython, byPackagePath);
+agents += agentsSection('CakePHP Packages', plugins.cakephp, byRepoPath);
+agents += agentsSection('JetBrains Plugins', plugins.jetbrains, byPackagePath);
+agents += agentsSection('VS Code Extensions', plugins.vscode, byPackagePath);
+agents += agentsSection('Browser Extensions', plugins.browserExtensions, byPackagePath);
+
+fs.writeFileSync('AGENTS.md', agents.trimEnd() + '\n');
+console.log('AGENTS.md has been updated successfully');
