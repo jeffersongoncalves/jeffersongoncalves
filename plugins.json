@@ -576,6 +576,10 @@
       "package": "jeffersongoncalves/laravel-cep"
     },
     {
+      "title": "Laravel FAQ",
+      "package": "jeffersongoncalves/laravel-faq"
+    },
+    {
       "title": "Laravel Cookie Consent",
       "package": "jeffersongoncalves/laravel-cookie-consent"
     },
