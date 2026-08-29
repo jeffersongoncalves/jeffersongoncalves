@@ -467,6 +467,13 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament How It Works",
+        "package": "jeffersongoncalves/filament-how-it-works",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
