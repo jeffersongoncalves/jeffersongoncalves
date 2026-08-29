@@ -32,7 +32,7 @@ My passion lives in the **open source** world — I actively maintain **50+ Fila
 - 🛠️ Creator of the **Filakit** ecosystem — starter kits for Filament v3, v4 & v5
 - 🌍 Active contributor to the **Filament** and **Laravel** communities
 - 💬 Ask me about **Filament, Laravel, Livewire, API integrations**
-- ⚡ Fun fact: I've published **80+ repositories** and still counting
+- ⚡ Fun fact: I've published **170+ repositories** and still counting
 
 ---
 
