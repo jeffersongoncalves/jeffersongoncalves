@@ -47,6 +47,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament CMS](https://github.com/jeffersongoncalves/filament-cms)
 - [Filament Cookie Consent](https://github.com/jeffersongoncalves/filament-cookie-consent)
 - [Filament Documentation](https://github.com/jeffersongoncalves/filament-documentation)
+- [Filament FAQ](https://github.com/jeffersongoncalves/filament-faq)
 - [Filament Fathom](https://github.com/jeffersongoncalves/filament-fathom)
 - [Filament Flux](https://github.com/jeffersongoncalves/filament-flux)
 - [Filament Flux Pro](https://github.com/jeffersongoncalves/filament-flux-pro)
