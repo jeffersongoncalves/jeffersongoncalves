@@ -11,6 +11,7 @@ const plugins = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
 const year = new Date().getFullYear();
 const yearExperience = year - 2007;
 const filamentCount = Math.floor((plugins.filament.plugins.length + plugins.filament.collaborator.length) / 10) * 10;
+const laravelCount = Math.floor(plugins.laravel.length / 10) * 10;
 
 if (!fs.existsSync('README_plugin.md')) {
     console.error('ERROR: README_plugin.md does not exist');
@@ -119,6 +120,7 @@ readme = readme.replace(/\[VSCODE\]/g, vscodeList.trim());
 readme = readme.replace(/\[BROWSER_EXTENSIONS\]/g, browserExtensionsList.trim());
 readme = readme.replace(/\[YEARS\]/g, yearExperience);
 readme = readme.replace(/\[FILAMENT_COUNT\]/g, filamentCount);
+readme = readme.replace(/\[LARAVEL_COUNT\]/g, laravelCount);
 
 fs.writeFileSync('README.md', readme);
 console.log('README.md has been updated successfully');

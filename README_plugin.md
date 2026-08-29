@@ -26,7 +26,7 @@
 
 I'm a **Full Stack PHP Developer** from **Assis, SP, Brazil** with over **[YEARS] years** of hands-on experience building robust platforms, managing server infrastructures, and crafting scalable solutions for businesses of all sizes.
 
-My passion lives in the **open source** world — I actively maintain **[FILAMENT_COUNT]+ Filament plugins** and a growing collection of **Laravel packages** used by thousands of developers worldwide. I believe great software should be accessible to everyone.
+My passion lives in the **open source** world — I actively maintain **[FILAMENT_COUNT]+ Filament plugins** and **[LARAVEL_COUNT]+ Laravel packages** used by thousands of developers worldwide. I believe great software should be accessible to everyone.
 
 - 🔭 Currently focused on the **TALL Stack** (Tailwind, Alpine.js, Livewire, Laravel)
 - 🛠️ Creator of the **Filakit** ecosystem — starter kits for Filament v3, v4 & v5
