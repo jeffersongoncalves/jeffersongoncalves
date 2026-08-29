@@ -114,6 +114,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Gtag](https://github.com/jeffersongoncalves/laravel-gtag)
 - [Laravel Gtm](https://github.com/jeffersongoncalves/laravel-gtm)
 - [Laravel Help Desk](https://github.com/jeffersongoncalves/laravel-help-desk)
+- [Laravel How It Works](https://github.com/jeffersongoncalves/laravel-how-it-works)
 - [Laravel Html Sanitizer](https://github.com/jeffersongoncalves/laravel-html-sanitizer)
 - [Laravel Knowledge Base](https://github.com/jeffersongoncalves/laravel-knowledge-base)
 - [Laravel Livewire Wizard](https://github.com/jeffersongoncalves/laravel-livewire-wizard)
