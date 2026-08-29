@@ -694,6 +694,10 @@
     {
       "title": "Laravel Livewire Wizard",
       "package": "jeffersongoncalves/laravel-livewire-wizard"
+    },
+    {
+      "title": "Laravel How It Works",
+      "package": "jeffersongoncalves/laravel-how-it-works"
     }
   ],
   "laravelZero": [
