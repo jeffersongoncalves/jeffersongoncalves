@@ -105,6 +105,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Created By](https://github.com/jeffersongoncalves/laravel-created-by)
 - [Laravel Discord Logger](https://github.com/jeffersongoncalves/laravel-discord-logger)
 - [Laravel Fake Cartoons](https://github.com/jeffersongoncalves/laravel-fake-cartoons)
+- [Laravel FAQ](https://github.com/jeffersongoncalves/laravel-faq)
 - [Laravel Fathom](https://github.com/jeffersongoncalves/laravel-fathom)
 - [Laravel Favicon Proxy](https://github.com/jeffersongoncalves/laravel-favicon-proxy)
 - [Laravel Github Client](https://github.com/jeffersongoncalves/laravel-github-client)
