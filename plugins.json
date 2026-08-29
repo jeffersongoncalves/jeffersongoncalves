@@ -217,6 +217,13 @@
         "v5": true
       },
       {
+        "title": "Filament FAQ",
+        "package": "jeffersongoncalves/filament-faq",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Fathom",
         "package": "jeffersongoncalves/filament-fathom",
         "v3": true,
