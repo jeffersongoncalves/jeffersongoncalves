@@ -113,6 +113,8 @@ Filament plugins I actively maintain as a **collaborator**.
 
 ## 📦 Laravel Packages
 
+Reusable packages for the **Laravel** framework, built to solve problems I hit in real projects.
+
 | Package | Latest Version | Downloads | Stars |
 |:--------|:-------------:|:---------:|:-----:|
 [LARAVEL]
@@ -141,6 +143,8 @@ Packages and components I built for the **Laravel Zero** micro-framework.
 
 ## 🚀 CLI Projects
 
+Command-line tools built with Laravel Zero for everyday development workflows.
+
 | Project | Latest Version | Downloads | Stars |
 |:--------|:-------------:|:---------:|:-----:|
 [CLI]
@@ -148,6 +152,8 @@ Packages and components I built for the **Laravel Zero** micro-framework.
 ---
 
 ## 🐍 Python CLI Projects
+
+Command-line tools built in Python, published on PyPI.
 
 | Project | Latest Version | Downloads | Stars |
 |:--------|:-------------:|:---------:|:-----:|

@@ -192,6 +192,8 @@ Filament plugins I actively maintain as a **collaborator**.
 
 ## 📦 Laravel Packages
 
+Reusable packages for the **Laravel** framework, built to solve problems I hit in real projects.
+
 | Package | Latest Version | Downloads | Stars |
 |:--------|:-------------:|:---------:|:-----:|
 | [**Laravel CEP**](https://github.com/jeffersongoncalves/laravel-cep) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-cep.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-cep.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-cep?style=flat-square) |
@@ -281,6 +283,8 @@ Packages and components I built for the **Laravel Zero** micro-framework.
 
 ## 🚀 CLI Projects
 
+Command-line tools built with Laravel Zero for everyday development workflows.
+
 | Project | Latest Version | Downloads | Stars |
 |:--------|:-------------:|:---------:|:-----:|
 | [**Banners CLI**](https://github.com/jeffersongoncalves/banners-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/banners-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/banners-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/banners-cli?style=flat-square) |
@@ -300,6 +304,8 @@ Packages and components I built for the **Laravel Zero** micro-framework.
 ---
 
 ## 🐍 Python CLI Projects
+
+Command-line tools built in Python, published on PyPI.
 
 | Project | Latest Version | Downloads | Stars |
 |:--------|:-------------:|:---------:|:-----:|
