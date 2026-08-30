@@ -800,6 +800,10 @@
     {
       "title": "Repos CLI",
       "package": "jeffersongoncalves/repos-cli"
+    },
+    {
+      "title": "Obsidian Notes CLI",
+      "package": "jeffersongoncalves/obsidian-notes-cli"
     }
   ],
   "cliPython": [
@@ -873,6 +877,18 @@
       "title": "Livewire Snapshot Extractor",
       "package": "jeffersongoncalves/livewire-snapshot-extractor",
       "chromeStoreId": "dgfanibllgmfbncmpbccddoiaomkhaoo"
+    }
+  ],
+  "obsidianPlugins": [
+    {
+      "title": "Obsidian Claude Notes",
+      "package": "jeffersongoncalves/obsidian-claude-notes"
+    }
+  ],
+  "claudeCodePlugins": [
+    {
+      "title": "Claude Code Obsidian Notes",
+      "package": "jeffersongoncalves/claude-code-obsidian-notes"
     }
   ],
   "cakephp": [

@@ -15,7 +15,8 @@ const laravelCount = Math.floor(plugins.laravel.length / 10) * 10;
 const totalRepos = plugins.startkit.featured.length + plugins.startkit.legacy.length
     + plugins.filament.plugins.length + plugins.filament.collaborator.length
     + plugins.laravel.length + plugins.laravelZero.length + plugins.cli.length + plugins.cliPython.length
-    + plugins.cakephp.length + plugins.jetbrains.length + plugins.vscode.length + plugins.browserExtensions.length;
+    + plugins.cakephp.length + plugins.jetbrains.length + plugins.vscode.length + plugins.browserExtensions.length
+    + plugins.obsidianPlugins.length + plugins.claudeCodePlugins.length;
 const totalCount = Math.floor(totalRepos / 10) * 10;
 
 if (!fs.existsSync('README_plugin.md')) {
@@ -90,6 +91,11 @@ function generateBrowserExtensionRow(item) {
     return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ${chromeStore} | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
 
+function generateReleaseOnlyRow(item) {
+    const owner = isOwned(item.package) ? '' : ' Contribution';
+    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+}
+
 function generatePythonCliRow(item) {
     const owner = isOwned(item.package) ? '' : ' Contribution';
     return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Version](https://img.shields.io/pypi/v/${item.pypi}.svg?style=flat-square) | ![Downloads](https://img.shields.io/pypi/dm/${item.pypi}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
@@ -110,6 +116,8 @@ const cakephpList = sorted(plugins.cakephp).map(generateCakephpRow).join('');
 const jetbrainsList = sorted(plugins.jetbrains).map(generateJetbrainsRow).join('');
 const vscodeList = sorted(plugins.vscode).map(generateVscodeRow).join('');
 const browserExtensionsList = sorted(plugins.browserExtensions).map(generateBrowserExtensionRow).join('');
+const obsidianPluginsList = sorted(plugins.obsidianPlugins).map(generateReleaseOnlyRow).join('');
+const claudeCodePluginsList = sorted(plugins.claudeCodePlugins).map(generateReleaseOnlyRow).join('');
 
 readme = readme.replace(/\[STARTKIT_FEATURED\]/g, startkitFeatured.trim());
 readme = readme.replace(/\[STARTKIT_LEGACY\]/g, startkitLegacy.trim());
@@ -123,6 +131,8 @@ readme = readme.replace(/\[CAKEPHP\]/g, cakephpList.trim());
 readme = readme.replace(/\[JETBRAINS\]/g, jetbrainsList.trim());
 readme = readme.replace(/\[VSCODE\]/g, vscodeList.trim());
 readme = readme.replace(/\[BROWSER_EXTENSIONS\]/g, browserExtensionsList.trim());
+readme = readme.replace(/\[OBSIDIAN_PLUGINS\]/g, obsidianPluginsList.trim());
+readme = readme.replace(/\[CLAUDE_CODE_PLUGINS\]/g, claudeCodePluginsList.trim());
 readme = readme.replace(/\[YEARS\]/g, yearExperience);
 readme = readme.replace(/\[FILAMENT_COUNT\]/g, filamentCount);
 readme = readme.replace(/\[LARAVEL_COUNT\]/g, laravelCount);
@@ -157,6 +167,8 @@ agents += agentsSection('CakePHP Packages', plugins.cakephp, byRepoPath);
 agents += agentsSection('JetBrains Plugins', plugins.jetbrains, byPackagePath);
 agents += agentsSection('VS Code Extensions', plugins.vscode, byPackagePath);
 agents += agentsSection('Browser Extensions', plugins.browserExtensions, byPackagePath);
+agents += agentsSection('Obsidian Plugins', plugins.obsidianPlugins, byPackagePath);
+agents += agentsSection('Claude Code Plugins', plugins.claudeCodePlugins, byPackagePath);
 
 fs.writeFileSync('AGENTS.md', agents.trimEnd() + '\n');
 console.log('AGENTS.md has been updated successfully');

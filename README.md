@@ -297,6 +297,7 @@ Command-line tools built with Laravel Zero for everyday development workflows.
 | [**Git Worktree CLI**](https://github.com/jeffersongoncalves/git-worktree-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/git-worktree-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/git-worktree-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/git-worktree-cli?style=flat-square) |
 | [**Jira CLI**](https://github.com/jeffersongoncalves/jira-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/jira-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/jira-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/jira-cli?style=flat-square) |
 | [**Jq CLI**](https://github.com/jeffersongoncalves/jq-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/jq-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/jq-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/jq-cli?style=flat-square) |
+| [**Obsidian Notes CLI**](https://github.com/jeffersongoncalves/obsidian-notes-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/obsidian-notes-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/obsidian-notes-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/obsidian-notes-cli?style=flat-square) |
 | [**Packagist CLI**](https://github.com/jeffersongoncalves/packagist-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/packagist-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/packagist-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/packagist-cli?style=flat-square) |
 | [**Plump CLI**](https://github.com/jeffersongoncalves/plump-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/plump-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/plump-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/plump-cli?style=flat-square) |
 | [**Repos CLI**](https://github.com/jeffersongoncalves/repos-cli) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/repos-cli.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/repos-cli.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/repos-cli?style=flat-square) |
@@ -351,6 +352,26 @@ Chrome extensions (Manifest V3) I built to clean up my own browsing.
 | [**Livewire Snapshot Extractor**](https://github.com/jeffersongoncalves/livewire-snapshot-extractor) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/livewire-snapshot-extractor?style=flat-square) | [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/dgfanibllgmfbncmpbccddoiaomkhaoo) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/livewire-snapshot-extractor?style=flat-square) |
 | [**YouTube Hidden Chats**](https://github.com/jeffersongoncalves/youtube-hidden-chats) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/youtube-hidden-chats?style=flat-square) | [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/kdibfhpniophaigjfoihaekajkefnbmg) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/youtube-hidden-chats?style=flat-square) |
 | [**YouTube Hidden Shorts**](https://github.com/jeffersongoncalves/youtube-hidden-shorts) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/youtube-hidden-shorts?style=flat-square) | [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/ncnpjoigombiifmlaacladhedjfmfjne) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/youtube-hidden-shorts?style=flat-square) |
+
+---
+
+## 🗒️ Obsidian Plugins
+
+Plugins I built to bring Claude Code notes into the **Obsidian** vault.
+
+| Project | Latest Release | Stars |
+|:--------|:-------------:|:-----:|
+| [**Obsidian Claude Notes**](https://github.com/jeffersongoncalves/obsidian-claude-notes) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/obsidian-claude-notes?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/obsidian-claude-notes?style=flat-square) |
+
+---
+
+## 🤖 Claude Code Plugins
+
+Skills and commands I built to extend **Claude Code** workflows.
+
+| Project | Latest Release | Stars |
+|:--------|:-------------:|:-----:|
+| [**Claude Code Obsidian Notes**](https://github.com/jeffersongoncalves/claude-code-obsidian-notes) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/claude-code-obsidian-notes?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/claude-code-obsidian-notes?style=flat-square) |
 
 ---
 

@@ -191,6 +191,26 @@ Chrome extensions (Manifest V3) I built to clean up my own browsing.
 
 ---
 
+## 🗒️ Obsidian Plugins
+
+Plugins I built to bring Claude Code notes into the **Obsidian** vault.
+
+| Project | Latest Release | Stars |
+|:--------|:-------------:|:-----:|
+[OBSIDIAN_PLUGINS]
+
+---
+
+## 🤖 Claude Code Plugins
+
+Skills and commands I built to extend **Claude Code** workflows.
+
+| Project | Latest Release | Stars |
+|:--------|:-------------:|:-----:|
+[CLAUDE_CODE_PLUGINS]
+
+---
+
 ## 🤝 Connect with me
 
 <div align="center">

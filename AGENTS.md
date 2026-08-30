@@ -169,6 +169,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Git Worktree CLI](https://github.com/jeffersongoncalves/git-worktree-cli)
 - [Jira CLI](https://github.com/jeffersongoncalves/jira-cli)
 - [Jq CLI](https://github.com/jeffersongoncalves/jq-cli)
+- [Obsidian Notes CLI](https://github.com/jeffersongoncalves/obsidian-notes-cli)
 - [Packagist CLI](https://github.com/jeffersongoncalves/packagist-cli)
 - [Plump CLI](https://github.com/jeffersongoncalves/plump-cli)
 - [Repos CLI](https://github.com/jeffersongoncalves/repos-cli)
@@ -212,3 +213,11 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Livewire Snapshot Extractor](https://github.com/jeffersongoncalves/livewire-snapshot-extractor)
 - [YouTube Hidden Chats](https://github.com/jeffersongoncalves/youtube-hidden-chats)
 - [YouTube Hidden Shorts](https://github.com/jeffersongoncalves/youtube-hidden-shorts)
+
+## Obsidian Plugins
+
+- [Obsidian Claude Notes](https://github.com/jeffersongoncalves/obsidian-claude-notes)
+
+## Claude Code Plugins
+
+- [Claude Code Obsidian Notes](https://github.com/jeffersongoncalves/claude-code-obsidian-notes)
