@@ -601,6 +601,10 @@
       "package": "jeffersongoncalves/laravel-faq"
     },
     {
+      "title": "Laravel Benefit",
+      "package": "jeffersongoncalves/laravel-benefit"
+    },
+    {
       "title": "Laravel Cookie Consent",
       "package": "jeffersongoncalves/laravel-cookie-consent"
     },
