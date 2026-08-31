@@ -228,6 +228,13 @@
         "v5": true
       },
       {
+        "title": "Filament Benefit",
+        "package": "jeffersongoncalves/filament-benefit",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Fathom",
         "package": "jeffersongoncalves/filament-fathom",
         "v3": true,
