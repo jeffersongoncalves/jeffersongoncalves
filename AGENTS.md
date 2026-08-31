@@ -102,6 +102,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 
 ## Laravel Packages
 
+- [Laravel Benefit](https://github.com/jeffersongoncalves/laravel-benefit)
 - [Laravel CEP](https://github.com/jeffersongoncalves/laravel-cep)
 - [Laravel CMS](https://github.com/jeffersongoncalves/laravel-cms)
 - [Laravel Cookie Consent](https://github.com/jeffersongoncalves/laravel-cookie-consent)
