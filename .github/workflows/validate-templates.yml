@@ -34,9 +34,9 @@ jobs:
             exit 1
           fi
 
-          # Validate startkit has featured and legacy arrays
-          if ! jq -e '.startkit.featured and .startkit.legacy' plugins.json >/dev/null; then
-            echo "Error: startkit must have 'featured' and 'legacy' arrays"
+          # Validate startkit has featured array and legacy version arrays
+          if ! jq -e '.startkit.featured and .startkit.legacy and (.startkit.legacy | type == "object")' plugins.json >/dev/null; then
+            echo "Error: startkit must have a 'featured' array and a 'legacy' object of version arrays (e.g. v4, v3)"
             exit 1
           fi
 
@@ -50,7 +50,7 @@ jobs:
           INVALID=$(jq -r '
             [
               .startkit.featured[],
-              .startkit.legacy[],
+              .startkit.legacy[][],
               .filament.plugins[],
               .filament.collaborator[],
               .laravel[],

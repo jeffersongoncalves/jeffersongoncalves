@@ -12,7 +12,9 @@ const year = new Date().getFullYear();
 const yearExperience = year - 2007;
 const filamentCount = Math.floor((plugins.filament.plugins.length + plugins.filament.collaborator.length) / 10) * 10;
 const laravelCount = Math.floor(plugins.laravel.length / 10) * 10;
-const totalRepos = plugins.startkit.featured.length + plugins.startkit.legacy.length
+const legacyVersions = Object.keys(plugins.startkit.legacy).sort().reverse();
+const legacyCount = legacyVersions.reduce((sum, v) => sum + plugins.startkit.legacy[v].length, 0);
+const totalRepos = plugins.startkit.featured.length + legacyCount
     + plugins.filament.plugins.length + plugins.filament.collaborator.length
     + plugins.laravel.length + plugins.laravelZero.length + plugins.cli.length + plugins.cliPython.length
     + plugins.cakephp.length + plugins.jetbrains.length + plugins.vscode.length + plugins.browserExtensions.length
@@ -105,7 +107,6 @@ const byPackage = (a, b) => a.package.localeCompare(b.package);
 const sorted = (arr) => arr.slice().sort(byPackage);
 
 const startkitFeatured = sorted(plugins.startkit.featured).map(generateStartkitRow).join('');
-const startkitLegacy = sorted(plugins.startkit.legacy).map(generateStartkitRow).join('');
 const filamentPlugins = sorted(plugins.filament.plugins).map(generateFilamentRow).join('');
 const filamentCollaborator = sorted(plugins.filament.collaborator).map(generateFilamentRow).join('');
 const laravelList = sorted(plugins.laravel).map(generateLaravelRow).join('');
@@ -120,7 +121,10 @@ const obsidianPluginsList = sorted(plugins.obsidianPlugins).map(generateReleaseO
 const claudeCodePluginsList = sorted(plugins.claudeCodePlugins).map(generateReleaseOnlyRow).join('');
 
 readme = readme.replace(/\[STARTKIT_FEATURED\]/g, startkitFeatured.trim());
-readme = readme.replace(/\[STARTKIT_LEGACY\]/g, startkitLegacy.trim());
+for (const v of legacyVersions) {
+    const rows = sorted(plugins.startkit.legacy[v]).map(generateStartkitRow).join('');
+    readme = readme.replace(new RegExp(`\\[STARTKIT_LEGACY_${v.toUpperCase()}\\]`, 'g'), rows.trim());
+}
 readme = readme.replace(/\[FILAMENT_PLUGINS\]/g, filamentPlugins.trim());
 readme = readme.replace(/\[FILAMENT_COLLABORATOR\]/g, filamentCollaborator.trim());
 readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
@@ -156,7 +160,9 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 
 `;
 agents += agentsSection('Filakit Starter Kits (featured)', plugins.startkit.featured, byPackagePath);
-agents += agentsSection('Filakit Starter Kits (legacy)', plugins.startkit.legacy, byPackagePath);
+for (const v of legacyVersions) {
+    agents += agentsSection(`Filakit Starter Kits (legacy ${v})`, plugins.startkit.legacy[v], byPackagePath);
+}
 agents += agentsSection('Filament Plugins', plugins.filament.plugins, byPackagePath);
 agents += agentsSection('Filament Plugins (collaborator)', plugins.filament.collaborator, byPackagePath);
 agents += agentsSection('Laravel Packages', plugins.laravel, byPackagePath);

@@ -15,24 +15,27 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Service Desk Kit v5](https://github.com/jeffersongoncalves/servicedeskkitv5)
 - [Team Kit v5](https://github.com/jeffersongoncalves/teamkitv5)
 
-## Filakit Starter Kits (legacy)
+## Filakit Starter Kits (legacy v4)
 
-- [Base Kit v3](https://github.com/filakitphp/basev3)
 - [Base Kit v4](https://github.com/filakitphp/basev4)
 - [Evolution Kit v4](https://github.com/jeffersongoncalves/evolutionkitv4)
-- [Fila Kit v3](https://github.com/jeffersongoncalves/filakit)
 - [Fila Kit v4](https://github.com/jeffersongoncalves/filakitv4)
-- [Help Desk Kit v3](https://github.com/jeffersongoncalves/helpdeskkitv3)
 - [Help Desk Kit v4](https://github.com/jeffersongoncalves/helpdeskkitv4)
 - [MFA Kit v4](https://github.com/jeffersongoncalves/mfakitv4)
-- [Mobile Kit v3](https://github.com/jeffersongoncalves/mobilekit)
 - [Mobile Kit v4](https://github.com/jeffersongoncalves/mobilekitv4)
-- [Native Kit v3](https://github.com/jeffersongoncalves/nativekit)
 - [Native Kit v4](https://github.com/jeffersongoncalves/nativekitv4)
-- [Service Desk Kit v3](https://github.com/jeffersongoncalves/servicedeskkitv3)
 - [Service Desk Kit v4](https://github.com/jeffersongoncalves/servicedeskkitv4)
-- [Team Kit v3](https://github.com/jeffersongoncalves/teamkit)
 - [Team Kit v4](https://github.com/jeffersongoncalves/teamkitv4)
+
+## Filakit Starter Kits (legacy v3)
+
+- [Base Kit v3](https://github.com/filakitphp/basev3)
+- [Fila Kit v3](https://github.com/jeffersongoncalves/filakit)
+- [Help Desk Kit v3](https://github.com/jeffersongoncalves/helpdeskkitv3)
+- [Mobile Kit v3](https://github.com/jeffersongoncalves/mobilekit)
+- [Native Kit v3](https://github.com/jeffersongoncalves/nativekit)
+- [Service Desk Kit v3](https://github.com/jeffersongoncalves/servicedeskkitv3)
+- [Team Kit v3](https://github.com/jeffersongoncalves/teamkit)
 
 ## Filament Plugins
 

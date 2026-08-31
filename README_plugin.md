@@ -85,9 +85,17 @@ A complete ecosystem of ready-to-use starter kits built on **Filament + Laravel*
 <details>
 <summary>📦 View previous versions (v3 & v4)</summary>
 
+**v4**
+
 | Project | Latest Version | Downloads | Stars |
 |:--------|:-------------:|:---------:|:-----:|
-[STARTKIT_LEGACY]
+[STARTKIT_LEGACY_V4]
+
+**v3**
+
+| Project | Latest Version | Downloads | Stars |
+|:--------|:-------------:|:---------:|:-----:|
+[STARTKIT_LEGACY_V3]
 
 </details>
 
