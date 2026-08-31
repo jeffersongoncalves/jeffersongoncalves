@@ -474,6 +474,13 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament Testimonial",
+        "package": "jeffersongoncalves/filament-testimonial",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
@@ -716,6 +723,10 @@
     {
       "title": "Laravel How It Works",
       "package": "jeffersongoncalves/laravel-how-it-works"
+    },
+    {
+      "title": "Laravel Testimonial",
+      "package": "jeffersongoncalves/laravel-testimonial"
     }
   ],
   "laravelZero": [
