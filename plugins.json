@@ -742,6 +742,14 @@
     {
       "title": "Laravel Testimonial",
       "package": "jeffersongoncalves/laravel-testimonial"
+    },
+    {
+      "title": "Laravel Queue Consumer",
+      "package": "jeffersongoncalves/laravel-queue-consumer"
+    },
+    {
+      "title": "Laravel Queue Worker",
+      "package": "jeffersongoncalves/laravel-queue-worker"
     }
   ],
   "laravelZero": [
