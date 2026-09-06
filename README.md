@@ -32,7 +32,7 @@ My passion lives in the **open source** world — I actively maintain **60+ Fila
 - 🛠️ Creator of the **Filakit** ecosystem — starter kits for Filament v3, v4 & v5
 - 🌍 Active contributor to the **Filament** and **Laravel** communities
 - 💬 Ask me about **Filament, Laravel, Livewire, API integrations**
-- ⚡ Fun fact: I've published **180+ repositories** and still counting
+- ⚡ Fun fact: I've published **190+ repositories** and still counting
 
 ---
 
@@ -368,6 +368,7 @@ Chrome extensions (Manifest V3) I built to clean up my own browsing.
 |:----------|:-------------:|:----------------:|:-----:|
 | [**1Password Ignore**](https://github.com/jeffersongoncalves/chrome-1password-ignore) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/chrome-1password-ignore?style=flat-square) | [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/bckchalbfninnkljdihmeinehchjklej) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/chrome-1password-ignore?style=flat-square) |
 | [**Livewire Snapshot Extractor**](https://github.com/jeffersongoncalves/livewire-snapshot-extractor) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/livewire-snapshot-extractor?style=flat-square) | [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/dgfanibllgmfbncmpbccddoiaomkhaoo) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/livewire-snapshot-extractor?style=flat-square) |
+| [**YouTube Animation Freeze Fix**](https://github.com/jeffersongoncalves/youtube-anim-freeze-fix) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/youtube-anim-freeze-fix?style=flat-square) |  | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/youtube-anim-freeze-fix?style=flat-square) |
 | [**YouTube Hidden Chats**](https://github.com/jeffersongoncalves/youtube-hidden-chats) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/youtube-hidden-chats?style=flat-square) | [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/kdibfhpniophaigjfoihaekajkefnbmg) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/youtube-hidden-chats?style=flat-square) |
 | [**YouTube Hidden Shorts**](https://github.com/jeffersongoncalves/youtube-hidden-shorts) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/youtube-hidden-shorts?style=flat-square) | [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/ncnpjoigombiifmlaacladhedjfmfjne) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/youtube-hidden-shorts?style=flat-square) |
 
