@@ -784,6 +784,10 @@
       "package": "jeffersongoncalves/laravel-buffer"
     },
     {
+      "title": "Laravel Calendly",
+      "package": "jeffersongoncalves/laravel-calendly"
+    },
+    {
       "title": "Laravel Clearbit",
       "package": "jeffersongoncalves/laravel-clearbit"
     }
