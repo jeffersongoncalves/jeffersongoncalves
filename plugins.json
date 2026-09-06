@@ -756,6 +756,10 @@
       "package": "jeffersongoncalves/laravel-activecampaign"
     },
     {
+      "title": "Laravel Beehiiv",
+      "package": "jeffersongoncalves/laravel-beehiiv"
+    },
+    {
       "title": "Laravel Adobe Analytics",
       "package": "jeffersongoncalves/laravel-adobe-analytics"
     },
@@ -770,6 +774,14 @@
     {
       "title": "Laravel Amplitude",
       "package": "jeffersongoncalves/laravel-amplitude"
+    },
+    {
+      "title": "Laravel Brevo",
+      "package": "jeffersongoncalves/laravel-brevo"
+    },
+    {
+      "title": "Laravel Buffer",
+      "package": "jeffersongoncalves/laravel-buffer"
     }
   ],
   "laravelZero": [
