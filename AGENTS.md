@@ -106,6 +106,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 
 ## Laravel Packages
 
+- [Laravel ActiveCampaign](https://github.com/jeffersongoncalves/laravel-activecampaign)
 - [Laravel Benefit](https://github.com/jeffersongoncalves/laravel-benefit)
 - [Laravel CEP](https://github.com/jeffersongoncalves/laravel-cep)
 - [Laravel CMS](https://github.com/jeffersongoncalves/laravel-cms)
