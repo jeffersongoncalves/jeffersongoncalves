@@ -794,6 +794,10 @@
     {
       "title": "Laravel Clearbit",
       "package": "jeffersongoncalves/laravel-clearbit"
+    },
+    {
+      "title": "Laravel ConvertKit",
+      "package": "jeffersongoncalves/laravel-convertkit"
     }
   ],
   "laravelZero": [
