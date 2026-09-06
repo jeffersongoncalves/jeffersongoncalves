@@ -548,6 +548,10 @@
   },
   "laravel": [
     {
+      "title": "Laravel Customer.io",
+      "package": "jeffersongoncalves/laravel-customer-io"
+    },
+    {
       "title": "Laravel Discord Logger",
       "package": "jeffersongoncalves/laravel-discord-logger"
     },
