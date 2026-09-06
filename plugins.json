@@ -931,6 +931,10 @@
       "title": "Livewire Snapshot Extractor",
       "package": "jeffersongoncalves/livewire-snapshot-extractor",
       "chromeStoreId": "dgfanibllgmfbncmpbccddoiaomkhaoo"
+    },
+    {
+      "title": "YouTube Animation Freeze Fix",
+      "package": "jeffersongoncalves/youtube-anim-freeze-fix"
     }
   ],
   "obsidianPlugins": [
