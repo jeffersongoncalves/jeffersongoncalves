@@ -108,6 +108,8 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 
 - [Laravel ActiveCampaign](https://github.com/jeffersongoncalves/laravel-activecampaign)
 - [Laravel Adobe Analytics](https://github.com/jeffersongoncalves/laravel-adobe-analytics)
+- [Laravel Ahrefs](https://github.com/jeffersongoncalves/laravel-ahrefs)
+- [Laravel Apollo](https://github.com/jeffersongoncalves/laravel-apollo)
 - [Laravel Benefit](https://github.com/jeffersongoncalves/laravel-benefit)
 - [Laravel CEP](https://github.com/jeffersongoncalves/laravel-cep)
 - [Laravel CMS](https://github.com/jeffersongoncalves/laravel-cms)
