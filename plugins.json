@@ -758,6 +758,14 @@
     {
       "title": "Laravel Adobe Analytics",
       "package": "jeffersongoncalves/laravel-adobe-analytics"
+    },
+    {
+      "title": "Laravel Apollo",
+      "package": "jeffersongoncalves/laravel-apollo"
+    },
+    {
+      "title": "Laravel Ahrefs",
+      "package": "jeffersongoncalves/laravel-ahrefs"
     }
   ],
   "laravelZero": [
