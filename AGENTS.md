@@ -226,6 +226,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [1Password Ignore](https://github.com/jeffersongoncalves/chrome-1password-ignore)
 - [Livewire Snapshot Extractor](https://github.com/jeffersongoncalves/livewire-snapshot-extractor)
 - [YouTube Animation Freeze Fix](https://github.com/jeffersongoncalves/youtube-anim-freeze-fix)
+- [YouTube Hidden Banner](https://github.com/jeffersongoncalves/youtube-hidden-banner)
 - [YouTube Hidden Chats](https://github.com/jeffersongoncalves/youtube-hidden-chats)
 - [YouTube Hidden Shorts](https://github.com/jeffersongoncalves/youtube-hidden-shorts)
 
