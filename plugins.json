@@ -750,6 +750,10 @@
     {
       "title": "Laravel Queue Worker",
       "package": "jeffersongoncalves/laravel-queue-worker"
+    },
+    {
+      "title": "Laravel ActiveCampaign",
+      "package": "jeffersongoncalves/laravel-activecampaign"
     }
   ],
   "laravelZero": [
