@@ -782,6 +782,10 @@
     {
       "title": "Laravel Buffer",
       "package": "jeffersongoncalves/laravel-buffer"
+    },
+    {
+      "title": "Laravel Clearbit",
+      "package": "jeffersongoncalves/laravel-clearbit"
     }
   ],
   "laravelZero": [
