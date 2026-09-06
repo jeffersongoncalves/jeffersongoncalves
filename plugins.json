@@ -548,6 +548,10 @@
   },
   "laravel": [
     {
+      "title": "Laravel DataForSEO",
+      "package": "jeffersongoncalves/laravel-dataforseo"
+    },
+    {
       "title": "Laravel Customer.io",
       "package": "jeffersongoncalves/laravel-customer-io"
     },
