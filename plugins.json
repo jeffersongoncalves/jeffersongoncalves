@@ -766,6 +766,10 @@
     {
       "title": "Laravel Ahrefs",
       "package": "jeffersongoncalves/laravel-ahrefs"
+    },
+    {
+      "title": "Laravel Amplitude",
+      "package": "jeffersongoncalves/laravel-amplitude"
     }
   ],
   "laravelZero": [
