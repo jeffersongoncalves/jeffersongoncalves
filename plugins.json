@@ -754,6 +754,10 @@
     {
       "title": "Laravel ActiveCampaign",
       "package": "jeffersongoncalves/laravel-activecampaign"
+    },
+    {
+      "title": "Laravel Adobe Analytics",
+      "package": "jeffersongoncalves/laravel-adobe-analytics"
     }
   ],
   "laravelZero": [
