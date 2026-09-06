@@ -802,6 +802,10 @@
     {
       "title": "Laravel Demio",
       "package": "jeffersongoncalves/laravel-demio"
+    },
+    {
+      "title": "Laravel Dub",
+      "package": "jeffersongoncalves/laravel-dub"
     }
   ],
   "laravelZero": [
