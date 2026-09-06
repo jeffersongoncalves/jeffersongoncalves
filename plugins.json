@@ -798,6 +798,10 @@
     {
       "title": "Laravel ConvertKit",
       "package": "jeffersongoncalves/laravel-convertkit"
+    },
+    {
+      "title": "Laravel Demio",
+      "package": "jeffersongoncalves/laravel-demio"
     }
   ],
   "laravelZero": [
