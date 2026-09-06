@@ -125,6 +125,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Customer.io](https://github.com/jeffersongoncalves/laravel-customer-io)
 - [Laravel Demio](https://github.com/jeffersongoncalves/laravel-demio)
 - [Laravel Discord Logger](https://github.com/jeffersongoncalves/laravel-discord-logger)
+- [Laravel Dub](https://github.com/jeffersongoncalves/laravel-dub)
 - [Laravel Fake Cartoons](https://github.com/jeffersongoncalves/laravel-fake-cartoons)
 - [Laravel FAQ](https://github.com/jeffersongoncalves/laravel-faq)
 - [Laravel Fathom](https://github.com/jeffersongoncalves/laravel-fathom)

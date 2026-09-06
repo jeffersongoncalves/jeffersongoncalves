@@ -32,7 +32,7 @@ My passion lives in the **open source** world — I actively maintain **60+ Fila
 - 🛠️ Creator of the **Filakit** ecosystem — starter kits for Filament v3, v4 & v5
 - 🌍 Active contributor to the **Filament** and **Laravel** communities
 - 💬 Ask me about **Filament, Laravel, Livewire, API integrations**
-- ⚡ Fun fact: I've published **190+ repositories** and still counting
+- ⚡ Fun fact: I've published **200+ repositories** and still counting
 
 ---
 
@@ -226,6 +226,7 @@ Reusable packages for the **Laravel** framework, built to solve problems I hit i
 | [**Laravel Customer.io**](https://github.com/jeffersongoncalves/laravel-customer-io) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-customer-io.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-customer-io.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-customer-io?style=flat-square) |
 | [**Laravel Demio**](https://github.com/jeffersongoncalves/laravel-demio) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-demio.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-demio.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-demio?style=flat-square) |
 | [**Laravel Discord Logger**](https://github.com/jeffersongoncalves/laravel-discord-logger) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-discord-logger.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-discord-logger.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-discord-logger?style=flat-square) |
+| [**Laravel Dub**](https://github.com/jeffersongoncalves/laravel-dub) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-dub.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-dub.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-dub?style=flat-square) |
 | [**Laravel Fake Cartoons**](https://github.com/jeffersongoncalves/laravel-fake-cartoons) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-fake-cartoons.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-fake-cartoons.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-fake-cartoons?style=flat-square) |
 | [**Laravel FAQ**](https://github.com/jeffersongoncalves/laravel-faq) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-faq.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-faq.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-faq?style=flat-square) |
 | [**Laravel Fathom**](https://github.com/jeffersongoncalves/laravel-fathom) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-fathom.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-fathom.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-fathom?style=flat-square) |
