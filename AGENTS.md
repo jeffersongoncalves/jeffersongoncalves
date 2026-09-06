@@ -116,6 +116,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Brevo](https://github.com/jeffersongoncalves/laravel-brevo)
 - [Laravel Buffer](https://github.com/jeffersongoncalves/laravel-buffer)
 - [Laravel CEP](https://github.com/jeffersongoncalves/laravel-cep)
+- [Laravel Clearbit](https://github.com/jeffersongoncalves/laravel-clearbit)
 - [Laravel CMS](https://github.com/jeffersongoncalves/laravel-cms)
 - [Laravel Cookie Consent](https://github.com/jeffersongoncalves/laravel-cookie-consent)
 - [Laravel Created By](https://github.com/jeffersongoncalves/laravel-created-by)
