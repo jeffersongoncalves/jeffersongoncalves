@@ -121,6 +121,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel CMS](https://github.com/jeffersongoncalves/laravel-cms)
 - [Laravel Cookie Consent](https://github.com/jeffersongoncalves/laravel-cookie-consent)
 - [Laravel Created By](https://github.com/jeffersongoncalves/laravel-created-by)
+- [Laravel Customer.io](https://github.com/jeffersongoncalves/laravel-customer-io)
 - [Laravel Discord Logger](https://github.com/jeffersongoncalves/laravel-discord-logger)
 - [Laravel Fake Cartoons](https://github.com/jeffersongoncalves/laravel-fake-cartoons)
 - [Laravel FAQ](https://github.com/jeffersongoncalves/laravel-faq)
