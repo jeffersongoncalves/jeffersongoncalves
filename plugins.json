@@ -923,6 +923,10 @@
       "chromeStoreId": "kdibfhpniophaigjfoihaekajkefnbmg"
     },
     {
+      "title": "YouTube Hidden Banner",
+      "package": "jeffersongoncalves/youtube-hidden-banner"
+    },
+    {
       "title": "1Password Ignore",
       "package": "jeffersongoncalves/chrome-1password-ignore",
       "chromeStoreId": "bckchalbfninnkljdihmeinehchjklej"
