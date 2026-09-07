@@ -148,6 +148,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Hunter](https://github.com/jeffersongoncalves/laravel-hunter)
 - [Laravel Instantly](https://github.com/jeffersongoncalves/laravel-instantly)
 - [Laravel Intercom](https://github.com/jeffersongoncalves/laravel-intercom)
+- [Laravel Keywords Everywhere](https://github.com/jeffersongoncalves/laravel-keywords-everywhere)
 - [Laravel Knowledge Base](https://github.com/jeffersongoncalves/laravel-knowledge-base)
 - [Laravel Livewire Wizard](https://github.com/jeffersongoncalves/laravel-livewire-wizard)
 - [Laravel Locale Cookie](https://github.com/jeffersongoncalves/laravel-locale-cookie)
