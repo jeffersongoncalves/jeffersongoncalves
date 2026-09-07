@@ -878,6 +878,10 @@
     {
       "title": "Laravel Livestorm",
       "package": "jeffersongoncalves/laravel-livestorm"
+    },
+    {
+      "title": "Laravel OneSignal",
+      "package": "jeffersongoncalves/laravel-onesignal"
     }
   ],
   "laravelZero": [
