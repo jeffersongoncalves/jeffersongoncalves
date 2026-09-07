@@ -157,6 +157,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Livewire Wizard](https://github.com/jeffersongoncalves/laravel-livewire-wizard)
 - [Laravel Locale Cookie](https://github.com/jeffersongoncalves/laravel-locale-cookie)
 - [Laravel Mail](https://github.com/jeffersongoncalves/laravel-mail)
+- [Laravel Mailchimp](https://github.com/jeffersongoncalves/laravel-mailchimp)
 - [Laravel Markdown](https://github.com/jeffersongoncalves/laravel-markdown)
 - [Laravel Matomo](https://github.com/jeffersongoncalves/laravel-matomo)
 - [Laravel Metrics Fathom](https://github.com/jeffersongoncalves/laravel-metrics-fathom)
