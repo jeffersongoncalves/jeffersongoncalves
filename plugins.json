@@ -644,6 +644,10 @@
       "package": "jeffersongoncalves/laravel-fathom"
     },
     {
+      "title": "Laravel Hotjar",
+      "package": "jeffersongoncalves/laravel-hotjar"
+    },
+    {
       "title": "Laravel Github Stats",
       "package": "jeffersongoncalves/laravel-github-stats"
     },
