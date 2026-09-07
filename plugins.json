@@ -656,6 +656,10 @@
       "package": "jeffersongoncalves/laravel-google-ads"
     },
     {
+      "title": "Laravel LinkedIn Ads",
+      "package": "jeffersongoncalves/laravel-linkedin-ads"
+    },
+    {
       "title": "Laravel Gtag",
       "package": "jeffersongoncalves/laravel-gtag"
     },
