@@ -850,6 +850,10 @@
     {
       "title": "Laravel Klaviyo",
       "package": "jeffersongoncalves/laravel-klaviyo"
+    },
+    {
+      "title": "Laravel Lemlist",
+      "package": "jeffersongoncalves/laravel-lemlist"
     }
   ],
   "laravelZero": [
