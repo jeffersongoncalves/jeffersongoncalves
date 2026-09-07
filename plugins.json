@@ -842,6 +842,10 @@
     {
       "title": "Laravel Intercom",
       "package": "jeffersongoncalves/laravel-intercom"
+    },
+    {
+      "title": "Laravel Keywords Everywhere",
+      "package": "jeffersongoncalves/laravel-keywords-everywhere"
     }
   ],
   "laravelZero": [
