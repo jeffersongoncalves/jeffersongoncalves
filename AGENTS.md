@@ -145,6 +145,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Hotjar](https://github.com/jeffersongoncalves/laravel-hotjar)
 - [Laravel How It Works](https://github.com/jeffersongoncalves/laravel-how-it-works)
 - [Laravel Html Sanitizer](https://github.com/jeffersongoncalves/laravel-html-sanitizer)
+- [Laravel Hunter](https://github.com/jeffersongoncalves/laravel-hunter)
 - [Laravel Knowledge Base](https://github.com/jeffersongoncalves/laravel-knowledge-base)
 - [Laravel Livewire Wizard](https://github.com/jeffersongoncalves/laravel-livewire-wizard)
 - [Laravel Locale Cookie](https://github.com/jeffersongoncalves/laravel-locale-cookie)
