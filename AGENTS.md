@@ -165,6 +165,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Metrics Fathom](https://github.com/jeffersongoncalves/laravel-metrics-fathom)
 - [Laravel Metrics Matomo](https://github.com/jeffersongoncalves/laravel-metrics-matomo)
 - [Laravel Mixpanel](https://github.com/jeffersongoncalves/laravel-mixpanel)
+- [Laravel Mixpanel API](https://github.com/jeffersongoncalves/laravel-mixpanel-api)
 - [Laravel Newsletter](https://github.com/jeffersongoncalves/laravel-newsletter)
 - [Laravel npm Readme](https://github.com/jeffersongoncalves/laravel-npm-readme)
 - [Laravel OIDC](https://github.com/jeffersongoncalves/laravel-oidc)
