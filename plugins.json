@@ -846,6 +846,10 @@
     {
       "title": "Laravel Keywords Everywhere",
       "package": "jeffersongoncalves/laravel-keywords-everywhere"
+    },
+    {
+      "title": "Laravel Klaviyo",
+      "package": "jeffersongoncalves/laravel-klaviyo"
     }
   ],
   "laravelZero": [
