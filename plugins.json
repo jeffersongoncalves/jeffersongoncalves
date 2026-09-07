@@ -830,6 +830,10 @@
     {
       "title": "Laravel Google Search Console",
       "package": "jeffersongoncalves/laravel-google-search-console"
+    },
+    {
+      "title": "Laravel Hunter",
+      "package": "jeffersongoncalves/laravel-hunter"
     }
   ],
   "laravelZero": [
