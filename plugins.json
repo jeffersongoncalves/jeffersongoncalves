@@ -712,6 +712,10 @@
       "package": "jeffersongoncalves/laravel-mixpanel"
     },
     {
+      "title": "Laravel Mixpanel API",
+      "package": "jeffersongoncalves/laravel-mixpanel-api"
+    },
+    {
       "title": "Laravel Pixel",
       "package": "jeffersongoncalves/laravel-pixel"
     },
