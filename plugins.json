@@ -858,6 +858,10 @@
     {
       "title": "Laravel Lemlist",
       "package": "jeffersongoncalves/laravel-lemlist"
+    },
+    {
+      "title": "Laravel Livestorm",
+      "package": "jeffersongoncalves/laravel-livestorm"
     }
   ],
   "laravelZero": [
