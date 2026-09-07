@@ -822,6 +822,10 @@
     {
       "title": "Laravel Dub",
       "package": "jeffersongoncalves/laravel-dub"
+    },
+    {
+      "title": "Laravel Google Search Console",
+      "package": "jeffersongoncalves/laravel-google-search-console"
     }
   ],
   "laravelZero": [
