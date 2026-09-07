@@ -138,6 +138,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Github Readme](https://github.com/jeffersongoncalves/laravel-github-readme)
 - [Laravel Github Stats](https://github.com/jeffersongoncalves/laravel-github-stats)
 - [Laravel Google Ads](https://github.com/jeffersongoncalves/laravel-google-ads)
+- [Laravel Google Search Console](https://github.com/jeffersongoncalves/laravel-google-search-console)
 - [Laravel Gtag](https://github.com/jeffersongoncalves/laravel-gtag)
 - [Laravel Gtm](https://github.com/jeffersongoncalves/laravel-gtm)
 - [Laravel Help Desk](https://github.com/jeffersongoncalves/laravel-help-desk)
