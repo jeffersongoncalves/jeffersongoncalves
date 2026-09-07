@@ -656,6 +656,10 @@
       "package": "jeffersongoncalves/laravel-gtm"
     },
     {
+      "title": "Laravel GA4",
+      "package": "jeffersongoncalves/laravel-ga4"
+    },
+    {
       "title": "Laravel Help Desk",
       "package": "jeffersongoncalves/laravel-help-desk"
     },
