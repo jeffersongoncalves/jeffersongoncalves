@@ -131,6 +131,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel FAQ](https://github.com/jeffersongoncalves/laravel-faq)
 - [Laravel Fathom](https://github.com/jeffersongoncalves/laravel-fathom)
 - [Laravel Favicon Proxy](https://github.com/jeffersongoncalves/laravel-favicon-proxy)
+- [Laravel G2](https://github.com/jeffersongoncalves/laravel-g2)
 - [Laravel Github Client](https://github.com/jeffersongoncalves/laravel-github-client)
 - [Laravel Github Contributions](https://github.com/jeffersongoncalves/laravel-github-contributions)
 - [Laravel Github Readme](https://github.com/jeffersongoncalves/laravel-github-readme)
