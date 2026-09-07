@@ -834,6 +834,10 @@
     {
       "title": "Laravel Hunter",
       "package": "jeffersongoncalves/laravel-hunter"
+    },
+    {
+      "title": "Laravel Instantly",
+      "package": "jeffersongoncalves/laravel-instantly"
     }
   ],
   "laravelZero": [
