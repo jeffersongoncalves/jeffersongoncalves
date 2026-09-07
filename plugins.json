@@ -556,6 +556,10 @@
       "package": "jeffersongoncalves/laravel-mailchimp"
     },
     {
+      "title": "Laravel Mention Me",
+      "package": "jeffersongoncalves/laravel-mention-me"
+    },
+    {
       "title": "Laravel G2",
       "package": "jeffersongoncalves/laravel-g2"
     },
