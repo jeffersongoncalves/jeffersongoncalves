@@ -918,6 +918,14 @@
     {
       "title": "Obsidian Notes CLI",
       "package": "jeffersongoncalves/obsidian-notes-cli"
+    },
+    {
+      "title": "Laravel Package CLI",
+      "package": "jeffersongoncalves/laravel-package-cli"
+    },
+    {
+      "title": "Filament Plugin CLI",
+      "package": "jeffersongoncalves/filament-plugin-cli"
     }
   ],
   "cliPython": [
