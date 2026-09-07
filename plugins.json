@@ -552,6 +552,10 @@
       "package": "jeffersongoncalves/laravel-dataforseo"
     },
     {
+      "title": "Laravel Mailchimp",
+      "package": "jeffersongoncalves/laravel-mailchimp"
+    },
+    {
       "title": "Laravel G2",
       "package": "jeffersongoncalves/laravel-g2"
     },
