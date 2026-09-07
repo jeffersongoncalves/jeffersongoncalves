@@ -552,6 +552,10 @@
       "package": "jeffersongoncalves/laravel-dataforseo"
     },
     {
+      "title": "Laravel G2",
+      "package": "jeffersongoncalves/laravel-g2"
+    },
+    {
       "title": "Laravel Customer.io",
       "package": "jeffersongoncalves/laravel-customer-io"
     },
