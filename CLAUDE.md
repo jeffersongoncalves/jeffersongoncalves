@@ -53,3 +53,4 @@ pnpm install
 ## Branch
 
 - Default branch: `master`
+- **`git pull` obrigatório antes de todo `git push`** — CI faz commit direto em `master` (README auto-gerado), então push sem pull antes pode divergir/rejeitar.
