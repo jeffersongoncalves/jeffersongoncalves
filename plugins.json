@@ -838,6 +838,10 @@
     {
       "title": "Laravel Instantly",
       "package": "jeffersongoncalves/laravel-instantly"
+    },
+    {
+      "title": "Laravel Intercom",
+      "package": "jeffersongoncalves/laravel-intercom"
     }
   ],
   "laravelZero": [
