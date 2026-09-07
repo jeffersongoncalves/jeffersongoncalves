@@ -648,6 +648,10 @@
       "package": "jeffersongoncalves/laravel-github-stats"
     },
     {
+      "title": "Laravel Google Ads",
+      "package": "jeffersongoncalves/laravel-google-ads"
+    },
+    {
       "title": "Laravel Gtag",
       "package": "jeffersongoncalves/laravel-gtag"
     },
