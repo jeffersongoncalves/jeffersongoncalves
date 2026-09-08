@@ -712,6 +712,10 @@
       "package": "jeffersongoncalves/laravel-metrics-matomo"
     },
     {
+      "title": "Laravel Metrics Plausible",
+      "package": "jeffersongoncalves/laravel-metrics-plausible"
+    },
+    {
       "title": "Laravel Mixpanel",
       "package": "jeffersongoncalves/laravel-mixpanel"
     },
@@ -726,6 +730,10 @@
     {
       "title": "Laravel Plausible",
       "package": "jeffersongoncalves/laravel-plausible"
+    },
+    {
+      "title": "Laravel Postmark",
+      "package": "jeffersongoncalves/laravel-postmark"
     },
     {
       "title": "Laravel Satis",
