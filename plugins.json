@@ -964,6 +964,10 @@
       "package": "jeffersongoncalves/laravel-wistia"
     },
     {
+      "title": "Laravel WooCommerce",
+      "package": "jeffersongoncalves/laravel-woocommerce"
+    },
+    {
       "title": "Laravel WordPress",
       "package": "jeffersongoncalves/laravel-wordpress"
     },
