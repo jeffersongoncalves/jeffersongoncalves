@@ -982,6 +982,10 @@
     {
       "title": "Laravel Salesforce",
       "package": "jeffersongoncalves/laravel-salesforce"
+    },
+    {
+      "title": "Laravel HubSpot",
+      "package": "jeffersongoncalves/laravel-hubspot"
     }
   ],
   "laravelZero": [
