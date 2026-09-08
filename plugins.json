@@ -886,6 +886,10 @@
     {
       "title": "Laravel Optimizely",
       "package": "jeffersongoncalves/laravel-optimizely"
+    },
+    {
+      "title": "Laravel Paddle",
+      "package": "jeffersongoncalves/laravel-paddle"
     }
   ],
   "laravelZero": [
