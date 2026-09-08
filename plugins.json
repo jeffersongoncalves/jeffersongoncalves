@@ -548,6 +548,10 @@
   },
   "laravel": [
     {
+      "title": "Laravel Snov",
+      "package": "jeffersongoncalves/laravel-snov"
+    },
+    {
       "title": "Laravel SendGrid",
       "package": "jeffersongoncalves/laravel-sendgrid"
     },
