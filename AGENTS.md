@@ -208,6 +208,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Webhooks](https://github.com/jeffersongoncalves/laravel-webhooks)
 - [Laravel WhatsApp Widget](https://github.com/jeffersongoncalves/laravel-whatsapp-widget)
 - [Laravel Wistia](https://github.com/jeffersongoncalves/laravel-wistia)
+- [Laravel WordPress](https://github.com/jeffersongoncalves/laravel-wordpress)
 - [Laravel Zapier](https://github.com/jeffersongoncalves/laravel-zapier)
 
 ## Laravel Zero Packages
