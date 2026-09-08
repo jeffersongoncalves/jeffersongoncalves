@@ -572,6 +572,10 @@
       "package": "jeffersongoncalves/laravel-partnerstack"
     },
     {
+      "title": "Laravel Tolt",
+      "package": "jeffersongoncalves/laravel-tolt"
+    },
+    {
       "title": "Laravel G2",
       "package": "jeffersongoncalves/laravel-g2"
     },
