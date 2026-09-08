@@ -756,6 +756,10 @@
       "package": "jeffersongoncalves/laravel-plausible"
     },
     {
+      "title": "Laravel PostHog",
+      "package": "jeffersongoncalves/laravel-posthog"
+    },
+    {
       "title": "Laravel Postmark",
       "package": "jeffersongoncalves/laravel-postmark"
     },
