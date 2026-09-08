@@ -240,6 +240,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Jira CLI](https://github.com/jeffersongoncalves/jira-cli)
 - [Jq CLI](https://github.com/jeffersongoncalves/jq-cli)
 - [Laravel Package CLI](https://github.com/jeffersongoncalves/laravel-package-cli)
+- [Laravel Zero CLI](https://github.com/jeffersongoncalves/laravel-zero-cli)
 - [Obsidian Notes CLI](https://github.com/jeffersongoncalves/obsidian-notes-cli)
 - [Packagist CLI](https://github.com/jeffersongoncalves/packagist-cli)
 - [Plump CLI](https://github.com/jeffersongoncalves/plump-cli)
