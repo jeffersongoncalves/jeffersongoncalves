@@ -1,0 +1,20 @@
+name: Notify Site Plugins Sync
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'plugins.json'
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger jeffersongoncalves.dev.br plugins.json sync
+        run: |
+          curl -sf -X POST \
+            -H "Authorization: Bearer ${{ secrets.SITE_PLUGINS_SYNC_TOKEN }}" \
+            https://jeffersongoncalves.dev.br/api/plugins-sync
+          echo "Dispatched plugins.json sync to jeffersongoncalves.dev.br"
