@@ -200,6 +200,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel TikTok Ads](https://github.com/jeffersongoncalves/laravel-tiktok-ads)
 - [Laravel Tolt](https://github.com/jeffersongoncalves/laravel-tolt)
 - [Laravel Topic Normalizer](https://github.com/jeffersongoncalves/laravel-topic-normalizer)
+- [Laravel Trustpilot](https://github.com/jeffersongoncalves/laravel-trustpilot)
 - [Laravel Typeform](https://github.com/jeffersongoncalves/laravel-typeform)
 - [Laravel Umami](https://github.com/jeffersongoncalves/laravel-umami)
 - [Laravel Webhook Signatures](https://github.com/jeffersongoncalves/laravel-webhook-signatures)
