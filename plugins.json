@@ -548,6 +548,10 @@
   },
   "laravel": [
     {
+      "title": "Laravel Trustpilot",
+      "package": "jeffersongoncalves/laravel-trustpilot"
+    },
+    {
       "title": "Laravel Snov",
       "package": "jeffersongoncalves/laravel-snov"
     },
