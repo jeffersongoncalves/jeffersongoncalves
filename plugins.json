@@ -1080,6 +1080,10 @@
       "package": "jeffersongoncalves/obsidian-notes-cli"
     },
     {
+      "title": "Laravel Zero CLI",
+      "package": "jeffersongoncalves/laravel-zero-cli"
+    },
+    {
       "title": "Laravel Package CLI",
       "package": "jeffersongoncalves/laravel-package-cli"
     },
