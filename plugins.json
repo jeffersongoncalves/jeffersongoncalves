@@ -548,6 +548,10 @@
   },
   "laravel": [
     {
+      "title": "Laravel Shopify",
+      "package": "jeffersongoncalves/laravel-shopify"
+    },
+    {
       "title": "Laravel Trustpilot",
       "package": "jeffersongoncalves/laravel-trustpilot"
     },
