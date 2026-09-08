@@ -560,6 +560,10 @@
       "package": "jeffersongoncalves/laravel-mention-me"
     },
     {
+      "title": "Laravel PartnerStack",
+      "package": "jeffersongoncalves/laravel-partnerstack"
+    },
+    {
       "title": "Laravel G2",
       "package": "jeffersongoncalves/laravel-g2"
     },
