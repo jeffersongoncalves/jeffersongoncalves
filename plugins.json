@@ -944,6 +944,10 @@
       "package": "jeffersongoncalves/laravel-rewardful"
     },
     {
+      "title": "Laravel Stripe",
+      "package": "jeffersongoncalves/laravel-stripe"
+    },
+    {
       "title": "Laravel Typeform",
       "package": "jeffersongoncalves/laravel-typeform"
     },
