@@ -974,6 +974,10 @@
     {
       "title": "Laravel Zapier",
       "package": "jeffersongoncalves/laravel-zapier"
+    },
+    {
+      "title": "Laravel Salesforce",
+      "package": "jeffersongoncalves/laravel-salesforce"
     }
   ],
   "laravelZero": [
