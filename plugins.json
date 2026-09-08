@@ -948,6 +948,10 @@
       "package": "jeffersongoncalves/laravel-typeform"
     },
     {
+      "title": "Laravel Webflow",
+      "package": "jeffersongoncalves/laravel-webflow"
+    },
+    {
       "title": "Laravel Wistia",
       "package": "jeffersongoncalves/laravel-wistia"
     },
