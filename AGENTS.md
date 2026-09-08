@@ -195,6 +195,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Ssrf Guard](https://github.com/jeffersongoncalves/laravel-ssrf-guard)
 - [Laravel Teams](https://github.com/jeffersongoncalves/laravel-teams)
 - [Laravel Testimonial](https://github.com/jeffersongoncalves/laravel-testimonial)
+- [Laravel TikTok Ads](https://github.com/jeffersongoncalves/laravel-tiktok-ads)
 - [Laravel Topic Normalizer](https://github.com/jeffersongoncalves/laravel-topic-normalizer)
 - [Laravel Umami](https://github.com/jeffersongoncalves/laravel-umami)
 - [Laravel Webhook Signatures](https://github.com/jeffersongoncalves/laravel-webhook-signatures)
