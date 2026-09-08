@@ -548,6 +548,10 @@
   },
   "laravel": [
     {
+      "title": "Laravel SendGrid",
+      "package": "jeffersongoncalves/laravel-sendgrid"
+    },
+    {
       "title": "Laravel DataForSEO",
       "package": "jeffersongoncalves/laravel-dataforseo"
     },
