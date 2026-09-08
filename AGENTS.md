@@ -192,6 +192,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Semrush](https://github.com/jeffersongoncalves/laravel-semrush)
 - [Laravel SendGrid](https://github.com/jeffersongoncalves/laravel-sendgrid)
 - [Laravel Service Desk](https://github.com/jeffersongoncalves/laravel-service-desk)
+- [Laravel Shopify](https://github.com/jeffersongoncalves/laravel-shopify)
 - [Laravel Short URL](https://github.com/jeffersongoncalves/laravel-short-url)
 - [Laravel Snov](https://github.com/jeffersongoncalves/laravel-snov)
 - [Laravel Ssrf Guard](https://github.com/jeffersongoncalves/laravel-ssrf-guard)
