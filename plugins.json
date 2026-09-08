@@ -938,6 +938,10 @@
     {
       "title": "Laravel Rewardful",
       "package": "jeffersongoncalves/laravel-rewardful"
+    },
+    {
+      "title": "Laravel Typeform",
+      "package": "jeffersongoncalves/laravel-typeform"
     }
   ],
   "laravelZero": [
