@@ -902,6 +902,10 @@
     {
       "title": "Laravel Paddle",
       "package": "jeffersongoncalves/laravel-paddle"
+    },
+    {
+      "title": "Laravel Resend",
+      "package": "jeffersongoncalves/laravel-resend"
     }
   ],
   "laravelZero": [
