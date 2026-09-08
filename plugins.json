@@ -906,6 +906,10 @@
     {
       "title": "Laravel Resend",
       "package": "jeffersongoncalves/laravel-resend"
+    },
+    {
+      "title": "Laravel Rewardful",
+      "package": "jeffersongoncalves/laravel-rewardful"
     }
   ],
   "laravelZero": [
