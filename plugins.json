@@ -946,6 +946,10 @@
     {
       "title": "Laravel Typeform",
       "package": "jeffersongoncalves/laravel-typeform"
+    },
+    {
+      "title": "Laravel Wistia",
+      "package": "jeffersongoncalves/laravel-wistia"
     }
   ],
   "laravelZero": [
