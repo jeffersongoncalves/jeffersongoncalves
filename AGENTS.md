@@ -187,6 +187,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Rewardful](https://github.com/jeffersongoncalves/laravel-rewardful)
 - [Laravel Satis](https://github.com/jeffersongoncalves/laravel-satis)
 - [Laravel Security Headers](https://github.com/jeffersongoncalves/laravel-security-headers)
+- [Laravel Segment](https://github.com/jeffersongoncalves/laravel-segment)
 - [Laravel Service Desk](https://github.com/jeffersongoncalves/laravel-service-desk)
 - [Laravel Short URL](https://github.com/jeffersongoncalves/laravel-short-url)
 - [Laravel Ssrf Guard](https://github.com/jeffersongoncalves/laravel-ssrf-guard)
