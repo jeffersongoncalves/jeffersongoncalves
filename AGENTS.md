@@ -189,6 +189,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel SavvyCal](https://github.com/jeffersongoncalves/laravel-savvycal)
 - [Laravel Security Headers](https://github.com/jeffersongoncalves/laravel-security-headers)
 - [Laravel Segment](https://github.com/jeffersongoncalves/laravel-segment)
+- [Laravel Semrush](https://github.com/jeffersongoncalves/laravel-semrush)
 - [Laravel Service Desk](https://github.com/jeffersongoncalves/laravel-service-desk)
 - [Laravel Short URL](https://github.com/jeffersongoncalves/laravel-short-url)
 - [Laravel Ssrf Guard](https://github.com/jeffersongoncalves/laravel-ssrf-guard)
