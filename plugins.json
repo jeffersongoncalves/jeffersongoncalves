@@ -950,6 +950,10 @@
     {
       "title": "Laravel Wistia",
       "package": "jeffersongoncalves/laravel-wistia"
+    },
+    {
+      "title": "Laravel Zapier",
+      "package": "jeffersongoncalves/laravel-zapier"
     }
   ],
   "laravelZero": [
