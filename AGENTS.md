@@ -195,6 +195,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Short URL](https://github.com/jeffersongoncalves/laravel-short-url)
 - [Laravel Snov](https://github.com/jeffersongoncalves/laravel-snov)
 - [Laravel Ssrf Guard](https://github.com/jeffersongoncalves/laravel-ssrf-guard)
+- [Laravel Stripe](https://github.com/jeffersongoncalves/laravel-stripe)
 - [Laravel Teams](https://github.com/jeffersongoncalves/laravel-teams)
 - [Laravel Testimonial](https://github.com/jeffersongoncalves/laravel-testimonial)
 - [Laravel TikTok Ads](https://github.com/jeffersongoncalves/laravel-tiktok-ads)
