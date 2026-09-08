@@ -1016,6 +1016,10 @@
     {
       "title": "Laravel Zero Json Config",
       "package": "jeffersongoncalves/laravel-zero-json-config"
+    },
+    {
+      "title": "Laravel Zero Package Scaffold",
+      "package": "jeffersongoncalves/laravel-zero-package-scaffold"
     }
   ],
   "cli": [
