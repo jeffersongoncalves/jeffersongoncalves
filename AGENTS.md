@@ -203,6 +203,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Trustpilot](https://github.com/jeffersongoncalves/laravel-trustpilot)
 - [Laravel Typeform](https://github.com/jeffersongoncalves/laravel-typeform)
 - [Laravel Umami](https://github.com/jeffersongoncalves/laravel-umami)
+- [Laravel Webflow](https://github.com/jeffersongoncalves/laravel-webflow)
 - [Laravel Webhook Signatures](https://github.com/jeffersongoncalves/laravel-webhook-signatures)
 - [Laravel Webhooks](https://github.com/jeffersongoncalves/laravel-webhooks)
 - [Laravel WhatsApp Widget](https://github.com/jeffersongoncalves/laravel-whatsapp-widget)
