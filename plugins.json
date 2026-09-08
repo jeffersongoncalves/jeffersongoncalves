@@ -956,6 +956,10 @@
       "package": "jeffersongoncalves/laravel-wistia"
     },
     {
+      "title": "Laravel WordPress",
+      "package": "jeffersongoncalves/laravel-wordpress"
+    },
+    {
       "title": "Laravel Zapier",
       "package": "jeffersongoncalves/laravel-zapier"
     }
