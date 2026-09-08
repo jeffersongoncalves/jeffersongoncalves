@@ -145,6 +145,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Hotjar](https://github.com/jeffersongoncalves/laravel-hotjar)
 - [Laravel How It Works](https://github.com/jeffersongoncalves/laravel-how-it-works)
 - [Laravel Html Sanitizer](https://github.com/jeffersongoncalves/laravel-html-sanitizer)
+- [Laravel HubSpot](https://github.com/jeffersongoncalves/laravel-hubspot)
 - [Laravel Hunter](https://github.com/jeffersongoncalves/laravel-hunter)
 - [Laravel Instantly](https://github.com/jeffersongoncalves/laravel-instantly)
 - [Laravel Intercom](https://github.com/jeffersongoncalves/laravel-intercom)
