@@ -740,6 +740,10 @@
       "package": "jeffersongoncalves/laravel-satis"
     },
     {
+      "title": "Laravel SavvyCal",
+      "package": "jeffersongoncalves/laravel-savvycal"
+    },
+    {
       "title": "Laravel Segment",
       "package": "jeffersongoncalves/laravel-segment"
     },
