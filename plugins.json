@@ -882,6 +882,10 @@
     {
       "title": "Laravel OneSignal",
       "package": "jeffersongoncalves/laravel-onesignal"
+    },
+    {
+      "title": "Laravel Optimizely",
+      "package": "jeffersongoncalves/laravel-optimizely"
     }
   ],
   "laravelZero": [
