@@ -740,6 +740,10 @@
       "package": "jeffersongoncalves/laravel-satis"
     },
     {
+      "title": "Laravel Segment",
+      "package": "jeffersongoncalves/laravel-segment"
+    },
+    {
       "title": "Laravel Service Desk",
       "package": "jeffersongoncalves/laravel-service-desk"
     },
