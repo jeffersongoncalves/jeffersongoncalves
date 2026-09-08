@@ -171,6 +171,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel OIDC](https://github.com/jeffersongoncalves/laravel-oidc)
 - [Laravel OneSignal](https://github.com/jeffersongoncalves/laravel-onesignal)
 - [Laravel Optimizely](https://github.com/jeffersongoncalves/laravel-optimizely)
+- [Laravel Paddle](https://github.com/jeffersongoncalves/laravel-paddle)
 - [Laravel Page Cache](https://github.com/jeffersongoncalves/laravel-page-cache)
 - [Laravel Pixel](https://github.com/jeffersongoncalves/laravel-pixel)
 - [Laravel Plausible](https://github.com/jeffersongoncalves/laravel-plausible)
