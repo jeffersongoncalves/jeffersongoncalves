@@ -224,6 +224,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Zero Credentials](https://github.com/jeffersongoncalves/laravel-zero-credentials)
 - [Laravel Zero Git](https://github.com/jeffersongoncalves/laravel-zero-git)
 - [Laravel Zero Json Config](https://github.com/jeffersongoncalves/laravel-zero-json-config)
+- [Laravel Zero Package Scaffold](https://github.com/jeffersongoncalves/laravel-zero-package-scaffold)
 - [Laravel Zero Self Update](https://github.com/jeffersongoncalves/laravel-zero-self-update)
 - [Laravel Zero Support](https://github.com/jeffersongoncalves/laravel-zero-support)
 
