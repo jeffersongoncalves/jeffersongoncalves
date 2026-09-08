@@ -748,6 +748,10 @@
       "package": "jeffersongoncalves/laravel-segment"
     },
     {
+      "title": "Laravel Semrush",
+      "package": "jeffersongoncalves/laravel-semrush"
+    },
+    {
       "title": "Laravel Service Desk",
       "package": "jeffersongoncalves/laravel-service-desk"
     },
