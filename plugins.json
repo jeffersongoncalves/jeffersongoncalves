@@ -986,6 +986,14 @@
     {
       "title": "Laravel HubSpot",
       "package": "jeffersongoncalves/laravel-hubspot"
+    },
+    {
+      "title": "Laravel Favicon",
+      "package": "jeffersongoncalves/laravel-favicon"
+    },
+    {
+      "title": "Pest Plugin MySQL Compat",
+      "package": "jeffersongoncalves/pest-plugin-mysql-compat"
     }
   ],
   "laravelZero": [

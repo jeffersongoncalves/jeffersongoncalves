@@ -130,6 +130,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Fake Cartoons](https://github.com/jeffersongoncalves/laravel-fake-cartoons)
 - [Laravel FAQ](https://github.com/jeffersongoncalves/laravel-faq)
 - [Laravel Fathom](https://github.com/jeffersongoncalves/laravel-fathom)
+- [Laravel Favicon](https://github.com/jeffersongoncalves/laravel-favicon)
 - [Laravel Favicon Proxy](https://github.com/jeffersongoncalves/laravel-favicon-proxy)
 - [Laravel G2](https://github.com/jeffersongoncalves/laravel-g2)
 - [Laravel GA4](https://github.com/jeffersongoncalves/laravel-ga4)
@@ -216,6 +217,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel WooCommerce](https://github.com/jeffersongoncalves/laravel-woocommerce)
 - [Laravel WordPress](https://github.com/jeffersongoncalves/laravel-wordpress)
 - [Laravel Zapier](https://github.com/jeffersongoncalves/laravel-zapier)
+- [Pest Plugin MySQL Compat](https://github.com/jeffersongoncalves/pest-plugin-mysql-compat)
 
 ## Laravel Zero Packages
 
