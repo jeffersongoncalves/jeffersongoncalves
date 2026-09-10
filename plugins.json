@@ -1102,6 +1102,10 @@
     {
       "title": "Filament Plugin CLI",
       "package": "jeffersongoncalves/filament-plugin-cli"
+    },
+    {
+      "title": "Context7 CLI",
+      "package": "jeffersongoncalves/context7-cli"
     }
   ],
   "cliPython": [
