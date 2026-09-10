@@ -235,6 +235,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 
 - [Banners CLI](https://github.com/jeffersongoncalves/banners-cli)
 - [BB CLI](https://github.com/jeffersongoncalves/bb-cli)
+- [Context7 CLI](https://github.com/jeffersongoncalves/context7-cli)
 - [DB CLI](https://github.com/jeffersongoncalves/db-cli)
 - [Deps CLI](https://github.com/jeffersongoncalves/deps-cli)
 - [Filakit CLI](https://github.com/jeffersongoncalves/filakit-cli)
