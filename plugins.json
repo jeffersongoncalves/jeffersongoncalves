@@ -548,6 +548,10 @@
   },
   "laravel": [
     {
+      "title": "Laravel Image Cache",
+      "package": "jeffersongoncalves/laravel-image-cache"
+    },
+    {
       "title": "Laravel Shopify",
       "package": "jeffersongoncalves/laravel-shopify"
     },
