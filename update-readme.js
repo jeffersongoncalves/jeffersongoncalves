@@ -104,11 +104,12 @@ function generatePythonCliRow(item) {
 }
 
 const byPackage = (a, b) => a.package.localeCompare(b.package);
+const byRepoName = (a, b) => a.package.split('/').pop().localeCompare(b.package.split('/').pop());
 const sorted = (arr) => arr.slice().sort(byPackage);
 
 const startkitFeatured = sorted(plugins.startkit.featured).map(generateStartkitRow).join('');
 const filamentPlugins = sorted(plugins.filament.plugins).map(generateFilamentRow).join('');
-const filamentCollaborator = sorted(plugins.filament.collaborator).map(generateFilamentRow).join('');
+const filamentCollaborator = plugins.filament.collaborator.slice().sort(byRepoName).map(generateFilamentRow).join('');
 const laravelList = sorted(plugins.laravel).map(generateLaravelRow).join('');
 const laravelZeroList = sorted(plugins.laravelZero).map(generateStartkitRow).join('');
 const cliList = sorted(plugins.cli).map(generateStartkitRow).join('');
