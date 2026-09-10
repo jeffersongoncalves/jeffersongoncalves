@@ -148,6 +148,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Html Sanitizer](https://github.com/jeffersongoncalves/laravel-html-sanitizer)
 - [Laravel HubSpot](https://github.com/jeffersongoncalves/laravel-hubspot)
 - [Laravel Hunter](https://github.com/jeffersongoncalves/laravel-hunter)
+- [Laravel Image Cache](https://github.com/jeffersongoncalves/laravel-image-cache)
 - [Laravel Instantly](https://github.com/jeffersongoncalves/laravel-instantly)
 - [Laravel Intercom](https://github.com/jeffersongoncalves/laravel-intercom)
 - [Laravel Keywords Everywhere](https://github.com/jeffersongoncalves/laravel-keywords-everywhere)
