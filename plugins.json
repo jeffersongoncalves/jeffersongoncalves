@@ -652,6 +652,14 @@
       "package": "jeffersongoncalves/laravel-ssrf-guard"
     },
     {
+      "title": "Laravel Visitor Fingerprint",
+      "package": "jeffersongoncalves/laravel-visitor-fingerprint"
+    },
+    {
+      "title": "Laravel Page Visits",
+      "package": "jeffersongoncalves/laravel-page-visits"
+    },
+    {
       "title": "Laravel CEP",
       "package": "jeffersongoncalves/laravel-cep"
     },
