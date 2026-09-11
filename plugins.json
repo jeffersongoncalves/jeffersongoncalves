@@ -492,6 +492,13 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament Page Visits",
+        "package": "jeffersongoncalves/filament-page-visits",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
