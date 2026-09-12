@@ -559,6 +559,10 @@
       "package": "jeffersongoncalves/laravel-image-cache"
     },
     {
+      "title": "Flysystem Google Drive",
+      "package": "jeffersongoncalves/flysystem-google-drive"
+    },
+    {
       "title": "Laravel Shopify",
       "package": "jeffersongoncalves/laravel-shopify"
     },
