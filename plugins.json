@@ -403,6 +403,13 @@
         "v5": true
       },
       {
+        "title": "Filament Scanner Guard",
+        "package": "jeffersongoncalves/filament-scanner-guard",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Service Desk",
         "package": "jeffersongoncalves/filament-service-desk",
         "v3": true,
