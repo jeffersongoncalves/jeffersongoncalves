@@ -30,12 +30,15 @@ jobs:
       - name: Update README with Starter Kits
         run: node update-readme.js
 
+      - name: Extract flat package lists
+        run: node extract-plugin-packages.js
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          git add README.md AGENTS.md
+          git add README.md AGENTS.md plugins-packages-owner.json plugins-packages-collaborator.json
 
           if git diff --cached --quiet; then
             echo "No changes to commit"

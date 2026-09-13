@@ -4,6 +4,7 @@
   "scripts": {
     "update:plugins": "node update-plugins-compatibility.js",
     "build:readme": "node update-readme.js",
+    "build:packages": "node extract-plugin-packages.js",
     "prepare": "husky"
   },
   "devDependencies": {
@@ -13,7 +14,8 @@
   "lint-staged": {
     "plugins.json": [
       "node update-plugins-compatibility.js",
-      "git add plugins.json"
+      "node extract-plugin-packages.js",
+      "git add plugins.json plugins-packages-owner.json plugins-packages-collaborator.json"
     ]
   }
 }
