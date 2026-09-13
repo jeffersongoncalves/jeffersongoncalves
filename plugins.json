@@ -1017,6 +1017,10 @@
     {
       "title": "Pest Plugin MySQL Compat",
       "package": "jeffersongoncalves/pest-plugin-mysql-compat"
+    },
+    {
+      "title": "Laravel Scanner Guard",
+      "package": "jeffersongoncalves/laravel-scanner-guard"
     }
   ],
   "laravelZero": [
