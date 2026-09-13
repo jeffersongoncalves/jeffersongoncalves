@@ -83,6 +83,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament Queue Management](https://github.com/jeffersongoncalves/filament-queue-management)
 - [Filament Refresh Sidebar](https://github.com/jeffersongoncalves/filament-refresh-sidebar)
 - [Filament Satis](https://github.com/jeffersongoncalves/filament-satis)
+- [Filament Scanner Guard](https://github.com/jeffersongoncalves/filament-scanner-guard)
 - [Filament Sensible Defaults](https://github.com/jeffersongoncalves/filament-sensible-defaults)
 - [Filament Service Desk](https://github.com/jeffersongoncalves/filament-service-desk)
 - [Filament Short URL](https://github.com/jeffersongoncalves/filament-short-url)

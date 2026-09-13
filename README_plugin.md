@@ -229,6 +229,8 @@ Skills and commands I built to extend **Claude Code** workflows.
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.self.so/jeffersongoncalves)
 [![Beacons](https://img.shields.io/badge/Beacons-6C63FF?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/jeffersonsimaogoncalves)
 
+<a rel="me" href="https://mastodon.social/@jeffersongoncalves">Mastodon</a>
+
 </div>
 
 ---
