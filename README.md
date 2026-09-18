@@ -32,7 +32,7 @@ My passion lives in the **open source** world — I actively maintain **60+ Fila
 - 🛠️ Creator of the **Filakit** ecosystem — starter kits for Filament v3, v4 & v5
 - 🌍 Active contributor to the **Filament** and **Laravel** communities
 - 💬 Ask me about **Filament, Laravel, Livewire, API integrations**
-- ⚡ Fun fact: I've published **250+ repositories** and still counting
+- ⚡ Fun fact: I've published **260+ repositories** and still counting
 
 ---
 
@@ -151,6 +151,7 @@ Plugins I created and maintain for the **Filament** ecosystem.
 | [**Filament Help Desk**](https://github.com/jeffersongoncalves/filament-help-desk) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-help-desk.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-help-desk?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Hidden Action**](https://github.com/jeffersongoncalves/filament-hidden-action) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-hidden-action.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-hidden-action?style=flat-square) | v4 · v5 |
 | [**Filament How It Works**](https://github.com/jeffersongoncalves/filament-how-it-works) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-how-it-works.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-how-it-works?style=flat-square) | v3 · v4 · v5 |
+| [**Filament Kanban**](https://github.com/jeffersongoncalves/filament-kanban) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-kanban.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-kanban?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Keyable**](https://github.com/jeffersongoncalves/filament-keyable) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-keyable.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-keyable?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Knowledge Base**](https://github.com/jeffersongoncalves/filament-knowledge-base) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-knowledge-base.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-knowledge-base?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Logo**](https://github.com/jeffersongoncalves/filament-logo) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-logo.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-logo?style=flat-square) | v3 · v4 · v5 |

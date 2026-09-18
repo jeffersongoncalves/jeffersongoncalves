@@ -60,6 +60,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament Help Desk](https://github.com/jeffersongoncalves/filament-help-desk)
 - [Filament Hidden Action](https://github.com/jeffersongoncalves/filament-hidden-action)
 - [Filament How It Works](https://github.com/jeffersongoncalves/filament-how-it-works)
+- [Filament Kanban](https://github.com/jeffersongoncalves/filament-kanban)
 - [Filament Keyable](https://github.com/jeffersongoncalves/filament-keyable)
 - [Filament Knowledge Base](https://github.com/jeffersongoncalves/filament-knowledge-base)
 - [Filament Logo](https://github.com/jeffersongoncalves/filament-logo)
