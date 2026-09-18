@@ -506,6 +506,13 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament Kanban",
+        "package": "jeffersongoncalves/filament-kanban",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
