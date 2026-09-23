@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ### Bug Fixes
 
+- Detect Filament compatibility through shared core packages
 - Sort Plugins Maintainer section by repo name instead of full package path
 - Point Livewire Snapshot Extractor to its real repo
 - Remove Commerce and ERP entries from plugins list
@@ -54,6 +55,7 @@ All notable changes to this project will be documented in this file.
 
 ### CI/CD
 
+- Retry the CHANGELOG push with rebase
 - Standardize dependabot config
 - Generate CHANGELOG with git-cliff on push
 - Add git-cliff config
@@ -82,6 +84,8 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add Filament Hotjar, Amplitude and Metrics Plausible to plugins.json
+- Add filament-navigation-group plugin entry
 - Add Filament Kanban to plugins catalog
 - Add Mastodon rel=me link to profile
 - Add Filament Scanner Guard plugin entry
@@ -274,6 +278,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
