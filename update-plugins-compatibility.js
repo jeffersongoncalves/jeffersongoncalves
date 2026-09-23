@@ -43,9 +43,21 @@ function checkFilamentCompatibility(requireSection) {
         .filter(([key]) => key.startsWith('filament/'))
         .map(([, value]) => value);
 
-    if (filamentDeps.length === 0) return { v3: false, v4: false, v5: false };
+    // Plugins construídos sobre os cores compartilhados recebem o Filament de forma transitiva:
+    // core ^1 = Filament 3, ^2 = Filament 4, ^3 = Filament 5.
+    const coreDeps = Object.entries(requireSection)
+        .filter(([key]) => ['jeffersongoncalves/filament-analytics-core', 'jeffersongoncalves/filament-plugin-core'].includes(key))
+        .map(([, value]) => value);
+
+    if (filamentDeps.length === 0 && coreDeps.length === 0) return { v3: false, v4: false, v5: false };
 
     const result = { v3: false, v4: false, v5: false };
+
+    for (const dep of coreDeps) {
+        if (/(?:\^|~|>=?)1\.\d|1\.\*/.test(dep)) result.v3 = true;
+        if (/(?:\^|~|>=?)2\.\d|2\.\*/.test(dep)) result.v4 = true;
+        if (/(?:\^|~|>=?)3\.\d|3\.\*/.test(dep)) result.v5 = true;
+    }
 
     for (const dep of filamentDeps) {
         // Match any constraint referencing major version N of filament

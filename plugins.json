@@ -342,16 +342,16 @@
       {
         "title": "Filament Hotjar",
         "package": "jeffersongoncalves/filament-hotjar",
-        "v3": false,
-        "v4": false,
-        "v5": false
+        "v3": true,
+        "v4": true,
+        "v5": true
       },
       {
         "title": "Filament Amplitude",
         "package": "jeffersongoncalves/filament-amplitude",
-        "v3": false,
-        "v4": false,
-        "v5": false
+        "v3": true,
+        "v4": true,
+        "v5": true
       },
       {
         "title": "Filament Mixpanel",
