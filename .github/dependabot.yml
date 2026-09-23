@@ -1,29 +1,28 @@
-# Basic set up for three package managers
+# Standard Dependabot config (dependabot-std).
+# Weekly, grouped, 7-day cooldown (time to catch a malicious release).
 
 version: 2
 
 updates:
 
-  # Maintain dependencies for GitHub Actions
-  - package-ecosystem: "github-actions"
-    directory: "/"
+  - package-ecosystem: github-actions
+    directory: /
     schedule:
-      interval: "weekly"
+      interval: weekly
     cooldown:
-      default-days: 3
+      default-days: 7
     groups:
       actions-deps:
         patterns:
-          - "*"
+          - '*'
 
-  # Maintain dependencies for npm
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: npm
+    directory: /
     schedule:
-      interval: "weekly"
+      interval: weekly
     cooldown:
-      default-days: 3
+      default-days: 7
     groups:
-      actions-deps:
+      npm-deps:
         patterns:
-          - "*"
+          - '*'
