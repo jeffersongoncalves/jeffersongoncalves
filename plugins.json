@@ -333,6 +333,27 @@
         "v5": true
       },
       {
+        "title": "Filament Metrics Plausible",
+        "package": "jeffersongoncalves/filament-metrics-plausible",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Hotjar",
+        "package": "jeffersongoncalves/filament-hotjar",
+        "v3": false,
+        "v4": false,
+        "v5": false
+      },
+      {
+        "title": "Filament Amplitude",
+        "package": "jeffersongoncalves/filament-amplitude",
+        "v3": false,
+        "v4": false,
+        "v5": false
+      },
+      {
         "title": "Filament Mixpanel",
         "package": "jeffersongoncalves/filament-mixpanel",
         "v3": true,
@@ -517,9 +538,9 @@
       {
         "title": "Filament Navigation Group",
         "package": "jeffersongoncalves/filament-navigation-group",
-        "v3": false,
-        "v4": false,
-        "v5": false
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
