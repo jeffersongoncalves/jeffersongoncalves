@@ -562,6 +562,13 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament Carve",
+        "package": "jeffersongoncalves/filament-carve",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
