@@ -84,6 +84,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add filament-carve to plugins.json
 - Add laravel-carve to plugins.json
 - Add SSO client/server packages and Filament widget configuration to plugins.json
 - Add Filament Hotjar, Amplitude and Metrics Plausible to plugins.json
@@ -280,6 +281,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
