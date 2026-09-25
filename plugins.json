@@ -541,6 +541,27 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament Widget Configuration",
+        "package": "jeffersongoncalves/filament-widget-configuration",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament SSO Client",
+        "package": "jeffersongoncalves/filament-sso-client",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament SSO Server",
+        "package": "jeffersongoncalves/filament-sso-server",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
@@ -743,6 +764,14 @@
     {
       "title": "Laravel Hotjar",
       "package": "jeffersongoncalves/laravel-hotjar"
+    },
+    {
+      "title": "Laravel SSO Client",
+      "package": "jeffersongoncalves/laravel-sso-client"
+    },
+    {
+      "title": "Laravel SSO Server",
+      "package": "jeffersongoncalves/laravel-sso-server"
     },
     {
       "title": "Laravel Github Stats",
