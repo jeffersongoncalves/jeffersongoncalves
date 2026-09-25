@@ -766,6 +766,10 @@
       "package": "jeffersongoncalves/laravel-hotjar"
     },
     {
+      "title": "Laravel Carve",
+      "package": "jeffersongoncalves/laravel-carve"
+    },
+    {
       "title": "Laravel SSO Client",
       "package": "jeffersongoncalves/laravel-sso-client"
     },
