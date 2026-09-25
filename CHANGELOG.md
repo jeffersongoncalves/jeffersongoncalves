@@ -84,6 +84,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add SSO client/server packages and Filament widget configuration to plugins.json
 - Add Filament Hotjar, Amplitude and Metrics Plausible to plugins.json
 - Add filament-navigation-group plugin entry
 - Add Filament Kanban to plugins catalog
