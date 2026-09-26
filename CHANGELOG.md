@@ -66,6 +66,7 @@ All notable changes to this project will be documented in this file.
 
 ### Documentation
 
+- Regenerate README and AGENTS with user/admin packages
 - Require git pull before push
 - Add missing section descriptions for consistency
 - **repo:** Add CLAUDE.md with guidance for repository workflows
