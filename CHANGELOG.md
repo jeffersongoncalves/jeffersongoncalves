@@ -55,6 +55,7 @@ All notable changes to this project will be documented in this file.
 
 ### CI/CD
 
+- Rebase and retry README push when master moved
 - Retry the CHANGELOG push with rebase
 - Standardize dependabot config
 - Generate CHANGELOG with git-cliff on push
