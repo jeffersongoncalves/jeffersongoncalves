@@ -445,6 +445,20 @@
         "v5": true
       },
       {
+        "title": "Filament User",
+        "package": "jeffersongoncalves/filament-user",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Admin",
+        "package": "jeffersongoncalves/filament-admin",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Webhooks",
         "package": "jeffersongoncalves/filament-webhooks",
         "v3": true,
@@ -915,6 +929,14 @@
     {
       "title": "Laravel Teams",
       "package": "jeffersongoncalves/laravel-teams"
+    },
+    {
+      "title": "Laravel User",
+      "package": "jeffersongoncalves/laravel-user"
+    },
+    {
+      "title": "Laravel Admin",
+      "package": "jeffersongoncalves/laravel-admin"
     },
     {
       "title": "Laravel Queue Management",
