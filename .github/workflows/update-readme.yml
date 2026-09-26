@@ -44,5 +44,12 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update README with latest starter kits from template"
-            git push origin HEAD:${{ github.ref }}
+            # Other workflows (e.g. Changelog) push to the same branch on the same event;
+            # rebase onto whatever landed first and retry instead of failing the push.
+            for attempt in 1 2 3; do
+              git pull --rebase origin ${{ github.ref_name }} && git push origin HEAD:${{ github.ref }} && exit 0
+              echo "Push attempt $attempt failed, retrying..."
+              sleep $((attempt * 5))
+            done
+            exit 1
           fi
