@@ -86,6 +86,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add filament-socialite and laravel-socialite
 - Add laravel-user, laravel-admin, filament-user and filament-admin
 - Add filament-carve to plugins.json
 - Add laravel-carve to plugins.json
