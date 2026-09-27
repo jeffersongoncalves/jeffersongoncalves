@@ -590,6 +590,13 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament BladeWind",
+        "package": "jeffersongoncalves/filament-bladewind",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
