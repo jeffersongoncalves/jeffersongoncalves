@@ -48,6 +48,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament Ban](https://github.com/jeffersongoncalves/filament-ban)
 - [Filament Barcode Field](https://github.com/jeffersongoncalves/filament-barcode-field)
 - [Filament Benefit](https://github.com/jeffersongoncalves/filament-benefit)
+- [Filament BladeWind](https://github.com/jeffersongoncalves/filament-bladewind)
 - [Filament Carve](https://github.com/jeffersongoncalves/filament-carve)
 - [Filament CEP Field](https://github.com/jeffersongoncalves/filament-cep-field)
 - [Filament Check Whois Widget](https://github.com/jeffersongoncalves/filament-check-whois-widget)
