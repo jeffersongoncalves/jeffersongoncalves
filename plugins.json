@@ -277,6 +277,13 @@
         "v5": true
       },
       {
+        "title": "Filament Socialite",
+        "package": "jeffersongoncalves/filament-socialite",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Hidden Action",
         "package": "jeffersongoncalves/filament-hidden-action",
         "v3": false,
@@ -833,6 +840,10 @@
     {
       "title": "Laravel Help Desk",
       "package": "jeffersongoncalves/laravel-help-desk"
+    },
+    {
+      "title": "Laravel Socialite",
+      "package": "jeffersongoncalves/laravel-socialite"
     },
     {
       "title": "Laravel Knowledge Base",
