@@ -64,6 +64,7 @@ All notable changes to this project will be documented in this file.
 
 ### Dependencies
 
+- **deps:** Bump orhun/git-cliff-action (#29)
 - **deps:** Bump picomatch to >=4.0.4 (GHSA-3v7f-55p6-f55p)
 
 ### Documentation
@@ -287,6 +288,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update plugins.json
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
