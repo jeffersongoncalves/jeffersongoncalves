@@ -597,6 +597,13 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament Mail Editor",
+        "package": "jeffersongoncalves/filament-mail-editor",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
