@@ -290,6 +290,8 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Add metrics GA4 and PostHog packages (Laravel + Filament)
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update plugins.json
