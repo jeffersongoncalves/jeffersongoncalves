@@ -864,6 +864,10 @@
       "package": "jeffersongoncalves/laravel-mail"
     },
     {
+      "title": "Laravel Mail Editor",
+      "package": "jeffersongoncalves/laravel-mail-editor"
+    },
+    {
       "title": "Laravel Matomo",
       "package": "jeffersongoncalves/laravel-matomo"
     },
