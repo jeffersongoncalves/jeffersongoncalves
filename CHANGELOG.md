@@ -88,6 +88,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add Filament Mail Editor to the plugin list
 - Add Filament BladeWind to the plugin list
 - Add filament-socialite and laravel-socialite
 - Add laravel-user, laravel-admin, filament-user and filament-admin
@@ -288,6 +289,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update plugins.json
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
