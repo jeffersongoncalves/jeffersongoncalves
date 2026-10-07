@@ -291,6 +291,8 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Add laravel-settings-discord-logger and filament-discord-logger
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Rename VS Code extension repos to the -vscode suffix
 - Update README with latest starter kits from template
