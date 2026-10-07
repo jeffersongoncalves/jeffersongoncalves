@@ -292,6 +292,8 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Add laravel-clarity and filament-clarity
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Add laravel-settings-discord-logger and filament-discord-logger
 - Update README with latest starter kits from template
