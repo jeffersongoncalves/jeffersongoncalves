@@ -55,6 +55,7 @@ All notable changes to this project will be documented in this file.
 
 ### CI/CD
 
+- Add weekly repo audit
 - Auto-merge dependabot github-actions minor/patch
 - Rebase and retry README push when master moved
 - Retry the CHANGELOG push with rebase
@@ -292,6 +293,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Add laravel-clarity and filament-clarity
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
