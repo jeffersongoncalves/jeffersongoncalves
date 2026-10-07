@@ -88,6 +88,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add filament-saml2 to filament plugins
 - Add laravel-saml2 to laravel packages
 - Add Laravel Mail Editor to the package list
 - Add Filament Mail Editor to the plugin list
@@ -291,6 +292,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Add laravel-settings-discord-logger and filament-discord-logger
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
