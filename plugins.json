@@ -398,8 +398,8 @@
       {
         "title": "Filament OIDC",
         "package": "jeffersongoncalves/filament-oidc",
-        "v3": false,
-        "v4": false,
+        "v3": true,
+        "v4": true,
         "v5": true
       },
       {
@@ -1314,6 +1314,11 @@
       "title": "External Terminal Launcher",
       "package": "jeffersongoncalves/external-terminal-plugin",
       "jetbrainsId": "32357-external-terminal-launcher"
+    },
+    {
+      "title": "JSG Worktree Manager",
+      "package": "jeffersongoncalves/git-worktree-manager-plugin",
+      "jetbrainsId": "34860-jsg-worktree-manager"
     }
   ],
   "vscode": [
@@ -1331,6 +1336,16 @@
       "title": "JSG Worktree Env Configurator",
       "package": "jeffersongoncalves/worktree-env-configurator",
       "vscodeId": "JeffersonGoncalves.jsg-worktree-env-configurator"
+    },
+    {
+      "title": "JSG Herd Manager",
+      "package": "jeffersongoncalves/herd-manager-vscode",
+      "vscodeId": "JeffersonGoncalves.jsg-herd-manager"
+    },
+    {
+      "title": "JSG HubDev Manager",
+      "package": "jeffersongoncalves/hubdev-manager-vscode",
+      "vscodeId": "JeffersonGoncalves.jsg-hubdev-manager"
     }
   ],
   "browserExtensions": [
