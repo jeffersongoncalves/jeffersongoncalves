@@ -310,11 +310,11 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 
 ## VS Code Extensions
 
-- [JSG External Terminal Launcher](https://github.com/jeffersongoncalves/external-terminal-launcher)
-- [JSG Git Worktree Manager](https://github.com/jeffersongoncalves/git-worktree-manager)
+- [JSG External Terminal Launcher](https://github.com/jeffersongoncalves/external-terminal-launcher-vscode)
+- [JSG Git Worktree Manager](https://github.com/jeffersongoncalves/git-worktree-manager-vscode)
 - [JSG Herd Manager](https://github.com/jeffersongoncalves/herd-manager-vscode)
 - [JSG HubDev Manager](https://github.com/jeffersongoncalves/hubdev-manager-vscode)
-- [JSG Worktree Env Configurator](https://github.com/jeffersongoncalves/worktree-env-configurator)
+- [JSG Worktree Env Configurator](https://github.com/jeffersongoncalves/worktree-env-configurator-vscode)
 
 ## Browser Extensions
 
