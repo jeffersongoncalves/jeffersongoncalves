@@ -333,6 +333,13 @@
         "v5": true
       },
       {
+        "title": "Filament Metrics GA4",
+        "package": "jeffersongoncalves/filament-metrics-ga4",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Metrics Matomo",
         "package": "jeffersongoncalves/filament-metrics-matomo",
         "v3": true,
@@ -342,6 +349,13 @@
       {
         "title": "Filament Metrics Plausible",
         "package": "jeffersongoncalves/filament-metrics-plausible",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Metrics PostHog",
+        "package": "jeffersongoncalves/filament-metrics-posthog",
         "v3": true,
         "v4": true,
         "v5": true
@@ -876,12 +890,20 @@
       "package": "jeffersongoncalves/laravel-metrics-fathom"
     },
     {
+      "title": "Laravel Metrics GA4",
+      "package": "jeffersongoncalves/laravel-metrics-ga4"
+    },
+    {
       "title": "Laravel Metrics Matomo",
       "package": "jeffersongoncalves/laravel-metrics-matomo"
     },
     {
       "title": "Laravel Metrics Plausible",
       "package": "jeffersongoncalves/laravel-metrics-plausible"
+    },
+    {
+      "title": "Laravel Metrics PostHog",
+      "package": "jeffersongoncalves/laravel-metrics-posthog"
     },
     {
       "title": "Laravel Mixpanel",
