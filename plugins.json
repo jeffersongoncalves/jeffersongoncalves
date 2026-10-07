@@ -410,6 +410,13 @@
         "v5": true
       },
       {
+        "title": "Filament SAML2",
+        "package": "jeffersongoncalves/filament-saml2",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament One Time Operations",
         "package": "jeffersongoncalves/filament-one-time-operations",
         "v3": true,
