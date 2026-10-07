@@ -303,6 +303,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 ## JetBrains Plugins
 
 - [External Terminal Launcher](https://github.com/jeffersongoncalves/external-terminal-plugin)
+- [JSG Worktree Manager](https://github.com/jeffersongoncalves/git-worktree-manager-plugin)
 - [Herd Manager Plugin](https://github.com/jeffersongoncalves/herd-manager-plugin)
 - [Hubdev Manager Plugin](https://github.com/jeffersongoncalves/hubdev-manager-plugin)
 - [Worktree Env Plugin](https://github.com/jeffersongoncalves/worktree-env-plugin)
@@ -311,6 +312,8 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 
 - [JSG External Terminal Launcher](https://github.com/jeffersongoncalves/external-terminal-launcher)
 - [JSG Git Worktree Manager](https://github.com/jeffersongoncalves/git-worktree-manager)
+- [JSG Herd Manager](https://github.com/jeffersongoncalves/herd-manager-vscode)
+- [JSG HubDev Manager](https://github.com/jeffersongoncalves/hubdev-manager-vscode)
 - [JSG Worktree Env Configurator](https://github.com/jeffersongoncalves/worktree-env-configurator)
 
 ## Browser Extensions
