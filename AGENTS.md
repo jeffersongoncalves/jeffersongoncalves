@@ -214,6 +214,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Resend](https://github.com/jeffersongoncalves/laravel-resend)
 - [Laravel Rewardful](https://github.com/jeffersongoncalves/laravel-rewardful)
 - [Laravel Salesforce](https://github.com/jeffersongoncalves/laravel-salesforce)
+- [Laravel SAML2](https://github.com/jeffersongoncalves/laravel-saml2)
 - [Laravel Satis](https://github.com/jeffersongoncalves/laravel-satis)
 - [Laravel SavvyCal](https://github.com/jeffersongoncalves/laravel-savvycal)
 - [Laravel Scanner Guard](https://github.com/jeffersongoncalves/laravel-scanner-guard)
