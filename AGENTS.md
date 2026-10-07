@@ -70,6 +70,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament Knowledge Base](https://github.com/jeffersongoncalves/filament-knowledge-base)
 - [Filament Logo](https://github.com/jeffersongoncalves/filament-logo)
 - [Filament Mail](https://github.com/jeffersongoncalves/filament-mail)
+- [Filament Mail Editor](https://github.com/jeffersongoncalves/filament-mail-editor)
 - [Filament Matomo](https://github.com/jeffersongoncalves/filament-matomo)
 - [Filament Metrics Fathom](https://github.com/jeffersongoncalves/filament-metrics-fathom)
 - [Filament Metrics Matomo](https://github.com/jeffersongoncalves/filament-metrics-matomo)
