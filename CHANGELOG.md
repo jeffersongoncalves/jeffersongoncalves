@@ -290,6 +290,8 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Rename VS Code extension repos to the -vscode suffix
+- Update README with latest starter kits from template
 - Add JSG Worktree Manager (JetBrains), JSG Herd Manager and JSG HubDev Manager (VS Code)
 - Update README with latest starter kits from template
 - Add metrics GA4 and PostHog packages (Laravel + Filament)
