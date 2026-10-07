@@ -32,7 +32,7 @@ My passion lives in the **open source** world — I actively maintain **80+ Fila
 - 🛠️ Creator of the **Filakit** ecosystem — starter kits for Filament v3, v4 & v5
 - 🌍 Active contributor to the **Filament** and **Laravel** communities
 - 💬 Ask me about **Filament, Laravel, Livewire, API integrations**
-- ⚡ Fun fact: I've published **280+ repositories** and still counting
+- ⚡ Fun fact: I've published **290+ repositories** and still counting
 
 ---
 
@@ -185,6 +185,7 @@ Plugins I created and maintain for the **Filament** ecosystem.
 | [**Filament QrCode Field**](https://github.com/jeffersongoncalves/filament-qrcode-field) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-qrcode-field.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-qrcode-field?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Queue Management**](https://github.com/jeffersongoncalves/filament-queue-management) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-queue-management.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-queue-management?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Refresh Sidebar**](https://github.com/jeffersongoncalves/filament-refresh-sidebar) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-refresh-sidebar.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-refresh-sidebar?style=flat-square) | v4 · v5 |
+| [**Filament SAML2**](https://github.com/jeffersongoncalves/filament-saml2) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-saml2.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-saml2?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Satis**](https://github.com/jeffersongoncalves/filament-satis) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-satis.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-satis?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Scanner Guard**](https://github.com/jeffersongoncalves/filament-scanner-guard) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-scanner-guard.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-scanner-guard?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Sensible Defaults**](https://github.com/jeffersongoncalves/filament-sensible-defaults) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-sensible-defaults.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-sensible-defaults?style=flat-square) | v3 · v4 · v5 |

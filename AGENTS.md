@@ -94,6 +94,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament QrCode Field](https://github.com/jeffersongoncalves/filament-qrcode-field)
 - [Filament Queue Management](https://github.com/jeffersongoncalves/filament-queue-management)
 - [Filament Refresh Sidebar](https://github.com/jeffersongoncalves/filament-refresh-sidebar)
+- [Filament SAML2](https://github.com/jeffersongoncalves/filament-saml2)
 - [Filament Satis](https://github.com/jeffersongoncalves/filament-satis)
 - [Filament Scanner Guard](https://github.com/jeffersongoncalves/filament-scanner-guard)
 - [Filament Sensible Defaults](https://github.com/jeffersongoncalves/filament-sensible-defaults)
