@@ -333,6 +333,13 @@
         "v5": true
       },
       {
+        "title": "Filament Discord Logger",
+        "package": "jeffersongoncalves/filament-discord-logger",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Metrics GA4",
         "package": "jeffersongoncalves/filament-metrics-ga4",
         "v3": true,
@@ -728,6 +735,10 @@
     {
       "title": "Laravel Discord Logger",
       "package": "jeffersongoncalves/laravel-discord-logger"
+    },
+    {
+      "title": "Laravel Settings Discord Logger",
+      "package": "jeffersongoncalves/laravel-settings-discord-logger"
     },
     {
       "title": "Laravel Github Readme",
