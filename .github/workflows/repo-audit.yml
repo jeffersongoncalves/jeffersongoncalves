@@ -1,0 +1,96 @@
+name: Repo audit
+
+# Weekly hygiene report for every jeffersongoncalves repo (jeffersongoncalves/repos-cli `audit`).
+# Findings are kept in ONE open issue labelled `repo-audit` (created, refreshed, or closed when clean).
+#
+# Token: the `AUDIT_TOKEN` secret (classic PAT with `repo` read, or fine-grained with read access to
+# all repos) when set — then private repos are audited too. Without it, GITHUB_TOKEN covers public
+# repos only (1000 req/h; the selected checks cost ~4 calls per repo).
+#
+# The auto-merge template is a copy of the approved one (~/.claude/tools/clis/dependabot-auto-merge.yml):
+# keep .github/audit/dependabot-auto-merge.yml in sync when the template changes.
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: repo-audit
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@f3e473d116dcccaddc5834248c87452386958240 # v2
+        with:
+          php-version: '8.4'
+          coverage: none
+
+      - name: Download the repos CLI
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release download --repo jeffersongoncalves/repos-cli --pattern repos.phar --dir "$RUNNER_TEMP"
+
+      - name: Configure the GitHub token
+        env:
+          AUDIT_TOKEN: ${{ secrets.AUDIT_TOKEN || github.token }}
+        run: |
+          mkdir -p ~/.repos-cli
+          jq -n --arg token "$AUDIT_TOKEN" '{hosts: {github: {token: $token}}}' > ~/.repos-cli/config.json
+          chmod 600 ~/.repos-cli/config.json
+
+      - name: Audit
+        run: |
+          # Exits 1 when it finds something; the JSON check below tells findings from a real failure.
+          php "$RUNNER_TEMP/repos.phar" audit jeffersongoncalves \
+            --only=ci,website,dependabot,automerge,dependabot-prs \
+            --automerge-template=.github/audit/dependabot-auto-merge.yml \
+            --json --no-interaction > audit.json || true
+          if ! jq -e 'type == "array"' audit.json > /dev/null; then
+            cat audit.json
+            exit 1
+          fi
+
+      - name: Update the audit issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          count=$(jq length audit.json)
+          existing=$(gh issue list --label repo-audit --state open --json number --jq '.[0].number // empty')
+          today=$(date -u +%F)
+          run_url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+
+          if [ "$count" -eq 0 ]; then
+            if [ -n "$existing" ]; then
+              gh issue close "$existing" --comment "Audit clean on $today ($run_url)."
+            fi
+            exit 0
+          fi
+
+          {
+            echo "Weekly \`repos audit\` — **$count** finding(s) on $today."
+            echo
+            echo "| Check | Repo | Problem |"
+            echo "|---|---|---|"
+            jq -r '.[] | "| \(.check) | \(.repo) | \(.message | gsub("\\|"; "\\\\|")) |"' audit.json
+            echo
+            echo "Run: $run_url"
+          } > body.md
+
+          if [ -n "$existing" ]; then
+            gh issue edit "$existing" --body-file body.md
+          else
+            gh label create repo-audit --color BFD4F2 --description "Weekly repos audit findings" --force
+            gh issue create --title "Repo audit findings" --label repo-audit --body-file body.md
+          fi
