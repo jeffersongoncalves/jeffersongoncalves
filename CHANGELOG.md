@@ -88,6 +88,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add laravel-saml2 to laravel packages
 - Add Laravel Mail Editor to the package list
 - Add Filament Mail Editor to the plugin list
 - Add Filament BladeWind to the plugin list
@@ -290,6 +291,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Rename VS Code extension repos to the -vscode suffix
 - Update README with latest starter kits from template
 - Add JSG Worktree Manager (JetBrains), JSG Herd Manager and JSG HubDev Manager (VS Code)
