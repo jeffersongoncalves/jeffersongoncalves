@@ -207,6 +207,13 @@
         "v5": true
       },
       {
+        "title": "Filament Clarity",
+        "package": "jeffersongoncalves/filament-clarity",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Cookie Consent",
         "package": "jeffersongoncalves/filament-cookie-consent",
         "v3": true,
@@ -806,6 +813,10 @@
     {
       "title": "Laravel Page Visits",
       "package": "jeffersongoncalves/laravel-page-visits"
+    },
+    {
+      "title": "Laravel Clarity",
+      "package": "jeffersongoncalves/laravel-clarity"
     },
     {
       "title": "Laravel CEP",
