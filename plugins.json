@@ -970,6 +970,10 @@
       "package": "jeffersongoncalves/laravel-oidc"
     },
     {
+      "title": "Laravel SAML2",
+      "package": "jeffersongoncalves/laravel-saml2"
+    },
+    {
       "title": "Laravel Webhooks",
       "package": "jeffersongoncalves/laravel-webhooks"
     },
