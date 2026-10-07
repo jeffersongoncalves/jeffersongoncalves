@@ -1324,17 +1324,17 @@
   "vscode": [
     {
       "title": "JSG Git Worktree Manager",
-      "package": "jeffersongoncalves/git-worktree-manager",
+      "package": "jeffersongoncalves/git-worktree-manager-vscode",
       "vscodeId": "JeffersonGoncalves.jsg-git-worktree-manager"
     },
     {
       "title": "JSG External Terminal Launcher",
-      "package": "jeffersongoncalves/external-terminal-launcher",
+      "package": "jeffersongoncalves/external-terminal-launcher-vscode",
       "vscodeId": "JeffersonGoncalves.jsg-external-terminal-launcher"
     },
     {
       "title": "JSG Worktree Env Configurator",
-      "package": "jeffersongoncalves/worktree-env-configurator",
+      "package": "jeffersongoncalves/worktree-env-configurator-vscode",
       "vscodeId": "JeffersonGoncalves.jsg-worktree-env-configurator"
     },
     {
