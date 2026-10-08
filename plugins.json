@@ -347,6 +347,13 @@
         "v5": true
       },
       {
+        "title": "Filament Translation Manager",
+        "package": "jeffersongoncalves/filament-translation-manager",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Metrics GA4",
         "package": "jeffersongoncalves/filament-metrics-ga4",
         "v3": true,
@@ -753,6 +760,10 @@
     {
       "title": "Laravel Settings Discord Logger",
       "package": "jeffersongoncalves/laravel-settings-discord-logger"
+    },
+    {
+      "title": "Laravel Translation Manager",
+      "package": "jeffersongoncalves/laravel-translation-manager"
     },
     {
       "title": "Laravel Github Readme",
