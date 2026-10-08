@@ -89,6 +89,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add the Editorial Theme kits (v3, v4, v5)
 - Filament editorial theme supports Filament 3 and 4
 - Add filament editorial theme
 - Add laravel/filament open hours
@@ -297,6 +298,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
