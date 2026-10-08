@@ -55,6 +55,7 @@ All notable changes to this project will be documented in this file.
 
 ### CI/CD
 
+- **audit:** Keep the website app out of the catalog check
 - **audit:** Cross-check plugins.json against GitHub and Packagist
 - Add weekly repo audit
 - Auto-merge dependabot github-actions minor/patch
