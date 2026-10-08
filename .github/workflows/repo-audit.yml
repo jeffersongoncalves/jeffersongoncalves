@@ -57,6 +57,7 @@ jobs:
             --only=ci,website,dependabot,automerge,dependabot-prs,catalog \
             --automerge-template=.github/audit/dependabot-auto-merge.yml \
             --catalog=plugins.json \
+            --catalog-ignore=jeffersongoncalves/website \
             --json --no-interaction > audit.json || true
           if ! jq -e 'type == "array"' audit.json > /dev/null; then
             cat audit.json
