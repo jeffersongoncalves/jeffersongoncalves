@@ -363,8 +363,8 @@
       {
         "title": "Filament Editorial Theme",
         "package": "jeffersongoncalves/filament-editorial-theme",
-        "v3": false,
-        "v4": false,
+        "v3": true,
+        "v4": true,
         "v5": true
       },
       {
