@@ -55,6 +55,7 @@ All notable changes to this project will be documented in this file.
 
 ### CI/CD
 
+- **audit:** Check release immutability and social previews
 - **audit:** Keep the website app out of the catalog check
 - **audit:** Cross-check plugins.json against GitHub and Packagist
 - Add weekly repo audit
@@ -301,6 +302,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
