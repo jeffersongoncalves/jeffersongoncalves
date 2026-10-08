@@ -55,6 +55,7 @@ All notable changes to this project will be documented in this file.
 
 ### CI/CD
 
+- **audit:** Cross-check plugins.json against GitHub and Packagist
 - Add weekly repo audit
 - Auto-merge dependabot github-actions minor/patch
 - Rebase and retry README push when master moved
@@ -298,6 +299,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
