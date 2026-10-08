@@ -5,6 +5,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 ## Filakit Starter Kits (featured)
 
 - [Base Kit v5](https://github.com/filakitphp/basev5)
+- [Editorial Theme Kit v5](https://github.com/jeffersongoncalves/editorialthemev5)
 - [Evolution Kit v5](https://github.com/jeffersongoncalves/evolutionkitv5)
 - [FilaFlux Kit v5](https://github.com/jeffersongoncalves/filafluxkitv5)
 - [Fila Kit v5](https://github.com/jeffersongoncalves/filakitv5)
@@ -18,6 +19,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 ## Filakit Starter Kits (legacy v4)
 
 - [Base Kit v4](https://github.com/filakitphp/basev4)
+- [Editorial Theme Kit v4](https://github.com/jeffersongoncalves/editorialthemev4)
 - [Evolution Kit v4](https://github.com/jeffersongoncalves/evolutionkitv4)
 - [Fila Kit v4](https://github.com/jeffersongoncalves/filakitv4)
 - [Help Desk Kit v4](https://github.com/jeffersongoncalves/helpdeskkitv4)
@@ -30,6 +32,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 ## Filakit Starter Kits (legacy v3)
 
 - [Base Kit v3](https://github.com/filakitphp/basev3)
+- [Editorial Theme Kit v3](https://github.com/jeffersongoncalves/editorialthemev3)
 - [Fila Kit v3](https://github.com/jeffersongoncalves/filakit)
 - [Help Desk Kit v3](https://github.com/jeffersongoncalves/helpdeskkitv3)
 - [Mobile Kit v3](https://github.com/jeffersongoncalves/mobilekit)
