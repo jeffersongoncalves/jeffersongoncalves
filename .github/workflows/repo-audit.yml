@@ -54,7 +54,7 @@ jobs:
         run: |
           # Exits 1 when it finds something; the JSON check below tells findings from a real failure.
           php "$RUNNER_TEMP/repos.phar" audit jeffersongoncalves \
-            --only=ci,website,dependabot,automerge,dependabot-prs,catalog \
+            --only=ci,website,dependabot,automerge,immutable,dependabot-prs,social,catalog \
             --automerge-template=.github/audit/dependabot-auto-merge.yml \
             --catalog=plugins.json \
             --catalog-ignore=jeffersongoncalves/website \
