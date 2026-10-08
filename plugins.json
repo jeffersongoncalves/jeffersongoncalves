@@ -354,6 +354,13 @@
         "v5": true
       },
       {
+        "title": "Filament Open Hours",
+        "package": "jeffersongoncalves/filament-open-hours",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Metrics GA4",
         "package": "jeffersongoncalves/filament-metrics-ga4",
         "v3": true,
@@ -764,6 +771,10 @@
     {
       "title": "Laravel Translation Manager",
       "package": "jeffersongoncalves/laravel-translation-manager"
+    },
+    {
+      "title": "Laravel Open Hours",
+      "package": "jeffersongoncalves/laravel-open-hours"
     },
     {
       "title": "Laravel Github Readme",
