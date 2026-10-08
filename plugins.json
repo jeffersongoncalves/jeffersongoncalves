@@ -672,6 +672,48 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament Cloudflare Web Analytics",
+        "package": "jeffersongoncalves/filament-cloudflare-web-analytics",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Simple Analytics",
+        "package": "jeffersongoncalves/filament-simple-analytics",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Pirsch",
+        "package": "jeffersongoncalves/filament-pirsch",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament GoatCounter",
+        "package": "jeffersongoncalves/filament-goatcounter",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Crisp",
+        "package": "jeffersongoncalves/filament-crisp",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament Tawk.to",
+        "package": "jeffersongoncalves/filament-tawk-to",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
@@ -1246,6 +1288,30 @@
     {
       "title": "Laravel Scanner Guard",
       "package": "jeffersongoncalves/laravel-scanner-guard"
+    },
+    {
+      "title": "Laravel Cloudflare Web Analytics",
+      "package": "jeffersongoncalves/laravel-cloudflare-web-analytics"
+    },
+    {
+      "title": "Laravel Simple Analytics",
+      "package": "jeffersongoncalves/laravel-simple-analytics"
+    },
+    {
+      "title": "Laravel Pirsch",
+      "package": "jeffersongoncalves/laravel-pirsch"
+    },
+    {
+      "title": "Laravel GoatCounter",
+      "package": "jeffersongoncalves/laravel-goatcounter"
+    },
+    {
+      "title": "Laravel Crisp",
+      "package": "jeffersongoncalves/laravel-crisp"
+    },
+    {
+      "title": "Laravel Tawk.to",
+      "package": "jeffersongoncalves/laravel-tawk-to"
     }
   ],
   "laravelZero": [
