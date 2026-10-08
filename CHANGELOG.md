@@ -89,6 +89,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add filament editorial theme
 - Add laravel/filament open hours
 - Add laravel/filament translation manager
 - Add filament-saml2 to filament plugins
@@ -295,6 +296,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Add laravel-clarity and filament-clarity
