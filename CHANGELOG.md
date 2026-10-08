@@ -89,6 +89,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add laravel/filament translation manager
 - Add filament-saml2 to filament plugins
 - Add laravel-saml2 to laravel packages
 - Add Laravel Mail Editor to the package list
