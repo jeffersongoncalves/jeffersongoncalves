@@ -92,6 +92,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add Filament Page Cache
 - Add the Cloudflare Web Analytics, Simple Analytics, Pirsch, GoatCounter, Crisp and Tawk.to packages
 - Add the Editorial Theme kits (v3, v4, v5)
 - Filament editorial theme supports Filament 3 and 4
