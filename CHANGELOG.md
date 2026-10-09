@@ -291,6 +291,7 @@ All notable changes to this project will be documented in this file.
 
 ### Miscellaneous Tasks
 
+- **deps-dev:** Bump lint-staged
 - **deps-dev:** Bump lint-staged in the actions-deps group
 - **deps-dev:** Bump lint-staged in the actions-deps group
 - Add laravel-partnerstack to plugins.json
