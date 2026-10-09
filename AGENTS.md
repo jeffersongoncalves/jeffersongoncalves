@@ -108,6 +108,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament SAML2](https://github.com/jeffersongoncalves/filament-saml2)
 - [Filament Satis](https://github.com/jeffersongoncalves/filament-satis)
 - [Filament Scanner Guard](https://github.com/jeffersongoncalves/filament-scanner-guard)
+- [Filament Security Headers](https://github.com/jeffersongoncalves/filament-security-headers)
 - [Filament Sensible Defaults](https://github.com/jeffersongoncalves/filament-sensible-defaults)
 - [Filament Service Desk](https://github.com/jeffersongoncalves/filament-service-desk)
 - [Filament Short URL](https://github.com/jeffersongoncalves/filament-short-url)
