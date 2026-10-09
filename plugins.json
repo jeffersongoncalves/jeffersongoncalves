@@ -714,6 +714,13 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament Page Cache",
+        "package": "jeffersongoncalves/filament-page-cache",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
