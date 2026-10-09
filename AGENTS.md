@@ -94,6 +94,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament OIDC](https://github.com/jeffersongoncalves/filament-oidc)
 - [Filament One Time Operations](https://github.com/jeffersongoncalves/filament-one-time-operations)
 - [Filament Open Hours](https://github.com/jeffersongoncalves/filament-open-hours)
+- [Filament Page Cache](https://github.com/jeffersongoncalves/filament-page-cache)
 - [Filament Page Visits](https://github.com/jeffersongoncalves/filament-page-visits)
 - [Filament Panel Theme Isolation](https://github.com/jeffersongoncalves/filament-panel-theme-isolation)
 - [Filament Pirsch](https://github.com/jeffersongoncalves/filament-pirsch)
