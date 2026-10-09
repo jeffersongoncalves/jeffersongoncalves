@@ -721,6 +721,13 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament Security Headers",
+        "package": "jeffersongoncalves/filament-security-headers",
+        "v3": true,
+        "v4": true,
+        "v5": true
       }
     ],
     "collaborator": [
