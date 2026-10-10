@@ -55,6 +55,7 @@ All notable changes to this project will be documented in this file.
 
 ### CI/CD
 
+- Weekly audit flags PHP repos without tests (repos-cli 1.6.0)
 - Leave the private tooling repos out of the weekly audit
 - **audit:** Check release immutability and social previews
 - **audit:** Keep the website app out of the catalog check
