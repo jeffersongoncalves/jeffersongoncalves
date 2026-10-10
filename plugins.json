@@ -844,6 +844,10 @@
       "package": "jeffersongoncalves/laravel-settings-discord-logger"
     },
     {
+      "title": "Laravel Telegram Logger",
+      "package": "jeffersongoncalves/laravel-telegram-logger"
+    },
+    {
       "title": "Laravel Translation Manager",
       "package": "jeffersongoncalves/laravel-translation-manager"
     },
