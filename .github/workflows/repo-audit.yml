@@ -5,7 +5,7 @@ name: Repo audit
 #
 # Token: the `AUDIT_TOKEN` secret (classic PAT with `repo` read, or fine-grained with read access to
 # all repos) when set — then private repos are audited too. Without it, GITHUB_TOKEN covers public
-# repos only (1000 req/h; the selected checks cost ~4 calls per repo).
+# repos only (1000 req/h; the selected checks cost ~6 calls per repo).
 #
 # The auto-merge template is a copy of the approved one (~/.claude/tools/clis/dependabot-auto-merge.yml):
 # keep .github/audit/dependabot-auto-merge.yml in sync when the template changes.
@@ -54,7 +54,7 @@ jobs:
         run: |
           # Exits 1 when it finds something; the JSON check below tells findings from a real failure.
           php "$RUNNER_TEMP/repos.phar" audit jeffersongoncalves \
-            --only=ci,website,dependabot,automerge,immutable,dependabot-prs,social,catalog \
+            --only=ci,website,dependabot,automerge,immutable,tests,dependabot-prs,social,catalog \
             --automerge-template=.github/audit/dependabot-auto-merge.yml \
             --catalog=plugins.json \
             --catalog-ignore=jeffersongoncalves/website \
