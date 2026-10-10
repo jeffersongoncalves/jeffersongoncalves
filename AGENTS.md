@@ -258,6 +258,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Stripe](https://github.com/jeffersongoncalves/laravel-stripe)
 - [Laravel Tawk.to](https://github.com/jeffersongoncalves/laravel-tawk-to)
 - [Laravel Teams](https://github.com/jeffersongoncalves/laravel-teams)
+- [Laravel Telegram Logger](https://github.com/jeffersongoncalves/laravel-telegram-logger)
 - [Laravel Testimonial](https://github.com/jeffersongoncalves/laravel-testimonial)
 - [Laravel TikTok Ads](https://github.com/jeffersongoncalves/laravel-tiktok-ads)
 - [Laravel Tolt](https://github.com/jeffersongoncalves/laravel-tolt)
