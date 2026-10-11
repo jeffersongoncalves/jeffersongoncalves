@@ -277,6 +277,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel WooCommerce](https://github.com/jeffersongoncalves/laravel-woocommerce)
 - [Laravel WordPress](https://github.com/jeffersongoncalves/laravel-wordpress)
 - [Laravel Zapier](https://github.com/jeffersongoncalves/laravel-zapier)
+- [Pest Plugin Database Migrations](https://github.com/jeffersongoncalves/pest-plugin-database-migrations)
 - [Pest Plugin MySQL Compat](https://github.com/jeffersongoncalves/pest-plugin-mysql-compat)
 
 ## Laravel Zero Packages
