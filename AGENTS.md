@@ -150,6 +150,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Apollo](https://github.com/jeffersongoncalves/laravel-apollo)
 - [Laravel Beehiiv](https://github.com/jeffersongoncalves/laravel-beehiiv)
 - [Laravel Benefit](https://github.com/jeffersongoncalves/laravel-benefit)
+- [Laravel Brazil Holidays](https://github.com/jeffersongoncalves/laravel-brazil-holidays)
 - [Laravel Brevo](https://github.com/jeffersongoncalves/laravel-brevo)
 - [Laravel Buffer](https://github.com/jeffersongoncalves/laravel-buffer)
 - [Laravel Calendly](https://github.com/jeffersongoncalves/laravel-calendly)
