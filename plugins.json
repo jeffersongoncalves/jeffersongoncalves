@@ -1304,6 +1304,10 @@
       "package": "jeffersongoncalves/pest-plugin-mysql-compat"
     },
     {
+      "title": "Pest Plugin Database Migrations",
+      "package": "jeffersongoncalves/pest-plugin-database-migrations"
+    },
+    {
       "title": "Laravel Scanner Guard",
       "package": "jeffersongoncalves/laravel-scanner-guard"
     },

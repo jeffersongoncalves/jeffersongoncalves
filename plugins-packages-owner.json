@@ -288,6 +288,7 @@
   "jeffersongoncalves/obsidian-claude-notes",
   "jeffersongoncalves/obsidian-notes-cli",
   "jeffersongoncalves/packagist-cli",
+  "jeffersongoncalves/pest-plugin-database-migrations",
   "jeffersongoncalves/pest-plugin-mysql-compat",
   "jeffersongoncalves/plump-cli",
   "jeffersongoncalves/pypdf-merge-cli",
