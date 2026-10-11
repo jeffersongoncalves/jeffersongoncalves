@@ -844,6 +844,10 @@
       "package": "jeffersongoncalves/laravel-settings-discord-logger"
     },
     {
+      "title": "Laravel Brazil Holidays",
+      "package": "jeffersongoncalves/laravel-brazil-holidays"
+    },
+    {
       "title": "Laravel Telegram Logger",
       "package": "jeffersongoncalves/laravel-telegram-logger"
     },
