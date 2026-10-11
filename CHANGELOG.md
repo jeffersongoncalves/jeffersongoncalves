@@ -307,6 +307,8 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Add Laravel Brazil Holidays
+- Update README with latest starter kits from template
 - Add Pest Plugin Database Migrations to plugins.json
 - Update README with latest starter kits from template
 - Add Laravel Telegram Logger
