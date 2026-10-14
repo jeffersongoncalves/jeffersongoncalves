@@ -58,6 +58,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament Clarity](https://github.com/jeffersongoncalves/filament-clarity)
 - [Filament Cloudflare Web Analytics](https://github.com/jeffersongoncalves/filament-cloudflare-web-analytics)
 - [Filament CMS](https://github.com/jeffersongoncalves/filament-cms)
+- [Filament CNPJ Field](https://github.com/jeffersongoncalves/filament-cnpj-field)
 - [Filament Cookie Consent](https://github.com/jeffersongoncalves/filament-cookie-consent)
 - [Filament Crisp](https://github.com/jeffersongoncalves/filament-crisp)
 - [Filament Discord Logger](https://github.com/jeffersongoncalves/filament-discord-logger)
