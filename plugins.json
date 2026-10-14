@@ -928,6 +928,10 @@
       "package": "jeffersongoncalves/laravel-cep"
     },
     {
+      "title": "Laravel CNPJ",
+      "package": "jeffersongoncalves/laravel-cnpj"
+    },
+    {
       "title": "Laravel FAQ",
       "package": "jeffersongoncalves/laravel-faq"
     },
