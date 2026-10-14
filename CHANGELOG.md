@@ -94,6 +94,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add laravel-cnpj
 - Add Filament Security Headers
 - Add Filament Page Cache
 - Add the Cloudflare Web Analytics, Simple Analytics, Pirsch, GoatCounter, Crisp and Tawk.to packages
@@ -307,6 +308,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Add Laravel Brazil Holidays
 - Update README with latest starter kits from template
 - Add Pest Plugin Database Migrations to plugins.json
