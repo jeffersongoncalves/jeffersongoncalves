@@ -159,6 +159,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Clearbit](https://github.com/jeffersongoncalves/laravel-clearbit)
 - [Laravel Cloudflare Web Analytics](https://github.com/jeffersongoncalves/laravel-cloudflare-web-analytics)
 - [Laravel CMS](https://github.com/jeffersongoncalves/laravel-cms)
+- [Laravel CNPJ](https://github.com/jeffersongoncalves/laravel-cnpj)
 - [Laravel ConvertKit](https://github.com/jeffersongoncalves/laravel-convertkit)
 - [Laravel Cookie Consent](https://github.com/jeffersongoncalves/laravel-cookie-consent)
 - [Laravel Created By](https://github.com/jeffersongoncalves/laravel-created-by)
