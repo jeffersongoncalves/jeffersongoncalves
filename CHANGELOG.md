@@ -70,6 +70,7 @@ All notable changes to this project will be documented in this file.
 
 ### Dependencies
 
+- **deps:** Bump the actions-deps group with 2 updates (#34)
 - **deps:** Bump orhun/git-cliff-action (#29)
 - **deps:** Bump picomatch to >=4.0.4 (GHSA-3v7f-55p6-f55p)
 
@@ -94,6 +95,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add Laravel Saved Filter
 - Add Filament CNPJ Field
 - Add laravel-cnpj
 - Add Filament Security Headers
@@ -309,6 +311,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Add Laravel Brazil Holidays
