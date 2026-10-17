@@ -95,6 +95,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add Filament Saved Filter
 - Add Laravel Saved Filter
 - Add Filament CNPJ Field
 - Add laravel-cnpj
@@ -311,6 +312,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
