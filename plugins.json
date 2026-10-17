@@ -867,6 +867,10 @@
       "package": "jeffersongoncalves/laravel-open-hours"
     },
     {
+      "title": "Laravel Saved Filter",
+      "package": "jeffersongoncalves/laravel-saved-filter"
+    },
+    {
       "title": "Laravel Github Readme",
       "package": "jeffersongoncalves/laravel-github-readme"
     },
