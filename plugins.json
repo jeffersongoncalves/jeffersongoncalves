@@ -373,6 +373,13 @@
         "v5": true
       },
       {
+        "title": "Filament Saved Filter",
+        "package": "jeffersongoncalves/filament-saved-filter",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Open Hours",
         "package": "jeffersongoncalves/filament-open-hours",
         "v3": true,
