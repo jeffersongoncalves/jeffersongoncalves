@@ -238,6 +238,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Queue Consumer](https://github.com/jeffersongoncalves/laravel-queue-consumer)
 - [Laravel Queue Management](https://github.com/jeffersongoncalves/laravel-queue-management)
 - [Laravel Queue Worker](https://github.com/jeffersongoncalves/laravel-queue-worker)
+- [Laravel Report Url](https://github.com/jeffersongoncalves/laravel-report-url)
 - [Laravel Resend](https://github.com/jeffersongoncalves/laravel-resend)
 - [Laravel Rewardful](https://github.com/jeffersongoncalves/laravel-rewardful)
 - [Laravel Salesforce](https://github.com/jeffersongoncalves/laravel-salesforce)
