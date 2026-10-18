@@ -228,6 +228,7 @@
   "jeffersongoncalves/laravel-queue-consumer",
   "jeffersongoncalves/laravel-queue-management",
   "jeffersongoncalves/laravel-queue-worker",
+  "jeffersongoncalves/laravel-report-url",
   "jeffersongoncalves/laravel-resend",
   "jeffersongoncalves/laravel-rewardful",
   "jeffersongoncalves/laravel-salesforce",

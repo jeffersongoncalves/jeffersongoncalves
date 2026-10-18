@@ -878,6 +878,10 @@
       "package": "jeffersongoncalves/laravel-saved-filter"
     },
     {
+      "title": "Laravel Report Url",
+      "package": "jeffersongoncalves/laravel-report-url"
+    },
+    {
       "title": "Laravel Github Readme",
       "package": "jeffersongoncalves/laravel-github-readme"
     },
