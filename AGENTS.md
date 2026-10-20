@@ -115,6 +115,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament Service Desk](https://github.com/jeffersongoncalves/filament-service-desk)
 - [Filament Short URL](https://github.com/jeffersongoncalves/filament-short-url)
 - [Filament Simple Analytics](https://github.com/jeffersongoncalves/filament-simple-analytics)
+- [Filament Skeleton](https://github.com/jeffersongoncalves/filament-skeleton)
 - [Filament Socialite](https://github.com/jeffersongoncalves/filament-socialite)
 - [Filament SSO Client](https://github.com/jeffersongoncalves/filament-sso-client)
 - [Filament SSO Server](https://github.com/jeffersongoncalves/filament-sso-server)
