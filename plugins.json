@@ -387,6 +387,13 @@
         "v5": true
       },
       {
+        "title": "Filament ZapSign",
+        "package": "jeffersongoncalves/filament-zapsign",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Skeleton",
         "package": "jeffersongoncalves/filament-skeleton",
         "v3": true,
@@ -882,6 +889,10 @@
     {
       "title": "Laravel Autentique",
       "package": "jeffersongoncalves/laravel-autentique"
+    },
+    {
+      "title": "Laravel ZapSign",
+      "package": "jeffersongoncalves/laravel-zapsign"
     },
     {
       "title": "Laravel Translation Manager",
