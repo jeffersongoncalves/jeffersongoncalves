@@ -380,6 +380,13 @@
         "v5": true
       },
       {
+        "title": "Filament Autentique",
+        "package": "jeffersongoncalves/filament-autentique",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Skeleton",
         "package": "jeffersongoncalves/filament-skeleton",
         "v3": true,
