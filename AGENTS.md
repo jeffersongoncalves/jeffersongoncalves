@@ -132,6 +132,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament WhatsApp Widget](https://github.com/jeffersongoncalves/filament-whatsapp-widget)
 - [Filament Widget Configuration](https://github.com/jeffersongoncalves/filament-widget-configuration)
 - [Filament YAML Editor](https://github.com/jeffersongoncalves/filament-yaml-editor)
+- [Filament ZapSign](https://github.com/jeffersongoncalves/filament-zapsign)
 
 ## Filament Plugins (collaborator)
 
@@ -286,6 +287,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel WooCommerce](https://github.com/jeffersongoncalves/laravel-woocommerce)
 - [Laravel WordPress](https://github.com/jeffersongoncalves/laravel-wordpress)
 - [Laravel Zapier](https://github.com/jeffersongoncalves/laravel-zapier)
+- [Laravel ZapSign](https://github.com/jeffersongoncalves/laravel-zapsign)
 - [Pest Plugin Database Migrations](https://github.com/jeffersongoncalves/pest-plugin-database-migrations)
 - [Pest Plugin MySQL Compat](https://github.com/jeffersongoncalves/pest-plugin-mysql-compat)
 
