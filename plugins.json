@@ -873,6 +873,10 @@
       "package": "jeffersongoncalves/laravel-telegram-logger"
     },
     {
+      "title": "Laravel Autentique",
+      "package": "jeffersongoncalves/laravel-autentique"
+    },
+    {
       "title": "Laravel Translation Manager",
       "package": "jeffersongoncalves/laravel-translation-manager"
     },
