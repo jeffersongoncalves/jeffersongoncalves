@@ -1194,6 +1194,10 @@
       "package": "jeffersongoncalves/laravel-session-management"
     },
     {
+      "title": "Laravel Auto Translate",
+      "package": "jeffersongoncalves/laravel-auto-translate"
+    },
+    {
       "title": "Laravel Newsletter",
       "package": "jeffersongoncalves/laravel-newsletter"
     },
