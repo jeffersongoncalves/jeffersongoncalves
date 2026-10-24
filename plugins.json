@@ -142,6 +142,13 @@
         "v5": true
       },
       {
+        "title": "Filament Session Management",
+        "package": "jeffersongoncalves/filament-session-management",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Analytics Core",
         "package": "jeffersongoncalves/filament-analytics-core",
         "v3": true,
@@ -1181,6 +1188,10 @@
     {
       "title": "Laravel Queue Management",
       "package": "jeffersongoncalves/laravel-queue-management"
+    },
+    {
+      "title": "Laravel Session Management",
+      "package": "jeffersongoncalves/laravel-session-management"
     },
     {
       "title": "Laravel Newsletter",
