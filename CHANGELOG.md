@@ -95,6 +95,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add laravel-auto-translate
 - Add laravel-session-management and filament-session-management
 - Add peek-cli
 - Add laravel-zapsign and filament-zapsign
@@ -319,6 +320,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
