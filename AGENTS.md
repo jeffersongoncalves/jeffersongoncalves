@@ -318,6 +318,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Zero CLI](https://github.com/jeffersongoncalves/laravel-zero-cli)
 - [Obsidian Notes CLI](https://github.com/jeffersongoncalves/obsidian-notes-cli)
 - [Packagist CLI](https://github.com/jeffersongoncalves/packagist-cli)
+- [Peek CLI](https://github.com/jeffersongoncalves/peek-cli)
 - [Plump CLI](https://github.com/jeffersongoncalves/plump-cli)
 - [Repos CLI](https://github.com/jeffersongoncalves/repos-cli)
 - [Screentest CLI](https://github.com/jeffersongoncalves/screentest-cli)
