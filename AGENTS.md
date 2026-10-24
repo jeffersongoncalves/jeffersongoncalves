@@ -155,6 +155,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Amplitude](https://github.com/jeffersongoncalves/laravel-amplitude)
 - [Laravel Apollo](https://github.com/jeffersongoncalves/laravel-apollo)
 - [Laravel Autentique](https://github.com/jeffersongoncalves/laravel-autentique)
+- [Laravel Auto Translate](https://github.com/jeffersongoncalves/laravel-auto-translate)
 - [Laravel Beehiiv](https://github.com/jeffersongoncalves/laravel-beehiiv)
 - [Laravel Benefit](https://github.com/jeffersongoncalves/laravel-benefit)
 - [Laravel Brazil Holidays](https://github.com/jeffersongoncalves/laravel-brazil-holidays)
