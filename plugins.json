@@ -1471,6 +1471,10 @@
       "package": "jeffersongoncalves/db-cli"
     },
     {
+      "title": "Peek CLI",
+      "package": "jeffersongoncalves/peek-cli"
+    },
+    {
       "title": "Plump CLI",
       "package": "jeffersongoncalves/plump-cli"
     },
