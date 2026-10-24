@@ -95,6 +95,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add peek-cli
 - Add laravel-zapsign and filament-zapsign
 - Add filament-autentique
 - Add laravel-autentique
@@ -317,6 +318,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
