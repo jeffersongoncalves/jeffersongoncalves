@@ -1382,6 +1382,10 @@
       "package": "jeffersongoncalves/pest-plugin-database-migrations"
     },
     {
+      "title": "Livewire Logs",
+      "package": "jeffersongoncalves/livewire-logs"
+    },
+    {
       "title": "Laravel Scanner Guard",
       "package": "jeffersongoncalves/laravel-scanner-guard"
     },
