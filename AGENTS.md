@@ -291,6 +291,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel WordPress](https://github.com/jeffersongoncalves/laravel-wordpress)
 - [Laravel Zapier](https://github.com/jeffersongoncalves/laravel-zapier)
 - [Laravel ZapSign](https://github.com/jeffersongoncalves/laravel-zapsign)
+- [Livewire Horizon](https://github.com/jeffersongoncalves/livewire-horizon)
 - [Livewire Logs](https://github.com/jeffersongoncalves/livewire-logs)
 - [Pest Plugin Database Migrations](https://github.com/jeffersongoncalves/pest-plugin-database-migrations)
 - [Pest Plugin MySQL Compat](https://github.com/jeffersongoncalves/pest-plugin-mysql-compat)
