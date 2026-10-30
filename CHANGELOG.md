@@ -320,6 +320,8 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Add Livewire Horizon
+- Update README with latest starter kits from template
 - Add Livewire Logs
 - Auto-assign issues and pull requests
 - Update README with latest starter kits from template
