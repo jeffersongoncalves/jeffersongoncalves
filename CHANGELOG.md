@@ -320,6 +320,8 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Add KV CLI
+- Update README with latest starter kits from template
 - Add Livewire Horizon
 - Update README with latest starter kits from template
 - Add Livewire Logs
