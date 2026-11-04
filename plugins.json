@@ -1528,6 +1528,10 @@
     {
       "title": "Context7 CLI",
       "package": "jeffersongoncalves/context7-cli"
+    },
+    {
+      "title": "KV CLI",
+      "package": "jeffersongoncalves/kv-cli"
     }
   ],
   "cliPython": [
