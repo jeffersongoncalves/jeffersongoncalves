@@ -170,6 +170,13 @@
         "v5": true
       },
       {
+        "title": "Filament Centrifugo",
+        "package": "jeffersongoncalves/filament-centrifugo",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Additional Information",
         "package": "jeffersongoncalves/filament-additional-information",
         "v3": true,
@@ -932,6 +939,10 @@
     {
       "title": "Laravel Favicon Proxy",
       "package": "jeffersongoncalves/laravel-favicon-proxy"
+    },
+    {
+      "title": "Laravel Centrifugo",
+      "package": "jeffersongoncalves/laravel-centrifugo"
     },
     {
       "title": "Laravel Locale Cookie",
