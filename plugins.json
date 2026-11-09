@@ -965,6 +965,10 @@
       "package": "jeffersongoncalves/laravel-markdown"
     },
     {
+      "title": "Laravel Markdown for Agents",
+      "package": "jeffersongoncalves/laravel-markdown-for-agents"
+    },
+    {
       "title": "Laravel Page Cache",
       "package": "jeffersongoncalves/laravel-page-cache"
     },
