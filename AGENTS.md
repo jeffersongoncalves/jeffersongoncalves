@@ -216,6 +216,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Mail Editor](https://github.com/jeffersongoncalves/laravel-mail-editor)
 - [Laravel Mailchimp](https://github.com/jeffersongoncalves/laravel-mailchimp)
 - [Laravel Markdown](https://github.com/jeffersongoncalves/laravel-markdown)
+- [Laravel Markdown for Agents](https://github.com/jeffersongoncalves/laravel-markdown-for-agents)
 - [Laravel Matomo](https://github.com/jeffersongoncalves/laravel-matomo)
 - [Laravel Mention Me](https://github.com/jeffersongoncalves/laravel-mention-me)
 - [Laravel Meta Ads](https://github.com/jeffersongoncalves/laravel-meta-ads)
