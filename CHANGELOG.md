@@ -95,6 +95,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add Laravel Markdown for Agents
 - Add laravel-centrifugo and filament-centrifugo
 - Add laravel-auto-translate
 - Add laravel-session-management and filament-session-management
@@ -321,6 +322,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Add KV CLI
 - Update README with latest starter kits from template
