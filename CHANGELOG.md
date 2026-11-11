@@ -322,6 +322,8 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README_plugin.md
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Add KV CLI
