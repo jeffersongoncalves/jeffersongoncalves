@@ -55,6 +55,7 @@ All notable changes to this project will be documented in this file.
 
 ### CI/CD
 
+- Auto-merge dependabot github-actions minor/patch (#38)
 - Weekly audit flags PHP repos without tests (repos-cli 1.6.0)
 - Leave the private tooling repos out of the weekly audit
 - **audit:** Check release immutability and social previews
@@ -322,6 +323,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README_plugin.md
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
