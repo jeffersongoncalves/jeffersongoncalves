@@ -210,6 +210,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Lemlist](https://github.com/jeffersongoncalves/laravel-lemlist)
 - [Laravel LGPD](https://github.com/jeffersongoncalves/laravel-lgpd)
 - [Laravel LGPD Consent](https://github.com/jeffersongoncalves/laravel-lgpd-consent)
+- [Laravel LGPD DSAR](https://github.com/jeffersongoncalves/laravel-lgpd-dsar)
 - [Laravel LinkedIn Ads](https://github.com/jeffersongoncalves/laravel-linkedin-ads)
 - [Laravel Livestorm](https://github.com/jeffersongoncalves/laravel-livestorm)
 - [Laravel Livewire Wizard](https://github.com/jeffersongoncalves/laravel-livewire-wizard)
