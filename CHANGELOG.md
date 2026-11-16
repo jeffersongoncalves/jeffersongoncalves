@@ -97,6 +97,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add laravel-lgpd-retention
 - Add laravel-lgpd-dsar
 - Add laravel-lgpd-consent
 - Add laravel-lgpd
