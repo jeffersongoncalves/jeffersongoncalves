@@ -96,6 +96,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add laravel-lgpd
 - Add Laravel Markdown for Agents
 - Add laravel-centrifugo and filament-centrifugo
 - Add laravel-auto-translate
