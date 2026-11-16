@@ -208,6 +208,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Klaviyo](https://github.com/jeffersongoncalves/laravel-klaviyo)
 - [Laravel Knowledge Base](https://github.com/jeffersongoncalves/laravel-knowledge-base)
 - [Laravel Lemlist](https://github.com/jeffersongoncalves/laravel-lemlist)
+- [Laravel LGPD](https://github.com/jeffersongoncalves/laravel-lgpd)
 - [Laravel LinkedIn Ads](https://github.com/jeffersongoncalves/laravel-linkedin-ads)
 - [Laravel Livestorm](https://github.com/jeffersongoncalves/laravel-livestorm)
 - [Laravel Livewire Wizard](https://github.com/jeffersongoncalves/laravel-livewire-wizard)
