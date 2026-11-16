@@ -170,6 +170,13 @@
         "v5": true
       },
       {
+        "title": "Filament LGPD Retention",
+        "package": "jeffersongoncalves/filament-lgpd-retention",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Analytics Core",
         "package": "jeffersongoncalves/filament-analytics-core",
         "v3": true,
