@@ -96,6 +96,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add laravel-lgpd-dsar
 - Add laravel-lgpd-consent
 - Add laravel-lgpd
 - Add Laravel Markdown for Agents
@@ -325,6 +326,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README_plugin.md
