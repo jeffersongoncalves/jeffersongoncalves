@@ -97,6 +97,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add Filament LGPD Audit Log, Incidents and Records
 - Add Laravel LGPD Audit Log, Incidents and Records
 - Add Filament LGPD Retention
 - Add Filament LGPD Consent
@@ -333,6 +334,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
