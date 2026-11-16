@@ -32,7 +32,7 @@ My passion lives in the **open source** world — I actively maintain **100+ Fil
 - 🛠️ Creator of the **Filakit** ecosystem — starter kits for Filament v3, v4 & v5
 - 🌍 Active contributor to the **Filament** and **Laravel** communities
 - 💬 Ask me about **Filament, Laravel, Livewire, API integrations**
-- ⚡ Fun fact: I've published **340+ repositories** and still counting
+- ⚡ Fun fact: I've published **350+ repositories** and still counting
 
 ---
 
@@ -155,8 +155,11 @@ Plugins I created and maintain for the **Filament** ecosystem.
 | [**Filament Keyable**](https://github.com/jeffersongoncalves/filament-keyable) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-keyable.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-keyable?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Knowledge Base**](https://github.com/jeffersongoncalves/filament-knowledge-base) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-knowledge-base.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-knowledge-base?style=flat-square) | v3 · v4 · v5 |
 | [**Filament LGPD**](https://github.com/jeffersongoncalves/filament-lgpd) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-lgpd.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-lgpd?style=flat-square) | v3 · v4 · v5 |
+| [**Filament LGPD Audit Log**](https://github.com/jeffersongoncalves/filament-lgpd-audit-log) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-lgpd-audit-log.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-lgpd-audit-log?style=flat-square) | v3 · v4 · v5 |
 | [**Filament LGPD Consent**](https://github.com/jeffersongoncalves/filament-lgpd-consent) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-lgpd-consent.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-lgpd-consent?style=flat-square) | v3 · v4 · v5 |
 | [**Filament LGPD DSAR**](https://github.com/jeffersongoncalves/filament-lgpd-dsar) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-lgpd-dsar.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-lgpd-dsar?style=flat-square) | v3 · v4 · v5 |
+| [**Filament LGPD Incidents**](https://github.com/jeffersongoncalves/filament-lgpd-incidents) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-lgpd-incidents.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-lgpd-incidents?style=flat-square) | v3 · v4 · v5 |
+| [**Filament LGPD Records**](https://github.com/jeffersongoncalves/filament-lgpd-records) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-lgpd-records.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-lgpd-records?style=flat-square) | v3 · v4 · v5 |
 | [**Filament LGPD Retention**](https://github.com/jeffersongoncalves/filament-lgpd-retention) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-lgpd-retention.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-lgpd-retention?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Logo**](https://github.com/jeffersongoncalves/filament-logo) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-logo.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-logo?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Mail**](https://github.com/jeffersongoncalves/filament-mail) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-mail.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-mail?style=flat-square) | v3 · v4 · v5 |
