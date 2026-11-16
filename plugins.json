@@ -156,6 +156,13 @@
         "v5": true
       },
       {
+        "title": "Filament LGPD Consent",
+        "package": "jeffersongoncalves/filament-lgpd-consent",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament LGPD DSAR",
         "package": "jeffersongoncalves/filament-lgpd-dsar",
         "v3": true,
