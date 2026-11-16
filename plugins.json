@@ -1253,6 +1253,18 @@
       "package": "jeffersongoncalves/laravel-lgpd-retention"
     },
     {
+      "title": "Laravel LGPD Audit Log",
+      "package": "jeffersongoncalves/laravel-lgpd-audit-log"
+    },
+    {
+      "title": "Laravel LGPD Incidents",
+      "package": "jeffersongoncalves/laravel-lgpd-incidents"
+    },
+    {
+      "title": "Laravel LGPD Records",
+      "package": "jeffersongoncalves/laravel-lgpd-records"
+    },
+    {
       "title": "Laravel Auto Translate",
       "package": "jeffersongoncalves/laravel-auto-translate"
     },
