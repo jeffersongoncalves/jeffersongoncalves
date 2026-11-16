@@ -80,6 +80,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament Kanban](https://github.com/jeffersongoncalves/filament-kanban)
 - [Filament Keyable](https://github.com/jeffersongoncalves/filament-keyable)
 - [Filament Knowledge Base](https://github.com/jeffersongoncalves/filament-knowledge-base)
+- [Filament LGPD DSAR](https://github.com/jeffersongoncalves/filament-lgpd-dsar)
 - [Filament Logo](https://github.com/jeffersongoncalves/filament-logo)
 - [Filament Mail](https://github.com/jeffersongoncalves/filament-mail)
 - [Filament Mail Editor](https://github.com/jeffersongoncalves/filament-mail-editor)
