@@ -1213,6 +1213,10 @@
       "package": "jeffersongoncalves/laravel-lgpd"
     },
     {
+      "title": "Laravel LGPD Consent",
+      "package": "jeffersongoncalves/laravel-lgpd-consent"
+    },
+    {
       "title": "Laravel Auto Translate",
       "package": "jeffersongoncalves/laravel-auto-translate"
     },
