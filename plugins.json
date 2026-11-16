@@ -149,6 +149,13 @@
         "v5": true
       },
       {
+        "title": "Filament LGPD DSAR",
+        "package": "jeffersongoncalves/filament-lgpd-dsar",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament Analytics Core",
         "package": "jeffersongoncalves/filament-analytics-core",
         "v3": true,
