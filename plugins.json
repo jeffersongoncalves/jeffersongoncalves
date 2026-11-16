@@ -1209,6 +1209,10 @@
       "package": "jeffersongoncalves/laravel-session-management"
     },
     {
+      "title": "Laravel LGPD",
+      "package": "jeffersongoncalves/laravel-lgpd"
+    },
+    {
       "title": "Laravel Auto Translate",
       "package": "jeffersongoncalves/laravel-auto-translate"
     },
