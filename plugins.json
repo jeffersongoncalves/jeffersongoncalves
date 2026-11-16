@@ -1217,6 +1217,10 @@
       "package": "jeffersongoncalves/laravel-lgpd-consent"
     },
     {
+      "title": "Laravel LGPD DSAR",
+      "package": "jeffersongoncalves/laravel-lgpd-dsar"
+    },
+    {
       "title": "Laravel Auto Translate",
       "package": "jeffersongoncalves/laravel-auto-translate"
     },
