@@ -1221,6 +1221,10 @@
       "package": "jeffersongoncalves/laravel-lgpd-dsar"
     },
     {
+      "title": "Laravel LGPD Retention",
+      "package": "jeffersongoncalves/laravel-lgpd-retention"
+    },
+    {
       "title": "Laravel Auto Translate",
       "package": "jeffersongoncalves/laravel-auto-translate"
     },
