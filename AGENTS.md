@@ -87,6 +87,8 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Filament LGPD Incidents](https://github.com/jeffersongoncalves/filament-lgpd-incidents)
 - [Filament LGPD Records](https://github.com/jeffersongoncalves/filament-lgpd-records)
 - [Filament LGPD Retention](https://github.com/jeffersongoncalves/filament-lgpd-retention)
+- [Filament LGPD RIPD](https://github.com/jeffersongoncalves/filament-lgpd-ripd)
+- [Filament LGPD Vendors](https://github.com/jeffersongoncalves/filament-lgpd-vendors)
 - [Filament Logo](https://github.com/jeffersongoncalves/filament-logo)
 - [Filament Mail](https://github.com/jeffersongoncalves/filament-mail)
 - [Filament Mail Editor](https://github.com/jeffersongoncalves/filament-mail-editor)
