@@ -1286,6 +1286,14 @@
       "package": "jeffersongoncalves/laravel-lgpd-records"
     },
     {
+      "title": "Laravel LGPD Vendors",
+      "package": "jeffersongoncalves/laravel-lgpd-vendors"
+    },
+    {
+      "title": "Laravel LGPD RIPD",
+      "package": "jeffersongoncalves/laravel-lgpd-ripd"
+    },
+    {
       "title": "Laravel Auto Translate",
       "package": "jeffersongoncalves/laravel-auto-translate"
     },
