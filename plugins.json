@@ -205,6 +205,13 @@
         "v5": true
       },
       {
+        "title": "Filament LGPD Takedown",
+        "package": "jeffersongoncalves/filament-lgpd-takedown",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament LGPD Vendors",
         "package": "jeffersongoncalves/filament-lgpd-vendors",
         "v3": true,
@@ -1317,6 +1324,10 @@
     {
       "title": "Laravel LGPD Minors",
       "package": "jeffersongoncalves/laravel-lgpd-minors"
+    },
+    {
+      "title": "Laravel LGPD Takedown",
+      "package": "jeffersongoncalves/laravel-lgpd-takedown"
     },
     {
       "title": "Laravel Auto Translate",
