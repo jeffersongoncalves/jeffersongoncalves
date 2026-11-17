@@ -336,6 +336,8 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Split Privacy README group into LGPD, GDPR and CCPA
+- Update README with latest starter kits from template
 - Add the CCPA suite (10 Laravel packages, 10 Filament plugins)
 - Update README with latest starter kits from template
 - Add the laravel-gdpr and filament-gdpr suites
