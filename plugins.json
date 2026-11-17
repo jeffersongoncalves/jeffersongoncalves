@@ -958,6 +958,86 @@
         "v3": true,
         "v4": true,
         "v5": true
+      },
+      {
+        "title": "Filament GDPR",
+        "package": "jeffersongoncalves/filament-gdpr",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament GDPR Consent",
+        "package": "jeffersongoncalves/filament-gdpr-consent",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament GDPR DSAR",
+        "package": "jeffersongoncalves/filament-gdpr-dsar",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament GDPR Retention",
+        "package": "jeffersongoncalves/filament-gdpr-retention",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament GDPR Audit Log",
+        "package": "jeffersongoncalves/filament-gdpr-audit-log",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament GDPR Breaches",
+        "package": "jeffersongoncalves/filament-gdpr-breaches",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament GDPR Records",
+        "package": "jeffersongoncalves/filament-gdpr-records",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament GDPR Vendors",
+        "package": "jeffersongoncalves/filament-gdpr-vendors",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament GDPR DPIA",
+        "package": "jeffersongoncalves/filament-gdpr-dpia",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament GDPR Children",
+        "package": "jeffersongoncalves/filament-gdpr-children",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
       }
     ],
     "collaborator": [
@@ -1817,6 +1897,56 @@
       "title": "Laravel Tawk.to",
       "package": "jeffersongoncalves/laravel-tawk-to",
       "category": "support"
+    },
+    {
+      "title": "Laravel GDPR",
+      "package": "jeffersongoncalves/laravel-gdpr",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel GDPR Consent",
+      "package": "jeffersongoncalves/laravel-gdpr-consent",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel GDPR DSAR",
+      "package": "jeffersongoncalves/laravel-gdpr-dsar",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel GDPR Retention",
+      "package": "jeffersongoncalves/laravel-gdpr-retention",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel GDPR Audit Log",
+      "package": "jeffersongoncalves/laravel-gdpr-audit-log",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel GDPR Breaches",
+      "package": "jeffersongoncalves/laravel-gdpr-breaches",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel GDPR Records",
+      "package": "jeffersongoncalves/laravel-gdpr-records",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel GDPR Vendors",
+      "package": "jeffersongoncalves/laravel-gdpr-vendors",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel GDPR DPIA",
+      "package": "jeffersongoncalves/laravel-gdpr-dpia",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel GDPR Children",
+      "package": "jeffersongoncalves/laravel-gdpr-children",
+      "category": "privacy"
     }
   ],
   "laravelZero": [
