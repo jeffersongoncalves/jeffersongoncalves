@@ -336,6 +336,8 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Add the CCPA suite (10 Laravel packages, 10 Filament plugins)
+- Update README with latest starter kits from template
 - Add the laravel-gdpr and filament-gdpr suites
 - Group Laravel and Filament sections by category
 - Update README with latest starter kits from template
