@@ -97,6 +97,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add filament-lgpd-vendors and filament-lgpd-ripd
 - Add laravel-lgpd-vendors and laravel-lgpd-ripd
 - Add Filament LGPD Audit Log, Incidents and Records
 - Add Laravel LGPD Audit Log, Incidents and Records
@@ -335,6 +336,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
