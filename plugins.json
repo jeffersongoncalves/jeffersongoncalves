@@ -1038,6 +1038,86 @@
         "v4": true,
         "v5": true,
         "category": "privacy"
+      },
+      {
+        "title": "Filament CCPA",
+        "package": "jeffersongoncalves/filament-ccpa",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament CCPA Opt-Out",
+        "package": "jeffersongoncalves/filament-ccpa-opt-out",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament CCPA Requests",
+        "package": "jeffersongoncalves/filament-ccpa-requests",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament CCPA Retention",
+        "package": "jeffersongoncalves/filament-ccpa-retention",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament CCPA Audit Log",
+        "package": "jeffersongoncalves/filament-ccpa-audit-log",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament CCPA Breaches",
+        "package": "jeffersongoncalves/filament-ccpa-breaches",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament CCPA Notices",
+        "package": "jeffersongoncalves/filament-ccpa-notices",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament CCPA Vendors",
+        "package": "jeffersongoncalves/filament-ccpa-vendors",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament CCPA Risk Assessments",
+        "package": "jeffersongoncalves/filament-ccpa-risk-assessments",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
+      },
+      {
+        "title": "Filament CCPA Minors",
+        "package": "jeffersongoncalves/filament-ccpa-minors",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "privacy"
       }
     ],
     "collaborator": [
@@ -1946,6 +2026,56 @@
     {
       "title": "Laravel GDPR Children",
       "package": "jeffersongoncalves/laravel-gdpr-children",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel CCPA",
+      "package": "jeffersongoncalves/laravel-ccpa",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel CCPA Opt-Out",
+      "package": "jeffersongoncalves/laravel-ccpa-opt-out",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel CCPA Requests",
+      "package": "jeffersongoncalves/laravel-ccpa-requests",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel CCPA Retention",
+      "package": "jeffersongoncalves/laravel-ccpa-retention",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel CCPA Audit Log",
+      "package": "jeffersongoncalves/laravel-ccpa-audit-log",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel CCPA Breaches",
+      "package": "jeffersongoncalves/laravel-ccpa-breaches",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel CCPA Notices",
+      "package": "jeffersongoncalves/laravel-ccpa-notices",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel CCPA Vendors",
+      "package": "jeffersongoncalves/laravel-ccpa-vendors",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel CCPA Risk Assessments",
+      "package": "jeffersongoncalves/laravel-ccpa-risk-assessments",
+      "category": "privacy"
+    },
+    {
+      "title": "Laravel CCPA Minors",
+      "package": "jeffersongoncalves/laravel-ccpa-minors",
       "category": "privacy"
     }
   ],
