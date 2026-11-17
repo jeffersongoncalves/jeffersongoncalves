@@ -191,6 +191,20 @@
         "v5": true
       },
       {
+        "title": "Filament LGPD RIPD",
+        "package": "jeffersongoncalves/filament-lgpd-ripd",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
+        "title": "Filament LGPD Vendors",
+        "package": "jeffersongoncalves/filament-lgpd-vendors",
+        "v3": true,
+        "v4": true,
+        "v5": true
+      },
+      {
         "title": "Filament LGPD Retention",
         "package": "jeffersongoncalves/filament-lgpd-retention",
         "v3": true,
