@@ -26,13 +26,13 @@
 
 I'm a **Full Stack PHP Developer** from **Assis, SP, Brazil** with over **19 years** of hands-on experience building robust platforms, managing server infrastructures, and crafting scalable solutions for businesses of all sizes.
 
-My passion lives in the **open source** world — I actively maintain **110+ Filament plugins** and **160+ Laravel packages** used by thousands of developers worldwide. I believe great software should be accessible to everyone.
+My passion lives in the **open source** world — I actively maintain **120+ Filament plugins** and **170+ Laravel packages** used by thousands of developers worldwide. I believe great software should be accessible to everyone.
 
 - 🔭 Currently focused on the **TALL Stack** (Tailwind, Alpine.js, Livewire, Laravel)
 - 🛠️ Creator of the **Filakit** ecosystem — starter kits for Filament v3, v4 & v5
 - 🌍 Active contributor to the **Filament** and **Laravel** communities
 - 💬 Ask me about **Filament, Laravel, Livewire, API integrations**
-- ⚡ Fun fact: I've published **350+ repositories** and still counting
+- ⚡ Fun fact: I've published **370+ repositories** and still counting
 
 ---
 
@@ -156,11 +156,21 @@ Plugins I created and maintain for the **Filament** ecosystem, grouped by catego
 </details>
 
 <details>
-<summary><b>🛡️ Privacy & LGPD</b> (12)</summary>
+<summary><b>🛡️ Privacy & LGPD</b> (22)</summary>
 
 | Plugin | Downloads | Stars | Compatibility |
 |:-------|:---------:|:-----:|:-------------:|
 | [**Filament Cookie Consent**](https://github.com/jeffersongoncalves/filament-cookie-consent) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-cookie-consent.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-cookie-consent?style=flat-square) | v3 · v4 · v5 |
+| [**Filament GDPR**](https://github.com/jeffersongoncalves/filament-gdpr) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gdpr.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gdpr?style=flat-square) | v3 · v4 · v5 |
+| [**Filament GDPR Audit Log**](https://github.com/jeffersongoncalves/filament-gdpr-audit-log) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gdpr-audit-log.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gdpr-audit-log?style=flat-square) | v3 · v4 · v5 |
+| [**Filament GDPR Breaches**](https://github.com/jeffersongoncalves/filament-gdpr-breaches) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gdpr-breaches.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gdpr-breaches?style=flat-square) | v3 · v4 · v5 |
+| [**Filament GDPR Children**](https://github.com/jeffersongoncalves/filament-gdpr-children) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gdpr-children.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gdpr-children?style=flat-square) | v3 · v4 · v5 |
+| [**Filament GDPR Consent**](https://github.com/jeffersongoncalves/filament-gdpr-consent) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gdpr-consent.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gdpr-consent?style=flat-square) | v3 · v4 · v5 |
+| [**Filament GDPR DPIA**](https://github.com/jeffersongoncalves/filament-gdpr-dpia) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gdpr-dpia.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gdpr-dpia?style=flat-square) | v3 · v4 · v5 |
+| [**Filament GDPR DSAR**](https://github.com/jeffersongoncalves/filament-gdpr-dsar) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gdpr-dsar.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gdpr-dsar?style=flat-square) | v3 · v4 · v5 |
+| [**Filament GDPR Records**](https://github.com/jeffersongoncalves/filament-gdpr-records) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gdpr-records.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gdpr-records?style=flat-square) | v3 · v4 · v5 |
+| [**Filament GDPR Retention**](https://github.com/jeffersongoncalves/filament-gdpr-retention) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gdpr-retention.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gdpr-retention?style=flat-square) | v3 · v4 · v5 |
+| [**Filament GDPR Vendors**](https://github.com/jeffersongoncalves/filament-gdpr-vendors) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gdpr-vendors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gdpr-vendors?style=flat-square) | v3 · v4 · v5 |
 | [**Filament LGPD**](https://github.com/jeffersongoncalves/filament-lgpd) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-lgpd.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-lgpd?style=flat-square) | v3 · v4 · v5 |
 | [**Filament LGPD Audit Log**](https://github.com/jeffersongoncalves/filament-lgpd-audit-log) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-lgpd-audit-log.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-lgpd-audit-log?style=flat-square) | v3 · v4 · v5 |
 | [**Filament LGPD Consent**](https://github.com/jeffersongoncalves/filament-lgpd-consent) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-lgpd-consent.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-lgpd-consent?style=flat-square) | v3 · v4 · v5 |
@@ -413,11 +423,21 @@ Reusable packages for the **Laravel** framework, built to solve problems I hit i
 </details>
 
 <details>
-<summary><b>🛡️ Privacy & LGPD</b> (12)</summary>
+<summary><b>🛡️ Privacy & LGPD</b> (22)</summary>
 
 | Package | Latest Version | Downloads | Stars |
 |:--------|:-------------:|:---------:|:-----:|
 | [**Laravel Cookie Consent**](https://github.com/jeffersongoncalves/laravel-cookie-consent) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-cookie-consent.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-cookie-consent.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-cookie-consent?style=flat-square) |
+| [**Laravel GDPR**](https://github.com/jeffersongoncalves/laravel-gdpr) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-gdpr.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-gdpr.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-gdpr?style=flat-square) |
+| [**Laravel GDPR Audit Log**](https://github.com/jeffersongoncalves/laravel-gdpr-audit-log) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-gdpr-audit-log.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-gdpr-audit-log.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-gdpr-audit-log?style=flat-square) |
+| [**Laravel GDPR Breaches**](https://github.com/jeffersongoncalves/laravel-gdpr-breaches) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-gdpr-breaches.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-gdpr-breaches.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-gdpr-breaches?style=flat-square) |
+| [**Laravel GDPR Children**](https://github.com/jeffersongoncalves/laravel-gdpr-children) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-gdpr-children.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-gdpr-children.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-gdpr-children?style=flat-square) |
+| [**Laravel GDPR Consent**](https://github.com/jeffersongoncalves/laravel-gdpr-consent) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-gdpr-consent.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-gdpr-consent.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-gdpr-consent?style=flat-square) |
+| [**Laravel GDPR DPIA**](https://github.com/jeffersongoncalves/laravel-gdpr-dpia) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-gdpr-dpia.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-gdpr-dpia.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-gdpr-dpia?style=flat-square) |
+| [**Laravel GDPR DSAR**](https://github.com/jeffersongoncalves/laravel-gdpr-dsar) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-gdpr-dsar.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-gdpr-dsar.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-gdpr-dsar?style=flat-square) |
+| [**Laravel GDPR Records**](https://github.com/jeffersongoncalves/laravel-gdpr-records) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-gdpr-records.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-gdpr-records.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-gdpr-records?style=flat-square) |
+| [**Laravel GDPR Retention**](https://github.com/jeffersongoncalves/laravel-gdpr-retention) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-gdpr-retention.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-gdpr-retention.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-gdpr-retention?style=flat-square) |
+| [**Laravel GDPR Vendors**](https://github.com/jeffersongoncalves/laravel-gdpr-vendors) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-gdpr-vendors.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-gdpr-vendors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-gdpr-vendors?style=flat-square) |
 | [**Laravel LGPD**](https://github.com/jeffersongoncalves/laravel-lgpd) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-lgpd.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-lgpd.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-lgpd?style=flat-square) |
 | [**Laravel LGPD Audit Log**](https://github.com/jeffersongoncalves/laravel-lgpd-audit-log) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-lgpd-audit-log.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-lgpd-audit-log.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-lgpd-audit-log?style=flat-square) |
 | [**Laravel LGPD Consent**](https://github.com/jeffersongoncalves/laravel-lgpd-consent) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-lgpd-consent.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-lgpd-consent.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-lgpd-consent?style=flat-square) |
