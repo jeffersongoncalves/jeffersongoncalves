@@ -336,6 +336,8 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Group Laravel and Filament sections by category
+- Update README with latest starter kits from template
 - Add laravel-lgpd-takedown and filament-lgpd-takedown
 - Update README with latest starter kits from template
 - Add laravel-lgpd-minors and filament-lgpd-minors
