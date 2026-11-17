@@ -154,7 +154,7 @@
       {
         "title": "Filament LGPD",
         "package": "jeffersongoncalves/filament-lgpd",
-        "category": "privacy",
+        "category": "lgpd",
         "v3": true,
         "v4": true,
         "v5": true
@@ -162,7 +162,7 @@
       {
         "title": "Filament LGPD Audit Log",
         "package": "jeffersongoncalves/filament-lgpd-audit-log",
-        "category": "privacy",
+        "category": "lgpd",
         "v3": true,
         "v4": true,
         "v5": true
@@ -170,7 +170,7 @@
       {
         "title": "Filament LGPD Consent",
         "package": "jeffersongoncalves/filament-lgpd-consent",
-        "category": "privacy",
+        "category": "lgpd",
         "v3": true,
         "v4": true,
         "v5": true
@@ -178,7 +178,7 @@
       {
         "title": "Filament LGPD DSAR",
         "package": "jeffersongoncalves/filament-lgpd-dsar",
-        "category": "privacy",
+        "category": "lgpd",
         "v3": true,
         "v4": true,
         "v5": true
@@ -186,7 +186,7 @@
       {
         "title": "Filament LGPD Incidents",
         "package": "jeffersongoncalves/filament-lgpd-incidents",
-        "category": "privacy",
+        "category": "lgpd",
         "v3": true,
         "v4": true,
         "v5": true
@@ -194,7 +194,7 @@
       {
         "title": "Filament LGPD Records",
         "package": "jeffersongoncalves/filament-lgpd-records",
-        "category": "privacy",
+        "category": "lgpd",
         "v3": true,
         "v4": true,
         "v5": true
@@ -202,7 +202,7 @@
       {
         "title": "Filament LGPD RIPD",
         "package": "jeffersongoncalves/filament-lgpd-ripd",
-        "category": "privacy",
+        "category": "lgpd",
         "v3": true,
         "v4": true,
         "v5": true
@@ -210,7 +210,7 @@
       {
         "title": "Filament LGPD Minors",
         "package": "jeffersongoncalves/filament-lgpd-minors",
-        "category": "privacy",
+        "category": "lgpd",
         "v3": true,
         "v4": true,
         "v5": true
@@ -218,7 +218,7 @@
       {
         "title": "Filament LGPD Takedown",
         "package": "jeffersongoncalves/filament-lgpd-takedown",
-        "category": "privacy",
+        "category": "lgpd",
         "v3": true,
         "v4": true,
         "v5": true
@@ -226,7 +226,7 @@
       {
         "title": "Filament LGPD Vendors",
         "package": "jeffersongoncalves/filament-lgpd-vendors",
-        "category": "privacy",
+        "category": "lgpd",
         "v3": true,
         "v4": true,
         "v5": true
@@ -234,7 +234,7 @@
       {
         "title": "Filament LGPD Retention",
         "package": "jeffersongoncalves/filament-lgpd-retention",
-        "category": "privacy",
+        "category": "lgpd",
         "v3": true,
         "v4": true,
         "v5": true
@@ -965,7 +965,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "gdpr"
       },
       {
         "title": "Filament GDPR Consent",
@@ -973,7 +973,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "gdpr"
       },
       {
         "title": "Filament GDPR DSAR",
@@ -981,7 +981,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "gdpr"
       },
       {
         "title": "Filament GDPR Retention",
@@ -989,7 +989,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "gdpr"
       },
       {
         "title": "Filament GDPR Audit Log",
@@ -997,7 +997,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "gdpr"
       },
       {
         "title": "Filament GDPR Breaches",
@@ -1005,7 +1005,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "gdpr"
       },
       {
         "title": "Filament GDPR Records",
@@ -1013,7 +1013,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "gdpr"
       },
       {
         "title": "Filament GDPR Vendors",
@@ -1021,7 +1021,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "gdpr"
       },
       {
         "title": "Filament GDPR DPIA",
@@ -1029,7 +1029,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "gdpr"
       },
       {
         "title": "Filament GDPR Children",
@@ -1037,7 +1037,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "gdpr"
       },
       {
         "title": "Filament CCPA",
@@ -1045,7 +1045,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "ccpa"
       },
       {
         "title": "Filament CCPA Opt-Out",
@@ -1053,7 +1053,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "ccpa"
       },
       {
         "title": "Filament CCPA Requests",
@@ -1061,7 +1061,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "ccpa"
       },
       {
         "title": "Filament CCPA Retention",
@@ -1069,7 +1069,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "ccpa"
       },
       {
         "title": "Filament CCPA Audit Log",
@@ -1077,7 +1077,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "ccpa"
       },
       {
         "title": "Filament CCPA Breaches",
@@ -1085,7 +1085,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "ccpa"
       },
       {
         "title": "Filament CCPA Notices",
@@ -1093,7 +1093,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "ccpa"
       },
       {
         "title": "Filament CCPA Vendors",
@@ -1101,7 +1101,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "ccpa"
       },
       {
         "title": "Filament CCPA Risk Assessments",
@@ -1109,7 +1109,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "ccpa"
       },
       {
         "title": "Filament CCPA Minors",
@@ -1117,7 +1117,7 @@
         "v3": true,
         "v4": true,
         "v5": true,
-        "category": "privacy"
+        "category": "ccpa"
       }
     ],
     "collaborator": [
@@ -1646,57 +1646,57 @@
     {
       "title": "Laravel LGPD",
       "package": "jeffersongoncalves/laravel-lgpd",
-      "category": "privacy"
+      "category": "lgpd"
     },
     {
       "title": "Laravel LGPD Consent",
       "package": "jeffersongoncalves/laravel-lgpd-consent",
-      "category": "privacy"
+      "category": "lgpd"
     },
     {
       "title": "Laravel LGPD DSAR",
       "package": "jeffersongoncalves/laravel-lgpd-dsar",
-      "category": "privacy"
+      "category": "lgpd"
     },
     {
       "title": "Laravel LGPD Retention",
       "package": "jeffersongoncalves/laravel-lgpd-retention",
-      "category": "privacy"
+      "category": "lgpd"
     },
     {
       "title": "Laravel LGPD Audit Log",
       "package": "jeffersongoncalves/laravel-lgpd-audit-log",
-      "category": "privacy"
+      "category": "lgpd"
     },
     {
       "title": "Laravel LGPD Incidents",
       "package": "jeffersongoncalves/laravel-lgpd-incidents",
-      "category": "privacy"
+      "category": "lgpd"
     },
     {
       "title": "Laravel LGPD Records",
       "package": "jeffersongoncalves/laravel-lgpd-records",
-      "category": "privacy"
+      "category": "lgpd"
     },
     {
       "title": "Laravel LGPD Vendors",
       "package": "jeffersongoncalves/laravel-lgpd-vendors",
-      "category": "privacy"
+      "category": "lgpd"
     },
     {
       "title": "Laravel LGPD RIPD",
       "package": "jeffersongoncalves/laravel-lgpd-ripd",
-      "category": "privacy"
+      "category": "lgpd"
     },
     {
       "title": "Laravel LGPD Minors",
       "package": "jeffersongoncalves/laravel-lgpd-minors",
-      "category": "privacy"
+      "category": "lgpd"
     },
     {
       "title": "Laravel LGPD Takedown",
       "package": "jeffersongoncalves/laravel-lgpd-takedown",
-      "category": "privacy"
+      "category": "lgpd"
     },
     {
       "title": "Laravel Auto Translate",
@@ -1981,102 +1981,102 @@
     {
       "title": "Laravel GDPR",
       "package": "jeffersongoncalves/laravel-gdpr",
-      "category": "privacy"
+      "category": "gdpr"
     },
     {
       "title": "Laravel GDPR Consent",
       "package": "jeffersongoncalves/laravel-gdpr-consent",
-      "category": "privacy"
+      "category": "gdpr"
     },
     {
       "title": "Laravel GDPR DSAR",
       "package": "jeffersongoncalves/laravel-gdpr-dsar",
-      "category": "privacy"
+      "category": "gdpr"
     },
     {
       "title": "Laravel GDPR Retention",
       "package": "jeffersongoncalves/laravel-gdpr-retention",
-      "category": "privacy"
+      "category": "gdpr"
     },
     {
       "title": "Laravel GDPR Audit Log",
       "package": "jeffersongoncalves/laravel-gdpr-audit-log",
-      "category": "privacy"
+      "category": "gdpr"
     },
     {
       "title": "Laravel GDPR Breaches",
       "package": "jeffersongoncalves/laravel-gdpr-breaches",
-      "category": "privacy"
+      "category": "gdpr"
     },
     {
       "title": "Laravel GDPR Records",
       "package": "jeffersongoncalves/laravel-gdpr-records",
-      "category": "privacy"
+      "category": "gdpr"
     },
     {
       "title": "Laravel GDPR Vendors",
       "package": "jeffersongoncalves/laravel-gdpr-vendors",
-      "category": "privacy"
+      "category": "gdpr"
     },
     {
       "title": "Laravel GDPR DPIA",
       "package": "jeffersongoncalves/laravel-gdpr-dpia",
-      "category": "privacy"
+      "category": "gdpr"
     },
     {
       "title": "Laravel GDPR Children",
       "package": "jeffersongoncalves/laravel-gdpr-children",
-      "category": "privacy"
+      "category": "gdpr"
     },
     {
       "title": "Laravel CCPA",
       "package": "jeffersongoncalves/laravel-ccpa",
-      "category": "privacy"
+      "category": "ccpa"
     },
     {
       "title": "Laravel CCPA Opt-Out",
       "package": "jeffersongoncalves/laravel-ccpa-opt-out",
-      "category": "privacy"
+      "category": "ccpa"
     },
     {
       "title": "Laravel CCPA Requests",
       "package": "jeffersongoncalves/laravel-ccpa-requests",
-      "category": "privacy"
+      "category": "ccpa"
     },
     {
       "title": "Laravel CCPA Retention",
       "package": "jeffersongoncalves/laravel-ccpa-retention",
-      "category": "privacy"
+      "category": "ccpa"
     },
     {
       "title": "Laravel CCPA Audit Log",
       "package": "jeffersongoncalves/laravel-ccpa-audit-log",
-      "category": "privacy"
+      "category": "ccpa"
     },
     {
       "title": "Laravel CCPA Breaches",
       "package": "jeffersongoncalves/laravel-ccpa-breaches",
-      "category": "privacy"
+      "category": "ccpa"
     },
     {
       "title": "Laravel CCPA Notices",
       "package": "jeffersongoncalves/laravel-ccpa-notices",
-      "category": "privacy"
+      "category": "ccpa"
     },
     {
       "title": "Laravel CCPA Vendors",
       "package": "jeffersongoncalves/laravel-ccpa-vendors",
-      "category": "privacy"
+      "category": "ccpa"
     },
     {
       "title": "Laravel CCPA Risk Assessments",
       "package": "jeffersongoncalves/laravel-ccpa-risk-assessments",
-      "category": "privacy"
+      "category": "ccpa"
     },
     {
       "title": "Laravel CCPA Minors",
       "package": "jeffersongoncalves/laravel-ccpa-minors",
-      "category": "privacy"
+      "category": "ccpa"
     }
   ],
   "laravelZero": [
