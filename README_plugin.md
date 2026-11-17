@@ -86,10 +86,8 @@ A complete ecosystem of ready-to-use starter kits built on **Filament + Laravel*
 
 ## 🔌 Filament Plugins
 
-Plugins I created and maintain for the **Filament** ecosystem.
+Plugins I created and maintain for the **Filament** ecosystem, grouped by category — click a group to expand it.
 
-| Plugin | Downloads | Stars | Compatibility |
-|:-------|:---------:|:-----:|:-------------:|
 [FILAMENT_PLUGINS]
 
 ### 🤝 Plugins Maintainer
@@ -104,10 +102,8 @@ Filament plugins I actively maintain as a **collaborator**.
 
 ## 📦 Laravel Packages
 
-Reusable packages for the **Laravel** framework, built to solve problems I hit in real projects.
+Reusable packages for the **Laravel** framework, built to solve problems I hit in real projects, grouped by category — click a group to expand it.
 
-| Package | Latest Version | Downloads | Stars |
-|:--------|:-------------:|:---------:|:-----:|
 [LARAVEL]
 
 ---

@@ -130,6 +130,7 @@
       {
         "title": "Filament Ban",
         "package": "jeffersongoncalves/filament-ban",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -137,6 +138,7 @@
       {
         "title": "Filament Queue Management",
         "package": "jeffersongoncalves/filament-queue-management",
+        "category": "infra",
         "v3": true,
         "v4": true,
         "v5": true
@@ -144,6 +146,7 @@
       {
         "title": "Filament Session Management",
         "package": "jeffersongoncalves/filament-session-management",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -151,6 +154,7 @@
       {
         "title": "Filament LGPD",
         "package": "jeffersongoncalves/filament-lgpd",
+        "category": "privacy",
         "v3": true,
         "v4": true,
         "v5": true
@@ -158,6 +162,7 @@
       {
         "title": "Filament LGPD Audit Log",
         "package": "jeffersongoncalves/filament-lgpd-audit-log",
+        "category": "privacy",
         "v3": true,
         "v4": true,
         "v5": true
@@ -165,6 +170,7 @@
       {
         "title": "Filament LGPD Consent",
         "package": "jeffersongoncalves/filament-lgpd-consent",
+        "category": "privacy",
         "v3": true,
         "v4": true,
         "v5": true
@@ -172,6 +178,7 @@
       {
         "title": "Filament LGPD DSAR",
         "package": "jeffersongoncalves/filament-lgpd-dsar",
+        "category": "privacy",
         "v3": true,
         "v4": true,
         "v5": true
@@ -179,6 +186,7 @@
       {
         "title": "Filament LGPD Incidents",
         "package": "jeffersongoncalves/filament-lgpd-incidents",
+        "category": "privacy",
         "v3": true,
         "v4": true,
         "v5": true
@@ -186,6 +194,7 @@
       {
         "title": "Filament LGPD Records",
         "package": "jeffersongoncalves/filament-lgpd-records",
+        "category": "privacy",
         "v3": true,
         "v4": true,
         "v5": true
@@ -193,6 +202,7 @@
       {
         "title": "Filament LGPD RIPD",
         "package": "jeffersongoncalves/filament-lgpd-ripd",
+        "category": "privacy",
         "v3": true,
         "v4": true,
         "v5": true
@@ -200,6 +210,7 @@
       {
         "title": "Filament LGPD Minors",
         "package": "jeffersongoncalves/filament-lgpd-minors",
+        "category": "privacy",
         "v3": true,
         "v4": true,
         "v5": true
@@ -207,6 +218,7 @@
       {
         "title": "Filament LGPD Takedown",
         "package": "jeffersongoncalves/filament-lgpd-takedown",
+        "category": "privacy",
         "v3": true,
         "v4": true,
         "v5": true
@@ -214,6 +226,7 @@
       {
         "title": "Filament LGPD Vendors",
         "package": "jeffersongoncalves/filament-lgpd-vendors",
+        "category": "privacy",
         "v3": true,
         "v4": true,
         "v5": true
@@ -221,6 +234,7 @@
       {
         "title": "Filament LGPD Retention",
         "package": "jeffersongoncalves/filament-lgpd-retention",
+        "category": "privacy",
         "v3": true,
         "v4": true,
         "v5": true
@@ -228,6 +242,7 @@
       {
         "title": "Filament Analytics Core",
         "package": "jeffersongoncalves/filament-analytics-core",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -235,6 +250,7 @@
       {
         "title": "Filament Plugin Core",
         "package": "jeffersongoncalves/filament-plugin-core",
+        "category": "devtools",
         "v3": true,
         "v4": true,
         "v5": true
@@ -242,6 +258,7 @@
       {
         "title": "Filament PWA",
         "package": "jeffersongoncalves/filament-pwa",
+        "category": "devtools",
         "v3": true,
         "v4": true,
         "v5": true
@@ -249,6 +266,7 @@
       {
         "title": "Filament Centrifugo",
         "package": "jeffersongoncalves/filament-centrifugo",
+        "category": "infra",
         "v3": true,
         "v4": true,
         "v5": true
@@ -256,6 +274,7 @@
       {
         "title": "Filament Additional Information",
         "package": "jeffersongoncalves/filament-additional-information",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -263,6 +282,7 @@
       {
         "title": "Filament Sensible Defaults",
         "package": "jeffersongoncalves/filament-sensible-defaults",
+        "category": "devtools",
         "v3": true,
         "v4": true,
         "v5": true
@@ -270,6 +290,7 @@
       {
         "title": "Filament Action Export",
         "package": "jeffersongoncalves/filament-action-export",
+        "category": "devtools",
         "v3": true,
         "v4": true,
         "v5": true
@@ -277,6 +298,7 @@
       {
         "title": "Filament Panel Theme Isolation",
         "package": "jeffersongoncalves/filament-panel-theme-isolation",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -284,6 +306,7 @@
       {
         "title": "Filament Translatable",
         "package": "jeffersongoncalves/filament-translatable",
+        "category": "content",
         "v3": true,
         "v4": true,
         "v5": true
@@ -291,6 +314,7 @@
       {
         "title": "Filament Ace Editor Field",
         "package": "jeffersongoncalves/filament-ace-editor-field",
+        "category": "ui",
         "v3": false,
         "v4": true,
         "v5": true
@@ -298,6 +322,7 @@
       {
         "title": "Filament CEP Field",
         "package": "jeffersongoncalves/filament-cep-field",
+        "category": "brazil",
         "v3": true,
         "v4": true,
         "v5": true
@@ -305,6 +330,7 @@
       {
         "title": "Filament Check Whois Widget",
         "package": "jeffersongoncalves/filament-check-whois-widget",
+        "category": "integrations",
         "v3": true,
         "v4": true,
         "v5": true
@@ -312,6 +338,7 @@
       {
         "title": "Filament CNPJ Field",
         "package": "jeffersongoncalves/filament-cnpj-field",
+        "category": "brazil",
         "v3": true,
         "v4": true,
         "v5": true
@@ -319,6 +346,7 @@
       {
         "title": "Filament Clarity",
         "package": "jeffersongoncalves/filament-clarity",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -326,6 +354,7 @@
       {
         "title": "Filament Cookie Consent",
         "package": "jeffersongoncalves/filament-cookie-consent",
+        "category": "privacy",
         "v3": true,
         "v4": true,
         "v5": true
@@ -333,6 +362,7 @@
       {
         "title": "Filament Documentation",
         "package": "jeffersongoncalves/filament-documentation",
+        "category": "content",
         "v3": true,
         "v4": true,
         "v5": true
@@ -340,6 +370,7 @@
       {
         "title": "Filament FAQ",
         "package": "jeffersongoncalves/filament-faq",
+        "category": "content",
         "v3": true,
         "v4": true,
         "v5": true
@@ -347,6 +378,7 @@
       {
         "title": "Filament Benefit",
         "package": "jeffersongoncalves/filament-benefit",
+        "category": "content",
         "v3": true,
         "v4": true,
         "v5": true
@@ -354,6 +386,7 @@
       {
         "title": "Filament Fathom",
         "package": "jeffersongoncalves/filament-fathom",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -361,6 +394,7 @@
       {
         "title": "Filament Flux",
         "package": "jeffersongoncalves/filament-flux",
+        "category": "ui",
         "v3": false,
         "v4": false,
         "v5": true
@@ -368,6 +402,7 @@
       {
         "title": "Filament Flux Pro",
         "package": "jeffersongoncalves/filament-flux-pro",
+        "category": "ui",
         "v3": false,
         "v4": false,
         "v5": true
@@ -375,6 +410,7 @@
       {
         "title": "Filament GTM",
         "package": "jeffersongoncalves/filament-gtm",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -382,6 +418,7 @@
       {
         "title": "Filament Gtag",
         "package": "jeffersongoncalves/filament-gtag",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -389,6 +426,7 @@
       {
         "title": "Filament Help Desk",
         "package": "jeffersongoncalves/filament-help-desk",
+        "category": "support",
         "v3": true,
         "v4": true,
         "v5": true
@@ -396,6 +434,7 @@
       {
         "title": "Filament Socialite",
         "package": "jeffersongoncalves/filament-socialite",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -403,6 +442,7 @@
       {
         "title": "Filament Hidden Action",
         "package": "jeffersongoncalves/filament-hidden-action",
+        "category": "ui",
         "v3": false,
         "v4": true,
         "v5": true
@@ -410,6 +450,7 @@
       {
         "title": "Filament Keyable",
         "package": "jeffersongoncalves/filament-keyable",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -417,6 +458,7 @@
       {
         "title": "Filament Knowledge Base",
         "package": "jeffersongoncalves/filament-knowledge-base",
+        "category": "support",
         "v3": true,
         "v4": true,
         "v5": true
@@ -424,6 +466,7 @@
       {
         "title": "Filament Mail",
         "package": "jeffersongoncalves/filament-mail",
+        "category": "marketing",
         "v3": true,
         "v4": true,
         "v5": true
@@ -431,6 +474,7 @@
       {
         "title": "Filament Logo",
         "package": "jeffersongoncalves/filament-logo",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -438,6 +482,7 @@
       {
         "title": "Filament Matomo",
         "package": "jeffersongoncalves/filament-matomo",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -445,6 +490,7 @@
       {
         "title": "Filament Metrics Fathom",
         "package": "jeffersongoncalves/filament-metrics-fathom",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -452,6 +498,7 @@
       {
         "title": "Filament Discord Logger",
         "package": "jeffersongoncalves/filament-discord-logger",
+        "category": "infra",
         "v3": true,
         "v4": true,
         "v5": true
@@ -459,6 +506,7 @@
       {
         "title": "Filament Translation Manager",
         "package": "jeffersongoncalves/filament-translation-manager",
+        "category": "content",
         "v3": true,
         "v4": true,
         "v5": true
@@ -466,6 +514,7 @@
       {
         "title": "Filament Saved Filter",
         "package": "jeffersongoncalves/filament-saved-filter",
+        "category": "devtools",
         "v3": true,
         "v4": true,
         "v5": true
@@ -473,6 +522,7 @@
       {
         "title": "Filament Autentique",
         "package": "jeffersongoncalves/filament-autentique",
+        "category": "brazil",
         "v3": true,
         "v4": true,
         "v5": true
@@ -480,6 +530,7 @@
       {
         "title": "Filament ZapSign",
         "package": "jeffersongoncalves/filament-zapsign",
+        "category": "brazil",
         "v3": true,
         "v4": true,
         "v5": true
@@ -487,6 +538,7 @@
       {
         "title": "Filament Skeleton",
         "package": "jeffersongoncalves/filament-skeleton",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -494,6 +546,7 @@
       {
         "title": "Filament Open Hours",
         "package": "jeffersongoncalves/filament-open-hours",
+        "category": "content",
         "v3": true,
         "v4": true,
         "v5": true
@@ -501,6 +554,7 @@
       {
         "title": "Filament Editorial Theme",
         "package": "jeffersongoncalves/filament-editorial-theme",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -508,6 +562,7 @@
       {
         "title": "Filament Metrics GA4",
         "package": "jeffersongoncalves/filament-metrics-ga4",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -515,6 +570,7 @@
       {
         "title": "Filament Metrics Matomo",
         "package": "jeffersongoncalves/filament-metrics-matomo",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -522,6 +578,7 @@
       {
         "title": "Filament Metrics Plausible",
         "package": "jeffersongoncalves/filament-metrics-plausible",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -529,6 +586,7 @@
       {
         "title": "Filament Metrics PostHog",
         "package": "jeffersongoncalves/filament-metrics-posthog",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -536,6 +594,7 @@
       {
         "title": "Filament Hotjar",
         "package": "jeffersongoncalves/filament-hotjar",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -543,6 +602,7 @@
       {
         "title": "Filament Amplitude",
         "package": "jeffersongoncalves/filament-amplitude",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -550,6 +610,7 @@
       {
         "title": "Filament Mixpanel",
         "package": "jeffersongoncalves/filament-mixpanel",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -557,6 +618,7 @@
       {
         "title": "Filament Multi-factor Passkeys",
         "package": "jeffersongoncalves/filament-multifactor-passkeys",
+        "category": "auth-security",
         "v3": false,
         "v4": true,
         "v5": true
@@ -564,6 +626,7 @@
       {
         "title": "Filament Multi-factor WhatsApp",
         "package": "jeffersongoncalves/filament-multifactor-whatsapp",
+        "category": "auth-security",
         "v3": false,
         "v4": true,
         "v5": true
@@ -571,6 +634,7 @@
       {
         "title": "Filament OIDC",
         "package": "jeffersongoncalves/filament-oidc",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -578,6 +642,7 @@
       {
         "title": "Filament SAML2",
         "package": "jeffersongoncalves/filament-saml2",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -585,6 +650,7 @@
       {
         "title": "Filament One Time Operations",
         "package": "jeffersongoncalves/filament-one-time-operations",
+        "category": "infra",
         "v3": true,
         "v4": true,
         "v5": true
@@ -592,6 +658,7 @@
       {
         "title": "Filament Pixel",
         "package": "jeffersongoncalves/filament-pixel",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -599,6 +666,7 @@
       {
         "title": "Filament Plausible",
         "package": "jeffersongoncalves/filament-plausible",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -606,6 +674,7 @@
       {
         "title": "Filament QrCode Field",
         "package": "jeffersongoncalves/filament-qrcode-field",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -613,6 +682,7 @@
       {
         "title": "Filament Refresh Sidebar",
         "package": "jeffersongoncalves/filament-refresh-sidebar",
+        "category": "ui",
         "v3": false,
         "v4": true,
         "v5": true
@@ -620,6 +690,7 @@
       {
         "title": "Filament Satis",
         "package": "jeffersongoncalves/filament-satis",
+        "category": "infra",
         "v3": true,
         "v4": true,
         "v5": true
@@ -627,6 +698,7 @@
       {
         "title": "Filament Scanner Guard",
         "package": "jeffersongoncalves/filament-scanner-guard",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -634,6 +706,7 @@
       {
         "title": "Filament Service Desk",
         "package": "jeffersongoncalves/filament-service-desk",
+        "category": "support",
         "v3": true,
         "v4": true,
         "v5": true
@@ -641,6 +714,7 @@
       {
         "title": "Filament Teams",
         "package": "jeffersongoncalves/filament-teams",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -648,6 +722,7 @@
       {
         "title": "Filament User",
         "package": "jeffersongoncalves/filament-user",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -655,6 +730,7 @@
       {
         "title": "Filament Admin",
         "package": "jeffersongoncalves/filament-admin",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -662,6 +738,7 @@
       {
         "title": "Filament Webhooks",
         "package": "jeffersongoncalves/filament-webhooks",
+        "category": "integrations",
         "v3": true,
         "v4": true,
         "v5": true
@@ -669,6 +746,7 @@
       {
         "title": "Filament Topbar",
         "package": "jeffersongoncalves/filament-topbar",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -676,6 +754,7 @@
       {
         "title": "Filament Umami",
         "package": "jeffersongoncalves/filament-umami",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -683,6 +762,7 @@
       {
         "title": "Filament WhatsApp Widget",
         "package": "jeffersongoncalves/filament-whatsapp-widget",
+        "category": "support",
         "v3": true,
         "v4": true,
         "v5": true
@@ -690,6 +770,7 @@
       {
         "title": "Filament YAML Editor",
         "package": "jeffersongoncalves/filament-yaml-editor",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -697,6 +778,7 @@
       {
         "title": "Filament Barcode Field",
         "package": "jeffersongoncalves/filament-barcode-field",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -704,6 +786,7 @@
       {
         "title": "Filament Short URL",
         "package": "jeffersongoncalves/filament-short-url",
+        "category": "devtools",
         "v3": true,
         "v4": true,
         "v5": true
@@ -711,6 +794,7 @@
       {
         "title": "Filament Newsletter",
         "package": "jeffersongoncalves/filament-newsletter",
+        "category": "marketing",
         "v3": true,
         "v4": true,
         "v5": true
@@ -718,6 +802,7 @@
       {
         "title": "Filament CMS",
         "package": "jeffersongoncalves/filament-cms",
+        "category": "content",
         "v3": true,
         "v4": true,
         "v5": true
@@ -725,6 +810,7 @@
       {
         "title": "Filament How It Works",
         "package": "jeffersongoncalves/filament-how-it-works",
+        "category": "content",
         "v3": true,
         "v4": true,
         "v5": true
@@ -732,6 +818,7 @@
       {
         "title": "Filament Testimonial",
         "package": "jeffersongoncalves/filament-testimonial",
+        "category": "content",
         "v3": true,
         "v4": true,
         "v5": true
@@ -739,6 +826,7 @@
       {
         "title": "Filament Page Visits",
         "package": "jeffersongoncalves/filament-page-visits",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -746,6 +834,7 @@
       {
         "title": "Filament Kanban",
         "package": "jeffersongoncalves/filament-kanban",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -753,6 +842,7 @@
       {
         "title": "Filament Navigation Group",
         "package": "jeffersongoncalves/filament-navigation-group",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -760,6 +850,7 @@
       {
         "title": "Filament Widget Configuration",
         "package": "jeffersongoncalves/filament-widget-configuration",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -767,6 +858,7 @@
       {
         "title": "Filament SSO Client",
         "package": "jeffersongoncalves/filament-sso-client",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -774,6 +866,7 @@
       {
         "title": "Filament SSO Server",
         "package": "jeffersongoncalves/filament-sso-server",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -781,6 +874,7 @@
       {
         "title": "Filament Carve",
         "package": "jeffersongoncalves/filament-carve",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -788,6 +882,7 @@
       {
         "title": "Filament BladeWind",
         "package": "jeffersongoncalves/filament-bladewind",
+        "category": "ui",
         "v3": true,
         "v4": true,
         "v5": true
@@ -795,6 +890,7 @@
       {
         "title": "Filament Mail Editor",
         "package": "jeffersongoncalves/filament-mail-editor",
+        "category": "marketing",
         "v3": true,
         "v4": true,
         "v5": true
@@ -802,6 +898,7 @@
       {
         "title": "Filament Cloudflare Web Analytics",
         "package": "jeffersongoncalves/filament-cloudflare-web-analytics",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -809,6 +906,7 @@
       {
         "title": "Filament Simple Analytics",
         "package": "jeffersongoncalves/filament-simple-analytics",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -816,6 +914,7 @@
       {
         "title": "Filament Pirsch",
         "package": "jeffersongoncalves/filament-pirsch",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -823,6 +922,7 @@
       {
         "title": "Filament GoatCounter",
         "package": "jeffersongoncalves/filament-goatcounter",
+        "category": "analytics",
         "v3": true,
         "v4": true,
         "v5": true
@@ -830,6 +930,7 @@
       {
         "title": "Filament Crisp",
         "package": "jeffersongoncalves/filament-crisp",
+        "category": "support",
         "v3": true,
         "v4": true,
         "v5": true
@@ -837,6 +938,7 @@
       {
         "title": "Filament Tawk.to",
         "package": "jeffersongoncalves/filament-tawk-to",
+        "category": "support",
         "v3": true,
         "v4": true,
         "v5": true
@@ -844,6 +946,7 @@
       {
         "title": "Filament Page Cache",
         "package": "jeffersongoncalves/filament-page-cache",
+        "category": "infra",
         "v3": true,
         "v4": true,
         "v5": true
@@ -851,6 +954,7 @@
       {
         "title": "Filament Security Headers",
         "package": "jeffersongoncalves/filament-security-headers",
+        "category": "auth-security",
         "v3": true,
         "v4": true,
         "v5": true
@@ -911,647 +1015,808 @@
   "laravel": [
     {
       "title": "Laravel Image Cache",
-      "package": "jeffersongoncalves/laravel-image-cache"
+      "package": "jeffersongoncalves/laravel-image-cache",
+      "category": "infra"
     },
     {
       "title": "Flysystem Google Drive",
-      "package": "jeffersongoncalves/flysystem-google-drive"
+      "package": "jeffersongoncalves/flysystem-google-drive",
+      "category": "infra"
     },
     {
       "title": "Laravel Shopify",
-      "package": "jeffersongoncalves/laravel-shopify"
+      "package": "jeffersongoncalves/laravel-shopify",
+      "category": "commerce"
     },
     {
       "title": "Laravel Trustpilot",
-      "package": "jeffersongoncalves/laravel-trustpilot"
+      "package": "jeffersongoncalves/laravel-trustpilot",
+      "category": "ads-seo"
     },
     {
       "title": "Laravel Snov",
-      "package": "jeffersongoncalves/laravel-snov"
+      "package": "jeffersongoncalves/laravel-snov",
+      "category": "marketing"
     },
     {
       "title": "Laravel SendGrid",
-      "package": "jeffersongoncalves/laravel-sendgrid"
+      "package": "jeffersongoncalves/laravel-sendgrid",
+      "category": "marketing"
     },
     {
       "title": "Laravel DataForSEO",
-      "package": "jeffersongoncalves/laravel-dataforseo"
+      "package": "jeffersongoncalves/laravel-dataforseo",
+      "category": "ads-seo"
     },
     {
       "title": "Laravel Mailchimp",
-      "package": "jeffersongoncalves/laravel-mailchimp"
+      "package": "jeffersongoncalves/laravel-mailchimp",
+      "category": "marketing"
     },
     {
       "title": "Laravel Mention Me",
-      "package": "jeffersongoncalves/laravel-mention-me"
+      "package": "jeffersongoncalves/laravel-mention-me",
+      "category": "commerce"
     },
     {
       "title": "Laravel PartnerStack",
-      "package": "jeffersongoncalves/laravel-partnerstack"
+      "package": "jeffersongoncalves/laravel-partnerstack",
+      "category": "commerce"
     },
     {
       "title": "Laravel Tolt",
-      "package": "jeffersongoncalves/laravel-tolt"
+      "package": "jeffersongoncalves/laravel-tolt",
+      "category": "commerce"
     },
     {
       "title": "Laravel G2",
-      "package": "jeffersongoncalves/laravel-g2"
+      "package": "jeffersongoncalves/laravel-g2",
+      "category": "ads-seo"
     },
     {
       "title": "Laravel Customer.io",
-      "package": "jeffersongoncalves/laravel-customer-io"
+      "package": "jeffersongoncalves/laravel-customer-io",
+      "category": "marketing"
     },
     {
       "title": "Laravel Discord Logger",
-      "package": "jeffersongoncalves/laravel-discord-logger"
+      "package": "jeffersongoncalves/laravel-discord-logger",
+      "category": "infra"
     },
     {
       "title": "Laravel Settings Discord Logger",
-      "package": "jeffersongoncalves/laravel-settings-discord-logger"
+      "package": "jeffersongoncalves/laravel-settings-discord-logger",
+      "category": "infra"
     },
     {
       "title": "Laravel Brazil Holidays",
-      "package": "jeffersongoncalves/laravel-brazil-holidays"
+      "package": "jeffersongoncalves/laravel-brazil-holidays",
+      "category": "brazil"
     },
     {
       "title": "Laravel Telegram Logger",
-      "package": "jeffersongoncalves/laravel-telegram-logger"
+      "package": "jeffersongoncalves/laravel-telegram-logger",
+      "category": "infra"
     },
     {
       "title": "Laravel Autentique",
-      "package": "jeffersongoncalves/laravel-autentique"
+      "package": "jeffersongoncalves/laravel-autentique",
+      "category": "brazil"
     },
     {
       "title": "Laravel ZapSign",
-      "package": "jeffersongoncalves/laravel-zapsign"
+      "package": "jeffersongoncalves/laravel-zapsign",
+      "category": "brazil"
     },
     {
       "title": "Laravel Translation Manager",
-      "package": "jeffersongoncalves/laravel-translation-manager"
+      "package": "jeffersongoncalves/laravel-translation-manager",
+      "category": "content"
     },
     {
       "title": "Laravel Open Hours",
-      "package": "jeffersongoncalves/laravel-open-hours"
+      "package": "jeffersongoncalves/laravel-open-hours",
+      "category": "content"
     },
     {
       "title": "Laravel Saved Filter",
-      "package": "jeffersongoncalves/laravel-saved-filter"
+      "package": "jeffersongoncalves/laravel-saved-filter",
+      "category": "devtools"
     },
     {
       "title": "Laravel Report Url",
-      "package": "jeffersongoncalves/laravel-report-url"
+      "package": "jeffersongoncalves/laravel-report-url",
+      "category": "devtools"
     },
     {
       "title": "Laravel Github Readme",
-      "package": "jeffersongoncalves/laravel-github-readme"
+      "package": "jeffersongoncalves/laravel-github-readme",
+      "category": "integrations"
     },
     {
       "title": "Laravel npm Readme",
-      "package": "jeffersongoncalves/laravel-npm-readme"
+      "package": "jeffersongoncalves/laravel-npm-readme",
+      "category": "integrations"
     },
     {
       "title": "Laravel Topic Normalizer",
-      "package": "jeffersongoncalves/laravel-topic-normalizer"
+      "package": "jeffersongoncalves/laravel-topic-normalizer",
+      "category": "content"
     },
     {
       "title": "Laravel Favicon Proxy",
-      "package": "jeffersongoncalves/laravel-favicon-proxy"
+      "package": "jeffersongoncalves/laravel-favicon-proxy",
+      "category": "devtools"
     },
     {
       "title": "Laravel Centrifugo",
-      "package": "jeffersongoncalves/laravel-centrifugo"
+      "package": "jeffersongoncalves/laravel-centrifugo",
+      "category": "infra"
     },
     {
       "title": "Laravel Locale Cookie",
-      "package": "jeffersongoncalves/laravel-locale-cookie"
+      "package": "jeffersongoncalves/laravel-locale-cookie",
+      "category": "content"
     },
     {
       "title": "Laravel Github Client",
-      "package": "jeffersongoncalves/laravel-github-client"
+      "package": "jeffersongoncalves/laravel-github-client",
+      "category": "integrations"
     },
     {
       "title": "Laravel Github Contributions",
-      "package": "jeffersongoncalves/laravel-github-contributions"
+      "package": "jeffersongoncalves/laravel-github-contributions",
+      "category": "integrations"
     },
     {
       "title": "Laravel Html Sanitizer",
-      "package": "jeffersongoncalves/laravel-html-sanitizer"
+      "package": "jeffersongoncalves/laravel-html-sanitizer",
+      "category": "auth-security"
     },
     {
       "title": "Laravel Markdown",
-      "package": "jeffersongoncalves/laravel-markdown"
+      "package": "jeffersongoncalves/laravel-markdown",
+      "category": "content"
     },
     {
       "title": "Laravel Markdown for Agents",
-      "package": "jeffersongoncalves/laravel-markdown-for-agents"
+      "package": "jeffersongoncalves/laravel-markdown-for-agents",
+      "category": "content"
     },
     {
       "title": "Laravel Page Cache",
-      "package": "jeffersongoncalves/laravel-page-cache"
+      "package": "jeffersongoncalves/laravel-page-cache",
+      "category": "infra"
     },
     {
       "title": "Laravel Pwa Favicon",
-      "package": "jeffersongoncalves/laravel-pwa-favicon"
+      "package": "jeffersongoncalves/laravel-pwa-favicon",
+      "category": "devtools"
     },
     {
       "title": "Laravel Security Headers",
-      "package": "jeffersongoncalves/laravel-security-headers"
+      "package": "jeffersongoncalves/laravel-security-headers",
+      "category": "auth-security"
     },
     {
       "title": "Laravel Ssrf Guard",
-      "package": "jeffersongoncalves/laravel-ssrf-guard"
+      "package": "jeffersongoncalves/laravel-ssrf-guard",
+      "category": "auth-security"
     },
     {
       "title": "Laravel Visitor Fingerprint",
-      "package": "jeffersongoncalves/laravel-visitor-fingerprint"
+      "package": "jeffersongoncalves/laravel-visitor-fingerprint",
+      "category": "auth-security"
     },
     {
       "title": "Laravel Page Visits",
-      "package": "jeffersongoncalves/laravel-page-visits"
+      "package": "jeffersongoncalves/laravel-page-visits",
+      "category": "analytics"
     },
     {
       "title": "Laravel Clarity",
-      "package": "jeffersongoncalves/laravel-clarity"
+      "package": "jeffersongoncalves/laravel-clarity",
+      "category": "analytics"
     },
     {
       "title": "Laravel CEP",
-      "package": "jeffersongoncalves/laravel-cep"
+      "package": "jeffersongoncalves/laravel-cep",
+      "category": "brazil"
     },
     {
       "title": "Laravel CNPJ",
-      "package": "jeffersongoncalves/laravel-cnpj"
+      "package": "jeffersongoncalves/laravel-cnpj",
+      "category": "brazil"
     },
     {
       "title": "Laravel FAQ",
-      "package": "jeffersongoncalves/laravel-faq"
+      "package": "jeffersongoncalves/laravel-faq",
+      "category": "content"
     },
     {
       "title": "Laravel Benefit",
-      "package": "jeffersongoncalves/laravel-benefit"
+      "package": "jeffersongoncalves/laravel-benefit",
+      "category": "content"
     },
     {
       "title": "Laravel Cookie Consent",
-      "package": "jeffersongoncalves/laravel-cookie-consent"
+      "package": "jeffersongoncalves/laravel-cookie-consent",
+      "category": "privacy"
     },
     {
       "title": "Laravel Created By",
-      "package": "jeffersongoncalves/laravel-created-by"
+      "package": "jeffersongoncalves/laravel-created-by",
+      "category": "devtools"
     },
     {
       "title": "Laravel Fake Cartoons",
-      "package": "jeffersongoncalves/laravel-fake-cartoons"
+      "package": "jeffersongoncalves/laravel-fake-cartoons",
+      "category": "devtools"
     },
     {
       "title": "Laravel Fathom",
-      "package": "jeffersongoncalves/laravel-fathom"
+      "package": "jeffersongoncalves/laravel-fathom",
+      "category": "analytics"
     },
     {
       "title": "Laravel Hotjar",
-      "package": "jeffersongoncalves/laravel-hotjar"
+      "package": "jeffersongoncalves/laravel-hotjar",
+      "category": "analytics"
     },
     {
       "title": "Laravel SSO Client",
-      "package": "jeffersongoncalves/laravel-sso-client"
+      "package": "jeffersongoncalves/laravel-sso-client",
+      "category": "auth-security"
     },
     {
       "title": "Laravel SSO Server",
-      "package": "jeffersongoncalves/laravel-sso-server"
+      "package": "jeffersongoncalves/laravel-sso-server",
+      "category": "auth-security"
     },
     {
       "title": "Laravel Github Stats",
-      "package": "jeffersongoncalves/laravel-github-stats"
+      "package": "jeffersongoncalves/laravel-github-stats",
+      "category": "integrations"
     },
     {
       "title": "Laravel Google Ads",
-      "package": "jeffersongoncalves/laravel-google-ads"
+      "package": "jeffersongoncalves/laravel-google-ads",
+      "category": "ads-seo"
     },
     {
       "title": "Laravel Meta Ads",
-      "package": "jeffersongoncalves/laravel-meta-ads"
+      "package": "jeffersongoncalves/laravel-meta-ads",
+      "category": "ads-seo"
     },
     {
       "title": "Laravel LinkedIn Ads",
-      "package": "jeffersongoncalves/laravel-linkedin-ads"
+      "package": "jeffersongoncalves/laravel-linkedin-ads",
+      "category": "ads-seo"
     },
     {
       "title": "Laravel TikTok Ads",
-      "package": "jeffersongoncalves/laravel-tiktok-ads"
+      "package": "jeffersongoncalves/laravel-tiktok-ads",
+      "category": "ads-seo"
     },
     {
       "title": "Laravel Gtag",
-      "package": "jeffersongoncalves/laravel-gtag"
+      "package": "jeffersongoncalves/laravel-gtag",
+      "category": "analytics"
     },
     {
       "title": "Laravel Gtm",
-      "package": "jeffersongoncalves/laravel-gtm"
+      "package": "jeffersongoncalves/laravel-gtm",
+      "category": "analytics"
     },
     {
       "title": "Laravel GA4",
-      "package": "jeffersongoncalves/laravel-ga4"
+      "package": "jeffersongoncalves/laravel-ga4",
+      "category": "analytics"
     },
     {
       "title": "Laravel Help Desk",
-      "package": "jeffersongoncalves/laravel-help-desk"
+      "package": "jeffersongoncalves/laravel-help-desk",
+      "category": "support"
     },
     {
       "title": "Laravel Socialite",
-      "package": "jeffersongoncalves/laravel-socialite"
+      "package": "jeffersongoncalves/laravel-socialite",
+      "category": "auth-security"
     },
     {
       "title": "Laravel Knowledge Base",
-      "package": "jeffersongoncalves/laravel-knowledge-base"
+      "package": "jeffersongoncalves/laravel-knowledge-base",
+      "category": "support"
     },
     {
       "title": "Laravel Mail",
-      "package": "jeffersongoncalves/laravel-mail"
+      "package": "jeffersongoncalves/laravel-mail",
+      "category": "marketing"
     },
     {
       "title": "Laravel Mail Editor",
-      "package": "jeffersongoncalves/laravel-mail-editor"
+      "package": "jeffersongoncalves/laravel-mail-editor",
+      "category": "marketing"
     },
     {
       "title": "Laravel Matomo",
-      "package": "jeffersongoncalves/laravel-matomo"
+      "package": "jeffersongoncalves/laravel-matomo",
+      "category": "analytics"
     },
     {
       "title": "Laravel Metrics Fathom",
-      "package": "jeffersongoncalves/laravel-metrics-fathom"
+      "package": "jeffersongoncalves/laravel-metrics-fathom",
+      "category": "analytics"
     },
     {
       "title": "Laravel Metrics GA4",
-      "package": "jeffersongoncalves/laravel-metrics-ga4"
+      "package": "jeffersongoncalves/laravel-metrics-ga4",
+      "category": "analytics"
     },
     {
       "title": "Laravel Metrics Matomo",
-      "package": "jeffersongoncalves/laravel-metrics-matomo"
+      "package": "jeffersongoncalves/laravel-metrics-matomo",
+      "category": "analytics"
     },
     {
       "title": "Laravel Metrics Plausible",
-      "package": "jeffersongoncalves/laravel-metrics-plausible"
+      "package": "jeffersongoncalves/laravel-metrics-plausible",
+      "category": "analytics"
     },
     {
       "title": "Laravel Metrics PostHog",
-      "package": "jeffersongoncalves/laravel-metrics-posthog"
+      "package": "jeffersongoncalves/laravel-metrics-posthog",
+      "category": "analytics"
     },
     {
       "title": "Laravel Mixpanel",
-      "package": "jeffersongoncalves/laravel-mixpanel"
+      "package": "jeffersongoncalves/laravel-mixpanel",
+      "category": "analytics"
     },
     {
       "title": "Laravel Mixpanel API",
-      "package": "jeffersongoncalves/laravel-mixpanel-api"
+      "package": "jeffersongoncalves/laravel-mixpanel-api",
+      "category": "analytics"
     },
     {
       "title": "Laravel Pixel",
-      "package": "jeffersongoncalves/laravel-pixel"
+      "package": "jeffersongoncalves/laravel-pixel",
+      "category": "analytics"
     },
     {
       "title": "Laravel Plausible",
-      "package": "jeffersongoncalves/laravel-plausible"
+      "package": "jeffersongoncalves/laravel-plausible",
+      "category": "analytics"
     },
     {
       "title": "Laravel PostHog",
-      "package": "jeffersongoncalves/laravel-posthog"
+      "package": "jeffersongoncalves/laravel-posthog",
+      "category": "analytics"
     },
     {
       "title": "Laravel Postmark",
-      "package": "jeffersongoncalves/laravel-postmark"
+      "package": "jeffersongoncalves/laravel-postmark",
+      "category": "marketing"
     },
     {
       "title": "Laravel Satis",
-      "package": "jeffersongoncalves/laravel-satis"
+      "package": "jeffersongoncalves/laravel-satis",
+      "category": "infra"
     },
     {
       "title": "Laravel SavvyCal",
-      "package": "jeffersongoncalves/laravel-savvycal"
+      "package": "jeffersongoncalves/laravel-savvycal",
+      "category": "integrations"
     },
     {
       "title": "Laravel Segment",
-      "package": "jeffersongoncalves/laravel-segment"
+      "package": "jeffersongoncalves/laravel-segment",
+      "category": "analytics"
     },
     {
       "title": "Laravel Semrush",
-      "package": "jeffersongoncalves/laravel-semrush"
+      "package": "jeffersongoncalves/laravel-semrush",
+      "category": "ads-seo"
     },
     {
       "title": "Laravel Service Desk",
-      "package": "jeffersongoncalves/laravel-service-desk"
+      "package": "jeffersongoncalves/laravel-service-desk",
+      "category": "support"
     },
     {
       "title": "Laravel Umami",
-      "package": "jeffersongoncalves/laravel-umami"
+      "package": "jeffersongoncalves/laravel-umami",
+      "category": "analytics"
     },
     {
       "title": "Laravel WhatsApp Widget",
-      "package": "jeffersongoncalves/laravel-whatsapp-widget"
+      "package": "jeffersongoncalves/laravel-whatsapp-widget",
+      "category": "support"
     },
     {
       "title": "Laravel Webhook Signatures",
-      "package": "jeffersongoncalves/laravel-webhook-signatures"
+      "package": "jeffersongoncalves/laravel-webhook-signatures",
+      "category": "auth-security"
     },
     {
       "title": "Laravel Pwa Service Worker",
-      "package": "jeffersongoncalves/laravel-pwa-service-worker"
+      "package": "jeffersongoncalves/laravel-pwa-service-worker",
+      "category": "devtools"
     },
     {
       "title": "Laravel OIDC",
-      "package": "jeffersongoncalves/laravel-oidc"
+      "package": "jeffersongoncalves/laravel-oidc",
+      "category": "auth-security"
     },
     {
       "title": "Laravel SAML2",
-      "package": "jeffersongoncalves/laravel-saml2"
+      "package": "jeffersongoncalves/laravel-saml2",
+      "category": "auth-security"
     },
     {
       "title": "Laravel Webhooks",
-      "package": "jeffersongoncalves/laravel-webhooks"
+      "package": "jeffersongoncalves/laravel-webhooks",
+      "category": "integrations"
     },
     {
       "title": "Laravel Teams",
-      "package": "jeffersongoncalves/laravel-teams"
+      "package": "jeffersongoncalves/laravel-teams",
+      "category": "auth-security"
     },
     {
       "title": "Laravel User",
-      "package": "jeffersongoncalves/laravel-user"
+      "package": "jeffersongoncalves/laravel-user",
+      "category": "auth-security"
     },
     {
       "title": "Laravel Admin",
-      "package": "jeffersongoncalves/laravel-admin"
+      "package": "jeffersongoncalves/laravel-admin",
+      "category": "auth-security"
     },
     {
       "title": "Laravel Queue Management",
-      "package": "jeffersongoncalves/laravel-queue-management"
+      "package": "jeffersongoncalves/laravel-queue-management",
+      "category": "infra"
     },
     {
       "title": "Laravel Session Management",
-      "package": "jeffersongoncalves/laravel-session-management"
+      "package": "jeffersongoncalves/laravel-session-management",
+      "category": "auth-security"
     },
     {
       "title": "Laravel LGPD",
-      "package": "jeffersongoncalves/laravel-lgpd"
+      "package": "jeffersongoncalves/laravel-lgpd",
+      "category": "privacy"
     },
     {
       "title": "Laravel LGPD Consent",
-      "package": "jeffersongoncalves/laravel-lgpd-consent"
+      "package": "jeffersongoncalves/laravel-lgpd-consent",
+      "category": "privacy"
     },
     {
       "title": "Laravel LGPD DSAR",
-      "package": "jeffersongoncalves/laravel-lgpd-dsar"
+      "package": "jeffersongoncalves/laravel-lgpd-dsar",
+      "category": "privacy"
     },
     {
       "title": "Laravel LGPD Retention",
-      "package": "jeffersongoncalves/laravel-lgpd-retention"
+      "package": "jeffersongoncalves/laravel-lgpd-retention",
+      "category": "privacy"
     },
     {
       "title": "Laravel LGPD Audit Log",
-      "package": "jeffersongoncalves/laravel-lgpd-audit-log"
+      "package": "jeffersongoncalves/laravel-lgpd-audit-log",
+      "category": "privacy"
     },
     {
       "title": "Laravel LGPD Incidents",
-      "package": "jeffersongoncalves/laravel-lgpd-incidents"
+      "package": "jeffersongoncalves/laravel-lgpd-incidents",
+      "category": "privacy"
     },
     {
       "title": "Laravel LGPD Records",
-      "package": "jeffersongoncalves/laravel-lgpd-records"
+      "package": "jeffersongoncalves/laravel-lgpd-records",
+      "category": "privacy"
     },
     {
       "title": "Laravel LGPD Vendors",
-      "package": "jeffersongoncalves/laravel-lgpd-vendors"
+      "package": "jeffersongoncalves/laravel-lgpd-vendors",
+      "category": "privacy"
     },
     {
       "title": "Laravel LGPD RIPD",
-      "package": "jeffersongoncalves/laravel-lgpd-ripd"
+      "package": "jeffersongoncalves/laravel-lgpd-ripd",
+      "category": "privacy"
     },
     {
       "title": "Laravel LGPD Minors",
-      "package": "jeffersongoncalves/laravel-lgpd-minors"
+      "package": "jeffersongoncalves/laravel-lgpd-minors",
+      "category": "privacy"
     },
     {
       "title": "Laravel LGPD Takedown",
-      "package": "jeffersongoncalves/laravel-lgpd-takedown"
+      "package": "jeffersongoncalves/laravel-lgpd-takedown",
+      "category": "privacy"
     },
     {
       "title": "Laravel Auto Translate",
-      "package": "jeffersongoncalves/laravel-auto-translate"
+      "package": "jeffersongoncalves/laravel-auto-translate",
+      "category": "content"
     },
     {
       "title": "Laravel Newsletter",
-      "package": "jeffersongoncalves/laravel-newsletter"
+      "package": "jeffersongoncalves/laravel-newsletter",
+      "category": "marketing"
     },
     {
       "title": "Laravel CMS",
-      "package": "jeffersongoncalves/laravel-cms"
+      "package": "jeffersongoncalves/laravel-cms",
+      "category": "content"
     },
     {
       "title": "Laravel Short URL",
-      "package": "jeffersongoncalves/laravel-short-url"
+      "package": "jeffersongoncalves/laravel-short-url",
+      "category": "devtools"
     },
     {
       "title": "Laravel Livewire Wizard",
-      "package": "jeffersongoncalves/laravel-livewire-wizard"
+      "package": "jeffersongoncalves/laravel-livewire-wizard",
+      "category": "devtools"
     },
     {
       "title": "Laravel How It Works",
-      "package": "jeffersongoncalves/laravel-how-it-works"
+      "package": "jeffersongoncalves/laravel-how-it-works",
+      "category": "content"
     },
     {
       "title": "Laravel Testimonial",
-      "package": "jeffersongoncalves/laravel-testimonial"
+      "package": "jeffersongoncalves/laravel-testimonial",
+      "category": "content"
     },
     {
       "title": "Laravel Queue Consumer",
-      "package": "jeffersongoncalves/laravel-queue-consumer"
+      "package": "jeffersongoncalves/laravel-queue-consumer",
+      "category": "infra"
     },
     {
       "title": "Laravel Queue Worker",
-      "package": "jeffersongoncalves/laravel-queue-worker"
+      "package": "jeffersongoncalves/laravel-queue-worker",
+      "category": "infra"
     },
     {
       "title": "Laravel ActiveCampaign",
-      "package": "jeffersongoncalves/laravel-activecampaign"
+      "package": "jeffersongoncalves/laravel-activecampaign",
+      "category": "marketing"
     },
     {
       "title": "Laravel Beehiiv",
-      "package": "jeffersongoncalves/laravel-beehiiv"
+      "package": "jeffersongoncalves/laravel-beehiiv",
+      "category": "marketing"
     },
     {
       "title": "Laravel Adobe Analytics",
-      "package": "jeffersongoncalves/laravel-adobe-analytics"
+      "package": "jeffersongoncalves/laravel-adobe-analytics",
+      "category": "analytics"
     },
     {
       "title": "Laravel Apollo",
-      "package": "jeffersongoncalves/laravel-apollo"
+      "package": "jeffersongoncalves/laravel-apollo",
+      "category": "marketing"
     },
     {
       "title": "Laravel Ahrefs",
-      "package": "jeffersongoncalves/laravel-ahrefs"
+      "package": "jeffersongoncalves/laravel-ahrefs",
+      "category": "ads-seo"
     },
     {
       "title": "Laravel Amplitude",
-      "package": "jeffersongoncalves/laravel-amplitude"
+      "package": "jeffersongoncalves/laravel-amplitude",
+      "category": "analytics"
     },
     {
       "title": "Laravel Brevo",
-      "package": "jeffersongoncalves/laravel-brevo"
+      "package": "jeffersongoncalves/laravel-brevo",
+      "category": "marketing"
     },
     {
       "title": "Laravel Buffer",
-      "package": "jeffersongoncalves/laravel-buffer"
+      "package": "jeffersongoncalves/laravel-buffer",
+      "category": "marketing"
     },
     {
       "title": "Laravel Calendly",
-      "package": "jeffersongoncalves/laravel-calendly"
+      "package": "jeffersongoncalves/laravel-calendly",
+      "category": "integrations"
     },
     {
       "title": "Laravel Clearbit",
-      "package": "jeffersongoncalves/laravel-clearbit"
+      "package": "jeffersongoncalves/laravel-clearbit",
+      "category": "marketing"
     },
     {
       "title": "Laravel ConvertKit",
-      "package": "jeffersongoncalves/laravel-convertkit"
+      "package": "jeffersongoncalves/laravel-convertkit",
+      "category": "marketing"
     },
     {
       "title": "Laravel Demio",
-      "package": "jeffersongoncalves/laravel-demio"
+      "package": "jeffersongoncalves/laravel-demio",
+      "category": "integrations"
     },
     {
       "title": "Laravel Dub",
-      "package": "jeffersongoncalves/laravel-dub"
+      "package": "jeffersongoncalves/laravel-dub",
+      "category": "marketing"
     },
     {
       "title": "Laravel Google Search Console",
-      "package": "jeffersongoncalves/laravel-google-search-console"
+      "package": "jeffersongoncalves/laravel-google-search-console",
+      "category": "ads-seo"
     },
     {
       "title": "Laravel Hunter",
-      "package": "jeffersongoncalves/laravel-hunter"
+      "package": "jeffersongoncalves/laravel-hunter",
+      "category": "marketing"
     },
     {
       "title": "Laravel Instantly",
-      "package": "jeffersongoncalves/laravel-instantly"
+      "package": "jeffersongoncalves/laravel-instantly",
+      "category": "marketing"
     },
     {
       "title": "Laravel Intercom",
-      "package": "jeffersongoncalves/laravel-intercom"
+      "package": "jeffersongoncalves/laravel-intercom",
+      "category": "support"
     },
     {
       "title": "Laravel Keywords Everywhere",
-      "package": "jeffersongoncalves/laravel-keywords-everywhere"
+      "package": "jeffersongoncalves/laravel-keywords-everywhere",
+      "category": "ads-seo"
     },
     {
       "title": "Laravel Klaviyo",
-      "package": "jeffersongoncalves/laravel-klaviyo"
+      "package": "jeffersongoncalves/laravel-klaviyo",
+      "category": "marketing"
     },
     {
       "title": "Laravel Lemlist",
-      "package": "jeffersongoncalves/laravel-lemlist"
+      "package": "jeffersongoncalves/laravel-lemlist",
+      "category": "marketing"
     },
     {
       "title": "Laravel Livestorm",
-      "package": "jeffersongoncalves/laravel-livestorm"
+      "package": "jeffersongoncalves/laravel-livestorm",
+      "category": "integrations"
     },
     {
       "title": "Laravel OneSignal",
-      "package": "jeffersongoncalves/laravel-onesignal"
+      "package": "jeffersongoncalves/laravel-onesignal",
+      "category": "marketing"
     },
     {
       "title": "Laravel Optimizely",
-      "package": "jeffersongoncalves/laravel-optimizely"
+      "package": "jeffersongoncalves/laravel-optimizely",
+      "category": "analytics"
     },
     {
       "title": "Laravel Paddle",
-      "package": "jeffersongoncalves/laravel-paddle"
+      "package": "jeffersongoncalves/laravel-paddle",
+      "category": "commerce"
     },
     {
       "title": "Laravel Resend",
-      "package": "jeffersongoncalves/laravel-resend"
+      "package": "jeffersongoncalves/laravel-resend",
+      "category": "marketing"
     },
     {
       "title": "Laravel Rewardful",
-      "package": "jeffersongoncalves/laravel-rewardful"
+      "package": "jeffersongoncalves/laravel-rewardful",
+      "category": "commerce"
     },
     {
       "title": "Laravel Stripe",
-      "package": "jeffersongoncalves/laravel-stripe"
+      "package": "jeffersongoncalves/laravel-stripe",
+      "category": "commerce"
     },
     {
       "title": "Laravel Typeform",
-      "package": "jeffersongoncalves/laravel-typeform"
+      "package": "jeffersongoncalves/laravel-typeform",
+      "category": "integrations"
     },
     {
       "title": "Laravel Webflow",
-      "package": "jeffersongoncalves/laravel-webflow"
+      "package": "jeffersongoncalves/laravel-webflow",
+      "category": "integrations"
     },
     {
       "title": "Laravel Wistia",
-      "package": "jeffersongoncalves/laravel-wistia"
+      "package": "jeffersongoncalves/laravel-wistia",
+      "category": "integrations"
     },
     {
       "title": "Laravel WooCommerce",
-      "package": "jeffersongoncalves/laravel-woocommerce"
+      "package": "jeffersongoncalves/laravel-woocommerce",
+      "category": "commerce"
     },
     {
       "title": "Laravel WordPress",
-      "package": "jeffersongoncalves/laravel-wordpress"
+      "package": "jeffersongoncalves/laravel-wordpress",
+      "category": "integrations"
     },
     {
       "title": "Laravel Zapier",
-      "package": "jeffersongoncalves/laravel-zapier"
+      "package": "jeffersongoncalves/laravel-zapier",
+      "category": "integrations"
     },
     {
       "title": "Laravel Salesforce",
-      "package": "jeffersongoncalves/laravel-salesforce"
+      "package": "jeffersongoncalves/laravel-salesforce",
+      "category": "marketing"
     },
     {
       "title": "Laravel HubSpot",
-      "package": "jeffersongoncalves/laravel-hubspot"
+      "package": "jeffersongoncalves/laravel-hubspot",
+      "category": "marketing"
     },
     {
       "title": "Laravel Favicon",
-      "package": "jeffersongoncalves/laravel-favicon"
+      "package": "jeffersongoncalves/laravel-favicon",
+      "category": "devtools"
     },
     {
       "title": "Pest Plugin MySQL Compat",
-      "package": "jeffersongoncalves/pest-plugin-mysql-compat"
+      "package": "jeffersongoncalves/pest-plugin-mysql-compat",
+      "category": "devtools"
     },
     {
       "title": "Pest Plugin Database Migrations",
-      "package": "jeffersongoncalves/pest-plugin-database-migrations"
+      "package": "jeffersongoncalves/pest-plugin-database-migrations",
+      "category": "devtools"
     },
     {
       "title": "Livewire Logs",
-      "package": "jeffersongoncalves/livewire-logs"
+      "package": "jeffersongoncalves/livewire-logs",
+      "category": "infra"
     },
     {
       "title": "Livewire Horizon",
-      "package": "jeffersongoncalves/livewire-horizon"
+      "package": "jeffersongoncalves/livewire-horizon",
+      "category": "infra"
     },
     {
       "title": "Laravel Scanner Guard",
-      "package": "jeffersongoncalves/laravel-scanner-guard"
+      "package": "jeffersongoncalves/laravel-scanner-guard",
+      "category": "auth-security"
     },
     {
       "title": "Laravel Cloudflare Web Analytics",
-      "package": "jeffersongoncalves/laravel-cloudflare-web-analytics"
+      "package": "jeffersongoncalves/laravel-cloudflare-web-analytics",
+      "category": "analytics"
     },
     {
       "title": "Laravel Simple Analytics",
-      "package": "jeffersongoncalves/laravel-simple-analytics"
+      "package": "jeffersongoncalves/laravel-simple-analytics",
+      "category": "analytics"
     },
     {
       "title": "Laravel Pirsch",
-      "package": "jeffersongoncalves/laravel-pirsch"
+      "package": "jeffersongoncalves/laravel-pirsch",
+      "category": "analytics"
     },
     {
       "title": "Laravel GoatCounter",
-      "package": "jeffersongoncalves/laravel-goatcounter"
+      "package": "jeffersongoncalves/laravel-goatcounter",
+      "category": "analytics"
     },
     {
       "title": "Laravel Crisp",
-      "package": "jeffersongoncalves/laravel-crisp"
+      "package": "jeffersongoncalves/laravel-crisp",
+      "category": "support"
     },
     {
       "title": "Laravel Tawk.to",
-      "package": "jeffersongoncalves/laravel-tawk-to"
+      "package": "jeffersongoncalves/laravel-tawk-to",
+      "category": "support"
     }
   ],
   "laravelZero": [

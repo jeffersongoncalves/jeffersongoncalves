@@ -107,10 +107,44 @@ const byPackage = (a, b) => a.package.localeCompare(b.package);
 const byRepoName = (a, b) => a.package.split('/').pop().localeCompare(b.package.split('/').pop());
 const sorted = (arr) => arr.slice().sort(byPackage);
 
+// Display order + labels for the `category` field on laravel / filament.plugins entries.
+// An entry with a missing or unknown category lands in "Other".
+const CATEGORIES = {
+    analytics: '📊 Analytics & Tracking',
+    marketing: '📣 Marketing, CRM & Email',
+    'ads-seo': '🎯 Ads, SEO & Reviews',
+    privacy: '🛡️ Privacy & LGPD',
+    brazil: '🇧🇷 Brazil',
+    'auth-security': '🔐 Auth, SSO & Security',
+    commerce: '💳 Payments, Commerce & Affiliates',
+    support: '💬 Support & Help Desk',
+    content: '📝 Content & Localization',
+    integrations: '🔗 Integrations & Automation',
+    infra: '⚙️ Infrastructure, Queues & Logging',
+    ui: '🎨 UI, Fields & Themes',
+    devtools: '🧰 Developer Tools & Utilities',
+    other: '📦 Other',
+};
+
+function groupedTables(items, header, rowFn) {
+    const groups = {};
+    for (const item of sorted(items)) {
+        const key = CATEGORIES[item.category] ? item.category : 'other';
+        (groups[key] ??= []).push(item);
+    }
+    return Object.keys(CATEGORIES)
+        .filter((key) => groups[key])
+        .map((key) => `<details>\n<summary><b>${CATEGORIES[key]}</b> (${groups[key].length})</summary>\n\n${header}\n${groups[key].map(rowFn).join('').trim()}\n\n</details>`)
+        .join('\n\n');
+}
+
+const filamentHeader = '| Plugin | Downloads | Stars | Compatibility |\n|:-------|:---------:|:-----:|:-------------:|';
+const laravelHeader = '| Package | Latest Version | Downloads | Stars |\n|:--------|:-------------:|:---------:|:-----:|';
+
 const startkitFeatured = sorted(plugins.startkit.featured).map(generateStartkitRow).join('');
-const filamentPlugins = sorted(plugins.filament.plugins).map(generateFilamentRow).join('');
+const filamentPlugins = groupedTables(plugins.filament.plugins, filamentHeader, generateFilamentRow);
 const filamentCollaborator = plugins.filament.collaborator.slice().sort(byRepoName).map(generateFilamentRow).join('');
-const laravelList = sorted(plugins.laravel).map(generateLaravelRow).join('');
+const laravelList = groupedTables(plugins.laravel, laravelHeader, generateLaravelRow);
 const laravelZeroList = sorted(plugins.laravelZero).map(generateStartkitRow).join('');
 const cliList = sorted(plugins.cli).map(generateStartkitRow).join('');
 const cliPythonList = sorted(plugins.cliPython).map(generatePythonCliRow).join('');
