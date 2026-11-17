@@ -26,13 +26,13 @@
 
 I'm a **Full Stack PHP Developer** from **Assis, SP, Brazil** with over **19 years** of hands-on experience building robust platforms, managing server infrastructures, and crafting scalable solutions for businesses of all sizes.
 
-My passion lives in the **open source** world — I actively maintain **120+ Filament plugins** and **170+ Laravel packages** used by thousands of developers worldwide. I believe great software should be accessible to everyone.
+My passion lives in the **open source** world — I actively maintain **130+ Filament plugins** and **180+ Laravel packages** used by thousands of developers worldwide. I believe great software should be accessible to everyone.
 
 - 🔭 Currently focused on the **TALL Stack** (Tailwind, Alpine.js, Livewire, Laravel)
 - 🛠️ Creator of the **Filakit** ecosystem — starter kits for Filament v3, v4 & v5
 - 🌍 Active contributor to the **Filament** and **Laravel** communities
 - 💬 Ask me about **Filament, Laravel, Livewire, API integrations**
-- ⚡ Fun fact: I've published **370+ repositories** and still counting
+- ⚡ Fun fact: I've published **390+ repositories** and still counting
 
 ---
 
@@ -156,10 +156,20 @@ Plugins I created and maintain for the **Filament** ecosystem, grouped by catego
 </details>
 
 <details>
-<summary><b>🛡️ Privacy & LGPD</b> (22)</summary>
+<summary><b>🛡️ Privacy & LGPD</b> (32)</summary>
 
 | Plugin | Downloads | Stars | Compatibility |
 |:-------|:---------:|:-----:|:-------------:|
+| [**Filament CCPA**](https://github.com/jeffersongoncalves/filament-ccpa) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa?style=flat-square) | v3 · v4 · v5 |
+| [**Filament CCPA Audit Log**](https://github.com/jeffersongoncalves/filament-ccpa-audit-log) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa-audit-log.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa-audit-log?style=flat-square) | v3 · v4 · v5 |
+| [**Filament CCPA Breaches**](https://github.com/jeffersongoncalves/filament-ccpa-breaches) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa-breaches.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa-breaches?style=flat-square) | v3 · v4 · v5 |
+| [**Filament CCPA Minors**](https://github.com/jeffersongoncalves/filament-ccpa-minors) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa-minors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa-minors?style=flat-square) | v3 · v4 · v5 |
+| [**Filament CCPA Notices**](https://github.com/jeffersongoncalves/filament-ccpa-notices) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa-notices.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa-notices?style=flat-square) | v3 · v4 · v5 |
+| [**Filament CCPA Opt-Out**](https://github.com/jeffersongoncalves/filament-ccpa-opt-out) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa-opt-out.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa-opt-out?style=flat-square) | v3 · v4 · v5 |
+| [**Filament CCPA Requests**](https://github.com/jeffersongoncalves/filament-ccpa-requests) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa-requests.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa-requests?style=flat-square) | v3 · v4 · v5 |
+| [**Filament CCPA Retention**](https://github.com/jeffersongoncalves/filament-ccpa-retention) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa-retention.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa-retention?style=flat-square) | v3 · v4 · v5 |
+| [**Filament CCPA Risk Assessments**](https://github.com/jeffersongoncalves/filament-ccpa-risk-assessments) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa-risk-assessments.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa-risk-assessments?style=flat-square) | v3 · v4 · v5 |
+| [**Filament CCPA Vendors**](https://github.com/jeffersongoncalves/filament-ccpa-vendors) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa-vendors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa-vendors?style=flat-square) | v3 · v4 · v5 |
 | [**Filament Cookie Consent**](https://github.com/jeffersongoncalves/filament-cookie-consent) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-cookie-consent.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-cookie-consent?style=flat-square) | v3 · v4 · v5 |
 | [**Filament GDPR**](https://github.com/jeffersongoncalves/filament-gdpr) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gdpr.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gdpr?style=flat-square) | v3 · v4 · v5 |
 | [**Filament GDPR Audit Log**](https://github.com/jeffersongoncalves/filament-gdpr-audit-log) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-gdpr-audit-log.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-gdpr-audit-log?style=flat-square) | v3 · v4 · v5 |
@@ -423,10 +433,20 @@ Reusable packages for the **Laravel** framework, built to solve problems I hit i
 </details>
 
 <details>
-<summary><b>🛡️ Privacy & LGPD</b> (22)</summary>
+<summary><b>🛡️ Privacy & LGPD</b> (32)</summary>
 
 | Package | Latest Version | Downloads | Stars |
 |:--------|:-------------:|:---------:|:-----:|
+| [**Laravel CCPA**](https://github.com/jeffersongoncalves/laravel-ccpa) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa?style=flat-square) |
+| [**Laravel CCPA Audit Log**](https://github.com/jeffersongoncalves/laravel-ccpa-audit-log) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa-audit-log.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa-audit-log.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa-audit-log?style=flat-square) |
+| [**Laravel CCPA Breaches**](https://github.com/jeffersongoncalves/laravel-ccpa-breaches) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa-breaches.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa-breaches.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa-breaches?style=flat-square) |
+| [**Laravel CCPA Minors**](https://github.com/jeffersongoncalves/laravel-ccpa-minors) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa-minors.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa-minors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa-minors?style=flat-square) |
+| [**Laravel CCPA Notices**](https://github.com/jeffersongoncalves/laravel-ccpa-notices) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa-notices.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa-notices.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa-notices?style=flat-square) |
+| [**Laravel CCPA Opt-Out**](https://github.com/jeffersongoncalves/laravel-ccpa-opt-out) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa-opt-out.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa-opt-out.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa-opt-out?style=flat-square) |
+| [**Laravel CCPA Requests**](https://github.com/jeffersongoncalves/laravel-ccpa-requests) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa-requests.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa-requests.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa-requests?style=flat-square) |
+| [**Laravel CCPA Retention**](https://github.com/jeffersongoncalves/laravel-ccpa-retention) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa-retention.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa-retention.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa-retention?style=flat-square) |
+| [**Laravel CCPA Risk Assessments**](https://github.com/jeffersongoncalves/laravel-ccpa-risk-assessments) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa-risk-assessments.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa-risk-assessments.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa-risk-assessments?style=flat-square) |
+| [**Laravel CCPA Vendors**](https://github.com/jeffersongoncalves/laravel-ccpa-vendors) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa-vendors.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa-vendors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa-vendors?style=flat-square) |
 | [**Laravel Cookie Consent**](https://github.com/jeffersongoncalves/laravel-cookie-consent) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-cookie-consent.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-cookie-consent.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-cookie-consent?style=flat-square) |
 | [**Laravel GDPR**](https://github.com/jeffersongoncalves/laravel-gdpr) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-gdpr.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-gdpr.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-gdpr?style=flat-square) |
 | [**Laravel GDPR Audit Log**](https://github.com/jeffersongoncalves/laravel-gdpr-audit-log) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-gdpr-audit-log.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-gdpr-audit-log.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-gdpr-audit-log?style=flat-square) |
