@@ -117,6 +117,7 @@ const CATEGORIES = {
     lgpd: '🇧🇷 Privacy — LGPD (Brazil)',
     gdpr: '🇪🇺 Privacy — GDPR (EU)',
     ccpa: '🇺🇸 Privacy — CCPA (California)',
+    'us-privacy': '🇺🇸 Privacy — US state laws',
     brazil: '🇧🇷 Brazil',
     'auth-security': '🔐 Auth, SSO & Security',
     commerce: '💳 Payments, Commerce & Affiliates',

@@ -1118,6 +1118,62 @@
         "v4": true,
         "v5": true,
         "category": "ccpa"
+      },
+      {
+        "title": "Filament US Privacy",
+        "package": "jeffersongoncalves/filament-us-privacy",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "us-privacy"
+      },
+      {
+        "title": "Filament US Privacy Opt-Out",
+        "package": "jeffersongoncalves/filament-us-privacy-opt-out",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "us-privacy"
+      },
+      {
+        "title": "Filament US Privacy Requests",
+        "package": "jeffersongoncalves/filament-us-privacy-requests",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "us-privacy"
+      },
+      {
+        "title": "Filament US Privacy Notices",
+        "package": "jeffersongoncalves/filament-us-privacy-notices",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "us-privacy"
+      },
+      {
+        "title": "Filament US Privacy Assessments",
+        "package": "jeffersongoncalves/filament-us-privacy-assessments",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "us-privacy"
+      },
+      {
+        "title": "Filament US Privacy Vendors",
+        "package": "jeffersongoncalves/filament-us-privacy-vendors",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "us-privacy"
+      },
+      {
+        "title": "Filament US Privacy Minors",
+        "package": "jeffersongoncalves/filament-us-privacy-minors",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "us-privacy"
       }
     ],
     "collaborator": [
@@ -2077,6 +2133,41 @@
       "title": "Laravel CCPA Minors",
       "package": "jeffersongoncalves/laravel-ccpa-minors",
       "category": "ccpa"
+    },
+    {
+      "title": "Laravel US Privacy",
+      "package": "jeffersongoncalves/laravel-us-privacy",
+      "category": "us-privacy"
+    },
+    {
+      "title": "Laravel US Privacy Opt-Out",
+      "package": "jeffersongoncalves/laravel-us-privacy-opt-out",
+      "category": "us-privacy"
+    },
+    {
+      "title": "Laravel US Privacy Requests",
+      "package": "jeffersongoncalves/laravel-us-privacy-requests",
+      "category": "us-privacy"
+    },
+    {
+      "title": "Laravel US Privacy Notices",
+      "package": "jeffersongoncalves/laravel-us-privacy-notices",
+      "category": "us-privacy"
+    },
+    {
+      "title": "Laravel US Privacy Assessments",
+      "package": "jeffersongoncalves/laravel-us-privacy-assessments",
+      "category": "us-privacy"
+    },
+    {
+      "title": "Laravel US Privacy Vendors",
+      "package": "jeffersongoncalves/laravel-us-privacy-vendors",
+      "category": "us-privacy"
+    },
+    {
+      "title": "Laravel US Privacy Minors",
+      "package": "jeffersongoncalves/laravel-us-privacy-minors",
+      "category": "us-privacy"
     }
   ],
   "laravelZero": [
