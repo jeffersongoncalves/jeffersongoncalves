@@ -55,6 +55,7 @@ All notable changes to this project will be documented in this file.
 
 ### CI/CD
 
+- Run the compat, dependabot-ignore, kit-drift and stale-own checks weekly
 - Run the pinned check in the weekly repo audit
 - Sync audit automerge template with hardened standard (#40)
 - Auto-merge dependabot github-actions minor/patch (#38)
