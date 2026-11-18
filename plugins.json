@@ -1174,6 +1174,86 @@
         "v4": true,
         "v5": true,
         "category": "us-privacy"
+      },
+      {
+        "title": "Filament Quebec",
+        "package": "jeffersongoncalves/filament-quebec",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "quebec"
+      },
+      {
+        "title": "Filament Quebec Consent",
+        "package": "jeffersongoncalves/filament-quebec-consent",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "quebec"
+      },
+      {
+        "title": "Filament Quebec Requests",
+        "package": "jeffersongoncalves/filament-quebec-requests",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "quebec"
+      },
+      {
+        "title": "Filament Quebec Retention",
+        "package": "jeffersongoncalves/filament-quebec-retention",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "quebec"
+      },
+      {
+        "title": "Filament Quebec Audit Log",
+        "package": "jeffersongoncalves/filament-quebec-audit-log",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "quebec"
+      },
+      {
+        "title": "Filament Quebec Incidents",
+        "package": "jeffersongoncalves/filament-quebec-incidents",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "quebec"
+      },
+      {
+        "title": "Filament Quebec Governance",
+        "package": "jeffersongoncalves/filament-quebec-governance",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "quebec"
+      },
+      {
+        "title": "Filament Quebec Vendors",
+        "package": "jeffersongoncalves/filament-quebec-vendors",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "quebec"
+      },
+      {
+        "title": "Filament Quebec PIA",
+        "package": "jeffersongoncalves/filament-quebec-pia",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "quebec"
+      },
+      {
+        "title": "Filament Quebec Minors",
+        "package": "jeffersongoncalves/filament-quebec-minors",
+        "v3": true,
+        "v4": true,
+        "v5": true,
+        "category": "quebec"
       }
     ],
     "collaborator": [
@@ -2168,6 +2248,56 @@
       "title": "Laravel US Privacy Minors",
       "package": "jeffersongoncalves/laravel-us-privacy-minors",
       "category": "us-privacy"
+    },
+    {
+      "title": "Laravel Quebec",
+      "package": "jeffersongoncalves/laravel-quebec",
+      "category": "quebec"
+    },
+    {
+      "title": "Laravel Quebec Consent",
+      "package": "jeffersongoncalves/laravel-quebec-consent",
+      "category": "quebec"
+    },
+    {
+      "title": "Laravel Quebec Requests",
+      "package": "jeffersongoncalves/laravel-quebec-requests",
+      "category": "quebec"
+    },
+    {
+      "title": "Laravel Quebec Retention",
+      "package": "jeffersongoncalves/laravel-quebec-retention",
+      "category": "quebec"
+    },
+    {
+      "title": "Laravel Quebec Audit Log",
+      "package": "jeffersongoncalves/laravel-quebec-audit-log",
+      "category": "quebec"
+    },
+    {
+      "title": "Laravel Quebec Incidents",
+      "package": "jeffersongoncalves/laravel-quebec-incidents",
+      "category": "quebec"
+    },
+    {
+      "title": "Laravel Quebec Governance",
+      "package": "jeffersongoncalves/laravel-quebec-governance",
+      "category": "quebec"
+    },
+    {
+      "title": "Laravel Quebec Vendors",
+      "package": "jeffersongoncalves/laravel-quebec-vendors",
+      "category": "quebec"
+    },
+    {
+      "title": "Laravel Quebec PIA",
+      "package": "jeffersongoncalves/laravel-quebec-pia",
+      "category": "quebec"
+    },
+    {
+      "title": "Laravel Quebec Minors",
+      "package": "jeffersongoncalves/laravel-quebec-minors",
+      "category": "quebec"
     }
   ],
   "laravelZero": [

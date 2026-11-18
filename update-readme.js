@@ -118,6 +118,7 @@ const CATEGORIES = {
     gdpr: '🇪🇺 Privacy — GDPR (EU)',
     ccpa: '🇺🇸 Privacy — CCPA (California)',
     'us-privacy': '🇺🇸 Privacy — US state laws',
+    quebec: '⚜️ Privacy — Quebec Law 25',
     brazil: '🇧🇷 Brazil',
     'auth-security': '🔐 Auth, SSO & Security',
     commerce: '💳 Payments, Commerce & Affiliates',
