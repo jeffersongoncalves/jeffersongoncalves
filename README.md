@@ -26,13 +26,13 @@
 
 I'm a **Full Stack PHP Developer** from **Assis, SP, Brazil** with over **19 years** of hands-on experience building robust platforms, managing server infrastructures, and crafting scalable solutions for businesses of all sizes.
 
-My passion lives in the **open source** world — I actively maintain **130+ Filament plugins** and **180+ Laravel packages** used by thousands of developers worldwide. I believe great software should be accessible to everyone.
+My passion lives in the **open source** world — I actively maintain **140+ Filament plugins** and **190+ Laravel packages** used by thousands of developers worldwide. I believe great software should be accessible to everyone.
 
 - 🔭 Currently focused on the **TALL Stack** (Tailwind, Alpine.js, Livewire, Laravel)
 - 🛠️ Creator of the **Filakit** ecosystem — starter kits for Filament v3, v4 & v5
 - 🌍 Active contributor to the **Filament** and **Laravel** communities
 - 💬 Ask me about **Filament, Laravel, Livewire, API integrations**
-- ⚡ Fun fact: I've published **410+ repositories** and still counting
+- ⚡ Fun fact: I've published **430+ repositories** and still counting
 
 ---
 
@@ -231,6 +231,24 @@ Plugins I created and maintain for the **Filament** ecosystem, grouped by catego
 | [**Filament US Privacy Opt-Out**](https://github.com/jeffersongoncalves/filament-us-privacy-opt-out) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-us-privacy-opt-out.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-us-privacy-opt-out?style=flat-square) | v3 · v4 · v5 |
 | [**Filament US Privacy Requests**](https://github.com/jeffersongoncalves/filament-us-privacy-requests) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-us-privacy-requests.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-us-privacy-requests?style=flat-square) | v3 · v4 · v5 |
 | [**Filament US Privacy Vendors**](https://github.com/jeffersongoncalves/filament-us-privacy-vendors) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-us-privacy-vendors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-us-privacy-vendors?style=flat-square) | v3 · v4 · v5 |
+
+</details>
+
+<details>
+<summary><b>⚜️ Privacy — Quebec Law 25</b> (10)</summary>
+
+| Plugin | Downloads | Stars | Compatibility |
+|:-------|:---------:|:-----:|:-------------:|
+| [**Filament Quebec**](https://github.com/jeffersongoncalves/filament-quebec) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-quebec.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-quebec?style=flat-square) | v3 · v4 · v5 |
+| [**Filament Quebec Audit Log**](https://github.com/jeffersongoncalves/filament-quebec-audit-log) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-quebec-audit-log.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-quebec-audit-log?style=flat-square) | v3 · v4 · v5 |
+| [**Filament Quebec Consent**](https://github.com/jeffersongoncalves/filament-quebec-consent) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-quebec-consent.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-quebec-consent?style=flat-square) | v3 · v4 · v5 |
+| [**Filament Quebec Governance**](https://github.com/jeffersongoncalves/filament-quebec-governance) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-quebec-governance.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-quebec-governance?style=flat-square) | v3 · v4 · v5 |
+| [**Filament Quebec Incidents**](https://github.com/jeffersongoncalves/filament-quebec-incidents) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-quebec-incidents.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-quebec-incidents?style=flat-square) | v3 · v4 · v5 |
+| [**Filament Quebec Minors**](https://github.com/jeffersongoncalves/filament-quebec-minors) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-quebec-minors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-quebec-minors?style=flat-square) | v3 · v4 · v5 |
+| [**Filament Quebec PIA**](https://github.com/jeffersongoncalves/filament-quebec-pia) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-quebec-pia.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-quebec-pia?style=flat-square) | v3 · v4 · v5 |
+| [**Filament Quebec Requests**](https://github.com/jeffersongoncalves/filament-quebec-requests) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-quebec-requests.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-quebec-requests?style=flat-square) | v3 · v4 · v5 |
+| [**Filament Quebec Retention**](https://github.com/jeffersongoncalves/filament-quebec-retention) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-quebec-retention.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-quebec-retention?style=flat-square) | v3 · v4 · v5 |
+| [**Filament Quebec Vendors**](https://github.com/jeffersongoncalves/filament-quebec-vendors) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-quebec-vendors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-quebec-vendors?style=flat-square) | v3 · v4 · v5 |
 
 </details>
 
@@ -547,6 +565,24 @@ Reusable packages for the **Laravel** framework, built to solve problems I hit i
 | [**Laravel US Privacy Opt-Out**](https://github.com/jeffersongoncalves/laravel-us-privacy-opt-out) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-us-privacy-opt-out.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-us-privacy-opt-out.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-us-privacy-opt-out?style=flat-square) |
 | [**Laravel US Privacy Requests**](https://github.com/jeffersongoncalves/laravel-us-privacy-requests) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-us-privacy-requests.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-us-privacy-requests.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-us-privacy-requests?style=flat-square) |
 | [**Laravel US Privacy Vendors**](https://github.com/jeffersongoncalves/laravel-us-privacy-vendors) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-us-privacy-vendors.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-us-privacy-vendors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-us-privacy-vendors?style=flat-square) |
+
+</details>
+
+<details>
+<summary><b>⚜️ Privacy — Quebec Law 25</b> (10)</summary>
+
+| Package | Latest Version | Downloads | Stars |
+|:--------|:-------------:|:---------:|:-----:|
+| [**Laravel Quebec**](https://github.com/jeffersongoncalves/laravel-quebec) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-quebec.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-quebec.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-quebec?style=flat-square) |
+| [**Laravel Quebec Audit Log**](https://github.com/jeffersongoncalves/laravel-quebec-audit-log) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-quebec-audit-log.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-quebec-audit-log.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-quebec-audit-log?style=flat-square) |
+| [**Laravel Quebec Consent**](https://github.com/jeffersongoncalves/laravel-quebec-consent) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-quebec-consent.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-quebec-consent.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-quebec-consent?style=flat-square) |
+| [**Laravel Quebec Governance**](https://github.com/jeffersongoncalves/laravel-quebec-governance) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-quebec-governance.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-quebec-governance.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-quebec-governance?style=flat-square) |
+| [**Laravel Quebec Incidents**](https://github.com/jeffersongoncalves/laravel-quebec-incidents) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-quebec-incidents.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-quebec-incidents.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-quebec-incidents?style=flat-square) |
+| [**Laravel Quebec Minors**](https://github.com/jeffersongoncalves/laravel-quebec-minors) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-quebec-minors.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-quebec-minors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-quebec-minors?style=flat-square) |
+| [**Laravel Quebec PIA**](https://github.com/jeffersongoncalves/laravel-quebec-pia) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-quebec-pia.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-quebec-pia.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-quebec-pia?style=flat-square) |
+| [**Laravel Quebec Requests**](https://github.com/jeffersongoncalves/laravel-quebec-requests) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-quebec-requests.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-quebec-requests.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-quebec-requests?style=flat-square) |
+| [**Laravel Quebec Retention**](https://github.com/jeffersongoncalves/laravel-quebec-retention) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-quebec-retention.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-quebec-retention.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-quebec-retention?style=flat-square) |
+| [**Laravel Quebec Vendors**](https://github.com/jeffersongoncalves/laravel-quebec-vendors) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-quebec-vendors.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-quebec-vendors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-quebec-vendors?style=flat-square) |
 
 </details>
 
