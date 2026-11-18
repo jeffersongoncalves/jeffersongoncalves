@@ -1600,6 +1600,11 @@
       "category": "privacy"
     },
     {
+      "title": "Laravel Privacy",
+      "package": "jeffersongoncalves/laravel-privacy",
+      "category": "privacy"
+    },
+    {
       "title": "Laravel Created By",
       "package": "jeffersongoncalves/laravel-created-by",
       "category": "devtools"

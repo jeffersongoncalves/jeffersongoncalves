@@ -318,6 +318,7 @@
   "jeffersongoncalves/laravel-plausible",
   "jeffersongoncalves/laravel-posthog",
   "jeffersongoncalves/laravel-postmark",
+  "jeffersongoncalves/laravel-privacy",
   "jeffersongoncalves/laravel-pwa-favicon",
   "jeffersongoncalves/laravel-pwa-service-worker",
   "jeffersongoncalves/laravel-quebec",
