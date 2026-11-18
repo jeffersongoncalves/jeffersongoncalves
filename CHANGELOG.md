@@ -55,6 +55,7 @@ All notable changes to this project will be documented in this file.
 
 ### CI/CD
 
+- Run the own-major check weekly
 - Run the compat, dependabot-ignore, kit-drift and stale-own checks weekly
 - Run the pinned check in the weekly repo audit
 - Sync audit automerge template with hardened standard (#40)
@@ -339,6 +340,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Add the 15 privacy starter kits (LGPD, GDPR, CCPA, US Privacy, Quebec)
 - Update README with latest starter kits from template
