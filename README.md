@@ -32,7 +32,7 @@ My passion lives in the **open source** world — I actively maintain **130+ Fil
 - 🛠️ Creator of the **Filakit** ecosystem — starter kits for Filament v3, v4 & v5
 - 🌍 Active contributor to the **Filament** and **Laravel** communities
 - 💬 Ask me about **Filament, Laravel, Livewire, API integrations**
-- ⚡ Fun fact: I've published **390+ repositories** and still counting
+- ⚡ Fun fact: I've published **410+ repositories** and still counting
 
 ---
 
@@ -216,6 +216,21 @@ Plugins I created and maintain for the **Filament** ecosystem, grouped by catego
 | [**Filament CCPA Retention**](https://github.com/jeffersongoncalves/filament-ccpa-retention) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa-retention.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa-retention?style=flat-square) | v3 · v4 · v5 |
 | [**Filament CCPA Risk Assessments**](https://github.com/jeffersongoncalves/filament-ccpa-risk-assessments) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa-risk-assessments.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa-risk-assessments?style=flat-square) | v3 · v4 · v5 |
 | [**Filament CCPA Vendors**](https://github.com/jeffersongoncalves/filament-ccpa-vendors) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-ccpa-vendors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-ccpa-vendors?style=flat-square) | v3 · v4 · v5 |
+
+</details>
+
+<details>
+<summary><b>🇺🇸 Privacy — US state laws</b> (7)</summary>
+
+| Plugin | Downloads | Stars | Compatibility |
+|:-------|:---------:|:-----:|:-------------:|
+| [**Filament US Privacy**](https://github.com/jeffersongoncalves/filament-us-privacy) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-us-privacy.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-us-privacy?style=flat-square) | v3 · v4 · v5 |
+| [**Filament US Privacy Assessments**](https://github.com/jeffersongoncalves/filament-us-privacy-assessments) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-us-privacy-assessments.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-us-privacy-assessments?style=flat-square) | v3 · v4 · v5 |
+| [**Filament US Privacy Minors**](https://github.com/jeffersongoncalves/filament-us-privacy-minors) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-us-privacy-minors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-us-privacy-minors?style=flat-square) | v3 · v4 · v5 |
+| [**Filament US Privacy Notices**](https://github.com/jeffersongoncalves/filament-us-privacy-notices) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-us-privacy-notices.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-us-privacy-notices?style=flat-square) | v3 · v4 · v5 |
+| [**Filament US Privacy Opt-Out**](https://github.com/jeffersongoncalves/filament-us-privacy-opt-out) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-us-privacy-opt-out.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-us-privacy-opt-out?style=flat-square) | v3 · v4 · v5 |
+| [**Filament US Privacy Requests**](https://github.com/jeffersongoncalves/filament-us-privacy-requests) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-us-privacy-requests.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-us-privacy-requests?style=flat-square) | v3 · v4 · v5 |
+| [**Filament US Privacy Vendors**](https://github.com/jeffersongoncalves/filament-us-privacy-vendors) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-us-privacy-vendors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/filament-us-privacy-vendors?style=flat-square) | v3 · v4 · v5 |
 
 </details>
 
@@ -517,6 +532,21 @@ Reusable packages for the **Laravel** framework, built to solve problems I hit i
 | [**Laravel CCPA Retention**](https://github.com/jeffersongoncalves/laravel-ccpa-retention) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa-retention.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa-retention.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa-retention?style=flat-square) |
 | [**Laravel CCPA Risk Assessments**](https://github.com/jeffersongoncalves/laravel-ccpa-risk-assessments) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa-risk-assessments.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa-risk-assessments.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa-risk-assessments?style=flat-square) |
 | [**Laravel CCPA Vendors**](https://github.com/jeffersongoncalves/laravel-ccpa-vendors) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ccpa-vendors.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-ccpa-vendors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-ccpa-vendors?style=flat-square) |
+
+</details>
+
+<details>
+<summary><b>🇺🇸 Privacy — US state laws</b> (7)</summary>
+
+| Package | Latest Version | Downloads | Stars |
+|:--------|:-------------:|:---------:|:-----:|
+| [**Laravel US Privacy**](https://github.com/jeffersongoncalves/laravel-us-privacy) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-us-privacy.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-us-privacy.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-us-privacy?style=flat-square) |
+| [**Laravel US Privacy Assessments**](https://github.com/jeffersongoncalves/laravel-us-privacy-assessments) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-us-privacy-assessments.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-us-privacy-assessments.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-us-privacy-assessments?style=flat-square) |
+| [**Laravel US Privacy Minors**](https://github.com/jeffersongoncalves/laravel-us-privacy-minors) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-us-privacy-minors.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-us-privacy-minors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-us-privacy-minors?style=flat-square) |
+| [**Laravel US Privacy Notices**](https://github.com/jeffersongoncalves/laravel-us-privacy-notices) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-us-privacy-notices.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-us-privacy-notices.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-us-privacy-notices?style=flat-square) |
+| [**Laravel US Privacy Opt-Out**](https://github.com/jeffersongoncalves/laravel-us-privacy-opt-out) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-us-privacy-opt-out.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-us-privacy-opt-out.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-us-privacy-opt-out?style=flat-square) |
+| [**Laravel US Privacy Requests**](https://github.com/jeffersongoncalves/laravel-us-privacy-requests) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-us-privacy-requests.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-us-privacy-requests.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-us-privacy-requests?style=flat-square) |
+| [**Laravel US Privacy Vendors**](https://github.com/jeffersongoncalves/laravel-us-privacy-vendors) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-us-privacy-vendors.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-us-privacy-vendors.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-us-privacy-vendors?style=flat-square) |
 
 </details>
 
