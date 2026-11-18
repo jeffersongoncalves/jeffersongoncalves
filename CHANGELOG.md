@@ -55,6 +55,7 @@ All notable changes to this project will be documented in this file.
 
 ### CI/CD
 
+- Run the pinned check in the weekly repo audit
 - Sync audit automerge template with hardened standard (#40)
 - Auto-merge dependabot github-actions minor/patch (#38)
 - Weekly audit flags PHP repos without tests (repos-cli 1.6.0)
@@ -336,6 +337,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Add the 15 privacy starter kits (LGPD, GDPR, CCPA, US Privacy, Quebec)
 - Update README with latest starter kits from template
 - Add the Quebec Law 25 suite (10 Laravel packages, 10 Filament plugins)
