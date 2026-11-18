@@ -505,11 +505,12 @@ Reusable packages for the **Laravel** framework, built to solve problems I hit i
 </details>
 
 <details>
-<summary><b>🛡️ Privacy & Consent</b> (1)</summary>
+<summary><b>🛡️ Privacy & Consent</b> (2)</summary>
 
 | Package | Latest Version | Downloads | Stars |
 |:--------|:-------------:|:---------:|:-----:|
 | [**Laravel Cookie Consent**](https://github.com/jeffersongoncalves/laravel-cookie-consent) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-cookie-consent.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-cookie-consent.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-cookie-consent?style=flat-square) |
+| [**Laravel Privacy**](https://github.com/jeffersongoncalves/laravel-privacy) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-privacy.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-privacy.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-privacy?style=flat-square) |
 
 </details>
 

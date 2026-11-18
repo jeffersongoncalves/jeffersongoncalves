@@ -336,6 +336,7 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Laravel Plausible](https://github.com/jeffersongoncalves/laravel-plausible)
 - [Laravel PostHog](https://github.com/jeffersongoncalves/laravel-posthog)
 - [Laravel Postmark](https://github.com/jeffersongoncalves/laravel-postmark)
+- [Laravel Privacy](https://github.com/jeffersongoncalves/laravel-privacy)
 - [Laravel Pwa Favicon](https://github.com/jeffersongoncalves/laravel-pwa-favicon)
 - [Laravel Pwa Service Worker](https://github.com/jeffersongoncalves/laravel-pwa-service-worker)
 - [Laravel Quebec](https://github.com/jeffersongoncalves/laravel-quebec)
