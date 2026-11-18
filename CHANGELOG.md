@@ -336,6 +336,8 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Add the Quebec Law 25 suite (10 Laravel packages, 10 Filament plugins)
+- Update README with latest starter kits from template
 - Add the US state privacy suite (7 Laravel packages, 7 Filament plugins)
 - Update README with latest starter kits from template
 - Split Privacy README group into LGPD, GDPR and CCPA
