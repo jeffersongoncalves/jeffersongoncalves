@@ -100,6 +100,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add laravel-scanner-guard nginx, cloudflare and traefik
 - Add Laravel Privacy, the engine shared by the privacy suites
 - Add filament-lgpd-vendors and filament-lgpd-ripd
 - Add laravel-lgpd-vendors and laravel-lgpd-ripd
