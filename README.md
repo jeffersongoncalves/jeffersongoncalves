@@ -26,13 +26,13 @@
 
 I'm a **Full Stack PHP Developer** from **Assis, SP, Brazil** with over **19 years** of hands-on experience building robust platforms, managing server infrastructures, and crafting scalable solutions for businesses of all sizes.
 
-My passion lives in the **open source** world — I actively maintain **140+ Filament plugins** and **190+ Laravel packages** used by thousands of developers worldwide. I believe great software should be accessible to everyone.
+My passion lives in the **open source** world — I actively maintain **140+ Filament plugins** and **200+ Laravel packages** used by thousands of developers worldwide. I believe great software should be accessible to everyone.
 
 - 🔭 Currently focused on the **TALL Stack** (Tailwind, Alpine.js, Livewire, Laravel)
 - 🛠️ Creator of the **Filakit** ecosystem — starter kits for Filament v3, v4 & v5
 - 🌍 Active contributor to the **Filament** and **Laravel** communities
 - 💬 Ask me about **Filament, Laravel, Livewire, API integrations**
-- ⚡ Fun fact: I've published **440+ repositories** and still counting
+- ⚡ Fun fact: I've published **450+ repositories** and still counting
 
 ---
 
@@ -616,7 +616,7 @@ Reusable packages for the **Laravel** framework, built to solve problems I hit i
 </details>
 
 <details>
-<summary><b>🔐 Auth, SSO & Security</b> (15)</summary>
+<summary><b>🔐 Auth, SSO & Security</b> (18)</summary>
 
 | Package | Latest Version | Downloads | Stars |
 |:--------|:-------------:|:---------:|:-----:|
@@ -625,6 +625,9 @@ Reusable packages for the **Laravel** framework, built to solve problems I hit i
 | [**Laravel OIDC**](https://github.com/jeffersongoncalves/laravel-oidc) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-oidc.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-oidc.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-oidc?style=flat-square) |
 | [**Laravel SAML2**](https://github.com/jeffersongoncalves/laravel-saml2) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-saml2.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-saml2.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-saml2?style=flat-square) |
 | [**Laravel Scanner Guard**](https://github.com/jeffersongoncalves/laravel-scanner-guard) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-scanner-guard.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-scanner-guard.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-scanner-guard?style=flat-square) |
+| [**Laravel Scanner Guard Cloudflare**](https://github.com/jeffersongoncalves/laravel-scanner-guard-cloudflare) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-scanner-guard-cloudflare.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-scanner-guard-cloudflare.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-scanner-guard-cloudflare?style=flat-square) |
+| [**Laravel Scanner Guard nginx**](https://github.com/jeffersongoncalves/laravel-scanner-guard-nginx) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-scanner-guard-nginx.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-scanner-guard-nginx.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-scanner-guard-nginx?style=flat-square) |
+| [**Laravel Scanner Guard Traefik**](https://github.com/jeffersongoncalves/laravel-scanner-guard-traefik) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-scanner-guard-traefik.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-scanner-guard-traefik.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-scanner-guard-traefik?style=flat-square) |
 | [**Laravel Security Headers**](https://github.com/jeffersongoncalves/laravel-security-headers) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-security-headers.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-security-headers.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-security-headers?style=flat-square) |
 | [**Laravel Session Management**](https://github.com/jeffersongoncalves/laravel-session-management) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-session-management.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-session-management.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-session-management?style=flat-square) |
 | [**Laravel Socialite**](https://github.com/jeffersongoncalves/laravel-socialite) | ![Version](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-socialite.svg?style=flat-square) | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-socialite.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/laravel-socialite?style=flat-square) |
