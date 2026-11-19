@@ -2150,6 +2150,21 @@
       "category": "auth-security"
     },
     {
+      "title": "Laravel Scanner Guard nginx",
+      "package": "jeffersongoncalves/laravel-scanner-guard-nginx",
+      "category": "auth-security"
+    },
+    {
+      "title": "Laravel Scanner Guard Cloudflare",
+      "package": "jeffersongoncalves/laravel-scanner-guard-cloudflare",
+      "category": "auth-security"
+    },
+    {
+      "title": "Laravel Scanner Guard Traefik",
+      "package": "jeffersongoncalves/laravel-scanner-guard-traefik",
+      "category": "auth-security"
+    },
+    {
       "title": "Laravel Cloudflare Web Analytics",
       "package": "jeffersongoncalves/laravel-cloudflare-web-analytics",
       "category": "analytics"
