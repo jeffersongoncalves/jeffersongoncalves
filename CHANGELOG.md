@@ -100,6 +100,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add cliGo category with scanner-guard-agent
 - Add laravel-scanner-guard nginx, cloudflare and traefik
 - Add Laravel Privacy, the engine shared by the privacy suites
 - Add filament-lgpd-vendors and filament-lgpd-ripd
@@ -341,6 +342,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README_plugin.md
 - Update README with latest starter kits from template
 - Update README with latest starter kits from template
