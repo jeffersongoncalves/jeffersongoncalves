@@ -851,6 +851,16 @@ Command-line tools built in Python, published on PyPI.
 
 ---
 
+## 🐹 Go CLI Projects
+
+Command-line tools and server agents built in Go, shipped as static binaries on GitHub Releases.
+
+| Project | Latest Release | Downloads | Stars |
+|:--------|:-------------:|:---------:|:-----:|
+| [**Scanner Guard Agent**](https://github.com/jeffersongoncalves/scanner-guard-agent) | ![Release](https://img.shields.io/github/v/release/jeffersongoncalves/scanner-guard-agent?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/jeffersongoncalves/scanner-guard-agent/total?style=flat-square) | ![Stars](https://img.shields.io/github/stars/jeffersongoncalves/scanner-guard-agent?style=flat-square) |
+
+---
+
 ## 🧩 JetBrains Plugins
 
 PhpStorm / IntelliJ plugins I built in Kotlin to speed up my own workflow.

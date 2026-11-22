@@ -29,8 +29,8 @@ jobs:
           fi
 
           # Validate top-level structure
-          if ! jq -e '.startkit and .filament and .laravel and .laravelZero and .cli and .cliPython and .cakephp and .jetbrains and .vscode and .browserExtensions and .obsidianPlugins and .claudeCodePlugins' plugins.json >/dev/null; then
-            echo "Error: plugins.json must contain 'startkit', 'filament', 'laravel', 'laravelZero', 'cli', 'cliPython', 'cakephp', 'jetbrains', 'vscode', 'browserExtensions', 'obsidianPlugins', and 'claudeCodePlugins' sections"
+          if ! jq -e '.startkit and .filament and .laravel and .laravelZero and .cli and .cliPython and .cliGo and .cakephp and .jetbrains and .vscode and .browserExtensions and .obsidianPlugins and .claudeCodePlugins' plugins.json >/dev/null; then
+            echo "Error: plugins.json must contain 'startkit', 'filament', 'laravel', 'laravelZero', 'cli', 'cliPython', 'cliGo', 'cakephp', 'jetbrains', 'vscode', 'browserExtensions', 'obsidianPlugins', and 'claudeCodePlugins' sections"
             exit 1
           fi
 
@@ -57,6 +57,7 @@ jobs:
               .laravelZero[],
               .cli[],
               .cliPython[],
+              .cliGo[],
               .cakephp[],
               .jetbrains[],
               .vscode[],
