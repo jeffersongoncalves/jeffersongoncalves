@@ -16,7 +16,7 @@ const legacyVersions = Object.keys(plugins.startkit.legacy).sort().reverse();
 const legacyCount = legacyVersions.reduce((sum, v) => sum + plugins.startkit.legacy[v].length, 0);
 const totalRepos = plugins.startkit.featured.length + legacyCount
     + plugins.filament.plugins.length + plugins.filament.collaborator.length
-    + plugins.laravel.length + plugins.laravelZero.length + plugins.cli.length + plugins.cliPython.length
+    + plugins.laravel.length + plugins.laravelZero.length + plugins.cli.length + plugins.cliPython.length + plugins.cliGo.length
     + plugins.cakephp.length + plugins.jetbrains.length + plugins.vscode.length + plugins.browserExtensions.length
     + plugins.obsidianPlugins.length + plugins.claudeCodePlugins.length;
 const totalCount = Math.floor(totalRepos / 10) * 10;
@@ -103,6 +103,12 @@ function generatePythonCliRow(item) {
     return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Version](https://img.shields.io/pypi/v/${item.pypi}.svg?style=flat-square) | ![Downloads](https://img.shields.io/pypi/dm/${item.pypi}.svg?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
 }
 
+// Go CLIs ship binaries on GitHub Releases: release, release-asset downloads and stars.
+function generateGoCliRow(item) {
+    const owner = isOwned(item.package) ? '' : ' Contribution';
+    return `| [**${item.title}**](https://github.com/${item.package})${owner} | ![Release](https://img.shields.io/github/v/release/${item.package}?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/${item.package}/total?style=flat-square) | ![Stars](https://img.shields.io/github/stars/${item.package}?style=flat-square) |\n`;
+}
+
 const byPackage = (a, b) => a.package.localeCompare(b.package);
 const byRepoName = (a, b) => a.package.split('/').pop().localeCompare(b.package.split('/').pop());
 const sorted = (arr) => arr.slice().sort(byPackage);
@@ -153,6 +159,7 @@ const laravelList = groupedTables(plugins.laravel, laravelHeader, generateLarave
 const laravelZeroList = sorted(plugins.laravelZero).map(generateStartkitRow).join('');
 const cliList = sorted(plugins.cli).map(generateStartkitRow).join('');
 const cliPythonList = sorted(plugins.cliPython).map(generatePythonCliRow).join('');
+const cliGoList = sorted(plugins.cliGo).map(generateGoCliRow).join('');
 const cakephpList = sorted(plugins.cakephp).map(generateCakephpRow).join('');
 const jetbrainsList = sorted(plugins.jetbrains).map(generateJetbrainsRow).join('');
 const vscodeList = sorted(plugins.vscode).map(generateVscodeRow).join('');
@@ -171,6 +178,7 @@ readme = readme.replace(/\[LARAVEL\]/g, laravelList.trim());
 readme = readme.replace(/\[LARAVEL_ZERO\]/g, laravelZeroList.trim());
 readme = readme.replace(/\[CLI\]/g, cliList.trim());
 readme = readme.replace(/\[CLI_PYTHON\]/g, cliPythonList.trim());
+readme = readme.replace(/\[CLI_GO\]/g, cliGoList.trim());
 readme = readme.replace(/\[CAKEPHP\]/g, cakephpList.trim());
 readme = readme.replace(/\[JETBRAINS\]/g, jetbrainsList.trim());
 readme = readme.replace(/\[VSCODE\]/g, vscodeList.trim());
@@ -209,6 +217,7 @@ agents += agentsSection('Laravel Packages', plugins.laravel, byPackagePath);
 agents += agentsSection('Laravel Zero Packages', plugins.laravelZero, byPackagePath);
 agents += agentsSection('CLI Projects', plugins.cli, byPackagePath);
 agents += agentsSection('Python CLI Projects', plugins.cliPython, byPackagePath);
+agents += agentsSection('Go CLI Projects', plugins.cliGo, byPackagePath);
 agents += agentsSection('CakePHP Packages', plugins.cakephp, byRepoPath);
 agents += agentsSection('JetBrains Plugins', plugins.jetbrains, byPackagePath);
 agents += agentsSection('VS Code Extensions', plugins.vscode, byPackagePath);

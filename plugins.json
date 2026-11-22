@@ -2508,6 +2508,12 @@
       "pypi": "pypdf-merge-cli"
     }
   ],
+  "cliGo": [
+    {
+      "title": "Scanner Guard Agent",
+      "package": "jeffersongoncalves/scanner-guard-agent"
+    }
+  ],
   "jetbrains": [
     {
       "title": "Worktree Env Plugin",

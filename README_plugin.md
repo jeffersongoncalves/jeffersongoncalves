@@ -165,6 +165,16 @@ Command-line tools built in Python, published on PyPI.
 
 ---
 
+## 🐹 Go CLI Projects
+
+Command-line tools and server agents built in Go, shipped as static binaries on GitHub Releases.
+
+| Project | Latest Release | Downloads | Stars |
+|:--------|:-------------:|:---------:|:-----:|
+[CLI_GO]
+
+---
+
 ## 🧩 JetBrains Plugins
 
 PhpStorm / IntelliJ plugins I built in Kotlin to speed up my own workflow.

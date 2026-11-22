@@ -453,6 +453,10 @@ Index of Jefferson Gonçalves' open source projects, grouped by ecosystem — ge
 - [Pypdf Merge CLI](https://github.com/jeffersongoncalves/pypdf-merge-cli)
 - [Svg2Png CLI](https://github.com/jeffersongoncalves/svg2png-cli)
 
+## Go CLI Projects
+
+- [Scanner Guard Agent](https://github.com/jeffersongoncalves/scanner-guard-agent)
+
 ## CakePHP Packages
 
 - [CakePHP Analyzer](https://github.com/jeffersongoncalves/cakephp-analyzer)
