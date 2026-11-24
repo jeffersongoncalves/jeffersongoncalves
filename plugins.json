@@ -2170,8 +2170,18 @@
       "category": "auth-security"
     },
     {
+      "title": "Laravel Scanner Guard HAProxy",
+      "package": "jeffersongoncalves/laravel-scanner-guard-haproxy",
+      "category": "auth-security"
+    },
+    {
       "title": "Laravel Scanner Guard Cloudflare",
       "package": "jeffersongoncalves/laravel-scanner-guard-cloudflare",
+      "category": "auth-security"
+    },
+    {
+      "title": "Laravel Scanner Guard AWS WAF",
+      "package": "jeffersongoncalves/laravel-scanner-guard-aws-waf",
       "category": "auth-security"
     },
     {
