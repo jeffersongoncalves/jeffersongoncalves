@@ -100,6 +100,7 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Add laravel-scanner-guard haproxy and aws-waf
 - Add laravel-scanner-guard apache, caddy and frankenphp
 - Add cliGo category with scanner-guard-agent
 - Add laravel-scanner-guard nginx, cloudflare and traefik
@@ -343,6 +344,7 @@ All notable changes to this project will be documented in this file.
 
 ### Other
 
+- Update README with latest starter kits from template
 - Update README with latest starter kits from template
 - Update README_plugin.md
 - Update README with latest starter kits from template
