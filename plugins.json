@@ -2155,6 +2155,21 @@
       "category": "auth-security"
     },
     {
+      "title": "Laravel Scanner Guard Apache",
+      "package": "jeffersongoncalves/laravel-scanner-guard-apache",
+      "category": "auth-security"
+    },
+    {
+      "title": "Laravel Scanner Guard Caddy",
+      "package": "jeffersongoncalves/laravel-scanner-guard-caddy",
+      "category": "auth-security"
+    },
+    {
+      "title": "Laravel Scanner Guard FrankenPHP",
+      "package": "jeffersongoncalves/laravel-scanner-guard-frankenphp",
+      "category": "auth-security"
+    },
+    {
       "title": "Laravel Scanner Guard Cloudflare",
       "package": "jeffersongoncalves/laravel-scanner-guard-cloudflare",
       "category": "auth-security"
